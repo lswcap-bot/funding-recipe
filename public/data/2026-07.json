@@ -3,6 +3,54 @@
  "deals": [
   {
    "date": "2026-07-16",
+   "company": "Applied Computing",
+   "sector": "AI",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Applied Computing은 석유, 가스 및 석유화학 산업을 위한 기초 AI 모델 개발을 목표로 2,000만 달러 규모의 시리즈 A 펀딩을 조달했습니다. 이 AI 모델은 전체 플랜트 운영을 지원하도록 설계되었습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "Syntetica",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 30000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Lululemon"
+   ],
+   "lead_investor": "Lululemon",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스 스타트업 Syntetica는 나일론 재활용을 위한 혁신적 기술을 개발했으며, Lululemon을 포함한 주요 투자자들로부터 3,000만 달러 규모의 시리즈 A 펀딩을 조달했습니다. 이는 나일론 재활용 기술 분야에서 큰 투자 사례입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
    "company": "Emergent",
    "sector": "기타",
    "amount_original": null,
