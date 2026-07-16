@@ -1,0 +1,512 @@
+{
+ "month": "2026-07",
+ "deals": [
+  {
+   "date": "2026-07-14",
+   "company": "Dhruva Space",
+   "sector": "기타",
+   "amount_original": {
+    "value": 60.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 6276000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Dhruva Space는 Antariksh Venture Capital Fund로부터 60크로어 루피를 유치하여 풀스택 우주공학 회사로의 확장, 주권 우주선 제조 역량 강화, 제품 개발 가속화, 인프라 확대에 활용할 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/dhurva-space-rs-60-cr-antariksh-venture-capital-fund"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "ideaForge",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 500.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 52300000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "ideaForge는 드론 기술 회사로, QIP(적격기관투자자배치)를 통해 500크로어 루피를 조달하여 다음 단계의 성장 자금 조성 및 운영자본 강화에 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/ideaforge-raises-rs-500-cr-via-qip"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "StratX",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 1.19,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1190000,
+   "stage": "비공개",
+   "investors": [
+    "Neglected Climate Opportunities (NCO)"
+   ],
+   "lead_investor": "Neglected Climate Opportunities (NCO)",
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "StratX는 매립지의 온실가스 감축을 전문으로 하는 기후기술 회사로, Neglected Climate Opportunities(NCO)가 주도한 투자 라운드에서 119만 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/14/stratx-raises-119m-to-tackle-landfill-methane-with-living-biocovers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "Marvel-Tech",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 500.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 73775000,
+   "stage": "시리즈 B/C",
+   "investors": [
+    "HongShan",
+    "C&D Emerging Investment",
+    "Qiming Venture Partners"
+   ],
+   "lead_investor": "HongShan",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "상하이 소재 가스터빈 및 산업폐열·폐압 회수 터빈 시스템 개발사인 마블텍이 총 5억 위안 이상의 자금을 조달했다. C라운드는 홍산이 주도했고, B라운드는 C&D이머징인베스트먼트와 치밍벤처파트너스가 공동 주도했다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/07/14/marvel-tech-raises-more-than-rmb500-million-across-two-financing-rounds/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "NextGO Epi",
+   "sector": "기타",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2284800,
+   "stage": "Pre-Seed",
+   "investors": [
+    "Vireo Ventures",
+    "Ultratech Capital Partners",
+    "IBB Ventures",
+    "Boris Habets"
+   ],
+   "lead_investor": "Vireo Ventures",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 기반 차세대 전력반도체용 갈륨 옥사이드 에피웨이퍼 개발 스타트업 NextGO Epi가 200만 유로의 프리시드 펀딩을 확보했다. Vireo Ventures가 주도하고 여러 VC와 엔젤 투자자가 참여했으며, 유럽 유일의 갈륨 옥사이드 생산업체로 표시되고 있다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/europes-only-gallium-oxide-epiwafer-producer-nextgo-epi-raises-e2-million-pre-seed-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "Prolo",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.9,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5597760,
+   "stage": "Seed",
+   "investors": [
+    "Triple Point Ventures",
+    "Anamcara"
+   ],
+   "lead_investor": "Triple Point Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 AI 기반 조달 플랫폼 Prolo가 중소 건설업체 지원을 위해 490만 유로의 시드 펀딩을 확보했다. 이번 라운드는 Triple Point Ventures가 주도하고 여러 VC 펌이 참여했으며, 자금은 마케팅 및 신기술 개발에 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/london-based-prolo-secures-e4-9-million-to-bring-ai-powered-procurement-to-sme-construction-firms/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/14/prolo-raises-ps42m-to-modernise-construction-procurement/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "Dutch Clean Tech",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 17136000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Dutch Clean Tech는 전 세계 물처리 및 음용수 사업을 개발·재정·건설·운영하는 네덜란드 기업으로, 1500만 유로를 조성했다. 이 자금으로 중미 최대 규모 민간 음용수 회사인 과테말라의 Agua del Mariscal 지분 25%를 인수했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/dutch-clean-tech-raises-e15-million-to-acquire-25-stake-in-guatemalas-drinking-water-firm-agua-del-mariscal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "Boohee Health",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Ant Group"
+   ],
+   "lead_investor": "Ant Group",
+   "country": null,
+   "region": "동아시아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-blueorchard-backs-malaysias-policystreet-pixverse-extends-series-c-round-ant-group-acquires-stake-in-boohee-health-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "PolicyStreet",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "BlueOrchard"
+   ],
+   "lead_investor": "BlueOrchard",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-blueorchard-backs-malaysias-policystreet-pixverse-extends-series-c-round-ant-group-acquires-stake-in-boohee-health-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "HTG Medical",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 450.0,
+    "currency": "EUR",
+    "unit": "thousand"
+   },
+   "amount_usd": 514080,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "체코",
+   "region": "유럽",
+   "ai_summary_ko": "체코 의료기기 스타트업 HTG Medical이 엔젤 투자자와 VC로부터 45만 유로를 유치했다. 회사의 자체 개발 의료기기인 HTG Urogram이 EU의 의료기기규정(MDR) 인증을 획득했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/14/htg-medical-raises-eur450k-and-secures-mdr-certification-to-automate-icu-urine-monitoring/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "Promptwatch",
+   "sector": "AI",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6854400,
+   "stage": "시드",
+   "investors": [
+    "seed + speed Ventures",
+    "Blum Ventures",
+    "Archaea"
+   ],
+   "lead_investor": "seed + speed Ventures",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "암스테르담 기반의 AI 검색 최적화 플랫폼 Promptwatch가 시드 펀딩 라운드에서 €6백만을 유치했다. 이번 라운드는 seed + speed Ventures가 주도하였으며 Blum Ventures와 Archaea 등이 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/14/promptwatch-raises-eur6m-to-expand-its-end-to-end-ai-search-optimisation-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "Nopan",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 7.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 8225280,
+   "stage": "비공개",
+   "investors": [
+    "Newion",
+    "Creandum",
+    "Crane",
+    "Seedcamp"
+   ],
+   "lead_investor": "Newion",
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "넷플릭스 전직 임원들이 설립한 암스테르담 기반 Nopan이 유럽 내 계정 및 지갑 결제 확대를 위해 총 720만 유로의 펀딩을 확보했다. Newion이 주도하고 Crane, Seedcamp 등이 참여한 라운드로, 결제 관련 경험이 풍부한 엔젤 투자자들도 지원했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/14/former-netflix-payments-leaders-raise-eur72m-to-make-account-to-account-payments-perform-at-scale/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/netflix-alumni-founded-nopan-reaches-e7-2-million-in-funding-to-scale-account-and-wallet-payments-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "RAROG",
+   "sector": "기타",
+   "amount_original": {
+    "value": 162000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 185069,
+   "stage": "시드",
+   "investors": [
+    "Venture Kick"
+   ],
+   "lead_investor": "Venture Kick",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "스위스 엔지니어링 스타트업 RAROG이 Venture Kick으로부터 €162,000의 자금을 유치했다. 이 자금은 일상용 전자기기에서 방출되는 라디오 신호를 감지하여 탐색 및 구조 활동에 활용할 수 있는 휴대용 시스템 개발에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/14/rarog-secures-eur162k-to-turn-everyday-devices-into-life-saving-rescue-beacons/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "PixVerse",
+   "sector": "AI",
+   "amount_original": {
+    "value": 439.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 439000000,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "영상생성 스타트업 PixVerse가 4억 3,900만 달러를 유치하며 기업가치가 20억 달러를 넘어섰다. 이번 투자를 통해 회사는 자사의 월드 모델 서비스 확장과 전 지역의 고객 확보를 목표로 하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/startups-powering-asias-aigenerated-video-boom"
+    },
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-blueorchard-backs-malaysias-policystreet-pixverse-extends-series-c-round-ant-group-acquires-stake-in-boohee-health-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "company": "Hyades",
+   "sector": "AI",
+   "amount_original": {
+    "value": 910.0,
+    "currency": "USD",
+    "unit": "thousand"
+   },
+   "amount_usd": 910000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "뉴질랜드",
+   "region": "오세아니아",
+   "ai_summary_ko": "Hyades는 위성, 드론, 레이더 데이터를 AI 학습용 위험 모델로 변환하는 뉴질랜드 지리공간 데이터 스타트업으로, 프리시드 라운드에서 91만 달러를 조성했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/kiwi-ai-mapping-data-startup-hyades-plants-910000-pre-seed/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "company": "ESGAgent.ai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 450.0,
+    "currency": "USD",
+    "unit": "thousand"
+   },
+   "amount_usd": 450000,
+   "stage": "Seed",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "ESGAgent.ai는 중공업 부문의 AI 기반 ESG 규정 준수 소프트웨어를 제공하는 호주 스타트업으로, 보고에 소요되는 시간을 수개월에서 수시간으로 단축하는 솔루션을 개발 중이며 시드 라운드로 45만 달러를 유치했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/brisbane-esg-software-startup-plants-450000-seed-raise/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "company": "Doctorsa",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1142400,
+   "stage": "비공개",
+   "investors": [
+    "PranaVentures",
+    "Vento"
+   ],
+   "lead_investor": "PranaVentures",
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "여행자를 위한 글로벌 원격의료 플랫폼 Doctorsa가 100만 유로의 투자를 유치했습니다. PranaVentures가 주도 투자자로 참여했으며, Vento 등 다른 투자자들도 함께했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/13/doctorsa-raises-eur1m-to-expand-global-telemedicine-platform-for-travellers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "company": "Helsing",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.8,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1800000000,
+   "stage": "시리즈 E",
+   "investors": [],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "유럽의 방위 AI 분야 선도 기업 Helsing이 시리즈 E 펀딩라운드에서 18억 달러를 투자유치하여 기업가치 180억 달러로 평가받았습니다. 신규 및 기존 투자자들이 이번 라운드에 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/13/european-defence-ai-leader-helsing-secures-18b-series-e-at-18b-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "company": "Sodex Innovations",
+   "sector": "기타",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4569600,
+   "stage": "비공개",
+   "investors": [
+    "Capmont Technology",
+    "Bloomhaus",
+    "Look AI Ventures"
+   ],
+   "lead_investor": "Capmont Technology",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "건설 현장용 실시간 인텔리전스 솔루션을 제공하는 Sodex Innovations가 Capmont Technology가 주도한 라운드에서 400만 유로를 투자유치했습니다. 이번 라운드에는 Bloomhaus, Look AI Ventures 등 신규 투자자들도 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/13/sodex-innovations-secures-4m-to-bring-real-time-intelligence-to-construction-sites/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "company": "Nous Research",
+   "sector": "AI",
+   "amount_original": {
+    "value": 75.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 75000000,
+   "stage": "비공개",
+   "investors": [
+    "Robot Ventures",
+    "USV"
+   ],
+   "lead_investor": "Robot Ventures",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Nous Research가 Robot Ventures의 주도로 최소 7,500만 달러 규모의 투자 유치에 들어갔으며, 1.5억 달러 밸류에이션으로 평가받고 있습니다. USV 등 주요 투자자들이 참여하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
+    }
+   ]
+  }
+ ]
+}

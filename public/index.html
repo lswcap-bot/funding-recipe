@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>글로벌 스타트업 투자 정보</title>
+<style>
+  :root {
+    --bg: #f7f8fa; --card: #ffffff; --text: #1a1f2e; --muted: #6b7280;
+    --border: #e5e7eb; --accent: #2563eb; --accent-soft: #eff6ff;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    font-family: "Pretendard", -apple-system, "Segoe UI", "Malgun Gothic", sans-serif;
+    background: var(--bg); color: var(--text); padding: 24px 16px;
+  }
+  .container { max-width: 1200px; margin: 0 auto; }
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px; margin-bottom: 16px; }
+  h1 { font-size: 1.5rem; }
+  #last-updated { color: var(--muted); font-size: 0.85rem; }
+  .controls { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+  select {
+    padding: 8px 12px; border: 1px solid var(--border); border-radius: 8px;
+    background: var(--card); font-size: 0.95rem; cursor: pointer;
+  }
+  .table-wrap {
+    background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+    overflow-x: auto;
+  }
+  table { width: 100%; border-collapse: collapse; min-width: 860px; }
+  th, td { padding: 12px 14px; text-align: left; font-size: 0.9rem; }
+  th {
+    background: #f9fafb; color: var(--muted); font-weight: 600;
+    border-bottom: 1px solid var(--border); white-space: nowrap;
+    position: sticky; top: 0;
+  }
+  tbody tr { border-bottom: 1px solid var(--border); }
+  tbody tr:last-child { border-bottom: none; }
+  tbody tr:hover { background: var(--accent-soft); }
+  td.amount { font-variant-numeric: tabular-nums; font-weight: 600; white-space: nowrap; }
+  td.company { font-weight: 600; }
+  td.date { white-space: nowrap; color: var(--muted); }
+  .tag {
+    display: inline-block; padding: 2px 8px; border-radius: 999px;
+    background: #f3f4f6; font-size: 0.8rem;
+  }
+  .btn-summary {
+    padding: 5px 12px; border: 1px solid var(--accent); border-radius: 6px;
+    background: transparent; color: var(--accent); cursor: pointer; font-size: 0.82rem;
+    white-space: nowrap;
+  }
+  .btn-summary:hover { background: var(--accent); color: #fff; }
+  .empty { padding: 48px; text-align: center; color: var(--muted); }
+  /* 모달 */
+  #modal-overlay {
+    display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.45);
+    z-index: 100; padding: 20px;
+  }
+  #modal-overlay.open { display: flex; align-items: center; justify-content: center; }
+  #modal {
+    background: var(--card); border-radius: 14px; max-width: 560px; width: 100%;
+    max-height: 85vh; overflow-y: auto; padding: 24px;
+  }
+  #modal h2 { font-size: 1.2rem; margin-bottom: 4px; }
+  #modal .meta { color: var(--muted); font-size: 0.85rem; margin-bottom: 14px; }
+  #modal .summary { line-height: 1.65; margin-bottom: 16px; }
+  #modal h3 { font-size: 0.9rem; color: var(--muted); margin: 14px 0 6px; }
+  #modal ul { padding-left: 18px; line-height: 1.6; font-size: 0.9rem; }
+  #modal a { color: var(--accent); word-break: break-all; font-size: 0.88rem; }
+  #modal .close-row { text-align: right; margin-top: 18px; }
+  #modal button {
+    padding: 8px 18px; border: none; border-radius: 8px; background: var(--accent);
+    color: #fff; cursor: pointer; font-size: 0.9rem;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>글로벌 스타트업 투자 정보</h1>
+    <span id="last-updated"></span>
+  </header>
+
+  <div class="controls">
+    <select id="year-select" aria-label="연도 선택"></select>
+    <select id="month-select" aria-label="월 선택"></select>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>일자</th><th>기업명</th><th>분야</th><th>투자금 (USD)</th>
+          <th>투자 단계</th><th>투자사</th><th>국가 (지역)</th><th></th>
+        </tr>
+      </thead>
+      <tbody id="deals-body"></tbody>
+    </table>
+    <div id="empty-message" class="empty" style="display:none">해당 월의 데이터가 없습니다.</div>
+  </div>
+</div>
+
+<div id="modal-overlay">
+  <div id="modal" role="dialog" aria-modal="true">
+    <h2 id="modal-company"></h2>
+    <div class="meta" id="modal-meta"></div>
+    <div class="summary" id="modal-summary"></div>
+    <h3>투자사</h3>
+    <ul id="modal-investors"></ul>
+    <h3>원문 (출처)</h3>
+    <div id="modal-sources"></div>
+    <div class="close-row"><button id="modal-close">닫기</button></div>
+  </div>
+</div>
+
+<script>
+const DATA_BASE = "data";
+let months = [];        // ["2026-07", ...]
+let currentDeals = [];
+
+const fmtUSD = (n) => {
+  if (n == null) return "비공개";
+  if (n >= 1e9) return "$" + (n / 1e9).toFixed(n % 1e9 === 0 ? 0 : 1) + "B";
+  if (n >= 1e6) return "$" + (n / 1e6).toFixed(n % 1e6 === 0 ? 0 : 1) + "M";
+  if (n >= 1e3) return "$" + (n / 1e3).toFixed(0) + "K";
+  return "$" + n;
+};
+
+const esc = (s) => (s ?? "").toString()
+  .replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;")
+  .replaceAll('"', "&quot;");
+
+async function init() {
+  let index;
+  try {
+    index = await (await fetch(`${DATA_BASE}/index.json`, { cache: "no-store" })).json();
+  } catch {
+    document.getElementById("empty-message").style.display = "block";
+    document.getElementById("empty-message").textContent = "데이터를 불러올 수 없습니다.";
+    return;
+  }
+  months = index.months || [];
+  document.getElementById("last-updated").textContent =
+    index.last_updated ? `마지막 업데이트: ${index.last_updated} KST` : "";
+
+  const years = [...new Set(months.map(m => m.slice(0, 4)))];
+  const yearSel = document.getElementById("year-select");
+  yearSel.innerHTML = years.map(y => `<option value="${y}">${y}년</option>`).join("");
+  yearSel.addEventListener("change", () => { fillMonths(); loadMonth(); });
+  document.getElementById("month-select").addEventListener("change", loadMonth);
+
+  fillMonths();
+  await loadMonth();
+}
+
+function fillMonths() {
+  const year = document.getElementById("year-select").value;
+  const monthSel = document.getElementById("month-select");
+  const ms = months.filter(m => m.startsWith(year));
+  monthSel.innerHTML = ms.map(m => `<option value="${m}">${parseInt(m.slice(5), 10)}월</option>`).join("");
+}
+
+async function loadMonth() {
+  const month = document.getElementById("month-select").value;
+  const body = document.getElementById("deals-body");
+  const empty = document.getElementById("empty-message");
+  body.innerHTML = "";
+  if (!month) { empty.style.display = "block"; return; }
+
+  let data;
+  try {
+    data = await (await fetch(`${DATA_BASE}/${month}.json`, { cache: "no-store" })).json();
+  } catch {
+    empty.style.display = "block";
+    return;
+  }
+  currentDeals = data.deals || [];
+  empty.style.display = currentDeals.length ? "none" : "block";
+
+  body.innerHTML = currentDeals.map((d, i) => `
+    <tr>
+      <td class="date">${esc(d.date)}</td>
+      <td class="company">${esc(d.company)}</td>
+      <td><span class="tag">${esc(d.sector ?? "-")}</span></td>
+      <td class="amount">${fmtUSD(d.amount_usd)}</td>
+      <td>${esc(d.stage ?? "-")}</td>
+      <td>${esc(d.lead_investor ?? (d.investors?.[0] ?? "-"))}${(d.investors?.length ?? 0) > 1 ? ` 외 ${d.investors.length - 1}곳` : ""}</td>
+      <td>${esc(d.country ?? "-")}${d.region ? ` (${esc(d.region)})` : ""}</td>
+      <td><button class="btn-summary" data-idx="${i}">요약 보기</button></td>
+    </tr>`).join("");
+}
+
+document.getElementById("deals-body").addEventListener("click", (e) => {
+  const btn = e.target.closest(".btn-summary");
+  if (!btn) return;
+  openModal(currentDeals[Number(btn.dataset.idx)]);
+});
+
+function openModal(d) {
+  if (!d) return;
+  document.getElementById("modal-company").textContent = d.company;
+  document.getElementById("modal-meta").textContent =
+    [d.date, d.sector, d.stage, fmtUSD(d.amount_usd), d.country].filter(Boolean).join(" · ");
+  document.getElementById("modal-summary").textContent = d.ai_summary_ko || "(요약 없음)";
+  document.getElementById("modal-investors").innerHTML =
+    (d.investors?.length ? d.investors : ["비공개"])
+      .map(v => `<li>${esc(v)}${v === d.lead_investor ? " (리드)" : ""}</li>`).join("");
+  document.getElementById("modal-sources").innerHTML =
+    (d.sources || []).map(s => `<div><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)} ↗</a></div>`).join("") || "-";
+  document.getElementById("modal-overlay").classList.add("open");
+}
+
+document.getElementById("modal-close").addEventListener("click", closeModal);
+document.getElementById("modal-overlay").addEventListener("click", (e) => {
+  if (e.target.id === "modal-overlay") closeModal();
+});
+function closeModal() { document.getElementById("modal-overlay").classList.remove("open"); }
+
+init();
+</script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+# 글로벌 스타트업 투자 정보 - 파이프라인 설정
+
+# Claude API
+model: claude-haiku-4-5
+batch_size: 5              # 한 번의 API 호출에 묶는 기사 수
+max_tokens: 16000
+
+# 수집 설정
+lookback_hours: 48         # 최근 N시간 내 발행 기사만 수집
+request_delay_seconds: 2.5 # 소스 간 요청 간격
+user_agent: "FundingRecipeBot/0.1 (funding news aggregator; contact: lswcap@techrecipe.co.kr)"
+
+# 데이터 소스 (Phase 1: TechCrunch, Tech.eu / Phase 2에서 나머지 활성화)
+sources:
+  - name: TechCrunch
+    module: techcrunch
+    rss: https://techcrunch.com/feed/
+    region_hint: 글로벌/미국
+    enabled: true
+  - name: Tech.eu
+    module: tech_eu
+    rss: https://tech.eu/feed/
+    region_hint: 유럽
+    enabled: true
+  - name: Tech in Asia
+    module: techinasia
+    rss: https://www.techinasia.com/feed
+    region_hint: 동남아/아시아
+    enabled: true
+    browser_ua: true       # CDN 봇 차단 → 브라우저 UA 필요
+    paywall: true          # RSS 제목/요약만 사용, 본문 크롤링 금지
+  - name: KrASIA
+    module: krasia         # RSS 미제공 → 홈페이지 __NEXT_DATA__ 파싱
+    region_hint: 아시아
+    enabled: true
+    browser_ua: true
+  - name: EU-Startups
+    module: eu_startups
+    rss: https://www.eu-startups.com/feed/
+    region_hint: 유럽
+    enabled: true
+  - name: YourStory
+    module: yourstory
+    rss: https://yourstory.com/feed
+    region_hint: 인도
+    enabled: true
+  - name: Startup Daily
+    module: startupdaily
+    rss: https://www.startupdaily.net/feed/
+    region_hint: 호주/뉴질랜드
+    enabled: true
+  - name: LatamList
+    module: latamlist
+    rss: https://latamlist.com/feed/
+    region_hint: 중남미
+    enabled: true
+  - name: Contxto
+    module: contxto
+    rss: https://www.contxto.com/en/feed/
+    region_hint: 중남미
+    enabled: true
+  - name: TechNode
+    module: technode
+    rss: https://technode.com/feed/
+    region_hint: 중국
+    enabled: true
