@@ -1,5 +1,6 @@
 name: Daily funding pipeline
 
+# 매일 수집→추출→저장 후 GitHub Pages 배포
 on:
   schedule:
     - cron: "0 22 * * *"   # 매일 UTC 22:00 = 한국시간 아침 7시
