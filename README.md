@@ -65,4 +65,4 @@ python -m http.server 8000 --directory public
 - [x] Phase 1: TechCrunch + Tech.eu 수집→추출→JSON 저장 파이프라인 + 프론트 테이블
 - [x] Phase 2: 10개 소스 전체 활성화, 중복 제거(회사명 정규화 + 단계 + 금액 ±10% 병합)
 - [x] Phase 3: GitHub Actions 자동화 + GitHub Pages 배포 (https://lswcap-bot.github.io/funding-recipe/)
-- [ ] Phase 4: 프론트 고도화 (정렬, 검색, 필터 칩, 모바일)
+- [x] Phase 4: 프론트 고도화 (정렬, 검색, 필터 칩, 모바일)
