@@ -2,6 +2,530 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-16",
+   "company": "Oak",
+   "sector": "기타",
+   "amount_original": {
+    "value": 60.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 60000000,
+   "stage": "시드",
+   "investors": [
+    "Accel"
+   ],
+   "lead_investor": "Accel",
+   "country": null,
+   "region": "중동/아프리카",
+   "ai_summary_ko": "이스라엘 스타트업 Oak이 Accel로부터 6천만 달러 규모의 시드 펀딩을 유치했다. 해당 투자는 지난해 말에 진행되었다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/meta-sued-alleged-aibiased-layoff-rankings"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "Whale",
+   "sector": "AI",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 40000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "싱가포르",
+   "region": "동남아",
+   "ai_summary_ko": "싱가포르 본사의 AI 회사 Whale이 4,000만 달러의 추가 투자를 유치했다. 이 회사는 45개국 이상에서 1,600개 이상의 기업과 협력하고 있으며, 향후 은행, 자동차, 미국 시장 진출을 계획하고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/whales-realworld-ai-pitch-wins-40m"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "DeepSeek",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "항저우 기반 AI 모델 개발사 DeepSeek이 올해 중국 본토 IPO 신청을 준비 중이며, 추가 민간 자금 조달을 모색하고 있습니다. 2027년 상장을 목표로 회계 및 금융 자문업체와 협력 중입니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/07/15/__trashed-5/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Mango",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6000000,
+   "stage": "Seed",
+   "investors": [],
+   "lead_investor": null,
+   "country": "멕시코",
+   "region": "중남미",
+   "ai_summary_ko": "멕시코의 건설 금융 인프라 플랫폼 Mango가 시드 라운드 펀딩을 유치했으며, 누적 펀딩액은 600만 달러에 도달했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/mango-raises-seed-round-to-expand-construction-financing-platform-in-mexico/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Open Secret",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 5195000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": null,
+   "ai_summary_ko": "건강식 스낵 브랜드 Open Secret은 5천만 루피 이상의 자금을 조달했다. 조달 자금은 오프라인 소매점 확대, 제품 파이프라인 강화, 공급망 전반에 AI 배포에 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/healthy-snacks-brand-open-secret-raises-rs-50-crore"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Ather Energy",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 1200.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 124680000,
+   "stage": "비공개",
+   "investors": [
+    "Hero MotoCorp",
+    "IJF",
+    "창업자"
+   ],
+   "lead_investor": "Hero MotoCorp",
+   "country": "인도",
+   "region": null,
+   "ai_summary_ko": "Ather Energy는 Hero MotoCorp, India-Japan Fund, 창업자들로부터 1,200크로르 루피를 우선 공모 방식으로 조달했다. 자금은 제조 확장, 제품 개발, 연구 및 일반 기업 용도에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/ather-energy-secures-rs-1200-cr-from-hero-motocorp-ijf-founders"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "udaan",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 160.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 160,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": null,
+   "ai_summary_ko": "udaan은 신규 주식 발행 및 부채 발행, 기존 부채의 주식 전환을 통해 1억 6천만 달러의 자금을 조달했다. IPO 예정인 이 eB2B 플랫폼은 전략적 자금 조달을 진행했다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/udaan-secures-160m-in-financing"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "E3 Electric.Ai",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 10390000,
+   "stage": "Series A",
+   "investors": [
+    "BluVenture"
+   ],
+   "lead_investor": "BluVenture",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "E3 Electric.Ai는 BluVenture가 주도하는 시리즈 A 펀딩라운드에서 1억 루피를 유치했습니다. 이 자금은 전동 스쿠터 E3 TRION의 상용 출시를 앞두고 제품 혁신 가속화, 연구개발 강화, 그리고 인도 내 시장 확대에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/e3-electricai-rs-100-cr-series-a-round-led-by-bluventure"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Mio",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.9,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2167140,
+   "stage": "프리시드",
+   "investors": [
+    "Fabric.vc",
+    "Topology.vc"
+   ],
+   "lead_investor": null,
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반 AI 스타트업 Mio는 Slack 내에서 작동하는 AI 동료를 개발하고 있으며, Fabric.vc와 Topology.vc가 공동 주도한 190만 유로 프리시드 펀딩을 완료했다. 이 자금은 엔지니어링 팀 확대, 제품 개발 가속화, 고객 기반 확대에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/paris-based-mio-emerges-from-stealth-with-e1-9-million-in-funding-to-build-an-ai-colleague-that-lives-inside-slack/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Monumental",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 27.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 30796200,
+   "stage": "Series B",
+   "investors": [
+    "Khosla Ventures"
+   ],
+   "lead_investor": "Khosla Ventures",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "암스테르담 기반의 건설용 로보틱스 및 소프트웨어 자동화 스타트업 Monumental이 Khosla Ventures 주도로 Series B 라운드에서 2,700만 유로를 유치했다. 이 자금은 엔지니어링 팀 확대, 로봇 배치 확대, 로봇이 처리할 수 있는 건설 작업 범위 확대, 미국 진출 자금으로 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/palantir-alumni-raise-e27-million-for-construction-robotics-startup-monumental/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Robots",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "일본",
+   "region": "동아시아",
+   "ai_summary_ko": "NTT Docomo의 스핀아웃 회사인 Robots가 시드 펀딩을 유치했습니다. 이 자금은 로봇 통합 제어 플랫폼과 물리적 AI 개발에 사용될 예정이며, 보안 분야를 첫 타겟 시장으로 삼고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/google-deepmind-agile-robots-partner-on-industrial-robotics"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Emergent",
+   "sector": "AI",
+   "amount_original": {
+    "value": 130.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 130000000,
+   "stage": "Series C",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "동남아",
+   "ai_summary_ko": "AI 스타트업 Emergent가 시리즈 C 펀딩으로 1억 3천만 달러를 유치하며 유니콘 기업이 되었다. 회사는 미국과 인도에서 인재 채용, 제품 개발 가속화, 시장 진출 확대에 자금을 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/latest-ai-unicorn-sees-users-revenue-spike-4x-months"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/ai-startup-emergent-unicorn-130-million-series-c-funding"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Udaan",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 160.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 160000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 이커머스 플랫폼 Udaan이 기존 주주와 신규 투자자로부터 1억 6천만 달러의 자금 조달을 발표했다. 신규 투자자와 기존 주주가 함께 자본을 투입하는 구조이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/tier-2-towns-want-their-orders-fast-too"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indian-b2b-firm-udaan-acquires-retailtech-startup-shopkirana"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Float",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 4.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5132700,
+   "stage": "시리즈 A",
+   "investors": [
+    "CHAPTERS Group AG"
+   ],
+   "lead_investor": "CHAPTERS Group AG",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스톡홀름 기반 기술 중소기업 대상 수익기반 금융 플랫폼 Float이 시리즈 A 펀딩으로 €4.5백만을 유치했다. 함부르크 기반 CHAPTERS Group AG가 주도한 라운드로, CHAPTERS는 투자의 일환으로 이사회 참여가 확정되었다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/15/float-raises-eur45m-series-a-to-bridge-europes-funding-gap/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/float-raises-e4-5-million-to-help-european-tech-founders-scale-without-sacrificing-equity-and-tackle-unnecessary-bureaucracy/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Nous",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 2.315,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2640489,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "이탈리아 식품·음료·영양제 산업용 기능성 원료 개발 회사 Nous가 시드 펀딩으로 €2.315백만을 유치했다. 이 자금은 Koncentra의 상용화를 가속화하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/15/nous-secures-eur23m-seed-funding-to-scale-koncentra/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Monumental",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 32.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 32000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Khosla Ventures"
+   ],
+   "lead_investor": "Khosla Ventures",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "암스테르담 소재 건설 기술 스타트업 Monumental이 Khosla Ventures가 주도하는 Series B 펀딩라운드에서 $32M을 유치했습니다. 동사는 건설 산업을 위한 자율 로봇과 소프트웨어를 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/15/monumental-secures-32m-series-b-to-accelerate-construction-automation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Saible",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 2.9,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 3887160,
+   "stage": "시드",
+   "investors": [
+    "angel investors"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국 건설 핀테크 스타트업 Saible이 천사 투자자로부터 £2.9M을 유치했습니다. 동사는 건설 프로젝트의 자금 지연 및 공급업체 지급 지연 문제를 해결하는 소프트웨어를 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/15/saible-raises-ps29m-to-tackle-constructions-chronic-late-payment-crisis/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Ode with Anthropic",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Anthropic",
+    "Blackstone",
+    "Hellman & Friedman",
+    "Goldman Sachs"
+   ],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Anthropic과의 합작 벤처인 Ode는 엔터프라이즈 기업에 포워드 배치된 엔지니어를 파견하는 AI 서비스 제공에 중점을 두고 있다. Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs 등이 지원하며, Fractional AI의 창립자인 Chris Taylor와 Eddie Siegel이 주도하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "company": "Neko Health",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 700.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 700000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Lightspeed Venture Partners",
+    "O.G. Venture Partners"
+   ],
+   "lead_investor": "Lightspeed Venture Partners",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "스톡홀름 기반 헬스테크 회사 Neko Health이 6억 1,270만 유로 규모의 시리즈 C 펀딩을 완료했다. Lightspeed Venture Partners가 주도하고 O.G. Venture Partners가 공동 주도한 이번 라운드로 미국 확장을 준비 중이며, 올해 뉴욕 등 주요 도시에 첫 클리닉을 개설할 계획이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/15/neko-health-raises-700m-as-demand-grows-for-preventive-health-scans/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/daniel-eks-neko-health-raises-e612-7-million-series-c-as-it-prepares-for-us-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "TripWip",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 4.2,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4200000,
+   "stage": "Seed",
+   "investors": [
+    "Latin Leap",
+    "CrossBoundary",
+    "Yango Ventures"
+   ],
+   "lead_investor": null,
+   "country": "우루과이",
+   "region": "중남미",
+   "ai_summary_ko": "우루과이의 P2P 카셰어링 스타트업 TripWip이 420만 달러의 시드 라운드 펀딩을 조성했으며, Latin Leap, CrossBoundary, Yango Ventures 등이 투자에 참여했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/tripwip-raises-4-2m-seed-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "company": "Gridcog",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 14.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 14000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "ABB"
+   ],
+   "lead_investor": "ABB",
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "호주의 Startmate 출신 스타트업인 Gridcog가 ABB와 에너지 대기업들로부터 1,400만 달러의 시리즈 A 펀딩을 유치했다. 이 자금은 재생에너지 프로젝트 모델링 시간을 몇 주에서 몇 시간으로 단축하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/expat-startmate-startup-gridcog-powers-up-on-14-million-series-a/"
+    }
+   ]
+  },
+  {
    "date": "2026-07-14",
    "company": "Dhruva Space",
    "sector": "기타",
