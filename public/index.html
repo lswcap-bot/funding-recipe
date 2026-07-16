@@ -18,31 +18,52 @@
   header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px; margin-bottom: 16px; }
   h1 { font-size: 1.5rem; }
   #last-updated { color: var(--muted); font-size: 0.85rem; }
-  .controls { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
-  select {
+
+  .controls { display: flex; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; align-items: center; }
+  select, #search {
     padding: 8px 12px; border: 1px solid var(--border); border-radius: 8px;
-    background: var(--card); font-size: 0.95rem; cursor: pointer;
+    background: var(--card); font-size: 0.95rem;
   }
+  select { cursor: pointer; }
+  #search { flex: 1; min-width: 180px; max-width: 320px; }
+  #result-count { color: var(--muted); font-size: 0.85rem; margin-left: auto; }
+
+  .chip-row { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; margin-bottom: 8px; }
+  .chip-label { font-size: 0.8rem; color: var(--muted); width: 34px; flex-shrink: 0; }
+  .chip {
+    padding: 4px 12px; border: 1px solid var(--border); border-radius: 999px;
+    background: var(--card); font-size: 0.82rem; cursor: pointer; user-select: none;
+    transition: all 0.12s;
+  }
+  .chip:hover { border-color: var(--accent); }
+  .chip.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .chip-clear { border: none; background: none; color: var(--muted); font-size: 0.8rem;
+    cursor: pointer; text-decoration: underline; }
+  .chips-wrap { margin-bottom: 14px; }
+
   .table-wrap {
     background: var(--card); border: 1px solid var(--border); border-radius: 12px;
-    overflow-x: auto;
+    overflow-x: auto; -webkit-overflow-scrolling: touch;
   }
-  table { width: 100%; border-collapse: collapse; min-width: 860px; }
+  table { width: 100%; border-collapse: collapse; min-width: 880px; }
   th, td { padding: 12px 14px; text-align: left; font-size: 0.9rem; }
   th {
     background: #f9fafb; color: var(--muted); font-weight: 600;
     border-bottom: 1px solid var(--border); white-space: nowrap;
-    position: sticky; top: 0;
+    position: sticky; top: 0; z-index: 1;
   }
+  th.sortable { cursor: pointer; }
+  th.sortable:hover { color: var(--accent); }
+  th .arrow { font-size: 0.7rem; margin-left: 3px; }
   tbody tr { border-bottom: 1px solid var(--border); }
   tbody tr:last-child { border-bottom: none; }
-  tbody tr:hover { background: var(--accent-soft); }
+  tbody tr:hover { background: var(--accent-soft); cursor: pointer; }
   td.amount { font-variant-numeric: tabular-nums; font-weight: 600; white-space: nowrap; }
   td.company { font-weight: 600; }
   td.date { white-space: nowrap; color: var(--muted); }
   .tag {
     display: inline-block; padding: 2px 8px; border-radius: 999px;
-    background: #f3f4f6; font-size: 0.8rem;
+    background: #f3f4f6; font-size: 0.8rem; white-space: nowrap;
   }
   .btn-summary {
     padding: 5px 12px; border: 1px solid var(--accent); border-radius: 6px;
@@ -51,6 +72,7 @@
   }
   .btn-summary:hover { background: var(--accent); color: #fff; }
   .empty { padding: 48px; text-align: center; color: var(--muted); }
+
   /* 모달 */
   #modal-overlay {
     display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.45);
@@ -68,9 +90,19 @@
   #modal ul { padding-left: 18px; line-height: 1.6; font-size: 0.9rem; }
   #modal a { color: var(--accent); word-break: break-all; font-size: 0.88rem; }
   #modal .close-row { text-align: right; margin-top: 18px; }
-  #modal button {
+  #modal .close-row button {
     padding: 8px 18px; border: none; border-radius: 8px; background: var(--accent);
     color: #fff; cursor: pointer; font-size: 0.9rem;
+  }
+
+  @media (max-width: 640px) {
+    body { padding: 14px 8px; }
+    h1 { font-size: 1.2rem; }
+    .controls { gap: 6px; }
+    #search { max-width: none; }
+    #result-count { width: 100%; margin-left: 0; }
+    .chip-label { width: 100%; }
+    th, td { padding: 9px 10px; font-size: 0.84rem; }
   }
 </style>
 </head>
@@ -84,19 +116,33 @@
   <div class="controls">
     <select id="year-select" aria-label="연도 선택"></select>
     <select id="month-select" aria-label="월 선택"></select>
+    <input id="search" type="search" placeholder="기업명·투자사 검색">
+    <span id="result-count"></span>
+  </div>
+
+  <div class="chips-wrap">
+    <div class="chip-row" id="chips-region"><span class="chip-label">지역</span></div>
+    <div class="chip-row" id="chips-sector"><span class="chip-label">분야</span></div>
+    <div class="chip-row" id="chips-stage"><span class="chip-label">단계</span></div>
   </div>
 
   <div class="table-wrap">
     <table>
       <thead>
         <tr>
-          <th>일자</th><th>기업명</th><th>분야</th><th>투자금 (USD)</th>
-          <th>투자 단계</th><th>투자사</th><th>국가 (지역)</th><th></th>
+          <th class="sortable" data-sort="date">일자<span class="arrow"></span></th>
+          <th>기업명</th>
+          <th>분야</th>
+          <th class="sortable" data-sort="amount_usd">투자금 (USD)<span class="arrow"></span></th>
+          <th>투자 단계</th>
+          <th>투자사</th>
+          <th>국가 (지역)</th>
+          <th></th>
         </tr>
       </thead>
       <tbody id="deals-body"></tbody>
     </table>
-    <div id="empty-message" class="empty" style="display:none">해당 월의 데이터가 없습니다.</div>
+    <div id="empty-message" class="empty" style="display:none">조건에 맞는 데이터가 없습니다.</div>
   </div>
 </div>
 
@@ -115,8 +161,14 @@
 
 <script>
 const DATA_BASE = "data";
-let months = [];        // ["2026-07", ...]
-let currentDeals = [];
+let months = [];
+let monthDeals = [];       // 현재 월 원본
+let viewDeals = [];        // 필터·정렬 적용 후
+const state = {
+  search: "",
+  filters: { region: new Set(), sector: new Set(), stage: new Set() },
+  sort: { key: "date", dir: "desc" },
+};
 
 const fmtUSD = (n) => {
   if (n == null) return "비공개";
@@ -135,8 +187,7 @@ async function init() {
   try {
     index = await (await fetch(`${DATA_BASE}/index.json`, { cache: "no-store" })).json();
   } catch {
-    document.getElementById("empty-message").style.display = "block";
-    document.getElementById("empty-message").textContent = "데이터를 불러올 수 없습니다.";
+    showEmpty("데이터를 불러올 수 없습니다.");
     return;
   }
   months = index.months || [];
@@ -148,6 +199,27 @@ async function init() {
   yearSel.innerHTML = years.map(y => `<option value="${y}">${y}년</option>`).join("");
   yearSel.addEventListener("change", () => { fillMonths(); loadMonth(); });
   document.getElementById("month-select").addEventListener("change", loadMonth);
+
+  let searchTimer;
+  document.getElementById("search").addEventListener("input", (e) => {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => {
+      state.search = e.target.value.trim().toLowerCase();
+      render();
+    }, 150);
+  });
+
+  document.querySelectorAll("th.sortable").forEach(th => {
+    th.addEventListener("click", () => {
+      const key = th.dataset.sort;
+      if (state.sort.key === key) {
+        state.sort.dir = state.sort.dir === "desc" ? "asc" : "desc";
+      } else {
+        state.sort = { key, dir: "desc" };
+      }
+      render();
+    });
+  });
 
   fillMonths();
   await loadMonth();
@@ -162,23 +234,108 @@ function fillMonths() {
 
 async function loadMonth() {
   const month = document.getElementById("month-select").value;
+  monthDeals = [];
+  if (month) {
+    try {
+      const data = await (await fetch(`${DATA_BASE}/${month}.json`, { cache: "no-store" })).json();
+      monthDeals = data.deals || [];
+    } catch { /* 아래 empty 처리 */ }
+  }
+  // 필터 초기화 (월이 바뀌면 값 분포가 달라짐)
+  state.filters.region.clear();
+  state.filters.sector.clear();
+  state.filters.stage.clear();
+  buildChips();
+  render();
+}
+
+function buildChips() {
+  const groups = [
+    ["region", "chips-region", d => d.region],
+    ["sector", "chips-sector", d => d.sector],
+    ["stage", "chips-stage", d => d.stage],
+  ];
+  for (const [key, elId, getter] of groups) {
+    const el = document.getElementById(elId);
+    el.querySelectorAll(".chip, .chip-clear").forEach(n => n.remove());
+    const counts = new Map();
+    for (const d of monthDeals) {
+      const v = getter(d);
+      if (v) counts.set(v, (counts.get(v) || 0) + 1);
+    }
+    const values = [...counts.keys()].sort((a, b) => counts.get(b) - counts.get(a));
+    for (const v of values) {
+      const chip = document.createElement("span");
+      chip.className = "chip";
+      chip.textContent = `${v} ${counts.get(v)}`;
+      chip.addEventListener("click", () => {
+        const set = state.filters[key];
+        set.has(v) ? set.delete(v) : set.add(v);
+        chip.classList.toggle("on");
+        render();
+      });
+      el.appendChild(chip);
+    }
+    if (values.length) {
+      const clear = document.createElement("button");
+      clear.className = "chip-clear";
+      clear.textContent = "초기화";
+      clear.addEventListener("click", () => {
+        state.filters[key].clear();
+        el.querySelectorAll(".chip.on").forEach(c => c.classList.remove("on"));
+        render();
+      });
+      el.appendChild(clear);
+    }
+  }
+}
+
+function applyFilters() {
+  const { search, filters } = state;
+  return monthDeals.filter(d => {
+    if (filters.region.size && !filters.region.has(d.region)) return false;
+    if (filters.sector.size && !filters.sector.has(d.sector)) return false;
+    if (filters.stage.size && !filters.stage.has(d.stage)) return false;
+    if (search) {
+      const hay = [d.company, d.lead_investor, ...(d.investors || [])]
+        .filter(Boolean).join(" ").toLowerCase();
+      if (!hay.includes(search)) return false;
+    }
+    return true;
+  });
+}
+
+function sortDeals(deals) {
+  const { key, dir } = state.sort;
+  const sign = dir === "desc" ? -1 : 1;
+  return [...deals].sort((a, b) => {
+    let av = a[key], bv = b[key];
+    if (key === "amount_usd") {  // 비공개(null)는 항상 마지막
+      if (av == null && bv == null) return 0;
+      if (av == null) return 1;
+      if (bv == null) return -1;
+      return sign * (av - bv);
+    }
+    return sign * String(av).localeCompare(String(bv));
+  });
+}
+
+function render() {
+  viewDeals = sortDeals(applyFilters());
   const body = document.getElementById("deals-body");
   const empty = document.getElementById("empty-message");
-  body.innerHTML = "";
-  if (!month) { empty.style.display = "block"; return; }
 
-  let data;
-  try {
-    data = await (await fetch(`${DATA_BASE}/${month}.json`, { cache: "no-store" })).json();
-  } catch {
-    empty.style.display = "block";
-    return;
-  }
-  currentDeals = data.deals || [];
-  empty.style.display = currentDeals.length ? "none" : "block";
+  document.querySelectorAll("th.sortable").forEach(th => {
+    th.querySelector(".arrow").textContent =
+      th.dataset.sort === state.sort.key ? (state.sort.dir === "desc" ? "▼" : "▲") : "";
+  });
 
-  body.innerHTML = currentDeals.map((d, i) => `
-    <tr>
+  document.getElementById("result-count").textContent =
+    monthDeals.length ? `${viewDeals.length} / ${monthDeals.length}건` : "";
+
+  empty.style.display = viewDeals.length ? "none" : "block";
+  body.innerHTML = viewDeals.map((d, i) => `
+    <tr data-idx="${i}">
       <td class="date">${esc(d.date)}</td>
       <td class="company">${esc(d.company)}</td>
       <td><span class="tag">${esc(d.sector ?? "-")}</span></td>
@@ -186,14 +343,21 @@ async function loadMonth() {
       <td>${esc(d.stage ?? "-")}</td>
       <td>${esc(d.lead_investor ?? (d.investors?.[0] ?? "-"))}${(d.investors?.length ?? 0) > 1 ? ` 외 ${d.investors.length - 1}곳` : ""}</td>
       <td>${esc(d.country ?? "-")}${d.region ? ` (${esc(d.region)})` : ""}</td>
-      <td><button class="btn-summary" data-idx="${i}">요약 보기</button></td>
+      <td><button class="btn-summary">요약 보기</button></td>
     </tr>`).join("");
 }
 
+function showEmpty(msg) {
+  const empty = document.getElementById("empty-message");
+  empty.style.display = "block";
+  empty.textContent = msg;
+}
+
+// 행 전체 클릭으로도 모달 오픈
 document.getElementById("deals-body").addEventListener("click", (e) => {
-  const btn = e.target.closest(".btn-summary");
-  if (!btn) return;
-  openModal(currentDeals[Number(btn.dataset.idx)]);
+  const tr = e.target.closest("tr[data-idx]");
+  if (!tr) return;
+  openModal(viewDeals[Number(tr.dataset.idx)]);
 });
 
 function openModal(d) {
@@ -214,6 +378,7 @@ document.getElementById("modal-close").addEventListener("click", closeModal);
 document.getElementById("modal-overlay").addEventListener("click", (e) => {
   if (e.target.id === "modal-overlay") closeModal();
 });
+document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
 function closeModal() { document.getElementById("modal-overlay").classList.remove("open"); }
 
 init();
