@@ -78,7 +78,7 @@
     "unit": "million"
    },
    "amount_usd": 6000000,
-   "stage": "Seed",
+   "stage": "시드",
    "investors": [],
    "lead_investor": null,
    "country": "멕시코",
@@ -143,29 +143,6 @@
   },
   {
    "date": "2026-07-15",
-   "company": "udaan",
-   "sector": "커머스",
-   "amount_original": {
-    "value": 160.0,
-    "currency": "USD",
-    "unit": "unit"
-   },
-   "amount_usd": 160,
-   "stage": "비공개",
-   "investors": [],
-   "lead_investor": null,
-   "country": "인도",
-   "region": null,
-   "ai_summary_ko": "udaan은 신규 주식 발행 및 부채 발행, 기존 부채의 주식 전환을 통해 1억 6천만 달러의 자금을 조달했다. IPO 예정인 이 eB2B 플랫폼은 전략적 자금 조달을 진행했다.",
-   "sources": [
-    {
-     "name": "YourStory",
-     "url": "https://yourstory.com/2026/07/udaan-secures-160m-in-financing"
-    }
-   ]
-  },
-  {
-   "date": "2026-07-15",
    "company": "E3 Electric.Ai",
    "sector": "모빌리티",
    "amount_original": {
@@ -174,7 +151,7 @@
     "unit": "crore"
    },
    "amount_usd": 10390000,
-   "stage": "Series A",
+   "stage": "시리즈 A",
    "investors": [
     "BluVenture"
    ],
@@ -217,31 +194,6 @@
   },
   {
    "date": "2026-07-15",
-   "company": "Monumental",
-   "sector": "로보틱스",
-   "amount_original": {
-    "value": 27.0,
-    "currency": "EUR",
-    "unit": "million"
-   },
-   "amount_usd": 30796200,
-   "stage": "Series B",
-   "investors": [
-    "Khosla Ventures"
-   ],
-   "lead_investor": "Khosla Ventures",
-   "country": "네덜란드",
-   "region": "유럽",
-   "ai_summary_ko": "암스테르담 기반의 건설용 로보틱스 및 소프트웨어 자동화 스타트업 Monumental이 Khosla Ventures 주도로 Series B 라운드에서 2,700만 유로를 유치했다. 이 자금은 엔지니어링 팀 확대, 로봇 배치 확대, 로봇이 처리할 수 있는 건설 작업 범위 확대, 미국 진출 자금으로 사용될 예정이다.",
-   "sources": [
-    {
-     "name": "EU-Startups",
-     "url": "https://www.eu-startups.com/2026/07/palantir-alumni-raise-e27-million-for-construction-robotics-startup-monumental/"
-    }
-   ]
-  },
-  {
-   "date": "2026-07-15",
    "company": "Robots",
    "sector": "로보틱스",
    "amount_original": null,
@@ -269,7 +221,7 @@
     "unit": "million"
    },
    "amount_usd": 130000000,
-   "stage": "Series C",
+   "stage": "시리즈 C",
    "investors": [],
    "lead_investor": null,
    "country": "미국",
@@ -301,7 +253,7 @@
    "lead_investor": null,
    "country": "인도",
    "region": "남아시아",
-   "ai_summary_ko": "인도의 이커머스 플랫폼 Udaan이 기존 주주와 신규 투자자로부터 1억 6천만 달러의 자금 조달을 발표했다. 신규 투자자와 기존 주주가 함께 자본을 투입하는 구조이다.",
+   "ai_summary_ko": "udaan은 신규 주식 발행 및 부채 발행, 기존 부채의 주식 전환을 통해 1억 6천만 달러의 자금을 조달했다. IPO 예정인 이 eB2B 플랫폼은 전략적 자금 조달을 진행했다.",
    "sources": [
     {
      "name": "Tech in Asia",
@@ -310,6 +262,10 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/indian-b2b-firm-udaan-acquires-retailtech-startup-shopkirana"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/udaan-secures-160m-in-financing"
     }
    ]
   },
@@ -382,11 +338,15 @@
    "lead_investor": "Khosla Ventures",
    "country": "네덜란드",
    "region": "유럽",
-   "ai_summary_ko": "암스테르담 소재 건설 기술 스타트업 Monumental이 Khosla Ventures가 주도하는 Series B 펀딩라운드에서 $32M을 유치했습니다. 동사는 건설 산업을 위한 자율 로봇과 소프트웨어를 개발하고 있습니다.",
+   "ai_summary_ko": "암스테르담 기반의 건설용 로보틱스 및 소프트웨어 자동화 스타트업 Monumental이 Khosla Ventures 주도로 Series B 라운드에서 2,700만 유로를 유치했다. 이 자금은 엔지니어링 팀 확대, 로봇 배치 확대, 로봇이 처리할 수 있는 건설 작업 범위 확대, 미국 진출 자금으로 사용될 예정이다.",
    "sources": [
     {
      "name": "Tech.eu",
      "url": "https://tech.eu/2026/07/15/monumental-secures-32m-series-b-to-accelerate-construction-automation/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/palantir-alumni-raise-e27-million-for-construction-robotics-startup-monumental/"
     }
    ]
   },
@@ -483,7 +443,7 @@
     "unit": "million"
    },
    "amount_usd": 4200000,
-   "stage": "Seed",
+   "stage": "시드",
    "investors": [
     "Latin Leap",
     "CrossBoundary",
@@ -633,7 +593,7 @@
     "unit": "million"
    },
    "amount_usd": 2284800,
-   "stage": "Pre-Seed",
+   "stage": "프리시드",
    "investors": [
     "Vireo Ventures",
     "Ultratech Capital Partners",
@@ -661,7 +621,7 @@
     "unit": "million"
    },
    "amount_usd": 5597760,
-   "stage": "Seed",
+   "stage": "시드",
    "investors": [
     "Triple Point Ventures",
     "Anamcara"
@@ -917,7 +877,7 @@
     "unit": "thousand"
    },
    "amount_usd": 450000,
-   "stage": "Seed",
+   "stage": "시드",
    "investors": [],
    "lead_investor": null,
    "country": "호주",

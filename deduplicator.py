@@ -31,11 +31,28 @@ def _amounts_match(a: int | None, b: int | None) -> bool:
     return lo >= hi * 0.9
 
 
+_STAGE_ALIASES = {
+    "seed": "시드", "preseed": "프리시드", "pre seed": "프리시드",
+    "series a": "시리즈 A", "series b": "시리즈 B", "series c": "시리즈 C",
+    "series d": "시리즈 D+", "series e": "시리즈 E", "series f": "시리즈 F",
+    "growth": "그로스", "bridge": "브릿지",
+    "pre series a": "프리시리즈A", "프리 시리즈 a": "프리시리즈A",
+}
+
+
+def normalize_stage(stage: str | None) -> str | None:
+    """영문/국문 혼용 단계 표기를 표준 한국어 라벨로 정규화."""
+    if not stage:
+        return None
+    key = re.sub(r"[^a-z가-힣\sA-Z+]", "", stage).strip().lower().replace("-", " ")
+    return _STAGE_ALIASES.get(key, stage)
+
+
 def _stages_match(a: str | None, b: str | None) -> bool:
-    """단계가 같거나, 한쪽이 불명(비공개/None)이면 매치."""
+    """단계가 같거나(표기 정규화 후), 한쪽이 불명(비공개/None)이면 매치."""
     if not a or not b or a == "비공개" or b == "비공개":
         return True
-    return a == b
+    return normalize_stage(a) == normalize_stage(b)
 
 
 def _is_same_deal(existing: dict, new: dict) -> bool:
