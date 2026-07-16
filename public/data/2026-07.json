@@ -3,6 +3,25 @@
  "deals": [
   {
    "date": "2026-07-16",
+   "company": "Emergent",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Emergent가 시리즈 B 투자라운드에서 3억 달러 평가를 받으며 유니콘 기업으로 등극했다. 올해 1월 진행된 이번 라운드를 포함해 총 3개 펀딩 라운드를 통해 2억 3천만 달러를 조달했다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/emergent-turns-unicorn-groww-q1-net-profit"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
    "company": "Oak",
    "sector": "기타",
    "amount_original": {
