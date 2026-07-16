@@ -3,6 +3,339 @@
  "deals": [
   {
    "date": "2026-07-16",
+   "company": "SwitchOn",
+   "sector": "기타",
+   "amount_original": {
+    "value": 8.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 8000000,
+   "stage": "프리시리즈A",
+   "investors": [
+    "IvyCap Ventures"
+   ],
+   "lead_investor": "IvyCap Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/manufacturing-tech-startup-switchon-pre-series-b-funding-ivycap-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "Groyyo",
+   "sector": "기타",
+   "amount_original": {
+    "value": 90.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 9342000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Cornerstone Ventures"
+   ],
+   "lead_investor": "Cornerstone Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/groyyo-rs-90-crore-first-close-series-b-cornerstone-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "Neo Group",
+   "sector": "기타",
+   "amount_original": {
+    "value": 350.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 36330000,
+   "stage": "비공개",
+   "investors": [
+    "Peak XV Partners"
+   ],
+   "lead_investor": "Peak XV Partners",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/neo-group-rs-350-crore-funding-peak-xv-partners"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "Quick Clean",
+   "sector": "기타",
+   "amount_original": {
+    "value": 14.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 14000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Stakeboat Capital"
+   ],
+   "lead_investor": "Stakeboat Capital",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Quick Clean이 Stakeboat Capital이 주도한 시리즈 B 펀딩라운드에서 1,400만 달러를 유치했다. 이 자금은 인도 전역의 온프레미스 세탁 네트워크 확대, AI 기반 운영 및 자동화 투자, 국제 진출 지원에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/quick-clean-14-million-series-b-stakeboat-capital"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "Silicon Microgravity Limited",
+   "sector": "기타",
+   "amount_original": {
+    "value": 7.08,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 8118636,
+   "stage": "비공개",
+   "investors": [
+    "UK Innovation & Science Seed Fund (UKI2S)",
+    "Future Planet Capital"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Cambridge 기반 MEMS 반도체 기술 스타트업인 Silicon Microgravity Limited가 GPS 없는 센싱 및 네비게이션 기술 상용화를 위해 €7.08 million을 조달했습니다. 이 자금은 국방, 우주 및 반도체 분야의 상업적 성장을 가속화하는 데 사용될 예정입니다. 투자는 Future Planet Capital이 관리하는 UK Innovation & Science Seed Fund (UKI2S)가 주도했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/cambridges-silicon-microgravitsecures-e7-08-million-to-scale-its-gps-free-sensing-and-navigation-tech/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "Reo.Dev",
+   "sector": "AI",
+   "amount_original": {
+    "value": 11.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 11300000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Elevation Capital"
+   ],
+   "lead_investor": "Elevation Capital",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Reo.Dev가 Elevation Capital이 주도한 시리즈 A 펀딩라운드에서 1,130만 달러를 유치했습니다. 회사는 프론티어 AI 역량 강화, AI 에이전트 개발 가속화, 플랫폼 글로벌 확장에 자금을 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/developer-software-platform-reo-dev-secures-4m-to-open-us-office"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/reodev-raises-113-million-series-a-elevation-capital"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "SWISSto12",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 70.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 70000000,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "Lausanne 기반 SpaceTech 기업인 SWISSto12가 다중궤도 페이로드 및 위성 사업 확장을 위해 €61 million의 시리즈 C 펀딩을 완료했습니다. 이번 라운드는 상용 및 주권 수요 증가에 대응하기 위한 자금으로, 주요 투자자는 공개되지 않았습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/16/swissto12-raises-70m-series-c-to-scale-multi-orbit-business/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/swissto12-secures-e61-million-series-c-amid-rising-demand-for-sovereign-space-infrastructure/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "Arq",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 1.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1400000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "스페인의 양자 기술 스타트업 Arq가 양자 인터넷을 위한 네트워킹 하드웨어 개발을 가속화하기 위해 프리시드 펀딩라운드에서 140만 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/16/arq-secures-14m-pre-seed-for-quantum-internet-technology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "Hyperion Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 7.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7400000,
+   "stage": "그로스",
+   "investors": [
+    "Course Corrected",
+    "European Innovation Council Fund (EIC Fund)",
+    "RE Ventures"
+   ],
+   "lead_investor": null,
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "Espoo 기반 물리적 AI 회사인 Hyperion Robotics가 건설 산업을 위한 로봇 마이크로팩토리 확장을 위해 €6.4 million의 성장 자금을 조달했습니다. 투자는 Course Corrected와 European Innovation Council Fund (EIC Fund)가 공동 주도했으며, RE Ventures 등이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/16/hyperion-robotics-secures-74m-to-expand-robotic-construction/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/espoo-based-hyperion-robotics-raises-e6-4-million-to-bring-physical-ai-to-european-infrastructure/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "Juno Bio",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 3.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3800000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Juno Bio는 여성 건강에 초점을 맞춘 영국 기반 기업으로, 질 마이크로바이옴 검사와 멀티오믹스를 통해 성별 건강 격차를 해소하고 있습니다. 이번에 380만 달러를 확보했으며 여성 건강 전문 시퀀싱 랩을 개설했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/16/juno-bio-secures-38m-and-opens-first-sequencing-lab-dedicated-to-womens-health/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "AI-powered vehicle inspection startup",
+   "sector": "기타",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [
+    "Sheryl Sandberg"
+   ],
+   "lead_investor": "Sheryl Sandberg",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "2021년 설립된 차량 손상 진단 스타트업이 Sheryl Sandberg로부터 1000만 달러 투자를 유치했다. 해당 기업은 스마트폰을 활용하여 기업 고객들이 차량 손상을 스캔하고 감지할 수 있는 서비스를 제공한다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "Andrew Dai's company",
+   "sector": "AI",
+   "amount_original": {
+    "value": 300.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 300000000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "DeepMind 출신 연구원 Andrew Dai가 시각 AI 분야에서 제품 출시 전 3억 달러의 프리시드 투자를 유치했다. 그는 ChatGPT 개발에 영감을 준 AI 시스템 구축에 10년 이상 관여한 경력을 바탕으로 시각 AI가 다음 주요 AI 혁신 분야라고 주장하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "company": "Fora",
+   "sector": "AI",
+   "amount_original": {
+    "value": 60.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 60000000,
+   "stage": "시리즈 D",
+   "investors": [
+    "Forerunner",
+    "Tactile Ventures"
+   ],
+   "lead_investor": "Forerunner",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "AI 기반 여행사 Fora가 Forerunner와 Tactile Ventures가 주도한 시리즈 D 라운드에서 6천만 달러를 유치하며 유니콘 기업이 되었다. 이번 투자로 회사의 가치는 10억 달러로 평가되었다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
    "company": "Applied Computing",
    "sector": "AI",
    "amount_original": {
@@ -12,15 +345,27 @@
    },
    "amount_usd": 20000000,
    "stage": "시리즈 A",
-   "investors": [],
-   "lead_investor": null,
-   "country": null,
-   "region": null,
-   "ai_summary_ko": "Applied Computing은 석유, 가스 및 석유화학 산업을 위한 기초 AI 모델 개발을 목표로 2,000만 달러 규모의 시리즈 A 펀딩을 조달했습니다. 이 AI 모델은 전체 플랜트 운영을 지원하도록 설계되었습니다.",
+   "investors": [
+    "Databricks",
+    "KBR",
+    "Databricks Ventures"
+   ],
+   "lead_investor": "KBR",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "London 기반 AI 회사인 Applied Computing이 에너지 산업용 기초 AI 개발을 위해 €17.4 million의 펀딩을 조달했습니다. KBR이 이번 라운드를 주도했으며, Databricks Ventures 등이 참여했고, 회사는 미국 휴스턴에 새로운 사무실을 열기로 발표했습니다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/16/applied-computing-lands-20m-to-expand-foundation-ai-for-energy/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/london-based-applied-computing-raises-e17-4-million-to-scale-ai-that-works-for-the-energy-industry/"
     }
    ]
   },
@@ -36,16 +381,25 @@
    "amount_usd": 30000000,
    "stage": "시리즈 A",
    "investors": [
-    "Lululemon"
+    "Lululemon",
+    "Ecotechnologies 2 fund (Bpifrance)"
    ],
    "lead_investor": "Lululemon",
    "country": "프랑스",
    "region": "유럽",
-   "ai_summary_ko": "프랑스 스타트업 Syntetica는 나일론 재활용을 위한 혁신적 기술을 개발했으며, Lululemon을 포함한 주요 투자자들로부터 3,000만 달러 규모의 시리즈 A 펀딩을 조달했습니다. 이는 나일론 재활용 기술 분야에서 큰 투자 사례입니다.",
+   "ai_summary_ko": "파리 기반 데크테크 기업 Syntetica가 복잡한 직물 폐기물 재활용 기술 상용화를 위해 Bpifrance가 운영하는 Ecotechnologies 2 펀드가 주도한 시리즈 A 투자라운드 €26.1 million(미화 $30 million)을 유치했다. 이 자금은 미쉐린과의 파트너십을 통한 첫 상업 시연 시설 구축에 사용될 예정이다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/16/syntetica-raises-30m-series-a-for-circular-nylon-recycling/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/paris-based-syntetica-raises-e26-1-million-to-industrialise-process-that-cracks-a-major-nylon-recycling-barrier/"
     }
    ]
   },
