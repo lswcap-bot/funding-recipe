@@ -2,6 +2,234 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-17",
+   "company": "Tulon Materials",
+   "sector": "기타",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 1039000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": null,
+   "ai_summary_ko": "Tulon Materials는 재활용 불가능한 플라스틱 폐기물을 페인트, 인쇄 잉크, 접착제용 특수 레진으로 변환하는 사업으로 1천만 루피를 투자유치했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/tulon-materials-plastic-waste-speciality-resins-funding"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-17",
+   "company": "Becoming Quotient",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 7.5,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 779250,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Becoming Quotient는 직원들이 경력 성장을 측정하고 포터블하게 소유할 수 있도록 하는 플랫폼을 구축하기 위해 ₹7.5 crore를 조달했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/becoming-quotient-bq-raises-rs-7-5-crore-career-growth-platform"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-17",
+   "company": "H2LooP",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 스타트업 H2LooP는 펌웨어 및 임베디드 시스템을 위한 하드웨어 인식 AI 모델을 개발하고 있으며, 이를 칩, 자동차, 국방 분야에 적용하기 위해 200만 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/h2loop-ai-embedded-software-coding"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-17",
+   "company": "Naturis Cosmetics",
+   "sector": "기타",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 10390000,
+   "stage": "비공개",
+   "investors": [
+    "Sharrp Ventures"
+   ],
+   "lead_investor": "Sharrp Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 화장품 회사 Naturis Cosmetics가 Sharrp Ventures의 주도 하에 100크로어 루피 규모의 펀딩을 확보했다. 자금은 제조 시설 확장 및 R&D 센터 개설 등의 사업 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/naturis-cosmetics-raises-rs-100-crore-led-by-sharrp-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-17",
+   "company": "Greenjets",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 35.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 40022500,
+   "stage": "시리즈 A",
+   "investors": [
+    "Blossom Capital",
+    "NATO Innovation Fund",
+    "National Security Strategic Investment Fund"
+   ],
+   "lead_investor": "Blossom Capital",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 항공우주 기술 회사인 그린제츠가 차세대 항공 추진 시스템 개발을 위해 블로섬 캐피탈 주도로 NATO 혁신 펀드 등으로부터 3,500만 유로 규모의 시리즈 A 펀딩을 유치했다. 이 자금은 항공우주 기술 개발 및 사업 확장에 활용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/british-aerospace-technology-company-greenjets-raises-e35-million-series-a-with-nato-backing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-17",
+   "company": "Databricks",
+   "sector": "AI",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 5000000000,
+   "stage": "비공개",
+   "investors": [
+    "Coatue"
+   ],
+   "lead_investor": "Coatue",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Databricks가 2026년 초 약 50억 달러 규모의 펀딩 라운드를 완료했으며, 기업가치는 1,340억 달러로 평가받았다. Coatue가 이번 투자를 주도했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/databricks-hires-sap-head-apac-japan-operations"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-17",
+   "company": "ENGO",
+   "sector": "기타",
+   "amount_original": {
+    "value": 5.1,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5831850,
+   "stage": "비공개",
+   "investors": [
+    "Ventech",
+    "Odyssée Venture",
+    "Bpifrance Amorçage Industriel",
+    "Blueprint Partners"
+   ],
+   "lead_investor": "Ventech",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스 그르노블의 스포츠용 AR 스마트 안경 개발사 ENGO가 경량화 및 혁신 R&D 가속화를 위해 510만 유로 규모의 펀딩을 조달했다. 자금은 스포츠 스마트 아이웨어 시장에서의 리더십 강화에 활용될 계획이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/17/engo-raises-eur51m-to-advance-lightweight-smart-sports-eyewear/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/grenoble-based-engo-raises-e5-1-million-to-scale-its-lightweight-ar-glasses-for-athletes/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-17",
+   "company": "Sightera Biosciences",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3430500,
+   "stage": "프리시드",
+   "investors": [
+    "Entourage",
+    "Anacura",
+    "QBIC"
+   ],
+   "lead_investor": "Entourage",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "벨기에 테크바이오 회사 Sightera Biosciences가 생성 AI를 활용한 신약 개발 플랫폼 확대를 위해 €3백만의 프리시드 투자를 유치했습니다. Entourage, Anacura, QBIC이 주도한 이번 라운드로 환자 유래 세포 기반의 소분자 치료제 개발을 가속화할 계획입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/17/sightera-biosciences-closes-eur3m-pre-seed-to-expand-its-patient-derived-ai-drug-discovery-platform/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/antwerps-sightera-biosciences-raises-e3-million-to-scale-its-patient-derived-ai-drug-discovery-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-17",
+   "company": "Valar Atomics",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "핵 스타트업 Valar Atomics가 $6B 밸류에이션으로 새로운 펀딩 라운드를 추진 중이다. 다단계 펀딩의 복잡한 거래 구조로 인해 실제 진입 가격 파악이 어려워지는 추세를 보여준다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/"
+    }
+   ]
+  },
+  {
    "date": "2026-07-16",
    "company": "SwitchOn",
    "sector": "기타",
@@ -79,7 +307,7 @@
   {
    "date": "2026-07-16",
    "company": "Quick Clean",
-   "sector": "기타",
+   "sector": "커머스",
    "amount_original": {
     "value": 14.0,
     "currency": "USD",
@@ -98,6 +326,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/07/quick-clean-14-million-series-b-stakeboat-capital"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indian-home-service-startup-snabbit-said-to-raise-about-50m"
     }
    ]
   },
@@ -1357,6 +1589,10 @@
     {
      "name": "Tech.eu",
      "url": "https://tech.eu/2026/07/13/european-defence-ai-leader-helsing-secures-18b-series-e-at-18b-valuation/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/17/helsing-secures-1-8b-series-e-uber-acquiring-delivery-hero-in-13b-deal-and-revolut-to-launch-us-bank-in-2027/"
     }
    ]
   },
