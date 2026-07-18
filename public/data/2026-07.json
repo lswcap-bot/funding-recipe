@@ -2,6 +2,44 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-18",
+   "company": "Aisphere",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/infra-state-mind"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-18",
+   "company": "NextDC",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/infra-state-mind"
+    }
+   ]
+  },
+  {
    "date": "2026-07-17",
    "company": "Tulon Materials",
    "sector": "기타",
@@ -919,6 +957,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/07/udaan-secures-160m-in-financing"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/infra-state-mind"
     }
    ]
   },
