@@ -165,21 +165,14 @@ th.c-amt{text-align:right}
 <main class="wrap">
   <div class="toolbar">
     <div class="field">
-      <label>UNIT</label>
-      <select id="selUnit">
-        <option value="month" selected>월</option>
-        <option value="week">주</option>
-      </select>
-    </div>
-    <div class="field" id="fldYear">
       <label>YEAR</label>
       <select id="selYear"></select>
     </div>
-    <div class="field" id="fldMonth">
+    <div class="field">
       <label>MONTH</label>
       <select id="selMonth"></select>
     </div>
-    <div class="field" id="fldWeek" style="display:none">
+    <div class="field">
       <label>WEEK</label>
       <select id="selWeek"></select>
     </div>
@@ -256,9 +249,8 @@ th.c-amt{text-align:right}
 var state = {
   months: [],
   month: null,
-  unit: "month",           /* "month" (기본) | "week" */
-  week: null,              /* {start, end} */
-  weeks: [],
+  weekIdx: null,           /* null = 월 전체, 1~5 = 해당 주 (1일부터 7일 단위) */
+  monthDeals: [],          /* 선택된 월의 전체 딜 */
   deals: [],
   search: "",
   sortKey: "date",
@@ -296,18 +288,18 @@ function fmtUpdated(raw){
 
 /* ---------- date helpers (UTC 고정, 타임존 무관) ---------- */
 function dstr(d){ return d.toISOString().slice(0, 10); }
-function addDays(s, n){
-  var d = new Date(s + "T00:00:00Z");
-  d.setUTCDate(d.getUTCDate() + n);
-  return dstr(d);
-}
-function mondayOf(s){
-  var d = new Date(s + "T00:00:00Z");
-  d.setUTCDate(d.getUTCDate() - (d.getUTCDay() + 6) % 7);
-  return dstr(d);
-}
+function pad2(n){ return (n < 10 ? "0" : "") + n; }
 function monthLastDay(m){
   return dstr(new Date(Date.UTC(+m.slice(0, 4), +m.slice(5, 7), 0)));
+}
+/* 월 내 주 구간: 1주=1~7일, 2주=8~14일 ... 5주=29~말일 */
+function weekRangesFor(m){
+  var lastDay = +monthLastDay(m).slice(8);
+  var ranges = [];
+  for (var s = 1, n = 1; s <= lastDay; s += 7, n++) {
+    ranges.push({ n: n, from: m + "-" + pad2(s), to: m + "-" + pad2(Math.min(s + 6, lastDay)) });
+  }
+  return ranges;
 }
 
 /* ---------- month data fetch (캐시) ---------- */
@@ -320,24 +312,6 @@ function fetchMonth(m){
       .catch(function(){ return []; });
   }
   return monthCache[m];
-}
-
-/* ---------- weeks (월~일, 보유 월과 겹치는 주만) ---------- */
-function buildWeeks(){
-  if (!state.months.length) return [];
-  var avail = {};
-  state.months.forEach(function(m){ avail[m] = true; });
-  var cur = mondayOf(state.months[0] + "-01");
-  var last = monthLastDay(state.months[state.months.length - 1]);
-  var today = dstr(new Date());
-  if (last > today) last = today;   /* 아직 시작되지 않은 미래 주는 제외 */
-  var wks = [];
-  while (cur <= last) {
-    var end = addDays(cur, 6);
-    if (avail[cur.slice(0, 7)] || avail[end.slice(0, 7)]) wks.push({ start: cur, end: end });
-    cur = addDays(cur, 7);
-  }
-  return wks.reverse();   /* 최신 주 먼저 */
 }
 
 /* ---------- filtering ---------- */
@@ -533,7 +507,30 @@ function populateYearMonth(){
   }).join("");
 }
 
-function setPeriodDeals(deals, label, from, to){
+function populateWeeks(){
+  var today = dstr(new Date());
+  var opts = '<option value=""' + (state.weekIdx == null ? " selected" : "") + ">전체</option>";
+  weekRangesFor(state.month).forEach(function(w){
+    if (w.from > today) return;   /* 아직 시작되지 않은 주는 제외 */
+    opts += '<option value="' + w.n + '"' + (state.weekIdx === w.n ? " selected" : "") + ">" +
+      w.n + "주 (" + w.from.slice(8) + "~" + w.to.slice(8) + "일)</option>";
+  });
+  $("selWeek").innerHTML = opts;
+}
+
+/* 현재 월 + 주 선택을 반영해 테이블/내보내기 기간을 갱신 */
+function applyPeriod(){
+  var m = state.month;
+  var from = m + "-01", to = monthLastDay(m), label = m;
+  var deals = state.monthDeals;
+  if (state.weekIdx != null) {
+    var w = weekRangesFor(m)[state.weekIdx - 1];
+    if (w) {
+      from = w.from; to = w.to;
+      label = m + " · " + w.n + "주 (" + w.from.slice(8) + "~" + w.to.slice(8) + "일)";
+      deals = deals.filter(function(d){ return d.date >= from && d.date <= to; });
+    }
+  }
   state.deals = deals;
   GROUPS.forEach(function(g){ state.filters[g.key].clear(); });
   $("sbMonth").innerHTML = "<b>PERIOD</b> " + esc(label);
@@ -545,47 +542,13 @@ function setPeriodDeals(deals, label, from, to){
 
 function loadMonth(m){
   state.month = m;
+  state.weekIdx = null;   /* 월이 바뀌면 '전체'로 리셋 */
   populateYearMonth();
-  fetchMonth(m).then(function(deals){
-    setPeriodDeals(deals, m, m + "-01", monthLastDay(m));
-  });
-}
-
-function populateWeeks(){
-  $("selWeek").innerHTML = state.weeks.map(function(w){
-    var sel = state.week && state.week.start === w.start ? " selected" : "";
-    return '<option value="' + w.start + '"' + sel + ">" +
-      w.start + " ~ " + w.end.slice(5) + "</option>";
-  }).join("");
-}
-
-function loadWeek(w){
-  state.week = w;
   populateWeeks();
-  var need = [];
-  [w.start.slice(0, 7), w.end.slice(0, 7)].forEach(function(m){
-    if (state.months.indexOf(m) !== -1 && need.indexOf(m) === -1) need.push(m);
+  fetchMonth(m).then(function(deals){
+    state.monthDeals = deals;
+    applyPeriod();
   });
-  Promise.all(need.map(fetchMonth)).then(function(arr){
-    var deals = [].concat.apply([], arr).filter(function(d){
-      return d.date >= w.start && d.date <= w.end;
-    });
-    setPeriodDeals(deals, w.start + " ~ " + w.end.slice(5), w.start, w.end);
-  });
-}
-
-function setUnit(u){
-  state.unit = u;
-  var isWeek = u === "week";
-  $("fldYear").style.display = isWeek ? "none" : "";
-  $("fldMonth").style.display = isWeek ? "none" : "";
-  $("fldWeek").style.display = isWeek ? "" : "none";
-  if (isWeek) {
-    if (!state.weeks.length) state.weeks = buildWeeks();
-    loadWeek(state.week || state.weeks[0]);
-  } else {
-    loadMonth(state.month || state.months[state.months.length - 1]);
-  }
 }
 
 /* ---------- CSV export (일자·기업명·원문링크, 엑셀 호환 UTF-8 BOM) ---------- */
@@ -634,13 +597,9 @@ $("selYear").addEventListener("change", function(){
   if (mos.length) loadMonth(mos[0]);
 });
 $("selMonth").addEventListener("change", function(){ loadMonth(this.value); });
-$("selUnit").addEventListener("change", function(){ setUnit(this.value); });
 $("selWeek").addEventListener("change", function(){
-  var v = this.value;
-  var w = null;
-  for (var i = 0; i < state.weeks.length; i++)
-    if (state.weeks[i].start === v) { w = state.weeks[i]; break; }
-  if (w) loadWeek(w);
+  state.weekIdx = this.value ? +this.value : null;
+  applyPeriod();
 });
 $("expBtn").addEventListener("click", exportCSV);
 $("search").addEventListener("input", function(){
