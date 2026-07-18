@@ -73,6 +73,16 @@ select option{background:var(--panel);color:var(--txt)}
 .clearbtn{cursor:pointer;background:transparent;border:1px dashed var(--line2);color:var(--txt3);font-family:var(--mono);font-size:11px;padding:4px 8px}
 .clearbtn:hover{color:var(--red);border-color:var(--red)}
 
+/* ---------- export bar ---------- */
+.exportbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-bottom:14px;padding:8px 10px;background:var(--panel);border:1px dashed var(--line2)}
+.exportbar .xlabel{font-family:var(--mono);font-size:10px;letter-spacing:1.5px;color:var(--txt3)}
+.exportbar input[type=date]{background:var(--panel2);border:1px solid var(--line2);color:var(--txt);font-family:var(--mono);font-size:12px;padding:5px 8px;outline:none;color-scheme:dark}
+.exportbar input[type=date]:focus{border-color:var(--amber)}
+.exportbar .tilde{color:var(--txt3);font-family:var(--mono)}
+.expbtn{cursor:pointer;background:#132a17;border:1px solid var(--green);color:var(--green);font-family:var(--mono);font-size:11.5px;padding:6px 12px;font-weight:600}
+.expbtn:hover{background:var(--green);color:#000}
+.exphint{font-family:var(--mono);font-size:11px;color:var(--txt3)}
+
 /* ---------- table ---------- */
 .panel{background:var(--panel);border:1px solid var(--line)}
 .table-wrap{overflow-x:auto}
@@ -155,12 +165,23 @@ th.c-amt{text-align:right}
 <main class="wrap">
   <div class="toolbar">
     <div class="field">
+      <label>UNIT</label>
+      <select id="selUnit">
+        <option value="month" selected>월</option>
+        <option value="week">주</option>
+      </select>
+    </div>
+    <div class="field" id="fldYear">
       <label>YEAR</label>
       <select id="selYear"></select>
     </div>
-    <div class="field">
+    <div class="field" id="fldMonth">
       <label>MONTH</label>
       <select id="selMonth"></select>
+    </div>
+    <div class="field" id="fldWeek" style="display:none">
+      <label>WEEK</label>
+      <select id="selWeek"></select>
     </div>
     <div class="searchbox">
       <span class="pfx">&gt;_</span>
@@ -170,6 +191,15 @@ th.c-amt{text-align:right}
   </div>
 
   <div class="filters" id="filters"></div>
+
+  <div class="exportbar">
+    <span class="xlabel">EXPORT</span>
+    <input type="date" id="expFrom">
+    <span class="tilde">~</span>
+    <input type="date" id="expTo">
+    <button class="expbtn" id="expBtn">↓ CSV (일자·기업명·원문링크)</button>
+    <span class="exphint" id="expHint">기간 지정 후 다운로드 — 엑셀에서 바로 열립니다</span>
+  </div>
 
   <div class="panel">
     <div class="table-wrap">
@@ -226,6 +256,9 @@ th.c-amt{text-align:right}
 var state = {
   months: [],
   month: null,
+  unit: "month",           /* "month" (기본) | "week" */
+  week: null,              /* {start, end} */
+  weeks: [],
   deals: [],
   search: "",
   sortKey: "date",
@@ -259,6 +292,52 @@ function fmtAmount(v){
 function fmtUpdated(raw){
   /* index.json의 last_updated는 이미 KST 문자열이므로 그대로 표시 */
   return raw ? raw + " KST" : "";
+}
+
+/* ---------- date helpers (UTC 고정, 타임존 무관) ---------- */
+function dstr(d){ return d.toISOString().slice(0, 10); }
+function addDays(s, n){
+  var d = new Date(s + "T00:00:00Z");
+  d.setUTCDate(d.getUTCDate() + n);
+  return dstr(d);
+}
+function mondayOf(s){
+  var d = new Date(s + "T00:00:00Z");
+  d.setUTCDate(d.getUTCDate() - (d.getUTCDay() + 6) % 7);
+  return dstr(d);
+}
+function monthLastDay(m){
+  return dstr(new Date(Date.UTC(+m.slice(0, 4), +m.slice(5, 7), 0)));
+}
+
+/* ---------- month data fetch (캐시) ---------- */
+var monthCache = {};
+function fetchMonth(m){
+  if (!monthCache[m]) {
+    monthCache[m] = fetch("data/" + m + ".json")
+      .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function(j){ return (j && j.deals) || []; })
+      .catch(function(){ return []; });
+  }
+  return monthCache[m];
+}
+
+/* ---------- weeks (월~일, 보유 월과 겹치는 주만) ---------- */
+function buildWeeks(){
+  if (!state.months.length) return [];
+  var avail = {};
+  state.months.forEach(function(m){ avail[m] = true; });
+  var cur = mondayOf(state.months[0] + "-01");
+  var last = monthLastDay(state.months[state.months.length - 1]);
+  var today = dstr(new Date());
+  if (last > today) last = today;   /* 아직 시작되지 않은 미래 주는 제외 */
+  var wks = [];
+  while (cur <= last) {
+    var end = addDays(cur, 6);
+    if (avail[cur.slice(0, 7)] || avail[end.slice(0, 7)]) wks.push({ start: cur, end: end });
+    cur = addDays(cur, 7);
+  }
+  return wks.reverse();   /* 최신 주 먼저 */
 }
 
 /* ---------- filtering ---------- */
@@ -454,21 +533,98 @@ function populateYearMonth(){
   }).join("");
 }
 
+function setPeriodDeals(deals, label, from, to){
+  state.deals = deals;
+  GROUPS.forEach(function(g){ state.filters[g.key].clear(); });
+  $("sbMonth").innerHTML = "<b>PERIOD</b> " + esc(label);
+  /* 내보내기 기간 기본값을 현재 보기 기간으로 동기화 */
+  $("expFrom").value = from;
+  $("expTo").value = to;
+  render();
+}
+
 function loadMonth(m){
   state.month = m;
-  $("sbMonth").innerHTML = "<b>PERIOD</b> " + esc(m);
   populateYearMonth();
-  fetch("data/" + m + ".json")
-    .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(function(j){
-      state.deals = (j && j.deals) || [];
-      GROUPS.forEach(function(g){ state.filters[g.key].clear(); });
-      render();
-    })
-    .catch(function(){
-      state.deals = [];
-      render();
+  fetchMonth(m).then(function(deals){
+    setPeriodDeals(deals, m, m + "-01", monthLastDay(m));
+  });
+}
+
+function populateWeeks(){
+  $("selWeek").innerHTML = state.weeks.map(function(w){
+    var sel = state.week && state.week.start === w.start ? " selected" : "";
+    return '<option value="' + w.start + '"' + sel + ">" +
+      w.start + " ~ " + w.end.slice(5) + "</option>";
+  }).join("");
+}
+
+function loadWeek(w){
+  state.week = w;
+  populateWeeks();
+  var need = [];
+  [w.start.slice(0, 7), w.end.slice(0, 7)].forEach(function(m){
+    if (state.months.indexOf(m) !== -1 && need.indexOf(m) === -1) need.push(m);
+  });
+  Promise.all(need.map(fetchMonth)).then(function(arr){
+    var deals = [].concat.apply([], arr).filter(function(d){
+      return d.date >= w.start && d.date <= w.end;
     });
+    setPeriodDeals(deals, w.start + " ~ " + w.end.slice(5), w.start, w.end);
+  });
+}
+
+function setUnit(u){
+  state.unit = u;
+  var isWeek = u === "week";
+  $("fldYear").style.display = isWeek ? "none" : "";
+  $("fldMonth").style.display = isWeek ? "none" : "";
+  $("fldWeek").style.display = isWeek ? "" : "none";
+  if (isWeek) {
+    if (!state.weeks.length) state.weeks = buildWeeks();
+    loadWeek(state.week || state.weeks[0]);
+  } else {
+    loadMonth(state.month || state.months[state.months.length - 1]);
+  }
+}
+
+/* ---------- CSV export (일자·기업명·원문링크, 엑셀 호환 UTF-8 BOM) ---------- */
+function csvCell(s){
+  s = String(s == null ? "" : s);
+  return /[",\n\r]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+}
+function exportCSV(){
+  var from = $("expFrom").value, to = $("expTo").value;
+  var hint = $("expHint");
+  if (!from || !to) { hint.textContent = "시작일과 종료일을 지정하세요"; return; }
+  if (from > to) { hint.textContent = "시작일이 종료일보다 늦습니다"; return; }
+  var need = state.months.filter(function(m){
+    return m >= from.slice(0, 7) && m <= to.slice(0, 7);
+  });
+  if (!need.length) { hint.textContent = "해당 기간에 데이터가 없습니다"; return; }
+  hint.textContent = "생성 중...";
+  Promise.all(need.map(fetchMonth)).then(function(arr){
+    var deals = [].concat.apply([], arr).filter(function(d){
+      return d.date >= from && d.date <= to;
+    });
+    deals.sort(function(a, b){ return a.date < b.date ? -1 : a.date > b.date ? 1 : 0; });
+    var rows = [["일자", "기업명", "원문 링크"]];
+    deals.forEach(function(d){
+      var srcs = (d.sources && d.sources.length) ? d.sources : [{ url: "" }];
+      srcs.forEach(function(s){ rows.push([d.date, d.company, s.url || ""]); });
+    });
+    if (rows.length === 1) { hint.textContent = "해당 기간에 데이터가 없습니다"; return; }
+    var csv = "﻿" + rows.map(function(r){ return r.map(csvCell).join(","); }).join("\r\n");
+    var blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "funding_" + from + "_" + to + ".csv";
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(function(){ URL.revokeObjectURL(a.href); }, 3000);
+    hint.textContent = "딜 " + deals.length + "건 / " + (rows.length - 1) + "행 다운로드 완료";
+  });
 }
 
 /* ---------- events ---------- */
@@ -478,6 +634,15 @@ $("selYear").addEventListener("change", function(){
   if (mos.length) loadMonth(mos[0]);
 });
 $("selMonth").addEventListener("change", function(){ loadMonth(this.value); });
+$("selUnit").addEventListener("change", function(){ setUnit(this.value); });
+$("selWeek").addEventListener("change", function(){
+  var v = this.value;
+  var w = null;
+  for (var i = 0; i < state.weeks.length; i++)
+    if (state.weeks[i].start === v) { w = state.weeks[i]; break; }
+  if (w) loadWeek(w);
+});
+$("expBtn").addEventListener("click", exportCSV);
 $("search").addEventListener("input", function(){
   state.search = this.value.trim();
   render();
