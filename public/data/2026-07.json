@@ -2,6 +2,336 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-20",
+   "company": "Yimu Tech",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "CNY",
+    "unit": "billion"
+   },
+   "amount_usd": 147780000,
+   "stage": "시리즈 E",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 촉각 센싱 하드웨어·소프트웨어 개발사 이뮤 테크가 시리즈 E 라운드에서 10억 위안 이상을 조달했으며, 기업가치는 100억 위안을 넘었다. 펀딩은 여러 인민폐펀드, 달러펀드, 산업 투자자들이 공동 지원했다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/07/20/yimu-tech-raises-over-rmb1-billion-for-robot-tactile-sensing-and-production/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "company": "Pinbank",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 19.6,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 19600000,
+   "stage": "비공개",
+   "investors": [
+    "XP"
+   ],
+   "lead_investor": "XP",
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질 네오뱅크 핀뱅크가 XP가 구성·배분한 신용권투자펀드(FIDC)를 통해 1,960만 달러를 조달했다. 이는 구조화된 금융상품을 통한 펀딩이다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/pinbank-raises-19-6m-through-fidc/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "company": "Ualá",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "비공개",
+   "investors": [
+    "Tether"
+   ],
+   "lead_investor": "Tether",
+   "country": "아르헨티나",
+   "region": "중남미",
+   "ai_summary_ko": "아르헨티나 디지털 은행 Ualá가 Tether로부터 2천만 달러의 투자를 받았습니다. 이는 3월에 발표된 1억 9700만 달러 규모 펀딩 라운드의 일부입니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/tether-invests-20m-in-uala/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "company": "Raghu Vamsi Aerospace",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 40000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "하이데라바드 기반 항공우주 스타트업이 4천만 달러 펀딩을 유치했습니다. 인도, 영국, 미국 전역의 제조 시설 확장과 미션 시스템, 추진 기술, 자율 국방 기술 개발에 자금을 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/raghu-vamsi-aerospace-bags-usd-40m-to-expand-manufacturing-defence-tech"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "company": "Plazza",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "비공개",
+   "investors": [
+    "Accel",
+    "Elevation",
+    "Nexus"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Plazza가 의약품 배송 확대를 위해 Accel, Elevation, Nexus로부터 1,500만 달러를 투자받았다. 약국 네트워크를 확장하여 인도의 디지털 헬스케어 및 퀵커머스 부문 성장에 대응하고 의약품 접근성을 개선할 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/funding-plazza-15-million-series-a-expand-pharmacy-network"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "company": "Armatrix",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 2.1,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2100000,
+   "stage": "비공개",
+   "investors": [
+    "pi Ventures"
+   ],
+   "lead_investor": "pi Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 기반 딥테크 스타트업 Armatrix는 위험한 산업 공간 검사를 위한 초유연 로봇 팔을 개발하고 있습니다. pi Ventures가 주도한 펀딩 라운드에서 210만 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/armatrix-snake-robots-dangerous-tank-inspections"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "company": "Xentra",
+   "sector": "보안",
+   "amount_original": {
+    "value": 3.18,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3633468,
+   "stage": "비공개",
+   "investors": [
+    "Maven VCTs",
+    "NPIF II – Maven Equity Finance"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국 리즈 기반의 디지털 보안 스타트업 Xentra가 중소기업을 위한 사이버보안, 보호 및 컴플라이언스 솔루션을 제공하며, Maven VCTs와 NPIF II – Maven Equity Finance로부터 318만 유로를 투자받아 경영진 강화 및 고객 확보를 가속화할 계획입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/leeds-based-xentra-secures-e3-18-million-to-scale-cybersecurity-services-for-smes/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "company": "Sensesbit",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1142600,
+   "stage": "비공개",
+   "investors": [
+    "Clave Capital",
+    "Eoniq Fund",
+    "WindOne Consultores",
+    "Paraíso Natural Ventures"
+   ],
+   "lead_investor": null,
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "스페인 루고에 기반한 푸드테크 스타트업 Sensesbit이 고급 감각 분석 기술을 제공하는 AI 기반 센서리 인텔리전스 플랫폼을 확장하기 위해 100만 유로의 펀딩을 유치했습니다. Clave Capital, Eoniq Fund, WindOne Consultores, 그리고 Grupo Central Lechera Asturiana가 추진하는 Paraíso Natural Ventures가 이번 라운드에 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/spains-female-led-foodtech-startup-sensesbit-raises-e1-million-to-scale-its-ai-powered-sensory-intelligence-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "company": "CuspAI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 450.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 450000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Jeff Bezos",
+    "Sovereign AI",
+    "Kleiner Perkins"
+   ],
+   "lead_investor": "Kleiner Perkins",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "케임브리지 기반의 물질 발견을 위한 AI 시스템을 개발하는 CuspAI가 시리즈 B 펀딩라운드에서 3억 9,320만 유로를 유치했습니다. 클라이너 퍼킨스가 주도한 이번 투자로 회사는 22억 유로의 기업가치를 평가받았으며, 새로운 재료 설계를 가속화하기 위한 'AI Materials Foundry' 글로벌 네트워크를 출범했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/20/jeff-bezos-and-sovereign-ai-back-cuspai-in-450m-raise/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/cuspai-raises-e393-2-million-at-e2-2-billion-valuation-launches-ai-materials-foundry-to-accelerate-materials-discovery/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "company": "goNEON Agentic Systems",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [
+    "Venture Kick"
+   ],
+   "lead_investor": "Venture Kick",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "ETH 스핀오프 기업 goNEON Agentic Systems가 Venture Kick으로부터 16만 유로(15만 CHF)를 유치하여 인프라 계획 수립을 위한 에이전틱 AI 플랫폼 개발을 가속화하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/20/goneon-agentic-systems-secures-eur160k-to-accelerate-ai-powered-infrastructure-planning/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "company": "Sereact",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 116.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 116000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Zalando"
+   ],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "창고 자동화를 위한 물리적 AI 로봇 공급사 Sereact가 시리즈 B 라운드에서 유럽의 패션·라이프스타일 플랫폼 Zalando로부터 1억 1,600만 달러를 조성하여 AI 기반 창고 자동화를 가속화하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/20/zalando-joins-sereacts-116m-series-b-to-accelerate-ai-powered-warehouse-automation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "company": "Infinity",
+   "sector": "AI",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "비공개",
+   "investors": [
+    "Touring Capital",
+    "Principal VC",
+    "OpenAI researchers",
+    "Anthropic researchers"
+   ],
+   "lead_investor": "Touring Capital",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "AI 인프라 회사 Infinity가 Touring Capital, Principal VC, OpenAI와 Anthropic 연구원들로부터 1,500만 달러를 조달했다. 이번 투자에서 회사 가치는 1억 달러로 평가되었다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "company": "Natural",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 30000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Natural은 자율 AI 거래를 위한 금융 아키텍처를 재설계하는 1년 된 스타트업으로, Stripe에 대응하기 위해 AI 에이전트를 위한 결제를 혁신하고자 3천만 달러를 유치했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/"
+    }
+   ]
+  },
+  {
    "date": "2026-07-18",
    "company": "Aisphere",
    "sector": "기타",
