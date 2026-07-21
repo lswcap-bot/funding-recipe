@@ -2,6 +2,446 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-21",
+   "company": "Lug+Carrie",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 18.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 18000000,
+   "stage": "비공개",
+   "investors": [
+    "Catalytic Impact Capital"
+   ],
+   "lead_investor": "Catalytic Impact Capital",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "전기자전거 스타트업 Lug+Carrie가 Catalytic Impact Capital로부터 1,800만 달러의 부채 펀딩을 유치했다. 이 자금은 미국 시장 진출과 구독형 전기자전거 사업 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/other-tech/ebike-startup-lugcarrie-nabs-18-million-debt-deal-for-us-plans/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "30 Sundays",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 61.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 6337900,
+   "stage": "비공개",
+   "investors": [
+    "Bessemer Venture Partners"
+   ],
+   "lead_investor": "Bessemer Venture Partners",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "여행 기술 스타트업 30 Sundays는 Bessemer Venture Partners가 주도하는 라운드에서 61 crore를 조달했습니다. 투자금은 제품 개선, 기술과 AI 역량 강화, 팀 확대, 브랜드 구축 및 마케팅, 그리고 새로운 지역과 고객층으로의 확장에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/traveltech-startup-30-sundays-rs-61-crore-bessemer-venture-partners"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "Iswarya",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 350.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 36365000,
+   "stage": "비공개",
+   "investors": [
+    "OrbiMed"
+   ],
+   "lead_investor": "OrbiMed",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Iswarya는 40년간 자체 자금으로 운영해온 인도의 불임 치료 전문 기업입니다. OrbiMed로부터 350 crore 규모의 투자를 유치했으며, 이 자금을 통해 인도의 의료 소외 지역으로 불임 치료 서비스를 확대할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/iswarya-fertility-center-350-crore-orbimed-funding"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "NeuralZome",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2400000,
+   "stage": "시드",
+   "investors": [
+    "8X Ventures"
+   ],
+   "lead_investor": "8X Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 기반의 딥테크 스타트업 NeuralZome은 코드 작성 없이 누구나 로봇을 훈련시킬 수 있는 노코드 AI 기술을 개발하고 있습니다. 오프로드 로봇용 학습 가능한 AI 에이전트를 서비스로 제공하며, 8X Ventures가 주도한 시드 라운드에서 240만 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/neuralzome-no-code-ai-robot-training"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "Deutsche Sanierungsberatung",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 11418000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Simon Capital",
+    "VERBUND X Ventures",
+    "IBB Ventures",
+    "Vireo Ventures"
+   ],
+   "lead_investor": "Simon Capital",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 기반 클라이메이트테크 스타트업 Deutsche Sanierungsberatung이 주거용 주택을 기후중립적으로 개조하기 위해 시리즈 A 라운드에서 1천만 유로 이상을 모금했다. 이 자금은 자체 전기 요금제 개발, B2B 시장 진출, 추가 성장을 지원할 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/berlin-based-deutsche-sanierungsberatung-raises-over-e10-million-to-accelerate-climate-neutral-home-renovations/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "deltaVision",
+   "sector": "기타",
+   "amount_original": {
+    "value": 10.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 11646360,
+   "stage": "시드",
+   "investors": [
+    "KT Ventures",
+    "Valemount Capital"
+   ],
+   "lead_investor": "KT Ventures",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반 우주 유체 시스템 제조업체 deltaVision이 첫 펀딩 라운드에서 €10.2 million을 유치했다. KT Ventures와 Valemount Capital이 이끈 이번 투자는 증가하는 수요에 맞춰 생산 확대를 목표로 한다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/profitable-space-startup-deltavision-secures-e10-2-million-to-provide-the-cardiovascular-system-for-spacecraft/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "Omio",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 8.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 9933660,
+   "stage": "비공개",
+   "investors": [
+    "Granite-Integral"
+   ],
+   "lead_investor": "Granite-Integral",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 기반 멀티모달 여행 예약 플랫폼 Omio가 아시아 확장을 위해 €8.7 million의 전략적 투자를 유치했다. 이 투자는 그라나이트 아시아와 인테그럴 코퍼레이션의 합작 벤처인 Granite-Integral에서 나왔으며, 일본 진출과 동남아 지역 강화를 목표로 한다.",
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-ant-international-raises-series-a-funding-granite-integral-backs-berlin-based-omio-13-china-investments-and-more"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/omio-raises-e8-7-million-strategic-investment-for-asian-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "Pongbot",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "오세아니아",
+   "ai_summary_ko": "스포츠 로봇 회사 Pongbot의 Aura가 약 400만 달러의 투자를 유치했다. Kickstarter를 통해 지원받은 이 기기는 테니스 장비를 넘어 소프트웨어 기반 스포츠 생태계 구축을 목표로 한다.",
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/pongbots-aura-raises-nearly-usd-4-million-for-multisport-coaching-robot"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "Ant International",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 1.2,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1200000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "Ant International이 시리즈 A 라운드에서 12억 달러를 유치했다. 동사는 2024년 독립 운영을 시작했으며 아시아, 유럽, 중동, 라틴아메리카 지역에서 사업을 운영 중이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ant-international-hits-2-billion-ai-driven-payments-in-2025"
+    },
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-ant-international-raises-series-a-funding-granite-integral-backs-berlin-based-omio-13-china-investments-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "Maximilian Bittner의 AI-first wealth startup",
+   "sector": "AI",
+   "amount_original": {
+    "value": 13.7,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13700000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Lazada 창업자가 런던 기반의 AI-first wealth 스타트업에 1,370만 달러를 투자했다. 이 회사는 유럽 시장을 중심으로 사업을 전개할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/sequoia-capital-leads-35m-series-a-in-uk-ai-platform-nevis"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "ORiS",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5709000,
+   "stage": "프리시드",
+   "investors": [
+    "Earlybird",
+    "Pitchdrive",
+    "Galaxia",
+    "Vento",
+    "Piemonte Next Fund"
+   ],
+   "lead_investor": "Earlybird",
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "토리노 기반 딥테크 스타트업 ORiS가 우주 및 이중용도 응용 프로그램을 위한 레이저 기반 무선 전력 전송 시스템 개발을 위해 프리시드 라운드에서 450만 유로를 모금하고, 추가로 50만 유로 규모의 보조금을 확보했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/21/oris-raises-eur5m-to-build-laser-powered-energy-infrastructure-for-space/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/turin-based-oris-secures-e5-million-to-develop-wireless-power-transmission-systems-for-space-and-dual-use-applications/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "deltaVision",
+   "sector": "기타",
+   "amount_original": {
+    "value": 10.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 11646360,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반의 deltaVision이 발사체, 위성, 달 착륙선 및 궤도 서빙 우주선용 유체 시스템 제조사로서 첫 펀딩 라운드에서 1,020만 유로를 조달했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/21/deltavision-raises-eur102m-to-accelerate-orbital-refuelling-technology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "Circular Materials",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 11.8,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 13473240,
+   "stage": "비공개",
+   "investors": [
+    "CDP Venture Capital",
+    "European Innovation Council Fund",
+    "EIT RawMaterials",
+    "360 Capital",
+    "Corbites",
+    "Lumar"
+   ],
+   "lead_investor": null,
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "카도네게 기반 산업 폐수에서 중요 원재료를 회수하는 Circular Materials가 유럽 기관 및 전략적 투자자들로부터 €11.8 million의 SAFE 펀딩을 확보했다. 투자자들은 CDP Venture Capital, 유럽혁신위원회 펀드 등 6개 기관이 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/21/circular-materials-secures-eur118m-to-scale-critical-raw-material-recovery-technology/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/italys-circular-materials-secures-e11-8-million-to-recover-critical-raw-materials-from-industrial-wastewater/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "Cascade",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3500000,
+   "stage": "시드",
+   "investors": [
+    "Andreessen Horowitz Speedrun"
+   ],
+   "lead_investor": "Andreessen Horowitz Speedrun",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 스타트업 Cascade가 엔지니어링 및 건설 프로젝트를 사전에 예측하는 AI 기술로 Andreessen Horowitz Speedrun 주도의 350만 달러 규모 시드 라운드 펀딩을 조성했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/21/ai-engineering-project-predictor-startup-cascade-wins-35m-seed-investment/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "Humanoid",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 152.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 152000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "산업용 휴머노이드 로봇을 개발하는 AI 및 로보틱스 회사 Humanoid가 €133백만으로 시리즈 A 펀딩을 완료했으며, €1.1억의 밸류에이션으로 유럽의 신규 유니콘이 되었다. 이번 라운드는 총 €236백만의 누적 투자액을 기록했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/21/uk-robotics-startup-humanoid-hits-135b-valuation-with-152m-series-a/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/new-unicorn-humanoid-secures-e133-million-at-e1-1-billion-valuation-to-scale-industrial-robotics-and-physical-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "Sowilo",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "아이슬란드",
+   "region": "유럽",
+   "ai_summary_ko": "아이슬란드 AI 스타트업 Sowilo가 패션 상품 지능형 플랫폼 Catecut의 확장과 Shopify 앱의 글로벌 출시를 지원하기 위해 프리시드 펀딩 라운드를 조성했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/21/icelands-sowilo-raises-pre-seed-to-expand-ai-powered-fashion-product-intelligence-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "company": "Sila",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 300.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 300000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/"
+    }
+   ]
+  },
+  {
    "date": "2026-07-20",
    "company": "Yimu Tech",
    "sector": "로보틱스",
@@ -305,6 +745,10 @@
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/israeli-tech-companies-keep-hiring-talent-despite-war"
     }
    ]
   },
