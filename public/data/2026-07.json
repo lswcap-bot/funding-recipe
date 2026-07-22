@@ -2,6 +2,320 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-22",
+   "company": "Moonshot AI",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "브릿지",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Moonshot AI는 Kimi 챗봇 개발사로, 약 $50억 규모의 최종 공개 전 펀딩라운드를 추진 중이며 8월부터 협상을 시작할 예정이다. 현재 약 $31.5억의 기업가치로 평가받고 있으며, 6개월 내 홍콩 상장을 추진할 계획이다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/07/22/moonshot-ai-reportedly-plans-final-pre-ipo-round-at-50-billion-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "company": "ZeroDrag",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 6.5,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 672750,
+   "stage": "비공개",
+   "investors": [
+    "Transition VC"
+   ],
+   "lead_investor": "Transition VC",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "ZeroDrag는 드론 제조업체에 인도 제조 비행 전자장치를 공급하는 스타트업입니다. 중국 부품에 대한 의존도를 줄이기 위해 설립되었으며, Transition VC로부터 6.5억 루피의 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/zerodrag-indian-drone-hardware"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "company": "Modo Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 14.9,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 16997920,
+   "stage": "그로스",
+   "investors": [
+    "CIBC Innovation Banking"
+   ],
+   "lead_investor": "CIBC Innovation Banking",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 소재 AI 기반 에너지 저장 및 재생에너지 자산 벤치마킹 및 평가 플랫폼 Modo Energy가 CIBC Innovation Banking으로부터 1,490만 유로의 그로스 펀딩을 확보했으며, 누적 펀딩액은 4,550만 유로에 달한다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/londons-modo-energy-secures-e14-9-million-to-scale-its-ai-powered-energy-benchmarking-and-valuation-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "company": "Verda",
+   "sector": "AI",
+   "amount_original": {
+    "value": 102.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 116932000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "헬싱키 소재 AI 인프라 회사 Verda는 AI 클라우드 인프라 개발과 국제 확장을 위해 1,025만 유로의 자금을 유치했다. 이후 유럽투자은행(NIB)으로부터 2,200만 유로의 대출을 추가로 확보했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/months-after-raising-e102-5-million-helsinkis-ai-infrastructure-company-verda-secures-e22-million-nib-loan/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "company": "Brenus Pharma",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 11.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 12548800,
+   "stage": "시리즈 A",
+   "investors": [
+    "Angelor",
+    "UI Investissement",
+    "Crédit Agricole"
+   ],
+   "lead_investor": null,
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "암 재발 방지를 목표로 하는 리옹 기반 임상 단계 바이오텍 스타트업 Brenus Pharma가 시리즈 A 연장 라운드에서 1,100만 유로를 유치했습니다. 이는 설립 이후 총 자금 유치액을 3,800만 유로로 증액시켰으며, 기존 투자자들의 강력한 참여로 진행되었습니다. 회사는 난치성 고형암에 대한 면역치료제 개발을 진행 중입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/frances-brenus-pharma-raises-e11-million-series-a-extension-to-advance-immunotherapy-for-hard-to-treat-solid-tumours/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "company": "Immitra Bio",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 2.58,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2943264,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "취리히 기반 유전자 의학 플랫폼인 Immitra Bio가 프리시드 라운드에서 258만 유로를 유치했습니다. 이는 벤처캐피탈과 개인 투자자로부터 242만 유로, 비희석적 자금 161.8천 유로로 구성됩니다. 회사는 인비보 유전자 편집 치료법의 확장성과 상업적 실행 가능성을 강화하기 위해 자금을 활용할 계획입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/zurich-based-immitra-bio-secures-e2-58-million-to-scale-its-scalable-in-vivo-genetic-medicine-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "company": "Even Healthcare",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 50000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Khosla",
+    "Alpha Wave"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Even Healthcare가 5천만 달러 규모의 시리즈 B 펀딩을 유치했다. Khosla와 Alpha Wave가 이번 투자를 주도하고 있는 상황이며, 회사는 2025년 5월 방갈로르에 첫 병원을 개설하고 클리닉을 통합한 의료 서비스를 제공하고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indian-healthcare-fintech-firm-carefi-nets-8m-series"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "company": "Mistral",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.1,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1100000000,
+   "stage": "비공개",
+   "investors": [
+    "Samsung",
+    "EQT's Scaleup Europe Fund"
+   ],
+   "lead_investor": "Samsung",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "AI 기업 Mistral이 Samsung과 EQT의 Scaleup Europe Fund로부터 약 11억 달러 규모의 투자를 유치하고 있는 것으로 보도되었다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/mistral-ai-samsung-in-talks-on-memory-chips"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "company": "Ossprey",
+   "sector": "보안",
+   "amount_original": {
+    "value": 2.65,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2650000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "영국 소프트웨어 공급망 보안 스타트업 Ossprey가 프리시드 펀딩 라운드에서 265만 달러를 조달하여 제품 개발을 가속화하고 엔지니어링 및 상업 팀을 확대할 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/22/ossprey-secures-265m-to-stop-software-supply-chain-attacks/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "company": "Arrakis",
+   "sector": "AI",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 40000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 AI 배포 스타트업 Arrakis가 3개월 이상에 걸쳐 약 4천만 달러를 조달했으며, 前 Accel 투자자 Rafael Quintanilla가 설립했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/22/openai-and-datadog-leaders-back-ai-deployment-startup-arrakis/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "company": "Passionfroot",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Insight Partners"
+   ],
+   "lead_investor": "Insight Partners",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "독일 스타트업 Passionfroot는 B2B 크리에이터와 브랜드를 연결하는 마켓플레이스를 운영하고 있습니다. 이번 1,500만 달러 규모의 시리즈 A 펀딩을 통해 미국 시장 확장을 추진할 예정입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "company": "Yope",
+   "sector": "기타",
+   "amount_original": {
+    "value": 12.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 12300000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "소셜 앱 Yope가 시드 펀딩으로 1230만 달러를 조달했습니다. 친구와 가족의 소규모 프라이빗 그룹에 초점을 맞추고 있으며, 알고리즘이나 광고 없는 프라이빗 소셜 네트워크를 구축하고자 합니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "company": "Atoms",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 1.7,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1700000000,
+   "stage": "비공개",
+   "investors": [
+    "a16z",
+    "Uber"
+   ],
+   "lead_investor": "a16z",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Travis Kalanick의 로보틱스 회사 Atoms가 a16z 주도로 17억 달러를 조달했습니다. Uber도 이 투자에 참여했습니다. 회사는 산업용 AI를 활용해 세계를 현대화하는 것을 목표로 하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+    }
+   ]
+  },
+  {
    "date": "2026-07-21",
    "company": "Lug+Carrie",
    "sector": "모빌리티",
@@ -359,7 +673,10 @@
    "amount_usd": 3500000,
    "stage": "시드",
    "investors": [
-    "Andreessen Horowitz Speedrun"
+    "Andreessen Horowitz Speedrun",
+    "a16z Speedrun",
+    "Ada Ventures",
+    "Snowball VC"
    ],
    "lead_investor": "Andreessen Horowitz Speedrun",
    "country": "영국",
@@ -369,6 +686,10 @@
     {
      "name": "Tech.eu",
      "url": "https://tech.eu/2026/07/21/ai-engineering-project-predictor-startup-cascade-wins-35m-seed-investment/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/"
     }
    ]
   },
@@ -1597,12 +1918,20 @@
    ],
    "lead_investor": "Hero MotoCorp",
    "country": "인도",
-   "region": null,
+   "region": "남아시아",
    "ai_summary_ko": "Ather Energy는 Hero MotoCorp, India-Japan Fund, 창업자들로부터 1,200크로르 루피를 우선 공모 방식으로 조달했다. 자금은 제조 확장, 제품 개발, 연구 및 일반 기업 용도에 사용될 예정이다.",
    "sources": [
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/07/ather-energy-secures-rs-1200-cr-from-hero-motocorp-ijf-founders"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indian-ev-maker-ather-draws-104b-bids"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/ather-energy-raises-rs-1300-crore-through-qip"
     }
    ]
   },
