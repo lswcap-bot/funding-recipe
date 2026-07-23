@@ -2,6 +2,405 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-23",
+   "company": "Ábaco Technologies",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 53.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 53000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "엘살바도르",
+   "region": "중남미",
+   "ai_summary_ko": "엘살바도르 핀테크 기업 Ábaco Technologies가 창고 시설과 시드 라운드를 통해 5,300만 달러를 조달했다. 이 자금은 중미 지역 소상공인 대출 사업을 확장하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/abaco-technologies-secures-53m-to-expand-sme-lending-in-central-america/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "Cashea",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "베네수엘라",
+   "region": "중남미",
+   "ai_summary_ko": "베네수엘라 기반 지금 구매 나중에 결제(BNPL) 핀테크인 Cashea가 시리즈 B 라운드에서 1억 달러를 조달했다. 2022년 설립된 Cashea는 소비자들이 구매 시 결제를 유연하게 할 수 있도록 지원하는 서비스를 제공한다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/cashea-raises-100m-series-b/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "CARPL.ai",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "IFC"
+   ],
+   "lead_investor": "IFC",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "방사선 의학 AI 마켓플레이스 CARPL.ai가 IFC 주도로 시리즈 A 라운드에서 1,000만 달러를 유치했다. 이 자금은 제품 개발, 시장 확장, 파트너 생태계 확대에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/tech30-startup-carplai-raises-10-million-in-series-a-led-by-ifc"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "Flo Mobility",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 2.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2500000,
+   "stage": "프리시리즈A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 기반 스타트업으로 건설 자재를 운반하는 자율 로봇을 개발합니다. 최대 1.5톤을 건설 현장에서 운반할 수 있으며, 프리시리즈 A 라운드에서 250만 달러를 조달했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/flo-mobility-construction-robots"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "Dreamfly Innovations",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 12.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 1242000,
+   "stage": "시드",
+   "investors": [
+    "Avaana Capital"
+   ],
+   "lead_investor": "Avaana Capital",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 기반 스타트업으로 드론 및 항공우주용 난연성 고밀도 배터리를 제조합니다. Avaana Capital이 주도한 시드 라운드에서 1,200만 루피를 조달했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/dreamfly-innovations-drone-batteries-india"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "Nernst Electric",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 1.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1936640,
+   "stage": "시드",
+   "investors": [
+    "Hatch Blue's Blue Revolution Fund"
+   ],
+   "lead_investor": "Hatch Blue's Blue Revolution Fund",
+   "country": "아일랜드",
+   "region": "유럽",
+   "ai_summary_ko": "아일랜드 스타트업 Nernst Electric이 양식산업과 중공업을 위한 현장 산소 발생 기술 개발을 위해 Hatch Blue의 Blue Revolution Fund로부터 시드 투자 170만 유로를 유치했습니다. 회사는 2025년 7월에 Hatch Accelerator Fund II로부터 프리시드 펀딩도 받은 바 있습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/irelands-nernst-electric-raises-e1-7-million-to-advance-on-site-oxygen-generation-technology-for-aquaculture-and-heavy-industry/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "Aampere",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 4.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4784640,
+   "stage": "비공개",
+   "investors": [
+    "Trind Ventures",
+    "Vend Marketplaces ASA",
+    "G-FUND"
+   ],
+   "lead_investor": "Trind Ventures",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반 전기차 모빌리티 스타트업 Aampere가 중고 전기차 온라인 리세일 플랫폼을 유럽 전역으로 확장하기 위해 420만 유로를 투자유치했습니다. 에스토니아 VC Trind Ventures가 주도했고, 북유럽 마켓플레이스 회사 Vend Marketplaces ASA와 소비자 투자사 G-FUND가 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/munichs-aampere-charges-up-with-e4-2-million-to-expand-its-used-ev-resale-platform-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "Zafran",
+   "sector": "보안",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Cisco Investments"
+   ],
+   "lead_investor": "Cisco Investments",
+   "country": null,
+   "region": "중동/아프리카",
+   "ai_summary_ko": "이스라엘 사이버 보안 스타트업 Zafran이 Cisco Investments의 투자를 유치했다. 이번 투자로 Zafran의 총 펀딩 규모는 약 1억 3천만 달러에서 1억 4천만 달러 이상으로 증가했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/sequoia-capital-joins-60m-series-c-in-us-startup-zafran-security"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "BusinessNext",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 40000000,
+   "stage": "비공개",
+   "investors": [
+    "ServiceNow"
+   ],
+   "lead_investor": "ServiceNow",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 SaaS 스타트업 BusinessNext가 ServiceNow로부터 투자를 유치했으며, 기업가치는 7억 달러로 평가되었다. 두 회사는 ServiceNow의 AI Control Tower가 BusinessNext의 AI 에이전트를 모니터링하는 파트너십을 체결했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/firm-servicenow-acquire-data-startup-pyramid-analytics"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/banking-tech-company-businessnext-raises-40-million-from-servicenow"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "telli",
+   "sector": "AI",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "시드",
+   "investors": [
+    "Mutschler",
+    "redalpine",
+    "Cherry Ventures"
+   ],
+   "lead_investor": "redalpine",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 기반 AI 스타트업 telli가 B2C 기업의 고객 대응 운영을 자동화하는 AI 솔루션으로 유럽의 redalpine이 주도한 1,310만 유로 시드 펀딩을 유치했습니다. 이 라운드를 통해 총 펀딩액은 1,610만 유로를 넘어섰으며, Cherry Ventures 등 기존 투자자들도 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/23/telli-secures-15m-seed-to-automate-customer-facing-operations/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/yc-backed-telli-raises-e13-1-million-to-build-ai-for-b2c-customer-operations/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "kausable",
+   "sector": "AI",
+   "amount_original": {
+    "value": 12.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 13670400,
+   "stage": "시드",
+   "investors": [
+    "UVC Partners",
+    "Entourage",
+    "HTGF",
+    "Mätch VC"
+   ],
+   "lead_investor": "UVC Partners",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "독일 딥테크 AI 스타트업 kausable이 추론 우선 AI 개발을 위해 시드 펀딩으로 1,200만 유로를 유치했습니다. UVC Partners와 Entourage가 주도했으며, 독일 투자사 HTGF와 Mätch VC가 참여했습니다. 이 자금은 재훈련 없이 변화하는 상황에 자동으로 적응하는 AI 기술 개발에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/23/kausable-raises-eur12m-to-rethink-how-ai-learns/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/german-deeptech-startup-kausable-raises-e12-million-to-develop-reasoning-first-ai-that-adapts-without-retraining/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "PageMind",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 1.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1367040,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "스페인 AI 스타트업 PageMind가 전자상거래 최적화 플랫폼 개발 가속화, 팀 확대 및 국제 성장 지원을 위해 120만 유로 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/23/pagemind-raises-eur12m-to-scale-ai-for-e-commerce-product-discovery/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "Imagi",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 4.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4500000,
+   "stage": "시드",
+   "investors": [
+    "Brighteye Ventures",
+    "Day One Capital",
+    "Will.i.am"
+   ],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "에듀테크 플랫폼 Imagi가 코딩 교육을 돕기 위해 450만 달러 규모의 시드 라운드 펀딩을 유치했습니다. 투자자로는 Brighteye Ventures, Day One Capital, 아티스트 Will.i.am이 참여했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "Etched",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "AI 칩 제조 스타트업 Etched가 투자를 유치해 10.3억 달러의 기업가치를 평가받았다. 회사는 하버드 중퇴자 3명이 설립했으며, GPU 없이도 모든 AI 모델의 추론 속도를 높이는 새로운 칩과 메모리 구성요소를 개발했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "AegisAI",
+   "sector": "보안",
+   "amount_original": {
+    "value": 36.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 36000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "전 구글 보안 임원들이 설립한 AegisAI가 AI 기반 스피어 피싱 공격을 방지하는 기술 개발을 위해 3,600만 달러 규모의 투자를 유치했다. 회사는 AI 에이전트를 통해 각 메시지를 분석하여 체크리스트로도 놓칠 수 있는 미세한 이상 신호를 감지한다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "company": "Corgi",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 4000000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "AI 펀딩 열풍 속에서 Corgi는 8주 동안 3라운드의 연속적인 자금 조달에 성공했으며, 이번 라운드에서 40억 달러의 가치평가를 받았다. 보험 스타트업인 Corgi는 지속적으로 상향된 가치평가에서도 예외적인 성장세를 보이고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/"
+    }
+   ]
+  },
+  {
    "date": "2026-07-22",
    "company": "Moonshot AI",
    "sector": "AI",
@@ -312,6 +711,10 @@
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/arch-khosla-lead-quantum-startup-oratomics-300m-series"
     }
    ]
   },
