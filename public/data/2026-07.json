@@ -2,6 +2,267 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-24",
+   "company": "Siigo",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 103.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 103500000,
+   "stage": "비공개",
+   "investors": [
+    "Banco de Occidente"
+   ],
+   "lead_investor": null,
+   "country": "콜롬비아",
+   "region": "중남미",
+   "ai_summary_ko": "콜롬비아의 엔터프라이즈 소프트웨어 회사 Siigo가 1,035만 달러의 투자 라운드를 확보했으며, 이는 라틴 아메리카 확장 지원을 위한 것이다. Grupo Aval의 자회사인 Banco de Occidente가 1,850만 달러를 투자했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/siigo-secures-103-5m-to-support-latin-america-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "company": "Moa Technology",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 25.9,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 29466430,
+   "stage": "시리즈 C",
+   "investors": [
+    "Oxford Science Enterprises",
+    "Supernova Invest",
+    "Agri Investment Fund",
+    "GrainInnovate"
+   ],
+   "lead_investor": "Oxford Science Enterprises, Supernova Invest",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "옥스퍼드 기반의 농업 생명공학 회사 Moa Technology가 제초제 저항성 잡초 문제를 해결하기 위해 2,590만 유로(2,220만 파운드)의 시리즈 C 펀딩 라운드를 조달했다. 옥스퍼드 사이언스 엔터프라이즈와 슈퍼노바 인베스트가 라운드를 공동 주도했으며, 신규 투자자로는 농업 투자 펀드와 곡물 연구개발공사를 대신하여 투자하는 그레인이노베이트가 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/oxford-based-moa-technology-raises-e25-9-million-to-tackle-herbicide-resistant-weeds/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "company": "TidalSense",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 16.6,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 18885820,
+   "stage": "비공개",
+   "investors": [
+    "Cross-Border Impact Ventures",
+    "BGF",
+    "Airstream Capital",
+    "Foresight Group"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "케임브리지 기반 AI 기반 호흡기 진단업체 TidalSense가 영국 상용화 가속화 및 미국 포함 기술 글로벌화를 지원하기 위해 €16.6백만을 조성했다. 이번 라운드에는 신규 투자자 Cross-Border Impact Ventures와 기존 투자자 BGF, Airstream Capital, Foresight Group이 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/cambridge-based-tidalsense-raises-e16-6-million-to-take-its-ai-respiratory-diagnostic-technology-global/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "company": "Street Group",
+   "sector": "부동산",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "그로스",
+   "investors": [
+    "Hg"
+   ],
+   "lead_investor": "Hg",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "맨체스터 기반 부동산 소프트웨어 및 AI 제공업체 Street Group이 유럽 소프트웨어 기업 투자사 Hg로부터 전략적 성장 투자를 유치했다. 이번 투자로 회사 가치는 €233.8백만(£200백만)으로 평가되었으며, 회사는 이전에 지역 투자자 PXN으로부터 지원받은 바 있다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/manchester-based-proptech-startup-street-group-secures-hg-investment-at-a-valuation-of-over-e233-8-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "company": "Wellumio",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 9.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 9800000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "뉴질랜드",
+   "region": "오세아니아",
+   "ai_summary_ko": "뉴질랜드 의료기술 회사 Wellumio가 980만 달러 규모의 투자를 유치했다. 회사는 2023년에 시드 단계에서 247만 달러를 조성한 바 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/new-zealand-medtech-startup-wellumio-nets-7-3m-pre-series-a"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "company": "Scape",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.2,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3200000,
+   "stage": "시드",
+   "investors": [
+    "Y Combinator"
+   ],
+   "lead_investor": "Y Combinator",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "Scape는 25년 동안 변하지 않은 이메일 인터페이스를 재설계하는 AI 기반 솔루션을 개발하는 스웨덴 스타트업입니다. 두 명의 23세 창업자가 Y Combinator에서 320만 달러의 자금을 조달해 공식 출범했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/24/y-combinator-startup-scape-emerges-from-stealth-with-32m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "company": "UK healthtech challenger",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 19.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 19000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국 헬스테크 스타트업이 폐질환 검사 시간을 1시간에서 5분 이하로 단축하는 AI 기술을 개발했으며, 1,900만 달러의 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/24/uk-health-startup-using-ai-to-cut-lung-disease-test-time-clinches-19m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "company": "Resist.UA",
+   "sector": "기타",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 56885000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/24/cuspai-bags-450m-resist-ua-launches-50m-fund-and-dsit-axed/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "company": "World",
+   "sector": "AI",
+   "amount_original": {
+    "value": 52.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 52500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Sam Altman의 생체인식 스타트업 World가 암호화폐 판매를 통해 5,250만 달러를 조달했다. 이 회사는 안구를 스캔하여 고유한 디지털 식별자로 변환하는 서비스를 제공한다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "company": "Anduril",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Anduril이 약 100억 달러 규모의 새로운 펀딩 라운드를 진행 중인 것으로 알려졌으며, 이는 지난해 평가액의 3배 이상에 해당한다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "company": "Prentis",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Prentis는 Reid Hoffman과 Marc Pincus가 공동으로 설립한 AI 연구소로, 루틴 컴퓨터 작업 자동화가 향후 AI의 주요 사용 사례가 될 것으로 예상하고 1억 달러 규모의 펀딩을 유치하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/"
+    }
+   ]
+  },
+  {
    "date": "2026-07-23",
    "company": "Ábaco Technologies",
    "sector": "핀테크",
@@ -1395,6 +1656,10 @@
     {
      "name": "EU-Startups",
      "url": "https://www.eu-startups.com/2026/07/cuspai-raises-e393-2-million-at-e2-2-billion-valuation-launches-ai-materials-foundry-to-accelerate-materials-discovery/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/24/cuspai-bags-450m-resist-ua-launches-50m-fund-and-dsit-axed/"
     }
    ]
   },
