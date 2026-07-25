@@ -2,6 +2,29 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-25",
+   "company": "Boring Company",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 20000000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "엘론 머스크의 터널 굴착 스타트업인 보링 컴퍼니가 200억 달러 규모의 펀딩 라운드를 추진 중이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
+    }
+   ]
+  },
+  {
    "date": "2026-07-24",
    "company": "Siigo",
    "sector": "SaaS",
@@ -224,18 +247,26 @@
    "date": "2026-07-24",
    "company": "Anduril",
    "sector": "기타",
-   "amount_original": null,
-   "amount_usd": null,
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 5000000000,
    "stage": "비공개",
    "investors": [],
    "lead_investor": null,
    "country": "미국",
    "region": "북미",
-   "ai_summary_ko": "Anduril이 약 100억 달러 규모의 새로운 펀딩 라운드를 진행 중인 것으로 알려졌으며, 이는 지난해 평가액의 3배 이상에 해당한다.",
+   "ai_summary_ko": "미국 방위 기술 회사 Anduril이 5억 달러 규모의 펀딩을 유치했다. 이 투자 라운드를 통해 회사의 평가액은 5월에 615억 달러로 두 배 증가했으며, 향후 1000억 달러의 평가액을 목표로 하고 있다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/us-army-signs-20b-enterprise-software-deal-with-anduril"
     }
    ]
   },
@@ -259,6 +290,10 @@
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
     }
    ]
   },
