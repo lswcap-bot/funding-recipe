@@ -2,6 +2,312 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-27",
+   "company": "Omega Seiki Mobility",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 5215000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Omega Seiki Mobility는 상용 전기차 제조사로 50 crore INR을 조달하여 제조 역량 확대, R&D 강화, 딜러 네트워크 확장에 활용할 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/omega-seiki-mobility-raises-rs-50-crore"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "company": "Exsure",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 312900,
+   "stage": "프리시드",
+   "investors": [
+    "Unicorn India Ventures"
+   ],
+   "lead_investor": "Unicorn India Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Exsure는 암 세포를 표적으로 하는 특허 약물 전달 플랫폼을 개발하는 바이오텍 회사로, 전임상 테스트 단계에서 Unicorn India Ventures의 주도로 3 crore INR을 유치했다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/exsure-safer-chemotherapy-research"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "company": "Urban Harvest",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 341.39,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 35606977,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Urban Harvest는 B2B 식품 공급 플랫폼으로 341.39 crore INR 규모의 펀딩을 승인했으며, 이를 통해 강제 전환 우선주 42,013주를 1주당 81,260 INR에 발행한다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/b2b-food-supply-platform-urban-harvest-secures-341-crore-funding"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "company": "Enerzolve",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 5.1,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5100000,
+   "stage": "시드",
+   "investors": [
+    "Jungle Ventures",
+    "Kae Capital"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 기반 스타트업 Enerzolve는 스마트 그리드와 배터리 저장 시스템을 위한 하드웨어를 개발하고 있으며, Jungle Ventures와 Kae Capital이 공동으로 주도한 시드 라운드에서 510만 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/enerzolve-power-electronics-india-grid"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "company": "Ominimo",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 B",
+   "investors": [
+    "European Bank for Reconstruction and Development"
+   ],
+   "lead_investor": "European Bank for Reconstruction and Development",
+   "country": "세르비아",
+   "region": "유럽",
+   "ai_summary_ko": "세르비아-헝가리 핀테크 스타트업 오미미노가 유럽부흥개발은행의 벤처캐피탈 팀으로부터 시리즈 B 펀딩을 유치하여 14억 유로의 기업가치로 유니콘 기업에 올랐습니다. 이미 수익성을 갖춘 회사는 자본금을 다음 성장 단계에 활용할 계획입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/profitable-serbian-hungarian-insurtech-ominimo-hits-unicorn-status-two-years-after-launch-raises-e20-1-million-at-e1-4-billion-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "company": "Nuclear Turbines",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 19975500,
+   "stage": "비공개",
+   "investors": [
+    "IQ Capital",
+    "Rhapsody Venture Partners",
+    "Zero Carbon Capital",
+    "Empirical Ventures"
+   ],
+   "lead_investor": "IQ Capital",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "맨체스터 기반 소형 핵전력 시스템 개발 스타트업 Nuclear Turbines이 IQ Capital, Rhapsody Venture Partners, Zero Carbon Capital, Empirical Ventures가 참여한 1,750만 유로 펀딩을 유치했다. 자금은 원자로 설계 검증과 대규모 테스트 시설 구축에 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/27/bae-systems-energy-spinout-nuclear-turbines-emerges-from-stealth-with-ps15m-raise/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/manchesters-nuclear-turbines-raises-e17-5-million-to-develop-compact-cost-effective-nuclear-power-systems/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "company": "Beelzebub",
+   "sector": "보안",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3416700,
+   "stage": "시드",
+   "investors": [
+    "United Ventures"
+   ],
+   "lead_investor": "United Ventures",
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "밀란 기반 AI 사이버보안 플랫폼 Beelzebub이 이탈리아 딥테크 VC인 United Ventures로부터 300만 유로 시드 펀딩을 유치했다. 이 자금은 연구팀 확대와 로마의 새로운 상업 사무소 개설에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/27/beelzebub-raises-eur3m-to-strengthen-enterprise-cyber-defence-with-ai/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/milans-beelzebub-raises-e3-million-to-fight-ai-driven-cyberattacks-with-ai-powered-hacker-traps/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "company": "Multiverse Computing",
+   "sector": "AI",
+   "amount_original": {
+    "value": 570.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 570000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Forgepoint Capital International",
+    "BNPP SIVF",
+    "Bullhound Capital"
+   ],
+   "lead_investor": null,
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "스페인 산세바스티안 기반의 AI 스케일업 멀티버스 컴퓨팅이 5억 유로의 시리즈 C 펀딩을 유치하여 유니콘 기업으로 올라섰습니다. 이번 라운드는 시리즈 B 대비 5배 상향된 15억 유로의 기업가치로 평가되었으며, 주권적이고 효율적인 AI에 초점을 맞추고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/27/multiverse-computing-says-has-funding-commitments-up-to-570m-in-latest-round/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/spains-multiverse-computing-hits-unicorn-status-after-raising-e500-million-series-c-at-e1-5-billion-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "company": "Enigma",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [
+    "Index Ventures",
+    "Ribbit Capital",
+    "Conviction Partners"
+   ],
+   "lead_investor": "Index Ventures",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Enigma는 로봇 제어를 음량 조절만큼 간단하게 만드는 기술 개발 중이며, Index Ventures와 Ribbit Capital이 주도하고 Conviction Partners가 참여한 대규모 시드 라운드로 7,100만 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "company": "Antares",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 470.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 470000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Antares가 미국 공군 기지용 소형 모듈식 원자로(100kW~1MW) 건설을 위해 4억 7천만 달러를 투자 유치했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "company": "Thea Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "비공개",
+   "investors": [
+    "ARPA-E"
+   ],
+   "lead_investor": "ARPA-E",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "핵융합 발전소를 위한 고온 초전도 자석을 개발하는 Thea Energy가 미국 에너지부의 ARPA-E로부터 2천만 달러의 연방 보조금을 획득했다. 이 자금은 고온 초전도 자석의 생산 규모를 확대하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-25",
+   "company": "HAMR Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 32.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 32000000,
+   "stage": "비공개",
+   "investors": [
+    "ARENA"
+   ],
+   "lead_investor": "ARENA",
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "HAMR Energy가 지속가능한 항공 연료 개발을 위해 ARENA로부터 최대 3,200만 달러 규모의 자금을 확보했다. 회사는 산림 부산물을 항공 연료로 전환하는 사업을 추진하고 있다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/arena-backs-sustainable-aviation-fuel-startup-with-32-million/"
+    }
+   ]
+  },
+  {
    "date": "2026-07-25",
    "company": "Boring Company",
    "sector": "에너지",
