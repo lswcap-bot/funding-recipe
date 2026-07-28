@@ -2,6 +2,376 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-28",
+   "company": "Navi",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 6.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6800000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "신생아용 카테터 기술이 FDA 승인된 의료기기 회사 Navi가 680만 달러를 투자유치했으며, 이 자금으로 미국 병원에 제품을 확대 보급할 계획이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/paediatric-medtech-navi-raises-6-8-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "Outlier Space",
+   "sector": "우주항공",
+   "amount_original": {
+    "value": 10.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10500000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Outlier Space는 재사용 가능한 우주 캡슐을 이용해 궤도상에서 의약품과 칩을 생산하는 무인 공장을 구축하기 위해 1,050만 달러의 프리시드 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/kiwi-space-capsule-startup-takes-off-with-10-5-million-pre-seed-raise/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "Veriqus",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 387.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 40364100,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "두 명의 펀드 매니저가 인도의 고액자산가, 패밀리 오피스, 신흥 부자층을 위한 통합 자산관리 플랫폼을 구축하기 위해 Rs 387 crore를 조성했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/veriqus-rs-387-crore-wealthtech-india"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "DITTO",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 5.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5910840,
+   "stage": "시드",
+   "investors": [
+    "FoodLabs",
+    "EKA Ventures"
+   ],
+   "lead_investor": "FoodLabs",
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "DITTO는 월경 건강 관련 연구 및 보충제 개발에 집중하는 과학자 설립 회사로, 시드 라운드에서 520만 유로를 조달했습니다. 이번 자금은 연구 프로젝트 가속화, 과학 기반 보충제 라인 확장, 사업 규모 확대에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "Tiger Technology",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 8.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 9889290,
+   "stage": "시리즈 A",
+   "investors": [
+    "TCEE Fund IV",
+    "TDJ",
+    "Endeavor Catalyst",
+    "Impetus"
+   ],
+   "lead_investor": "TCEE Fund IV",
+   "country": "불가리아",
+   "region": "유럽",
+   "ai_summary_ko": "소피아 기반의 데이터 서비스 회사 Tiger Technology가 온프레미스 우선 하이브리드 클라우드 워크플로우를 전문으로 하며, 870만 유로의 시리즈 A 펀딩을 조달했습니다. 라운드는 TCEE Fund IV가 주도했으며, 여러 신규 투자자와 기존 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/sofia-based-tiger-technology-raises-e8-7-million-to-advance-always-on-hybrid-cloud-data-infrastructure/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "Xeltis",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 20.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 23302350,
+   "stage": "비공개",
+   "investors": [
+    "Horizon 3 Healthcare"
+   ],
+   "lead_investor": "Horizon 3 Healthcare",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "네덜란드와 미국 기반의 의료기술 회사 Xeltis가 환자의 자체 조직으로 대체되는 인공 혈관과 판막을 개발하기 위해 2,050만 유로의 추가 펀딩을 유치했습니다. 이번 라운드는 신규 투자자 Horizon 3 Healthcare가 주도했으며, 기존 투자자들도 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/dutch-us-medtech-xeltis-raises-e20-5-million-to-advance-artificial-vessels-and-valves-replaced-by-patients-own-tissue/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "SSI",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Nvidia"
+   ],
+   "lead_investor": "Nvidia",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "OpenAI의 전 과학 책임자 일리야 서츠키버가 2024년 설립한 AI 스타트업 SSI에 Nvidia가 투자했다. 투자 후 SSI의 기업 가치는 320억 달러로 평가되었다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/nvidiabacked-ai-startup-reflection-inks-1b-nebius-deal"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "ZuriQ",
+   "sector": "AI",
+   "amount_original": {
+    "value": 25.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 25500000,
+   "stage": "시드",
+   "investors": [
+    "Quantonation",
+    "Forward.one",
+    "Extantia",
+    "Firgun Ventures"
+   ],
+   "lead_investor": "Quantonation",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "스위스 양자컴퓨팅 스타트업 ZuriQ가 시드 펀딩으로 2,550만 달러를 확보했습니다. Quantonation이 주도한 이 라운드는 포획된 이온 양자 프로세서 개발을 가속화하기 위해 활용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/28/zuriq-raises-255m-to-scale-its-breakthrough-2d-quantum-architecture/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "Perceptual Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 5314800,
+   "stage": "비공개",
+   "investors": [
+    "Investing for Purpose"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국 풍력 기술 회사 Perceptual Robotics가 올해 상반기에 400만 파운드 이상의 펀딩을 확보했습니다. 신규 및 기존 주주들의 투자를 결합한 것으로, Investing for Purpose 등이 참여했으며 AI 기반 풍력 검사 기술 확장에 활용됩니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/28/perceptual-robotics-secures-ps4m-to-scale-ai-powered-wind-inspections/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "5U AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.2,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3200000,
+   "stage": "프리시드",
+   "investors": [
+    "Emerge Capital"
+   ],
+   "lead_investor": "Emerge Capital",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반의 물류 AI 스타트업 5U AI가 프리시드 펀딩으로 320만 달러를 확보했습니다. 런던 기반의 Emerge Capital이 주도한 이 라운드를 통해 화물 운송팀을 위한 디지털 인력 플랫폼 확장을 추진합니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/28/5u-ai-lands-32m-pre-seed-for-ai-freight-workforce-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "Greyparrot",
+   "sector": "AI",
+   "amount_original": {
+    "value": 27.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 27000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Omar Mir"
+   ],
+   "lead_investor": "Omar Mir",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 AI 폐기물 지능 기업 Greyparrot이 시리즈 B 펀딩으로 2,700만 달러를 확보했습니다. 이는 총 펀딩을 6,000만 달러로 끌어올렸으며, 기술 투자자 Omar Mir가 주도했습니다. 순환 경제를 위한 AI 폐기물 지능 솔루션을 확장할 계획입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/28/greyparrot-secures-27m-series-b-to-scale-ai-waste-intelligence-for-the-circular-economy/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "Fish Audio",
+   "sector": "AI",
+   "amount_original": {
+    "value": 52.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 52000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Fish Audio는 크리에이터와 기업을 위한 AI 음성 모델을 구축하는 스타트업으로, 시드 투자라운드에서 5,200만 달러를 유치했습니다. 지난해 론칭 이후 800만 명 이상이 오픈소스 또는 호스팅 버전의 모델을 사용 중이며, 연간 반복 매출은 2,100만 달러에 달합니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "Spur Intelligence",
+   "sector": "보안",
+   "amount_original": {
+    "value": 200.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 200000000,
+   "stage": "비공개",
+   "investors": [
+    "Insight Partners"
+   ],
+   "lead_investor": "Insight Partners",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Spur Intelligence는 봇 탐지 기술을 개발하는 스타트업으로, Insight Partners로부터 2억 달러 규모의 투자를 유치했다. 이 기술은 정상적인 인간 트래픽과 봇 트래픽을 구별하는 데 사용된다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "company": "Superstat",
+   "sector": "스포츠분석",
+   "amount_original": {
+    "value": 3.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3500000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Superstat은 AI를 활용한 아마추어 스포츠 분석 플랫폼으로 350만 달러의 프리시드 펀딩을 유치했습니다. 이 자금을 통해 아마추어 스포츠 분석을 AI 시대로 이끌 계획이며, 이후 미국 오스틴으로 이전할 예정입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/ai-amateur-sport-analysis-startup-raises-3-5-million-pre-seed/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "company": "Octopusbot",
+   "sector": "농업",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Octopusbot은 AI를 활용한 곡물 작황 예측 기술로 농부들이 시장 변동성에 대응하도록 돕는 농업기술 스타트업입니다. 이번 펀딩을 통해 100만 달러를 유치했으며, 이를 통해 AI 기반 곡물 예측 솔루션을 확대할 계획입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/agtech-startup-using-ai-to-predict-grain-crops-plants-1-million-first-raise/"
+    }
+   ]
+  },
+  {
    "date": "2026-07-27",
    "company": "Omega Seiki Mobility",
    "sector": "모빌리티",
@@ -215,8 +585,12 @@
    "date": "2026-07-27",
    "company": "Enigma",
    "sector": "로보틱스",
-   "amount_original": null,
-   "amount_usd": null,
+   "amount_original": {
+    "value": 71.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 71000000,
    "stage": "시드",
    "investors": [
     "Index Ventures",
@@ -224,13 +598,17 @@
     "Conviction Partners"
    ],
    "lead_investor": "Index Ventures",
-   "country": null,
-   "region": null,
+   "country": "이스라엘",
+   "region": "중동/아프리카",
    "ai_summary_ko": "Enigma는 로봇 제어를 음량 조절만큼 간단하게 만드는 기술 개발 중이며, Index Ventures와 Ribbit Capital이 주도하고 Conviction Partners가 참여한 대규모 시드 라운드로 7,100만 달러를 유치했습니다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/microsoft-ceo-says-firm-must-rebuild-staff-trust-after-layoffs"
     }
    ]
   },
@@ -244,7 +622,7 @@
     "unit": "million"
    },
    "amount_usd": 470000000,
-   "stage": "비공개",
+   "stage": "시리즈 C",
    "investors": [],
    "lead_investor": null,
    "country": "미국",
@@ -254,6 +632,10 @@
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/meet-cleantech-innovators-helping-cut-emissions-recycle-water"
     }
    ]
   },
