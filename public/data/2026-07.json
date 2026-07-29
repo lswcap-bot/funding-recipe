@@ -2,6 +2,309 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-29",
+   "company": "Fixxly",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 5.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5500000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Fixxly는 건설 자재 빠른 배송 플랫폼으로, AI 기술을 통해 생태계의 모든 참여자를 연결하여 적시 배송을 보장한다. 이번 시드 라운드에서 550만 달러를 유치했으며, 자금은 기술과 운영 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/building-materials-quick-commerce-startup-fixxly-seed-round"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "company": "Revspot",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4800000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "남아시아",
+   "ai_summary_ko": "AI 스타트업 Revspot이 시리즈 A 라운드에서 480만 달러를 유치했다. 회사는 이 자금을 제품과 엔지니어링 역량 강화, AI 인프라 개선, B2C 부문 확장, 국제 진출에 활용할 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/ai-startup-revspot-raises-funding-series-a-round"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "company": "Plend",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 58.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 66345400,
+   "stage": "비공개",
+   "investors": [
+    "Triple Point"
+   ],
+   "lead_investor": "Triple Point",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Plend는 런던 기반의 책임감 있는 대출 핀테크로, 영국 내 금융 소외 문제 해결을 목표로 합니다. 투자사 Triple Point로부터 최대 5,830만 유로(5천만 파운드) 규모의 펀딩 시설을 확보했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/london-based-responsible-lending-fintech-plend-secures-funding-facility-of-up-to-e58-3-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "company": "Sigvi",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 1.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1365600,
+   "stage": "프리시드",
+   "investors": [
+    "Superhero",
+    "Superhero Capital",
+    "Vladas Lašas"
+   ],
+   "lead_investor": "Superhero",
+   "country": "리투아니아",
+   "region": "유럽",
+   "ai_summary_ko": "Sigvi는 리투아니아 빌니우스 기반의 AI 수익 에이전트 스타트업으로, 자동차 렌탈 산업을 위한 AI 기반 플랫폼을 운영하고 있습니다. 제품 개발 및 국제 확장을 가속화하기 위해 Superhero Capital이 주도하는 프리시드 라운드에서 120만 유로를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/29/sigvi-raises-eur12m-to-expand-automated-car-rental-operations/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/vilnius-based-sigvi-raises-e1-2-million-to-scale-its-ai-powered-car-rental-platform-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "company": "Qureight",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "임상 시험을 위한 엔터프라이즈급 이미징과 정밀 엔드포인트를 제공하는 이미징 회사 Qureight가 폐 및 심장 질환에 초점을 맞춘 AI 기반 이미징 플랫폼 확장을 위해 시리즈 B에서 2천만 달러를 조달했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/29/qureight-secures-20m-series-b-to-expand-ai-powered-imaging-platform-for-clinical-trials/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "company": "Kinematic Trees",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 585000.0,
+    "currency": "GBP",
+    "unit": "unit"
+   },
+   "amount_usd": 777406,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국 기반 로보틱스 소프트웨어 스타트업 Kinematic Trees가 로봇 불가지론적 소프트웨어 플랫폼의 개발과 상용화 확대를 위해 프리시드 라운드에서 £585,000을 조달했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/29/kinematic-trees-raises-ps585k-to-scale-nature-inspired-robotics-software/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "company": "Agon",
+   "sector": "보안",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 30000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국의 국방 스타트업 Agon이 AI 기반 자율 무기가 드론 공격에 대항해 싸우는 가상 전장을 구축하고 있으며, 3천만 달러의 자금을 조달해 론칭했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/29/british-defence-startup-agon-creating-virtual-battlefields-launches-raising-30m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "company": "Pangram",
+   "sector": "AI",
+   "amount_original": {
+    "value": 9.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 9000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Pangram은 AI 감지 소프트웨어를 확장하기 위해 900만 달러를 모금했습니다. 이 스타트업은 새로운 AI 텍스트 감지 모델인 Pangram 4와 AI 이미지 감지 모델을 연구 미리보기 버전으로 출시했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "company": "Encore AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 30000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Encore AI는 고객 통화 데이터를 분석하여 효과적인 판매 기법을 파악하고 AI 에이전트의 플레이북으로 변환하는 기술을 개발하며, $30백만의 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "company": "Polar",
+   "sector": "AI",
+   "amount_original": {
+    "value": 5.7,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5700000,
+   "stage": "시드",
+   "investors": [
+    "Madrona"
+   ],
+   "lead_investor": "Madrona",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "전 Perplexity 직원이 설립한 Polar는 지식근로자를 위한 AI 우선 브라우저를 출시했으며, Madrona가 주도하는 $5.7백만의 시드 라운드 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "HiDream.ai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "CNY",
+    "unit": "billion"
+   },
+   "amount_usd": 221520000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-ropedia-and-pcg-global-raise-pre-series-a-funding-hidream-ai-secures-rmb-1-5-billion-four-other-china-investments-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "PCG Global",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시리즈A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-ropedia-and-pcg-global-raise-pre-series-a-funding-hidream-ai-secures-rmb-1-5-billion-four-other-china-investments-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "company": "Ropedia",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시리즈A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-ropedia-and-pcg-global-raise-pre-series-a-funding-hidream-ai-secures-rmb-1-5-billion-four-other-china-investments-and-more"
+    }
+   ]
+  },
+  {
    "date": "2026-07-28",
    "company": "Navi",
    "sector": "헬스케어",
