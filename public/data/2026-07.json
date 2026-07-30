@@ -2,6 +2,469 @@
  "month": "2026-07",
  "deals": [
   {
+   "date": "2026-07-30",
+   "company": "COR",
+   "sector": "기타",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 30000000,
+   "stage": "비공개",
+   "investors": [
+    "FTV Capital"
+   ],
+   "lead_investor": "FTV Capital",
+   "country": "아르헨티나",
+   "region": "중남미",
+   "ai_summary_ko": "아르헨티나 스타트업 COR가 FTV Capital 주도로 3천만 달러 규모의 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/cor-raises-30m-led-by-ftv-capital/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Inspira",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 2.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2800000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Cloud9 Capital"
+   ],
+   "lead_investor": "Cloud9 Capital",
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질의 리걸테크 스타트업 인스피라(Inspira)가 Cloud9 Capital이 주도한 280만 달러 규모의 시리즈 A 펀딩라운드를 완료했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/inspira-raises-2-8m-series-a-led-by-cloud9-capital/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Ecoterra",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000,
+   "stage": "비공개",
+   "investors": [
+    "Capibara Impact Trust"
+   ],
+   "lead_investor": "Capibara Impact Trust",
+   "country": "칠레",
+   "region": "중남미",
+   "ai_summary_ko": "칠레의 스타트업 에코테라(Ecoterra)가 Capibara Impact Trust로부터 100만 달러를 투자받았다. 회사의 밸류에이션은 1,600만 달러로 평가되었다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/ecoterra-raises-1m-from-capibara/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Aham Housing Finance",
+   "sector": "부동산",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 10450000,
+   "stage": "비공개",
+   "investors": [
+    "The Sanmar Group"
+   ],
+   "lead_investor": "The Sanmar Group",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Aham Housing Finance가 The Sanmar Group으로부터 1억 루피를 투자받았습니다. 회사는 투자 자금으로 시장 확대와 기술 개발에 중점을 둘 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/aham-housing-finance-raises-rs-100-cr-from-the-sanmar-group"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Arboreal Bioinnovations",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 230.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 24035000,
+   "stage": "시리즈 A",
+   "investors": [
+    "EAAA",
+    "Omnivore"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Arboreal Bioinnovations이 EAAA와 Omnivore가 공동 주도한 시리즈 A 펀딩라운드에서 2억 3,000만 루피를 유치했습니다. 회사는 제조 역량 확대, R&D 강화, 제품 상용화 가속화에 자금을 사용할 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/arboreal-bioinnovations-raises-rs-230-crore-series-a-eaaa-omnivore"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Cellarim Labs",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 627000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "셀라림 랩스는 재생 가능한 바이오 폐기물을 화장품 원료로 변환하는 기술을 개발했으며, 실험실 배치에서 파일럿 규모 생산으로 전환하기 위해 600만 루피를 유치했다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/cellarim-labs-cosmetic-ingredients-india"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Sid's Farm",
+   "sector": "농업",
+   "amount_original": {
+    "value": 81.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 8464500,
+   "stage": "프리시리즈A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Sid's Farm이 프리시리즈 B 라운드에서 81크로어 루피 이상의 투자를 확보했습니다. 이 자금은 공급망 강화, 제조 및 유통 역량 확대, 제품 혁신 투자, 농부 파트너십 강화 및 신규 지역 확장에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/07/sids-farm-raises-over-rs-81-cr-pre-series-b-round"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Ahead Health",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 8.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 9984120,
+   "stage": "비공개",
+   "investors": [
+    "3VC",
+    "RTP Global"
+   ],
+   "lead_investor": "3VC",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "취리히 기반의 예방 의료 헬스테크 회사인 Ahead Health가 3VC와 RTP Global이 주도한 870만 유로 규모의 투자를 확보했습니다. 이 자금을 통해 독일과 네덜란드로 스위스 외 첫 진출을 이루며, 사업 확장을 가속화할 계획입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/swiss-preventive-healthtech-startup-ahead-health-secures-e8-7-million-and-launches-in-germany-and-the-netherlands/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "AI Infrastructure Capital AG",
+   "sector": "AI",
+   "amount_original": {
+    "value": 16.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 18361600,
+   "stage": "비공개",
+   "investors": [
+    "Valyou investment foundation"
+   ],
+   "lead_investor": "Valyou investment foundation",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "스위스 스타트업 AI Infrastructure Capital AG는 재생 에너지 사이트에서 서버를 구매하고 운영한 후 용량을 장기 계약으로 임차하는 사업을 위해 약 €16 million의 펀딩을 조달했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/swiss-startup-ai-infrastructure-capital-ag-launches-with-e16-million-to-tackle-ai-compute-bottleneck/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Onyx",
+   "sector": "AI",
+   "amount_original": {
+    "value": 113.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 113000000,
+   "stage": "비공개",
+   "investors": [
+    "Bessemer Venture Partners"
+   ],
+   "lead_investor": "Bessemer Venture Partners",
+   "country": "이스라엘",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "Bessemer가 주도하는 1억 1,300만 달러 규모의 투자 라운드에서 이스라엘 AI 스타트업 Onyx가 자금을 조달했다. Onyx는 기업 내 섀도우 AI를 발견하고 프롬프트, 응답, 에이전트 액션을 모니터링하는 플랫폼을 운영 중이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/israeli-ai-cyber-startup-onyx-security-raises-40m-seed"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Moonshot AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.5,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 3500000000,
+   "stage": "시리즈 F",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Moonshot AI가 시리즈 F 라운드에서 35억 달러 이상을 조달했으며, 예상보다 앞서 시리즈 G 프리IPO 라운드를 시작했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/chinas-moonshot-ai-seeks-30b-valuation"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Temus",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/temasekbacked-temus-launches-ai-foundry-hires-50"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Bundle",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 5.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "아랍에미리트",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "UAE 기반 보상 플랫폼 스타트업 Bundle이 550만 달러를 유치했다. 5개 국가의 5개 회사가 참여한 파일럿 프로젝트에서 1,100명 이상의 수상자를 배출했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/firsty-puts-pressure-esim-rivals-approach"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Intropy",
+   "sector": "AI",
+   "amount_original": {
+    "value": 11.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 11000000,
+   "stage": "시드",
+   "investors": [
+    "Felix Capital",
+    "Quiet Ca",
+    "Quiet Capital",
+    "General Catalyst",
+    "firstminute capital"
+   ],
+   "lead_investor": "Felix Capital",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 AI 스타트업 Intropy가 예비 부품 산업을 위한 AI 네이티브 운영 체제를 구축하기 위해 €9.5 million의 시드 펀딩을 유치했습니다. 이번 라운드는 Felix Capital이 주도했으며 Quiet Capital, General Catalyst, firstminute capital이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/30/ai-for-spare-parts-startup-intropy-raises-11m/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/07/london-based-intropy-raises-e9-5-million-to-build-the-ai-native-operating-system-for-the-spare-parts-industry/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Perceptron",
+   "sector": "AI",
+   "amount_original": {
+    "value": 6.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Perceptron은 분산형 AI 데이터 네트워크로 650만 달러의 전략적 라운드 펀딩을 성공적으로 완료했습니다. Web3 투자자, 트레이딩 펀드, 생태계 파트너들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/30/perceptron-raises-65m-to-build-decentralised-ai-data-network/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Bikekey",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "TÖNNJES"
+   ],
+   "lead_investor": "TÖNNJES",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "덴마크의 디지털 자전거 등록 플랫폼 Bikekey가 독일 회사 TÖNNJES로부터 전략적 투자를 유치했습니다. 이 파트너십을 통해 글로벌 시장 확대를 추진할 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/30/digital-bike-id-startup-bikekey-secures-tonnjes-investment/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "inforcer",
+   "sector": "보안",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 50000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Insight Partners",
+    "Meritech Capital",
+    "Dawn Capital"
+   ],
+   "lead_investor": "Insight Partners",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국 기반의 보안 플랫폼 업체 inforcer가 시리즈 C 펀딩으로 5천만 달러를 유치했습니다. Insight Partners가 주도했으며, 기존 투자자인 Meritech Capital과 Dawn Capital도 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/07/30/inforcer-raises-50m-series-c-to-scale-ai-security-platform-for-msps/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Commonwealth Fusion Systems",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1000000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": null,
+   "ai_summary_ko": "Commonwealth Fusion Systems가 첫 상업용 핵융합 발전소로 나아가면서 10억 달러를 추가로 모금했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "company": "Simile",
+   "sector": "AI",
+   "amount_original": {
+    "value": 200.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 200000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Simile은 합성 사용자 관련 AI 스타트업으로, 5개월 전 시리즈 A에서 1억 달러를 유치한 지 얼마 되지 않아 2억 달러의 추가 투자를 확보했다. 회사의 밸류에이션은 20억 달러에 도달했으며, AI 유니콘 클럽의 또 다른 멤버로 합류했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/"
+    }
+   ]
+  },
+  {
    "date": "2026-07-29",
    "company": "Fixxly",
    "sector": "커머스",
@@ -1691,8 +2154,12 @@
    "date": "2026-07-22",
    "company": "Moonshot AI",
    "sector": "AI",
-   "amount_original": null,
-   "amount_usd": null,
+   "amount_original": {
+    "value": 3.5,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 3500000000,
    "stage": "브릿지",
    "investors": [],
    "lead_investor": null,
@@ -1703,6 +2170,10 @@
     {
      "name": "TechNode",
      "url": "https://technode.com/2026/07/22/moonshot-ai-reportedly-plans-final-pre-ipo-round-at-50-billion-valuation/"
+    },
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/07/30/moonshot-ai-reportedly-closes-3-5-billion-round-at-35-billion-valuation/"
     }
    ]
   },
