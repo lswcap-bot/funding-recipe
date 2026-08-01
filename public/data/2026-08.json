@@ -1,0 +1,62 @@
+{
+ "month": "2026-08",
+ "deals": [
+  {
+   "date": "2026-08-01",
+   "company": "Techtaka",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-house-rules"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "company": "Delta Intelligence",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-house-rules"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "company": "Onyx Security",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-house-rules"
+    }
+   ]
+  }
+ ]
+}
