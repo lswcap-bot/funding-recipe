@@ -2,6 +2,306 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-03",
+   "company": "Active Technology (主动科技)",
+   "sector": "AI",
+   "amount_original": {
+    "value": 330.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 48869700,
+   "stage": "프리시드",
+   "investors": [
+    "Zhongke Chuangxing",
+    "Lenovo"
+   ],
+   "lead_investor": "Zhongke Chuangxing",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "상하이 소재 뇌-컴퓨터 인터페이스 스타트업 Active Technology가 3억 3천만 위안의 천사 라운드 펀딩을 유치했습니다. 중국 BCI 분야 천사 라운드 최대 규모 자금 조성입니다. 이 회사는 침습형 뇌-컴퓨터 인터페이스 기술을 개발 중이며 2026년 2월 설립되었습니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/08/03/shanghai-based-bci-startup-raises-rmb330-million-in-record-setting-angel-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "company": "KG Mobility",
+   "sector": "기타",
+   "amount_original": {
+    "value": 75.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 75000000,
+   "stage": "비공개",
+   "investors": [
+    "Chery Automobile"
+   ],
+   "lead_investor": "Chery Automobile",
+   "country": "한국",
+   "region": "동아시아",
+   "ai_summary_ko": "KG Mobility가 Chery Automobile로부터 7,500만 달러를 전환사채 형태로 유치했다. 전환 시 Chery는 KGM의 약 10%를 보유하게 되며, 이는 Chery의 해외 진출 강화 및 국제 파트너십 확대를 위한 전략적 투자다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/08/03/chery-automobile-to-acquire-10-stake-in-south-koreas-kg-mobility-through-75m-investment/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "company": "Kaapi Machines",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 5245000,
+   "stage": "비공개",
+   "investors": [
+    "Sedna HoReCa"
+   ],
+   "lead_investor": "Sedna HoReCa",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Kaapi Machines는 Sedna HoReCa로부터 50크로어 루피를 투자받았다. 이 자금은 제품 포트폴리오 확대, 제조 능력 강화, 기술 개선에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/kaapi-machines-raises-rs-50-cr-from-sedna-horeca"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "company": "ideaForge",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 151.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 15839900,
+   "stage": "비공개",
+   "investors": [
+    "정부 RDI 스킴"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "ideaForge가 정부의 RDI 스킴으로부터 1억 5,100만 루피를 확보했다. 이 자금은 자동화 드론 YETI라는 대형 리프트 자율 항공 플랫폼 개발에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/ideaforge-secures-rs-151-cr-govt-rdi-scheme-to-develop-autonomous-drone-yeti"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "company": "Aiforia",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 23070000,
+   "stage": "비공개",
+   "investors": [
+    "European Investment Bank"
+   ],
+   "lead_investor": "European Investment Bank",
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "헬싱키 기반의 병리학 AI 솔루션 회사 Aiforia가 유럽투자은행(EIB)으로부터 암 진단 AI 기술 개발을 위해 2,000만 유로의 벤처 채무 펀딩을 확보했다. 이는 유럽위원회의 InvestEU 프로그램의 지원을 받으며, 제품 개발 촉진과 상용 운영 강화에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/helsinki-based-aiforia-secures-e20-million-eib-financing-to-advance-ai-powered-cancer-diagnostics/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "company": "Naver",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Nvidia",
+    "Brookfield"
+   ],
+   "lead_investor": null,
+   "country": "한국",
+   "region": "동아시아",
+   "ai_summary_ko": "Naver가 AI 팩토리 펀딩을 위해 Nvidia와 Brookfield로부터 투자를 유치했습니다. 첫 단계인 200MW 규모의 시설이 한국 세종의 Naver Gak Sejong 하이퍼스케일 데이터센터에 구축될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/naver-cloud-build-gigawatt-ai-factories-nvidia"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "company": "Olix",
+   "sector": "AI",
+   "amount_original": {
+    "value": 312.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 312000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Fundomo",
+    "Arm",
+    "Hudson River Trading"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 AI 칩 스타트업 OLIX가 €270.5 million을 투자받으며 €2.8 billion의 밸류에이션을 달성했다. 설립 2년 만의 시리즈 B 펀딩이며, Fundomo, Arm, Hudson River Trading이 주요 투자자로 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/03/uk-chip-startup-olix-raises-ps312m-at-ps33bn-valuation/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/uk-ai-chip-startup-olix-raises-e270-5-million-at-e2-8-billion-valuation-just-two-years-after-its-founding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "company": "Aflabox",
+   "sector": "농업",
+   "amount_original": {
+    "value": 1.35,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1557225,
+   "stage": "시드",
+   "investors": [
+    "FoodSeed"
+   ],
+   "lead_investor": null,
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "이탈리아 AgTech 스타트업 Aflabox가 €1.35 million의 시드 펀딩을 조달했다. FoodSeed 프로그램을 통해 자금을 모았으며, AI 기반 아플라톡신 검출 기술로 아프리카와 유럽의 식품 안전 시장을 겨냥하고 있다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/03/aflabox-raises-eur135m-seed-to-bring-food-safety-testing-into-the-field/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/italys-aflabox-raises-e1-35-million-to-scale-ai-powered-portable-aflatoxin-detection-across-africa-and-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "company": "June",
+   "sector": "AI",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": "Marc Benioff",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "June는 Marc Benioff가 지원하는 스타트업으로, AI 도입을 더 간단하게 만드는 솔루션을 제공합니다. 프리시드 라운드에서 2천만 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "company": "Horizon3",
+   "sector": "보안",
+   "amount_original": {
+    "value": 250.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 250000000,
+   "stage": "시리즈 E",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "사이버보안 스타트업 Horizon3는 20억 달러의 기업가치로 2억 5천만 달러의 시리즈 E 투자를 유치했습니다. 기업들이 연간 펜테스트 대신 AI 기반의 지속적인 보안 검증을 원하면서 수요가 증가하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "company": "Base Power",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1000000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Base Power는 가정용 배터리 생산 확대를 위해 10억 달러 규모의 투자 라운드를 진행했습니다. 이번 자금은 전력망 안정화에 기여하는 백야드 배터리 생산 증대에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "company": "Design Arena",
+   "sector": "AI",
+   "amount_original": {
+    "value": 7.9,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7900000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Design Arena는 AI 모델에 미적 감각을 부여하기 위해 750만 달러의 투자를 유치했다. 이 플랫폼은 세계 530만 명이 사용하며 프론티어 AI 랩에 중요한 인간 평가 데이터를 제공한다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-01",
    "company": "Techtaka",
    "sector": "기타",

@@ -3736,18 +3736,28 @@
    "date": "2026-07-17",
    "company": "Valar Atomics",
    "sector": "에너지",
-   "amount_original": null,
-   "amount_usd": null,
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1000000000,
    "stage": "비공개",
-   "investors": [],
-   "lead_investor": null,
+   "investors": [
+    "Sequoia"
+   ],
+   "lead_investor": "Sequoia",
    "country": "미국",
    "region": "북미",
-   "ai_summary_ko": "핵 스타트업 Valar Atomics가 $6B 밸류에이션으로 새로운 펀딩 라운드를 추진 중이다. 다단계 펀딩의 복잡한 거래 구조로 인해 실제 진입 가격 파악이 어려워지는 추세를 보여준다.",
+   "ai_summary_ko": "Valar Atomics가 Sequoia Capital의 Shaun Maguire가 주도하는 라운드에서 10억 달러를 유치했으며, 기업 가치는 60억 달러로 평가받았습니다. 이 회사는 6월 Nvidia와 개발 계약을 체결한 핵 스타트업입니다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/"
     }
    ]
   },
