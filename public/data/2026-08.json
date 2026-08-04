@@ -2,6 +2,545 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-04",
+   "company": "Fangqing Technology",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시리즈A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Fangqing Technology는 AI 칩 스타트업으로 RMB 100억 이상의 기업가치로 A1 펀딩 라운드를 완료한 것으로 알려졌습니다. 다만 구체적인 라운드 규모, 투자자 정보, 자금 용도 등의 상세 정보는 공개되지 않았습니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/08/04/shanghai-based-ai-chip-startup-reportedly-completes-a1-round-at-valuation-above-rmb10-billion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "PaXini",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "CNY",
+    "unit": "billion"
+   },
+   "amount_usd": 148070000,
+   "stage": "비공개",
+   "investors": [
+    "BOC International Investment",
+    "Kunpeng Fund",
+    "Hexin Fangce",
+    "Dinghui Baifu",
+    "Chengdu Jiazi AI Fund",
+    "Jingming"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "PaXini는 촉각 감지 기술을 보유한 구현형 AI 스타트업으로, RMB 10억 규모의 전략적 펀딩 라운드를 완료했습니다. 이번 라운드는 글로벌 소비자 전자제품 및 반도체 그룹과 BOC International Investment 등이 주도했으며, 누적 펀딩액은 RMB 35억에 도달했습니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/08/04/embodied-ai-startup-paxini-raises-rmb1-billion-to-scale-tactile-sensing-technology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Einship",
+   "sector": "기타",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000,
+   "stage": "시드",
+   "investors": [
+    "Parceiro Ventures"
+   ],
+   "lead_investor": "Parceiro Ventures",
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질 스타트업 Einship이 Parceiro Ventures가 주도한 시드 라운드에서 100만 달러를 조성했습니다. Einship은 AI 네이티브 플랫폼을 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/einship-raises-1m-seed-round-led-by-parceiro-ventures/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Strattum",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.2,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3200000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질 AI 인프라 스타트업 Strattum이 320만 달러의 프리시드 라운드를 유치한 후 국제 시장에서 플랫폼 테스트를 시작했습니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/strattum-expands-internationally-after-raising-3-2m-pre-seed-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Jusfy",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Quona Capital",
+    "Spectra"
+   ],
+   "lead_investor": "Quona Capital",
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질 리걸테크 스타트업 Jusfy가 Quona Capital이 주도하고 Spectra가 참여한 시리즈 A 라운드에서 1,500만 달러를 조성했습니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/jusfy-raises-15m-series-a-led-by-quona-capital/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Decade",
+   "sector": "AI",
+   "amount_original": {
+    "value": 85.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 85000000,
+   "stage": "시드",
+   "investors": [
+    "Greenoaks",
+    "Benchmark",
+    "Diffusion"
+   ],
+   "lead_investor": "Greenoaks",
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질 스타트업 Decade가 AI 기반 자산 관리 플랫폼 출시를 위해 Greenoaks, Benchmark, Diffusion이 주도한 시드 라운드에서 8,500만 달러를 유치했습니다. 회사는 전 누방크(Nubank) 임원진으로 구성되어 있습니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/decade-raises-85m-seed-round-to-launch-ai-powered-wealth-advisory-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Vaaree",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 65.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 6812000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Hero Enterprise",
+    "Cap Alpha Ventures"
+   ],
+   "lead_investor": "Hero Enterprise",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Vaaree는 홈 데코 및 가구 마켓플레이스로서 Hero Enterprise와 Cap Alpha Ventures가 주도한 시리즈 A 라운드에서 65크로르 루피를 유치했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/home-decor-furnishings-marketplace-vaaree-series-a-funding"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "GetVantage",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 63.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 6602400,
+   "stage": "시리즈 A1",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "GetVantage는 중소제조업(MSME)을 대상으로 한 B2B 핀테크 플랫폼으로, 시리즈 A1 라운드에서 Rs 63 Cr을 유치했다. 이 자금은 기술 플랫폼 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/fintech-platform-getvantage-raises-rs-63-cr-in-series-a1-round"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "HYLENR Technologies",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 26.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 2724800,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "HYLENR Technologies는 산업 열 생산을 위한 저에너지 핵반응 시스템을 개발 중이며, 실험실 시연에서 제품 개발로 전환하기 위해 약 2,600만 루피를 유치했다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/hylenr-low-energy-nuclear-reactors"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Exclaim Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 4.29,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4939935,
+   "stage": "프리시드",
+   "investors": [
+    "Founderful",
+    "Playfair"
+   ],
+   "lead_investor": null,
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "취리히 기반 AI 데이터센터 유지보수 로봇을 개발하는 스타트업 익스클레임 로보틱스가 프리시드 라운드에서 429만 유로를 유치했습니다. 자동화된 모바일 로봇으로 데이터센터 내 정기적인 수리 및 유지보수 작업을 수행하도록 설계되었으며, 펀더풀과 플레이페어가 투자를 주도했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/zurich-based-exclaim-robotics-exits-stealth-with-e4-29-million-to-build-robots-for-ai-data-centre-maintenance/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Intelligence",
+   "sector": "AI",
+   "amount_original": {
+    "value": 7.9,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7900000,
+   "stage": "시드",
+   "investors": [
+    "Index Ventures"
+   ],
+   "lead_investor": "Index Ventures",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/price-beats-intelligence-openais-newest-model"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "X Mile",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "비공개",
+   "investors": [
+    "Vertex Growth"
+   ],
+   "lead_investor": "Vertex Growth",
+   "country": "일본",
+   "region": "동아시아",
+   "ai_summary_ko": "일본의 물류 스타트업 X Mile이 Vertex Growth 주도로 2,000만 달러 규모의 투자를 유치했다. 2019년 설립된 X Mile은 인력 파견 플랫폼에서 시작해 AI 도구로 사업을 확장했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-helps-robots-real-world-blind-spots-persist"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Nyai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1500000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 법률 AI 스타트업 Nyai가 시드 라운드에서 150만 달러를 유치했다. 이 회사의 소프트웨어는 클라이언트가 이미 라이선스한 언어 모델과 호환되며 규제 기관을 위한 온프레미스 배포를 지원한다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/courtroom-chaos-silicon-valley-ai-losing-asia"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Shiplog",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000,
+   "stage": "프리시드",
+   "investors": [
+    "Kima Ventures",
+    "Project Europe",
+    "Purple",
+    "No Label Ventures",
+    "100IN",
+    "Station"
+   ],
+   "lead_investor": "Kima Ventures",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "Shiplog는 파리 기반의 B2B SaaS 회사로 고객 생명주기 관리 및 확장을 위한 AI 기반 플랫폼 구축에 약 $1 million의 프리시드 펀딩을 조성했습니다. Kima Ventures가 주요 투자자로 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/04/shiplog-raises-1m-to-build-ai-customer-intelligence-for-b2b-saas/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/paris-based-shiplog-raises-over-e807-6k-to-build-agentic-customer-intelligence-for-personalisation-at-scale/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Estel Technologies",
+   "sector": "AI",
+   "amount_original": {
+    "value": 270.0,
+    "currency": "EUR",
+    "unit": "thousand"
+   },
+   "amount_usd": 310905,
+   "stage": "프리시드",
+   "investors": [
+    "Vitosha Ventures"
+   ],
+   "lead_investor": "Vitosha Ventures",
+   "country": "불가리아",
+   "region": "유럽",
+   "ai_summary_ko": "Estel Technologies는 불가리아 기반의 AI 네이티브 세일즈 플랫폼 회사로 글로벌 기술 인재 산업을 위한 플랫폼 확장을 위해 €270,000의 프리시드 펀딩을 조성했습니다. Vitosha Ventures가 주도 투자자입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/04/estel-technologies-raises-eur270k-to-modernise-tech-staffing-sales/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Ore Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 43.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 43000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Plural",
+    "HV",
+    "Positron Ventures"
+   ],
+   "lead_investor": "Plural",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "암스테르담 기반의 Ore Energy는 재생 에너지를 최대 100시간 동안 저장하는 그리드 규모의 철-공기 배터리를 개발하고 있으며, 기술 확장을 위해 3,730만 유로의 시리즈 A 펀딩을 유치했습니다. 이번 라운드는 Plural과 HV가 주도했으며, 회사의 총 누적 투자액은 5,302만 유로에 달합니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/04/multi-day-energy-startup-ore-energy-clinches-43m-in-new-investment-round/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/ore-energy-raises-e37-3-million-to-scale-iron-air-batteries-that-store-renewable-power-for-up-to-100-hours/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Aavalynx",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 2016900,
+   "stage": "프리시드",
+   "investors": [
+    "Omega Ventures",
+    "Two Ravens"
+   ],
+   "lead_investor": "Omega Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Aavalynx는 분쟁 해결 사건을 위한 AI 기반 지능형 플랫폼으로, 기업이 법적 분쟁의 재무 위험을 해결하도록 돕기 위해 175만 유로의 프리시드 펀딩을 유치했습니다. 이번 라운드는 Omega Ventures가 주도했으며 Two Ravens와 법률회사 파트너 및 전직 아마존 임원 등 유명 엔젤 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/04/legal-ai-startup-aavalynx-raises-ps15m-to-cut-the-cost-of-corporate-disputes/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/female-founded-ai-legaltech-startup-aavalynx-raises-e1-75-million-to-bring-death-to-disputes/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "10x Banking",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 53784000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "전 바클레이 은행 CEO가 설립한 영국 핀테크 기업 10x Banking은 JP Morgan의 영국 디지털 뱅크에 뱅킹 기술을 제공하고 있으며, 4천만 파운드의 신규 펀딩(부채 및 지분)을 확보했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/04/10x-banking-banks-ps40m-in-debt-and-equity-raise/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Advanced Electric Machines Group (AEM)",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 16.0,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 21513600,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국 기업 AEM은 희토류 불필요한 전기 모터 제조업체로, 제품 포트폴리오 확장을 지원하기 위해 1,600만 파운드 규모의 펀딩을 확보했다. 희토류 미사용 전기 모터 기술의 혁신을 가속화할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/04/aem-secures-ps16m-to-accelerate-rare-earth-free-electric-motor-innovation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "Monava",
+   "sector": "보안",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Gungnir Capital",
+    "Foundry Ventures",
+    "Hede"
+   ],
+   "lead_investor": "Gungnir Capital",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴-핀란드 방위기술 기업 Monava는 음향 드론 탐지 기술을 전문으로 하며, Gungnir Capital이 최대 투자자로 참여한 투자 라운드를 완료했다. 드론 탐지에 대한 수요 증가에 따라 사업을 확장할 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/04/monava-closes-funding-round-as-demand-for-passive-drone-detection-grows/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "company": "HappyRobot",
+   "sector": "AI",
+   "amount_original": {
+    "value": 150.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 150000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Prysm Capital",
+    "Eurazeo",
+    "a16z",
+    "Base10",
+    "Y Combinator"
+   ],
+   "lead_investor": "Prysm Capital",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "HappyRobot은 공급망을 위한 에이전틱 AI를 개발하는 회사로, Prysm Capital과 Eurazeo가 주도하고 a16z 등 기존 투자자들이 참여한 1억 5천만 달러 규모의 시리즈 C 펀딩을 조달했다. 이 자금으로 기업 운영을 위한 에이전틱 AI 솔루션의 확장을 추진할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/04/happyrobot-lands-150m-series-c-to-scale-agentic-ai-for-enterprise-operations/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-03",
    "company": "Active Technology (主动科技)",
    "sector": "AI",
@@ -252,6 +791,10 @@
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/israeli-cybersecurity-firm-pentera-cuts-jobs-doubles-ai"
     }
    ]
   },
