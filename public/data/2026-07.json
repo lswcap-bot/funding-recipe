@@ -512,6 +512,10 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/temasekbacked-temus-launches-ai-foundry-hires-50"
+    },
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-bundle-raises-pre-seed-funding-temus-acquires-thinking-machines-nine-china-investments-and-more"
     }
    ]
   },
@@ -525,7 +529,7 @@
     "unit": "million"
    },
    "amount_usd": 5500000,
-   "stage": "비공개",
+   "stage": "프리시드",
    "investors": [],
    "lead_investor": null,
    "country": "아랍에미리트",
@@ -535,6 +539,10 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/firsty-puts-pressure-esim-rivals-approach"
+    },
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-bundle-raises-pre-seed-funding-temus-acquires-thinking-machines-nine-china-investments-and-more"
     }
    ]
   },
@@ -2389,7 +2397,7 @@
    "lead_investor": null,
    "country": "중국",
    "region": "동아시아",
-   "ai_summary_ko": "Moonshot AI는 Kimi 챗봇 개발사로, 약 $50억 규모의 최종 공개 전 펀딩라운드를 추진 중이며 8월부터 협상을 시작할 예정이다. 현재 약 $31.5억의 기업가치로 평가받고 있으며, 6개월 내 홍콩 상장을 추진할 계획이다.",
+   "ai_summary_ko": "중국 Kimi 챗봇 개발업체인 Moonshot AI가 50억 달러 밸류에이션으로 G라운드 사전상장 펀딩을 개시했다. Kimi K3 출시 이후 기관투자자들의 관심이 높아져 의도적 약정이 등록되었으며, 향후 홍콩상장을 추진할 계획으로 알려졌다.",
    "sources": [
     {
      "name": "TechNode",
@@ -2398,6 +2406,14 @@
     {
      "name": "TechNode",
      "url": "https://technode.com/2026/07/30/moonshot-ai-reportedly-closes-3-5-billion-round-at-35-billion-valuation/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/chinas-moonshot-seeks-hong-kong-ipo"
+    },
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/08/05/moonshot-ai-reportedly-opens-pre-ipo-round-at-50-billion-valuation-as-kimi-k3-drives-demand/"
     }
    ]
   },
