@@ -2,6 +2,292 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-07",
+   "company": "Enrola",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.1,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2100000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Enrola는 에듀테크에서 AI 영업 기술로 방향을 전환하며 시드 라운드에서 210만 달러를 유치했다. B2C 리드 누수 문제를 해결하는 AI 영업 에이전트 솔루션을 제공한다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/enrolas-pivot-to-ai-sales-tech-lands-2-1-million-seed/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "company": "Northbound Advisors",
+   "sector": "SaaS",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Northbound Advisors(구 KayEss Square)는 8~10개의 소규모 회사를 인수하기 위해 자금을 조달 중이다. 회사는 8년간의 클라이언트 작업 기반으로 개발한 독점 AI 플랫폼을 통해 인수 회사들을 서비스할 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/northbound-advisors-sathya-pramod-ai-native-services-firm-scale"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "company": "BlissClub",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 160.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 16800000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "애슬레저 브랜드 BlissClub이 1억 60억 루피를 유치했다. 이 자금은 제품 카테고리 확장, 오프라인 매장 확대, 상품 개발 강화, 인재 채용 등에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/athleisure-brand-blissclub-bags-rs-160-cr-expand-product-range-retail-footprint"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "company": "Gati Drives",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "Campus Fund"
+   ],
+   "lead_investor": "Campus Fund",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "아메다바드 기반 Gati Drives는 희토류를 사용하지 않는 전기 모터를 제조하며, Campus Fund로부터 프리시드 라운드 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/gati-drives-rare-earth-free-motors"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "company": "Reneonix",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 1.7,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 178500,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "첸나이 기반 Reneonix는 사용한 유리를 공장 등급의 원자재로 재활용하는 인프라를 운영하며, 2026년 2월 프리시드 라운드에서 Rs 1.7 crore를 조성했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/reneonix-glass-recycling"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "company": "Omilia",
+   "sector": "AI",
+   "amount_original": {
+    "value": 58.1,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 67018350,
+   "stage": "시리즈 B",
+   "investors": [
+    "Expedition Growth Capital"
+   ],
+   "lead_investor": "Expedition Growth Capital",
+   "country": "키프로스",
+   "region": "유럽",
+   "ai_summary_ko": "키프로스 기반 자가학습형 고객경험 플랫폼 회사 Omilia가 북미 및 글로벌 성장 가속화를 위해 €58.1 million의 시리즈 B 펀딩을 확보했다. Expedition Growth Capital이 라운드를 주도했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/cyprus-based-enterprise-agentic-cx-company-omilia-secures-e58-1-million-in-series-b-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "company": "NavVis",
+   "sector": "기타",
+   "amount_original": {
+    "value": 73.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 85012950,
+   "stage": "시리즈 D+",
+   "investors": [
+    "The Jordan Company",
+    "Yttrium"
+   ],
+   "lead_investor": "The Jordan Company",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반 공간 데이터 플랫폼 회사 NavVis가 공간 데이터 엔진 구축과 AI 로드맵 가속화를 위해 €73.7 million의 시리즈 D 펀딩을 완료했다. 라운드는 미국 사모펀드 The Jordan Company가 주도했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/munich-based-navvis-raises-e74-5-million-to-build-its-spatial-data-engine-and-accelerate-ai-roadmap/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "company": "Mironid",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 39.9,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 46024650,
+   "stage": "시리즈 B",
+   "investors": [
+    "Scottish National Investment Bank",
+    "Roche Venture Fund",
+    "Epidarex Capital",
+    "Sofinnova"
+   ],
+   "lead_investor": "Scottish National Investment Bank",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "글래스고 기반 생명공학 회사 Mironid가 희귀 신장 질환(ADPKD) 치료제 개발을 위해 €39.9 million의 시리즈 B 펀딩을 완료했다. 라운드는 Scottish National Investment Bank가 주도했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/glasgow-based-mironid-raises-e39-9-million-in-series-b-to-advance-rare-kidney-disease-treatment/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "company": "Safehire.ai",
+   "sector": "보안",
+   "amount_original": {
+    "value": 583.2,
+    "currency": "EUR",
+    "unit": "thousand"
+   },
+   "amount_usd": 672721,
+   "stage": "브릿지",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 디지털 리스크 인텔리전스 회사인 Safehire.ai가 €583.2k의 추가 투자를 유치했다. 이번 라운드와 2025년 4월의 €1.22 million 시드 투자를 합치면 총 투자액은 €1.8 million에 달한다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/londons-safehire-ai-founded-by-ex-british-army-officers-secures-e583-2k-to-scale-ai-powered-digital-risk-screening/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "company": "Firmus",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.85,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 2850000000,
+   "stage": "비공개",
+   "investors": [
+    "Nvidia",
+    "Blackstone",
+    "Jane Street"
+   ],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Firmus는 호주 AI 데이터센터 프로젝트 Southgate를 위해 Nvidia, Blackstone, Jane Street로부터 28.5억 달러를 조달했으며, 기업가치는 150억 달러에 도달했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/blackstone-coatue-australian-ai-firm-firmus-10b-loan"
+    },
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/ai-data-centre-startup-firmus-just-raised-another-2-85-billion-at-a-whopping-15b-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "company": "Platter",
+   "sector": "푸드테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Verb Ventures"
+   ],
+   "lead_investor": "Verb Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Platter는 식품 공급업체, 도매업자, 제조업체를 위한 푸드 네이티브 운영 시스템으로, Verb Ventures로부터 추가 자금을 유치한 후속 펀딩 라운드 확장을 달성했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/07/platter-lands-follow-on-funding-from-verb-ventures-to-modernise-food-supply-operations/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "Rampart",
+   "sector": "기타",
+   "amount_original": {
+    "value": 2.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2300000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Rampart는 Joe Aston이 주도하는 미디어 스타트업으로 230만 달러를 2,900만 달러 기업가치로 조달했으며, 비즈니스 미디어 강화를 목표로 한다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/media-startup-rampart-raises-2-3-million/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-06",
    "company": "PokeBot",
    "sector": "AI",
@@ -425,6 +711,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/08/ev-startup-river-mobility-120-million-series-c-elev8-venture-claypond-capital"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/weekly-funding-roundup-aug-1-7-sharp-rise-in-vc-inflow-led-by-river-mobility"
     }
    ]
   },
@@ -1416,6 +1706,10 @@
     {
      "name": "EU-Startups",
      "url": "https://www.eu-startups.com/2026/08/uk-ai-chip-startup-olix-raises-e270-5-million-at-e2-8-billion-valuation-just-two-years-after-its-founding/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/07/chip-startup-olix-raises-312m-mobilise-launches-investment-arm-and-a-deep-dive-into-july-funding/"
     }
    ]
   },
