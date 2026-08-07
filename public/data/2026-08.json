@@ -2,6 +2,328 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-06",
+   "company": "PokeBot",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시리즈A",
+   "investors": [
+    "Shunwei Capital",
+    "Matrix Partners"
+   ],
+   "lead_investor": "Shunwei Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "PokeBot은 중국의 embodied-AI 스타트업으로, Shunwei Capital과 Matrix Partners가 주도하는 프리시리즈A 라운드에서 수억 달러를 유치했습니다. 회사는 옷 접기와 요리 등의 작업을 수행하는 가정용 로봇을 개발하고 있으며, 시연에서 로봇이 마파두부를 9분 만에 자율적으로 요리하는 모습을 보였습니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/08/06/pokebot-raises-hundreds-of-millions-of-dollars-in-pre-a-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "Mitti Labs",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 9.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 9500000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Aramco Ventures"
+   ],
+   "lead_investor": "Aramco Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Mitti Labs가 Aramco Ventures 및 기타 투자자로부터 시리즈 A 라운드에서 950만 달러를 조달했습니다. 회사는 인도의 지리적 범위 확대와 필리핀, 인도네시아에서 신규 프로젝트를 시작할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/mitti-labs-raised-over-9-million-aramco-saudi"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "Homerun",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 12.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 12000000,
+   "stage": "시리즈 A+",
+   "investors": [
+    "Nexus Venture Partners",
+    "Sorin Investments",
+    "Titan Capital",
+    "Sparrow Capital",
+    "Consumer Collective by Atrium"
+   ],
+   "lead_investor": "Nexus Venture Partners",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 빠른 배송 스타트업 Homerun이 Nexus Venture Partners 주도로 시리즈 A+ 라운드에서 1,200만 달러를 유치했습니다. 기존 투자자인 Sorin Investments, Titan Capital, Sparrow Capital, Consumer Collective by Atrium도 참여했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/quick-commerce-startup-homerun-raises-12m-series-a"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "Solinas Integrity",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 5.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Solinas Integrity는 지하 수도 및 폐수 인프라를 점검, 청소 및 디지털화하는 로봇 및 AI 시스템을 개발하는 스타트업입니다. IITM에서 인큐베이팅되었으며, 수 누수, 오염, 수동 청소 문제를 해결하기 위해 550만 달러를 조달했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/iitm-incubated-deeptech-startup-solinas-integrity-raises-series-a1"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "Chargepoly",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 23.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 26546600,
+   "stage": "비공개",
+   "investors": [
+    "Meridiam",
+    "Fideve Groupe"
+   ],
+   "lead_investor": "Meridiam",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스의 Chargepoly는 대형 상용차 차량의 전동화를 가속화하기 위해 €23백만 투자를 확보했습니다. Meridiam Green Impact Growth Fund가 주도하고 장기 주주인 Fideve Groupe가 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/aix-en-provence-based-chargepoly-secures-e23-million-to-accelerate-heavy-duty-fleet-electrification/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "Naked Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 10.35,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 11945970,
+   "stage": "비공개",
+   "investors": [
+    "Great British Energy"
+   ],
+   "lead_investor": "Great British Energy",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국의 Naked Energy는 태양열 기술 제조 시설 건설을 위해 €10.35백만 투자를 확보했습니다. Great British Energy가 주도적으로 €8.7백만을 투자하며 140개의 일자리 창출을 예상하고 있습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/crawley-based-naked-energy-secures-e10-35-million-to-build-uk-solar-thermal-technology-manufacturing-facility/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "SeeTrue Technologies",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2539240,
+   "stage": "비공개",
+   "investors": [
+    "ZEISS Ventures",
+    "Superhero Capital",
+    "North Karelia Growth Fund"
+   ],
+   "lead_investor": "ZEISS Ventures",
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "핀란드의 SeeTrue Technologies는 초저전력 안구 감지 아키텍처 기술 상용화를 위해 €2.2백만 규모의 투자 라운드를 완료했습니다. ZEISS Ventures가 주도하고 Superhero Capital, North Karelia Growth Fund 등이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/finlands-seetrue-technologies-raises-e2-2-million-to-commercialise-low-power-eye-sensing-architecture/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "Inevitable AI Group",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 5.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6001840,
+   "stage": "프리시드",
+   "investors": [
+    "Aleph"
+   ],
+   "lead_investor": "Aleph",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "AI 네이티브 벤처스튜디오 Inevitable AI Group이 Aleph로부터 520만 유로의 프리시드 펀딩을 유치했다. Nimrod Lehavi와 Ofer Bar-Or가 설립한 회사는 소프트웨어 개발의 변화하는 경제학을 활용한 수십 개의 AI 네이티브 소프트웨어 사업을 구축 및 출시 중이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/inevitable-ai-group-raises-e5-2-million-from-aleph-to-launch-ai-native-saas-companies/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "Relu",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.51,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1742842,
+   "stage": "프리시드",
+   "investors": [
+    "Dental Innovation Alliance"
+   ],
+   "lead_investor": "Dental Innovation Alliance",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "벨기에 레우벤 소재 AI 치과 스타트업 Relu가 치과 랩의 자동화된 설계 및 계획 워크플로우를 통해 생산 확대를 돕고 있다. 북캐롤라이나 기반 벤처캐피탈 DIA로부터 151만 유로의 전략적 투자를 유치했으며, 미국 확장을 가속화할 계획이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/belgian-ai-dental-startup-relu-lands-e1-51-million-to-accelerate-us-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "River",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 120.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 120000000,
+   "stage": "비공개",
+   "investors": [
+    "Elev8",
+    "Claypond"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 전기차 스타트업 River가 Elev8과 Claypond의 주도로 1억 2천만 달러 규모의 투자 라운드를 완료했다. River는 인도 전역 75개 이상의 매장을 통해 월 약 6,000대의 차량을 판매하고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/accel-joins-6-5m-series-a-in-indias-mirana-toys"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "Vangrid",
+   "sector": "AI",
+   "amount_original": {
+    "value": 9.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 9000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "네덜란드 스타트업 Vangrid가 스마트폰에 배포될 분산형 공간 지능 네트워크 개발을 위해 시드 펀딩 900만 달러를 유치했다. Physical AI 시대를 위한 고충실도 공간 데이터 활용이 핵심 목표다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/06/vangrid-raises-9m-seed-to-build-a-decentralised-spatial-intelligence-network-for-the-physical-ai-era/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "Naïve",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 28.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 28500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Naïve가 회사 설립 및 운영의 대부분의 업무를 자동화하는 인프라 기술로 2,850만 달러를 유치했습니다. 이 기술은 바이브 코딩을 한 단계 더 발전시킨 것으로, 비즈니스 운영의 반복적 작업을 자동화합니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "company": "Hadrian",
+   "sector": "보안",
+   "amount_original": {
+    "value": 1.37,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1370000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Hadrian은 잠수함 등 방위 차량 부품 대량 생산을 위한 자동화 공장을 구축하고 있으며, 이번 투자유치에서 13억 7천만 달러 규모의 자금을 조달하여 80억 달러의 기업가치를 달성했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-05",
    "company": "Kaiwang Data (恺望数据)",
    "sector": "AI",
