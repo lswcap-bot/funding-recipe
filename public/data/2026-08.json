@@ -2,6 +2,56 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-09",
+   "company": "Lancium",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 3000000000,
+   "stage": "비공개",
+   "investors": [
+    "Nvidia"
+   ],
+   "lead_investor": "Nvidia",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Lancium이 Nvidia로부터 30억 달러의 투자를 유치했습니다. 이 자금은 Stargate 프로젝트의 첫 번째 운영 데이터 센터 사이트인 Abilene 캠퍼스 구축에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/nvidia-signs-15b-amkor-chippackaging-deal"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-09",
+   "company": "Source Foundry",
+   "sector": "AI",
+   "amount_original": {
+    "value": 400.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 400000000,
+   "stage": "비공개",
+   "investors": [
+    "Situational Awareness"
+   ],
+   "lead_investor": "Situational Awareness",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "AI 중심 헤지펀드인 Situational Awareness가 칩 스타트업 Source Foundry에 4억 달러를 투자했다. 이는 어려움을 겪고 있는 헤지펀드가 여전히 대규모 투자를 진행하고 있음을 보여준다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-08",
    "company": "Space Star Technology",
    "sector": "기타",
