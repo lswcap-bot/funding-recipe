@@ -2,6 +2,215 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-10",
+   "company": "Bakingo",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 10490000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Faering Capital"
+   ],
+   "lead_investor": "Faering Capital",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Bakingo가 Faering Capital로부터 약 100크로르 루피를 투자받으며 시리즈 B 펀딩을 완료했다. 회사는 투자금 수령 후 7,436주의 시리즈 B 의무전환우선주를 배정받았으며, 2026년 7월 30일 이사회의 승인을 받았다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/bakingo-parent-fa-gifts-raises-nearly-100-crore-faering-capital"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "company": "East Ocyon Bio",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 4.2,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4200000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Gurugram에 위치한 East Ocyon Bio는 건강한 기증자 세포에서 유래한 동종 CAR-NK 세포 치료제를 개발하고 있으며, 420만 달러의 시드 라운드 투자와 정부 보조금을 받아 내성 종양과 리슈만편모충증 치료를 진행 중이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/east-ocyon-bio-cancer-cell-therapy"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "company": "Sudolabs",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Eldridge"
+   ],
+   "lead_investor": "Eldridge",
+   "country": "슬로바키아",
+   "region": "유럽",
+   "ai_summary_ko": "슬로바키아 기반의 맞춤형 에이전트 AI 시스템 및 엔터프라이즈 컨설팅 서비스 제공업체인 수도랩스가 글로벌 자산운용 회사 엘드리지로부터 소유권 지분을 획득했다. 구체적인 금액은 공개되지 않았으며, 이 거래는 양사 간의 전략적 파트너십을 형성한다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/chelsea-co-owner-todd-boehlys-eldridge-acquires-ownership-stake-in-slovak-ai-firm-sudolabs/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "company": "Edgify",
+   "sector": "AI",
+   "amount_original": {
+    "value": 9.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 9000000,
+   "stage": "시리즈 A+",
+   "investors": [
+    "Rank Ventures",
+    "Mangrove Capital Partners"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 엣지 MLOps 플랫폼인 에디파이가 매장 손실 방지를 위한 AI 인프라를 제공하며, 플랫폼 확대를 위해 시리즈 A+ 라운드에서 770만 유로를 조달했다. 이 라운드는 Rank Ventures와 Mangrove Capital Partners의 지원을 받았다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/10/edgify-raises-9m-to-expand-its-edge-ai-platform/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/london-based-edge-ai-infrastructure-company-edgify-raises-e7-7-million-to-combat-retail-losses/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "company": "Cambridge Aerospace",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 300.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 300000000,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국의 방위 항공사 Cambridge Aerospace가 €259.7 million 규모의 시리즈 C 펀딩을 완료했으며, 회사 가치평가는 €2.94 billion입니다. 이번 자금은 유럽 및 연합국 군대를 위한 저비용 요격 미사일 제조 확대와 기존 및 신규 계약 이행을 지원하는 데 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/10/cambridge-aerospaces-valuation-leaps-to-34bn-as-raised-300m/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/uk-air-defence-company-cambridge-aerospace-raises-e259-7-million-series-c-at-e2-94-billion-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "company": "Visoid",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2500000,
+   "stage": "비공개",
+   "investors": [
+    "Ska Ventures",
+    "Skyfall Ventures",
+    "StartupLab",
+    "OBOS",
+    "Antler",
+    "Farvatn",
+    "byFounders Angel Collective"
+   ],
+   "lead_investor": "Ska Ventures",
+   "country": "노르웨이",
+   "region": "유럽",
+   "ai_summary_ko": "오슬로 기반의 건축사 및 산업 전문가를 위한 AI 시각화 플랫폼인 비소이드가 회사의 다음 단계 성장을 지원하기 위해 216만 유로의 신규 펀딩을 확보했다. 이 라운드는 Skyfall Ventures의 주도로 기존 투자자들과 신규 투자자들의 참여를 받았다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/10/visoid-raises-25m-to-expand-ai-visualisation-platform-for-architects/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/oslo-based-visoid-raises-e2-1-million-to-scale-its-ai-visualisation-platform-for-architects/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "company": "Discovered Materials",
+   "sector": "AI",
+   "amount_original": {
+    "value": 9.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 9000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Discovered Materials는 더욱 효율적인 칩을 제조하기 위한 신소재 발굴을 위해 900만 달러를 유치했다. AI 기술을 활용하여 더 차가운 칩 개발에 필요한 새로운 소재를 찾는 데 자금을 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "company": "Sila",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 1.4,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1400000000,
+   "stage": "비공개",
+   "investors": [
+    "U.S. Department of Defense"
+   ],
+   "lead_investor": "U.S. Department of Defense",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "배터리 소재 전문 스타트업 Sila가 미국 국방부로부터 14억 달러 규모의 대출을 유치했다. 이 자금은 워싱턴주에 위치한 생산 시설의 규모 확대에 사용될 예정이며, 군수용 배터리에 대한 수요 증가에 대응하기 위한 투자다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-09",
    "company": "Lancium",
    "sector": "에너지",
