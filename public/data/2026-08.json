@@ -2,6 +2,375 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-11",
+   "company": "Fabulate",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "오세아니아",
+   "ai_summary_ko": "Fabulate는 AI 기반 크리에이터 마케팅 플랫폼으로, 450만 달러 규모의 투자를 유치하여 밸류에이션 8,450만 달러를 기록했습니다. 이 자금을 통해 APAC 지역에서 인플루언서 마케팅 서비스를 확대할 계획입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/influencer-marketing-platform-fabulate-raises-4-5-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "Perkant Tech",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 6.6,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 691680,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "60초 이내에 자동 건강 검진을 수행하는 의료기기 Abhay Parimiti 개발사가 정부 혁신 펀드의 지원으로 660만 루피를 유치했다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/students-lab-free-health-screening-device"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "Vertical Aerospace",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 86.6,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 99936400,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Vertical Aerospace는 전기 수직이착륙 항공기(eVTOL)를 개발하는 영국 항공우주 기업으로, 8,660만 유로의 투자 약정을 확보했습니다. 이 자금은 Valo 항공기의 인증 및 상용화 진행을 지원하는 데 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/bristols-electric-air-taxi-developer-vertical-aerospace-secures-e86-6-million-in-financing-commitments/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "Zerolook",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 1.6,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1846400,
+   "stage": "프리시드",
+   "investors": [
+    "Playfair",
+    "Vento Ventures",
+    "TrueSight Ventures",
+    "Alpha Venture"
+   ],
+   "lead_investor": "Playfair",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "Zerolook는 B2B 항공편 쇼핑 API를 제공하는 스위스 회사로, AI 기반 항공편 검색 비용 해결을 위해 160만 유로의 프리시드 펀딩을 유치했습니다. 런던 기반의 Playfair가 주도했으며 여러 벤처캐피탈과 기술/여행/금융 분야 엔젤이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/zug-based-zerolook-raises-e1-6-million-to-tackle-ai-driven-flight-search-costs/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "Quartr",
+   "sector": "AI",
+   "amount_original": {
+    "value": 15.6,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 18002400,
+   "stage": "비공개",
+   "investors": [
+    "Altos Ventures",
+    "SEB"
+   ],
+   "lead_investor": "Altos Ventures",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "Quartr는 기관투자자를 위한 첫번째 공시 데이터 레이어 제공 회사로, AI 기반 공개 기업 데이터 커버리지 확대를 위해 1,560만 유로를 투자유치했습니다. 이번 펀딩은 기존 투자자인 Altos Ventures가 주도했으며 SEB가 참여했습니다. 투자금은 제품 개발 및 글로벌 공개 기업 데이터 커버리지 확대에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/stockholms-quartr-lands-e15-6-million-to-expand-its-ai-ready-public-company-ir-data-coverage/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "Exobiosphere",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1154000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "룩셈부르크",
+   "region": "유럽",
+   "ai_summary_ko": "룩셈부르크 기반의 우주 바이오텍 스타트업 Exobiosphere가 미세중력 환경에서의 신약 발견 및 생의학 연구를 위해 룩셈부르크의 혁신기업 지원 제도(JEI)를 통해 100만 유로의 비희석적 자금 지원을 확보했다. 이 자금은 상용 확대, 운영, 궤도 고처리량 스크리닝 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/luxembourgs-space-biotech-exobiosphere-secures-e1-million-to-find-cures-from-space/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "Acrab",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Vertex Ventures SEAI"
+   ],
+   "lead_investor": "Vertex Ventures SEAI",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-mceasy-raises-series-b-funding-vertex-ventures-seai-backs-acrab-latest-china-investments-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "McEasy",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-mceasy-raises-series-b-funding-vertex-ventures-seai-backs-acrab-latest-china-investments-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "Skydo",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 핀테크 회사 Skydo가 2025년 12월 1,000만 달러 규모의 시리즈 A 투자 유치를 발표했다. 이 투자 라운드를 통해 연간 결제 거래량 10억 달러를 달성했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/elevation-capital-joins-10m-series-a-in-indian-platform-skydo"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "Palette",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3462000,
+   "stage": "프리시드",
+   "investors": [
+    "Ugly Duckling Ventures"
+   ],
+   "lead_investor": "Ugly Duckling Ventures",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "코펜하겐 기반 AI 소프트웨어 스타트업 Palette가 프리시드 라운드에서 300만 유로를 유치했다. AI를 채택한 팀을 위한 OS 플랫폼 개발을 지원하며, Ugly Duckling Ventures가 주도 투자했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/11/palette-raises-eur3m-pre-seed-to-develop-an-os-for-ai-native-teams/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "AquaNab",
+   "sector": "바이오",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Nordic Foodtech VC"
+   ],
+   "lead_investor": "Nordic Foodtech VC",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "함부르크 기반 바이오테크 스타트업 AquaNab이 Nordic Foodtech VC로부터 투자를 유치했다. 양식 산업의 질병 치료 및 예방을 위한 나노항체 플랫폼 개발을 목표로 하며, 투자 규모는 명시되지 않았다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/11/german-biotech-aquanab-secures-funding-to-tackle-sea-lice-with-nanoantibodies/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "Model ML",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "HSBC Asset Management"
+   ],
+   "lead_investor": "HSBC Asset Management",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 AI 자동화 스타트업 Model ML이 HSBC 자산운용 부문으로부터 지분 투자를 유치했다. 금융 서비스 분야 AI 자동화 플랫폼으로 두 형제가 창업했으며, 기금 규모는 명시되지 않았다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/11/hsbc-asset-management-invests-in-london-founded-model-ml/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "Kyoto Fusioneering",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "일본",
+   "region": "동아시아",
+   "ai_summary_ko": "일본 기반의 핵융합 에너지 스타트업 Kyoto Fusioneering이 미래 발전소를 위한 연료 시스템 부품 개발에 필요한 보조금을 지원받았다. 해당 스타트업은 핵융합 발전소 부품 공급업체로서의 위상을 강화하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "company": "River AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.1,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1100000000,
+   "stage": "시드",
+   "investors": [
+    "General Catalyst"
+   ],
+   "lead_investor": "General Catalyst",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "xAI 공동 창립자 Igor Babuschkin이 설립한 2개월 된 스타트업 River AI가 General Catalyst 주도로 11억 달러 규모의 투자를 유치했습니다. 개인 에이전트 분야에 포커스하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "company": "FAZ Cred",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 14.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 14800000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질의 핀테크 기업 FAZ Cred가 60일 동안 FAZ Cred Mais Trabalhador를 통해 1,480만 달러를 조달했습니다. 이는 신용권 투자 상품을 통한 펀딩입니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/brazils-faz-cred-raises-14-8m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "company": "hiSofi",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000,
+   "stage": "비공개",
+   "investors": [
+    "SaaSholic",
+    "ANNI"
+   ],
+   "lead_investor": null,
+   "country": "우루과이",
+   "region": "중남미",
+   "ai_summary_ko": "우루과이의 채무추심 스타트업 hiSofi가 SaaSholic과 우루과이 국립연구혁신청(ANNI)으로부터 100만 달러를 투자유치했다. 이 자금은 지역 AI 허브 구축에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/hisofi-raises-1m-to-build-regional-ai-hub/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-10",
    "company": "Bakingo",
    "sector": "커머스",
@@ -172,7 +541,7 @@
     "unit": "million"
    },
    "amount_usd": 9000000,
-   "stage": "비공개",
+   "stage": "시드",
    "investors": [],
    "lead_investor": null,
    "country": null,
@@ -182,6 +551,10 @@
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/deeptech-startup-discovered-materials-raises-9-million-in-seed-round"
     }
    ]
   },
@@ -1185,7 +1558,8 @@
    "amount_usd": 1155400000,
    "stage": "시리즈 F",
    "investors": [
-    "Scaleup Europe Fund"
+    "Scaleup Europe Fund",
+    "Scaleup Europe"
    ],
    "lead_investor": "Scaleup Europe Fund",
    "country": "핀란드",
@@ -1199,6 +1573,10 @@
     {
      "name": "EU-Startups",
      "url": "https://www.eu-startups.com/2026/08/scaleup-europe-fund-makes-debut-investment-by-co-leading-iceyes-e1-billion-series-f-round/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/"
     }
    ]
   },
