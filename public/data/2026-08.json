@@ -2,6 +2,257 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-12",
+   "company": "Yulu",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 93.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 93000000,
+   "stage": "비공개",
+   "investors": [
+    "GEF Capital"
+   ],
+   "lead_investor": "GEF Capital",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Yulu는 GEF Capital이 주도한 펀딩 라운드에서 9,300만 달러를 유치했다. 이 자금은 전기차 함대를 2만 대로 확대하고 서비스 허브를 확장하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/ev-mobility-service-startup-yulu-raises-93-million-led-by-gef-capital"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "company": "Graas",
+   "sector": "AI",
+   "amount_original": {
+    "value": 17.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 17000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "Graas가 1700만 달러를 조성하여 Temasek 지원 회사인 Trustana를 인수했다. 이 거래를 통해 Graas는 제품 데이터 플랫폼과 호주, 중동 등 신규 시장에 진출하게 된다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/graas-raises-17m-buys-trustana-agentic-commerce-push"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "company": "STRGY AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1154500,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "헬싱키 기반의 STRGY AI는 AI 기반 전략 실행 플랫폼인 StrategyOS의 상업적 성장과 추가 개발을 지원하기 위해 100만 유로의 엔젤 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/12/strgy-ai-raises-eur1m-to-scale-its-ai-powered-strategy-execution-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "company": "Cytix",
+   "sector": "보안",
+   "amount_original": {
+    "value": 7.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Northern Gritstone"
+   ],
+   "lead_investor": "Northern Gritstone",
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "영국 사이버보안 스타트업 Cytix가 소프트웨어 변화로 인한 문제 해결을 위해 600만 유로(700만 달러) 규모의 시리즈 A 펀딩을 유치했다. Northern Gritstone이 라운드를 주도했으며, 빠른 소프트웨어 변화와 AI 기반 위험에 대응하는 것을 목표로 한다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/12/cytix-raises-7m-series-a-to-tackle-cyber-risks-from-ai-driven-software-development/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/uk-cybersecurity-startup-cytix-raises-e6-million-series-a-to-tackle-ai-driven-software-change-risks/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "company": "Entravel Group",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 7.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7500000,
+   "stage": "비공개",
+   "investors": [
+    "Ethereal Ventures",
+    "Finality Capital",
+    "GSR",
+    "Varrock",
+    "G1 Ventures",
+    "Seier Capital",
+    "Veris Ventures",
+    "Funfair"
+   ],
+   "lead_investor": "Ethereal Ventures",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "트래블테크 스타트업 Entravel Group이 공급업체 신용 시설 확대, 예약량 증가 처리, 화이트라벨 모델을 전통 여행업으로 확장하기 위해 680만 유로(750만 달러)를 유치했다. Ethereal Ventures와 Finality Capital이 라운드를 주도했으며 GSR, Varrock, G1 Ventures 등 다수 투자자가 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/12/entravel-group-secures-75m-to-scale-its-travel-infrastructure-platform/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/entravel-group-raises-e6-5-million-to-secure-larger-supplier-credit-facilities/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "company": "Lovable",
+   "sector": "AI",
+   "amount_original": {
+    "value": 400.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 400000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Menlo Ventures",
+    "Scaleup Europe Fund"
+   ],
+   "lead_investor": "Menlo Ventures",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "스웨덴의 AI 소프트웨어 개발 플랫폼 Lovable이 시리즈 C 펀딩으로 3억 4,300만 유로(4억 달러)를 유치했습니다. 메놀 벤처스가 주도하고 EQT가 관리하는 Scaleup Europe Fund가 공동 주도했으며, 기업 가치는 114억 유로입니다. 자금은 플랫폼 확장, 인프라 강화, 글로벌 팀 구성에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/12/lovables-valuation-doubles-to-13bn-as-raises-400m/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/google-cloud-ai-startup-lovable-expand-multiyear-partnership-sources"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "company": "Form Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 750.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 750000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Form Energy는 100시간 배터리를 그리드용으로 제조 및 확대하기 위해 7억 5천만 달러를 투자 유치했습니다. Google과 Crusoe를 고객으로 확보했으며, 이번 자금으로 제조 시설 확대를 진행할 계획입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "company": "Thrive Holdings",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 2000000000,
+   "stage": "비공개",
+   "investors": [
+    "SoftBank",
+    "D1 Capital Partners",
+    "Altimeter Capital"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "OpenAI의 지원을 받는 Thrive Holdings가 SoftBank, D1 Capital Partners, Altimeter Capital 등의 투자자로부터 20억 달러의 신규 펀딩을 120억 달러 기업가치로 유치했으며, AI를 엔터프라이즈에 적용하는 것을 목표로 한다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "company": "Cognition",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1000000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Cognition은 2023년 설립된 AI 스타트업으로, 금융기관과 자동차 제조사들이 사용하는 Devin 코딩 에이전트를 개발했다. 회사는 40억 달러 기업가치에서 10억 달러 규모의 펀딩을 추진 중이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/us-ai-coding-startup-cognition-raises-over-1b"
+    }
+   ]
+  },
+  {
    "date": "2026-08-11",
    "company": "Fabulate",
    "sector": "AI",
@@ -318,6 +569,10 @@
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indian-ai-agent-startup-revrag-acquires-genai-infra-firm"
     }
    ]
   },
