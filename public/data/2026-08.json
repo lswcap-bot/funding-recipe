@@ -2,6 +2,364 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-13",
+   "company": "Yuno",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 45.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 45000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Global PayTech Ventures",
+    "Andreessen Horowitz",
+    "Tiger Global",
+    "Kaszek",
+    "Monashees"
+   ],
+   "lead_investor": "Global PayTech Ventures",
+   "country": "콜롬비아",
+   "region": "중남미",
+   "ai_summary_ko": "콜롬비아의 결제 인프라 스타트업 유노가 글로벌 페이테크 벤처스가 주도한 시리즈 B 라운드에서 4,500만 달러를 조달했다. 앙드레센 호로위츠, 타이거 글로벌, 카스젝, 모나시스 등 주요 투자사들이 참여했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/yuno-raises-45m-series-b/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "Galgo",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Uber"
+   ],
+   "lead_investor": "Uber",
+   "country": "칠레",
+   "region": "중남미",
+   "ai_summary_ko": "칠레의 핀테크 Galgo가 Uber로부터 전략적 투자를 받았다. 라틴 아메리카에서 오토바이 금융 확대를 목표로 하는 전략적 파트너십의 일환이다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/uber-invests-in-chilean-fintech-galgo-to-expand-motorcycle-financing-in-latin-america/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "Ume",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 96.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 96000000,
+   "stage": "비공개",
+   "investors": [
+    "Itaú",
+    "Bradesco",
+    "Augme",
+    "Milenio",
+    "Verde",
+    "Credit Saison"
+   ],
+   "lead_investor": null,
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질 핀테크 Ume가 FIDC(금융자산 유동화 상품)를 통해 9,600만 달러를 조달했다. Itaú, Bradesco, Augme, Milenio, Verde, Credit Saison 등이 참여했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/ume-raises-96m-through-fidc/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "Six Aussie biotechs (unnamed)",
+   "sector": "바이오",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "CUREator+"
+   ],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/6-startups-score-13-5-million-from-biotech-grants-fund-cureator/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "Farmbot",
+   "sector": "농업",
+   "amount_original": {
+    "value": 22.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 22000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Farmbot이 미국 시장 진출을 위해 2,200만 달러 규모의 시리즈 B 투자를 유치했다. 이 자금은 목장 물관리 기술을 개선하고 미국 Ranchbot 사업 확대에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/veteran-agtech-farmbot-digs-up-22-million-series-b-for-us-push/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "Centricity",
+   "sector": "기타",
+   "amount_original": {
+    "value": 280.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 29344000,
+   "stage": "시리즈 A",
+   "investors": [
+    "SMBC Asia Rising Fund"
+   ],
+   "lead_investor": "SMBC Asia Rising Fund",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Centricity가 SMBC Asia Rising Fund를 주도투자자로 하여 시리즈 A 펀딩으로 280억 루피를 유치했습니다. 이 자금은 기술 스택 강화, 유통망 확대, 시장 진출 심화에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/centricity-raises-rs-280-crore-series-a-smbc-asia-rising-fund"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "Vayudh",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "IIT Delhi의 BotLab Dynamics 방위사업 부문인 Vayudh는 인도 국방군을 위한 나노 감시 드론과 집단 드론 시스템을 개발하고 있으며, 제조 확대를 위해 1000만 달러를 유치했다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/vayudh-nano-surveillance-drones"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "Mindgard",
+   "sector": "AI",
+   "amount_original": {
+    "value": 26.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 29988400,
+   "stage": "시리즈 A",
+   "investors": [
+    "Album VC",
+    "Karma Ventures",
+    ".406 Ventures",
+    "Atlantic Bridge",
+    "IQ Capital"
+   ],
+   "lead_investor": "Album VC",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 AI 보안 스타트업 Mindgard가 기업 AI 시스템 보안을 위해 Album VC 주도로 2,600만 유로 규모의 시리즈 A 펀딩을 유치했다. 이 자금은 제품, 엔지니어링, 영업, 마케팅 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/lancaster-university-spinout-mindgard-lands-e26-million-to-secure-enterprise-ai-systems/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "AMDB Security Pro",
+   "sector": "보안",
+   "amount_original": {
+    "value": 2.68,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3091112,
+   "stage": "시드",
+   "investors": [
+    "American private investors"
+   ],
+   "lead_investor": null,
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "Lyon에 본사를 둔 굴삭기 및 소형 굴삭기용 기계식 도난 방지 시스템 제공 회사 AMDB Security Pro가 €2.68 million의 시드 펀딩을 유치했다. 두 명의 미국 개인 투자자로부터 받은 자금은 미국 시장 진출을 가속화하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/lyons-amdb-security-pro-locks-in-e2-68-million-to-take-its-excavator-anti-theft-systems-to-the-us/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "SOI Micro",
+   "sector": "반도체",
+   "amount_original": {
+    "value": 2.5,
+    "currency": "CNY",
+    "unit": "billion"
+   },
+   "amount_usd": 370750000,
+   "stage": "비공개",
+   "investors": [
+    "YMTC-backed fund"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 칩 제조사 SOI Micro가 YMTC 지원 펀드로부터 투자를 유치했으며, 등록자본금이 24억 위안에서 25억 위안으로 증가했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/globalfoundries-buys-sg-semiconductor-firm-to-expand-ai-portfolio"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "Indian wealth startup",
+   "sector": "기타",
+   "amount_original": {
+    "value": 29.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 29000000,
+   "stage": "비공개",
+   "investors": [
+    "SMBC Asia",
+    "Lightspeed India Partners",
+    "Burman Family Office",
+    "RAAY Investments",
+    "Kuldeep Rathi Family Office",
+    "Stride Venture",
+    "Innoven Capital"
+   ],
+   "lead_investor": "SMBC Asia",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 한 자산관리 스타트업이 SMBC Asia를 주도 투자자로 하여 2,900만 달러 규모의 투자 라운드를 유치했습니다. Lightspeed India Partners를 포함한 기존 투자자들과 여러 패밀리 오피스가 함께 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/acquired-data-security-firms-amazing-year"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "Metal Morph",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 700000.0,
+    "currency": "GBP",
+    "unit": "unit"
+   },
+   "amount_usd": 944440,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Metal Morph는 폐수 처리 과정에서 산업 자원을 회수하기 위한 기술 개발을 위해 70만 파운드의 프리시드 펀딩을 조성했다. 이 자금은 영국 기반의 수처리 기술 스타트업의 기술 고도화에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/13/metal-morph-raises-ps700k-to-recover-industrial-resources-from-wastewater/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "Millow",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2306800,
+   "stage": "비공개",
+   "investors": [
+    "Magnus Emilson",
+    "Jan Enhager"
+   ],
+   "lead_investor": "Magnus Emilson",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴 예테보리 기반 푸드테크 스타트업 Millow가 귀리와 균사체 기반 단백질 성분 생산 확대를 위해 200만 유로 펀딩을 유치했다. 자금은 생산 능력 확대와 북유럽 외식 시장 진출을 위한 상업팀 확충에 사용된다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/13/millow-raises-eur2m-to-expand-mycelium-protein-across-nordic-foodservice/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/gothenburgs-millow-secures-e2-million-to-scale-clean-label-protein-made-from-oats-and-mycelium/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "company": "Alloy Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 11.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 11500000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "호주의 로봇 테스팅 스타트업 Alloy Robotics가 호주의 주요 3개 VC로부터 1,150만 달러의 시드 투자를 유치했다. 이 자금으로 로봇 테스트 분석 시간을 1일에서 10분으로 단축하는 기술 개발을 추진할 예정이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/the-big-3-vcs-back-robot-testing-startups-11-5-million-seed-raise/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-12",
    "company": "Yulu",
    "sector": "모빌리티",
@@ -150,7 +508,15 @@
    "stage": "시리즈 C",
    "investors": [
     "Menlo Ventures",
-    "Scaleup Europe Fund"
+    "Scaleup Europe Fund",
+    "EQT's Scaleup Europe Fund",
+    "Tencent",
+    "Balderton Capital",
+    "Carmignac",
+    "Kaszek Ventures",
+    "LTS Growth",
+    "World Innovation Lab",
+    "Regent"
    ],
    "lead_investor": "Menlo Ventures",
    "country": "미국",
@@ -172,6 +538,10 @@
     {
      "name": "EU-Startups",
      "url": "https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/"
+    },
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/08/13/tencent-backs-lovable-in-400-million-series-c-at-13-3-billion-valuation/"
     }
    ]
   },

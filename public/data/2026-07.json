@@ -3685,11 +3685,15 @@
    "lead_investor": "Coatue",
    "country": "미국",
    "region": "북미",
-   "ai_summary_ko": "Databricks가 2026년 초 약 50억 달러 규모의 펀딩 라운드를 완료했으며, 기업가치는 1,340억 달러로 평가받았다. Coatue가 이번 투자를 주도했다.",
+   "ai_summary_ko": "Databricks가 시리즈 펀딩라운드에서 $50억을 유치했으며, 회사의 밸류에이션은 $1,900억에 도달했다. 투자자들의 수요가 당초 계획인 $10억보다 많아 최종적으로 $50억의 투자 유치를 결정했다.",
    "sources": [
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/databricks-hires-sap-head-apac-japan-operations"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
     }
    ]
   },
