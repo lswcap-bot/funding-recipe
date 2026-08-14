@@ -2,6 +2,146 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-14",
+   "company": "ZXMOTO",
+   "sector": "모빌리티",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "HongShan"
+   ],
+   "lead_investor": "HongShan",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 충칭 기반 고성능 오토바이 제조업체 ZXMOTO가 홍산(Sequoia China)으로부터 투자를 유치했습니다. 두 회사는 세계 수준의 제품 개발과 국제 레이싱 회로에서의 경쟁을 위해 협력할 예정입니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/08/14/hongshan-invests-in-zxmoto-as-chinese-motorcycle-maker-targets-global-racing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "company": "Aisot Technologies",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.13,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2463771,
+   "stage": "시드",
+   "investors": [
+    "family offices",
+    "angel investors",
+    "Felix Haldner"
+   ],
+   "lead_investor": null,
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "ETH 취리히의 스핀오프 기업인 Aisot Technologies는 기관 투자자를 위한 AI 기반 포트폴리오 인텔리전스 솔루션을 제공하며, 213만 유로 규모의 시드 확장 라운드 펀딩을 완료했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/eth-zurich-spin-off-aisot-technologies-bags-e2-13-million-to-bring-agentic-ai-to-portfolio-management/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "company": "Tap & Go",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Cashflows"
+   ],
+   "lead_investor": "Cashflows",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 핀테크 결제 기업 Cashflows가 블랙풀의 카드 결제 기술 및 머천트 서비스 전문 스타트업 Tap & Go에 투자했다. 투자 금액은 공개되지 않았으며, Tap & Go는 이 자금으로 성장을 가속화할 계획이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/two-female-led-uk-fintechs-join-forces-as-cashflows-invests-in-blackpools-tap-go/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "company": "Lovable",
+   "sector": "기타",
+   "amount_original": {
+    "value": 400.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 462680000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/14/lovable-raises-400m-duolingo-acquires-animade-and-isembard-is-a-politician-s-wet-dream/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "Kantoko",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 3.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3500000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Zac Altman이 설립한 ADHD 치료 스타트업 Kantoko가 온라인 진료를 통해 ADHD 대기 시간과 비용을 줄이기 위해 $3.5백만의 시드 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/serial-founder-zac-altman-seeds-3-5-million-for-his-new-adhd-startup/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "company": "Stirling",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.8,
+    "currency": "NZD",
+    "unit": "million"
+   },
+   "amount_usd": 2220872,
+   "stage": "비공개",
+   "investors": [
+    "Blackbird"
+   ],
+   "lead_investor": "Blackbird",
+   "country": "뉴질랜드",
+   "region": "오세아니아",
+   "ai_summary_ko": "뉴질랜드의 AI 스타트업 Stirling이 금융팀용 자동화 솔루션을 개발하고 있으며, Blackbird가 주도한 투자라운드에서 NZ$3.8백만을 유치했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/kiwi-ai-startup-building-a-finance-teams-autopilot-banks-3-15-million/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-13",
    "company": "Yuno",
    "sector": "핀테크",
@@ -404,6 +544,10 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/graas-raises-17m-buys-trustana-agentic-commerce-push"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/long-road-asian-ai-chip"
     }
    ]
   },
@@ -542,6 +686,10 @@
     {
      "name": "TechNode",
      "url": "https://technode.com/2026/08/13/tencent-backs-lovable-in-400-million-series-c-at-13-3-billion-valuation/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/the-10-biggest-startup-investments-in-sweden-this-year/"
     }
    ]
   },
