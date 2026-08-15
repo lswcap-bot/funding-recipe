@@ -2,6 +2,44 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-15",
+   "company": "Aureka",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/out-of-the-clouds"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-15",
+   "company": "Firmus Technologies",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/out-of-the-clouds"
+    }
+   ]
+  },
+  {
    "date": "2026-08-14",
    "company": "ZXMOTO",
    "sector": "모빌리티",
@@ -521,6 +559,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/08/ev-mobility-service-startup-yulu-raises-93-million-led-by-gef-capital"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/out-of-the-clouds"
     }
    ]
   },
