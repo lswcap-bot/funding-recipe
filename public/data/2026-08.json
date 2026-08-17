@@ -2,6 +2,504 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-17",
+   "company": "Orivium",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 30000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Orivium은 광산 폐기물에서 구리 등 중요 금속을 회수하는 딥테크 스타트업으로, 시리즈 B 자금조달을 위해 3,000만 달러를 모금하고자 합니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/other-tech/deep-tech-copper-recovery-startup-orivium-seeks-30-million-series-b/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Sophiie AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Sophiie AI는 건설업 관리자의 행정 업무를 AI로 자동화하고 미국 시장 진출을 목표로 $5백만 규모의 시드 펀딩을 조달했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/best-in-tech-awards-finalist-sophiie-ai-lands-5-million-seed-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Visaible.ai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Visaible.ai는 AI 에이전트를 활용하여 호텔의 검색 결과 최적화 및 직접 예약 보호를 돕는 고객 획득 플랫폼으로 $1백만 규모의 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/hotels-customer-acquisition-platform-visaible-ai-finds-room-for-1-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Versatile RobotX",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 1.17,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1356381,
+   "stage": "비공개",
+   "investors": [
+    "British Design Fund",
+    "Innovate UK Growth Catalyst"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Versatile RobotX는 농업 로봇 자동화 솔루션을 개발하는 영국 스타트업으로, 상용화 가속화를 위해 British Design Fund와 Innovate UK Growth Catalyst로부터 €1.17 million 이상의 펀딩을 확보했다. 이 자금은 노동집약적 농업 작업을 자동화하는 필드 레벨의 로봇 상용화에 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/university-of-essex-spin-out-versatile-robotx-bags-over-e1-17-million-to-commercialise-its-agricultural-robots/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Birdsview",
+   "sector": "기타",
+   "amount_original": {
+    "value": 3.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4289410,
+   "stage": "비공개",
+   "investors": [
+    "Sarsia",
+    "Butterfly Ventures",
+    "Proptechfonden",
+    "Kiilto Ventures",
+    "Nordic Makers",
+    "Momentum",
+    "Eviny Ventures",
+    "Farvatn Venture"
+   ],
+   "lead_investor": null,
+   "country": "노르웨이",
+   "region": "유럽",
+   "ai_summary_ko": "노르웨이의 콘크리트 검사 기술 스타트업 Birdsview가 370만 유로를 조성하여 상용화 및 국제 확장에 자금을 투입한다. 라운드는 Sarsia, Butterfly Ventures 등 다양한 투자자들이 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/norways-birdsview-raises-e3-7-million-to-scale-its-mri-for-concrete-technology-and-protect-infrastructure/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "SpaceAM",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [
+    "Foresight Group"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국의 항공우주 및 방위 기술 회사 SpaceAM이 Foresight Group을 포함한 투자자들로부터 시드 투자를 유치했다. 정확한 투자 금액은 공개되지 않았으며, 초경량 자율 센싱 시스템 개발을 위해 자금을 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/uk-based-spaceam-closes-seed-round-to-scale-ai-powered-sensing-technology-for-defence-and-space/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Gravis Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 172.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 199399600,
+   "stage": "시리즈 A",
+   "investors": [
+    "SoftBank"
+   ],
+   "lead_investor": "SoftBank",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "스위스의 건설기술 기업 Gravis Robotics가 SoftBank로부터 1억 7,200만 유로의 시리즈 A 투자를 유치했다. 이 투자로 회사의 밸류에이션은 8억 6,200만 유로(10억 달러)에 도달하여 유럽의 최신 로보틱스 유니콘이 되었다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/gravis-robotics-becomes-europes-latest-robotics-unicorn-after-e172-million-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Mifeng",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "China Telecom"
+   ],
+   "lead_investor": "China Telecom",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Mifeng는 2026년 4월에 출범한 물리적 AI 데이터 서비스 플랫폼으로, 로봇 기업들에 B2B 공급을 제공합니다. China Telecom이 주도하여 펀딩을 진행했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/chinas-mifeng-huayi-sign-physical-ai-supply-deal"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "amber",
+   "sector": "AI",
+   "amount_original": {
+    "value": 7.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 8115100,
+   "stage": "시리즈 A",
+   "investors": [
+    "Ventech",
+    "NRW.Venture"
+   ],
+   "lead_investor": "Ventech",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "독일의 AI 플랫폼 amber가 Ventech와 NRW.Venture가 공동 주도한 700만 유로의 시리즈 A 투자를 완료했다. 이 플랫폼은 중소 기업이 조직 지식을 활용하고 자동화된 비즈니스 AI를 운영하도록 지원한다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/17/amber-raises-eur7m-to-expand-its-ai-powered-business-knowledge-platform/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/aachen-based-amber-raises-e7-million-series-a-to-build-the-infrastructure-for-autonomous-business-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Julian Teicke의 새로운 스타트업",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Julian Teicke가 설립한 정신건강 지원 플랫폼으로, 유럽 전역에서 전문적인 정신건강 서비스 접근 시 발생하는 대기 시간과 높은 비용 문제를 해결하고자 하는 서비스입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/17/a-nervous-system-as-a-service-julian-teickes-new-bet-on-human-connection/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Astute",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 1.2,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1200000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Astute는 B2B 기업의 뉴스레터, 팟캐스트, 소셜미디어 크리에이터 파트너십 관리를 돕는 플랫폼으로, 120만 달러 규모의 프리시드 라운드 투자를 유치하고 새로운 플랫폼을 출시했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/17/astute-raises-12m-and-launches-b2b-new-media-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Gallos Technologies",
+   "sector": "보안",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 50000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Gallos Technologies는 방위산업 기술 투자 및 개발 회사로, 영국 GCHQ의 전 국장 Jeremy Fleming을 자문으로 두고 있으며, 5천만 달러 규모의 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/17/defence-tech-investor-and-builder-gallos-raises-50m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Gravis Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 200.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 231860000,
+   "stage": "시리즈 A",
+   "investors": [
+    "SoftBank"
+   ],
+   "lead_investor": "SoftBank",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "스위스 로보틱스 스타트업 Gravis Robotics가 SoftBank로부터 2억 유로를 투자받았다. 이는 회사 기록상 최대 규모의 시리즈 A 펀딩이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/17/softbank-invests-200m-in-swiss-robotics-startup-gravis-robotics/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Wispr",
+   "sector": "AI",
+   "amount_original": {
+    "value": 280.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 280000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "음성 인식 기술 회사 Wispr가 2억 8천만 달러를 조달하며 20억 달러 평가를 받았다. 이번 자금을 통해 회의 기록 도구 등 새로운 분야로 사업을 확장할 계획이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Zipline",
+   "sector": "모빌리티",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "우버"
+   ],
+   "lead_investor": "우버",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "우버가 음식 배달 네트워크에 Zipline 드론을 추가한다. 우버는 이 제휴의 일환으로 Zipline에 투자하기로 했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Terra Industries",
+   "sector": "기타",
+   "amount_original": {
+    "value": 52.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 52000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "남아프리카",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "아프리카 국방기술 스타트업 Terra Industries가 시드 펀딩 라운드로 5,200만 달러를 조달했다. 추가 1,800만 달러를 포함하여 글로벌 사우스 지역의 국방 인프라 구축에 자금을 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "SoftBank 데이터센터 개발사",
+   "sector": "기타",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1500000000,
+   "stage": "비공개",
+   "investors": [
+    "엔비디아"
+   ],
+   "lead_investor": "엔비디아",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "엔비디아가 소프트뱅크의 데이터센터 개발사에 15억 달러를 투자한다. 이 투자를 통해 엔비디아 칩이 OpenAI 데이터센터 프로젝트에 공급될 것을 보장받는다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Groq",
+   "sector": "AI",
+   "amount_original": {
+    "value": 350.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 350000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Groq가 35억 달러 밸류에이션으로 3억 5천만 달러를 조달했다. 전 AI 칩 제조사에서 네오클라우드 사업으로 전환하면서 엔비디아 기반 데이터센터 인프라를 확장하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Sonic Fire Tech",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Sonic Fire Tech이 음파 기반 화재 방지 시스템 개발을 위해 1,500만 달러의 펀딩을 유치했다. 이 기술은 상용 주방부터 아파트 건물까지 다양한 시설에 적용될 예정이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Higgsfield",
+   "sector": "AI",
+   "amount_original": {
+    "value": 400.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 400000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "AI 이미지 및 비디오 생성 플랫폼인 Higgsfield가 시리즈 B 펀딩에서 4억 달러를 유치했습니다. 이번 투자로 회사의 가치평가는 8개월 만에 54억 달러로 4배 증가했습니다. 전 Snap 경영진인 Alex Mashrabov가 창업한 회사입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-16",
+   "company": "OpenRouter",
+   "sector": "AI",
+   "amount_original": {
+    "value": 113.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 113000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "OpenRouter는 미국의 AI 스타트업으로, 약 13억 달러의 기업가치로 평가되며 시리즈 B 라운드에서 1억 1300만 달러를 유치했습니다. 이후 Stripe에 인수되었습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/stripe-unveils-stablecoin-ai-upgrades-global-businesses"
+    }
+   ]
+  },
+  {
    "date": "2026-08-15",
    "company": "Aureka",
    "sector": "기타",
