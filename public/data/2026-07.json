@@ -2328,8 +2328,10 @@
    "amount_original": null,
    "amount_usd": null,
    "stage": "비공개",
-   "investors": [],
-   "lead_investor": null,
+   "investors": [
+    "Jane Street"
+   ],
+   "lead_investor": "Jane Street",
    "country": "미국",
    "region": "북미",
    "ai_summary_ko": "AI 칩 제조 스타트업 Etched가 투자를 유치해 10.3억 달러의 기업가치를 평가받았다. 회사는 하버드 중퇴자 3명이 설립했으며, GPU 없이도 모든 AI 모델의 추론 속도를 높이는 새로운 칩과 메모리 구성요소를 개발했다.",
@@ -2337,6 +2339,10 @@
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
     }
    ]
   },

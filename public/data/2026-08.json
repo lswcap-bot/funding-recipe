@@ -2,6 +2,241 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-18",
+   "company": "Lokal",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 700.0,
+    "currency": "USD",
+    "unit": "thousand"
+   },
+   "amount_usd": 700000,
+   "stage": "비공개",
+   "investors": [
+    "Invexor Venture Partners"
+   ],
+   "lead_investor": "Invexor Venture Partners",
+   "country": "칠레",
+   "region": "중남미",
+   "ai_summary_ko": "칠레의 B2B 마켓플레이스 로칼이 인벡소르 벤처 파트너스의 디스커버리 II 펀드로부터 70만 달러를 조성했습니다. 2022년 설립된 회사는 이 투자금으로 칠레 전역으로 사업 확장을 추진할 계획입니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/lokal-raises-700k-to-expand-across-chile/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "company": "Dharwad Big Mishra Pedha",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 300.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 31350000,
+   "stage": "비공개",
+   "investors": [
+    "Bharat Value Fund"
+   ],
+   "lead_investor": "Bharat Value Fund",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "구루그람 기반의 Dharwad Big Mishra Pedha가 Bharat Value Fund로부터 3억 루피를 투자받았습니다. 이 회사는 현재 200개 이상의 매장을 운영하고 있으며, 향후 2년 동안 50개 도시에 진출하여 100개의 추가 매장을 열 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/dharwad-big-mishra-pedha-rs-300-cr-bharat-value-fund"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "company": "Rezolv",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 12.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 12500000,
+   "stage": "비공개",
+   "investors": [
+    "Norwest"
+   ],
+   "lead_investor": "Norwest",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "뭄바이 기반의 렌드테크 회사 Rezolv가 Norwest가 주도한 1,250만 달러 투자를 유치했다. 회사는 이번 자금을 영업, 위험 평가, 인수심사, 채무 추심 등 인공지능 역량 강화와 대출 워크플로우의 엔드투엔드 자동화 추진에 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/lend-tech-firm-rezolv-raises-12-million-funding-round-led-by-norwest"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "company": "NeoGeo",
+   "sector": "기타",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "비공개",
+   "investors": [
+    "Neev II Fund",
+    "Aavishkaar Capital"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "지리공간 스타트업 NeoGeo가 Neev II Fund와 Aavishkaar Capital로부터 2천만 달러를 투자받았다. 회사는 이번 자금을 R&D, 마케팅, 채용에 주로 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/geospatial-startup-neogeo-20-million-neev-ii-fund-aavishkaar-capital"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "company": "SweGaN",
+   "sector": "기타",
+   "amount_original": {
+    "value": 12.1,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 14006960,
+   "stage": "시리즈 B",
+   "investors": [
+    "Thisbe AB",
+    "North Ventures"
+   ],
+   "lead_investor": "Thisbe AB",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴의 갈륨 나이트라이드 온 실리콘 카바이드(GaN-on-SiC) 에피택셜 웨이퍼 설계·제조 업체인 SweGaN이 1,209만 유로(약 1,400만 달러)의 시리즈 B 펀딩을 확보했습니다. Thisbe AB와 덴마크 벤처캐피탈 North Ventures가 주도했으며, 기존 주주도 참여했습니다. 조달 자금은 생산 확대와 글로벌 성장 가속화에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/swedens-swegan-raises-e12-1-million-to-scale-gallium-nitride-on-silicon-carbide-epitaxial-wafer-production/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "company": "Oceanloop",
+   "sector": "농업",
+   "amount_original": {
+    "value": 38.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 44567600,
+   "stage": "비공개",
+   "investors": [
+    "Hatch Blue's Blue Revolution Fund",
+    "Stolt Ventures"
+   ],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반 Oceanloop가 소프트웨어 기반 순환식 양식 시스템(RAS) 기술 확대를 위해 최대 3,850만 유로의 자금을 조달했다. 이는 Hatch Blue와 Stolt Ventures의 신규 지분 투자와 3,200만 유로 규모의 벤처 부채로 구성되어 있다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/munich-based-oceanloop-nets-up-to-e38-5-million-to-scale-its-land-based-aquaculture-technology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "company": "Kita",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4500000,
+   "stage": "비공개",
+   "investors": [
+    "Y Combinator"
+   ],
+   "lead_investor": "Y Combinator",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "미국 AI 스타트업 Kita가 은행 명세서, 전자지갑 기록, 급여 명세서, 송장을 읽는 소프트웨어로 $4.5M 투자 라운드를 유치했다. Y Combinator가 참여했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indonesia-cancels-digital-payment-tracker-launch"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "company": "Computomics",
+   "sector": "농업",
+   "amount_original": {
+    "value": 6.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 7292880,
+   "stage": "시리즈 B",
+   "investors": [
+    "Convent Capital Agri Food F",
+    "Convent Capital Agri Food Fund",
+    "High-Tech Gründerfonds (HTGF)",
+    "MBG"
+   ],
+   "lead_investor": "Convent Capital Agri Food F",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "튀빙겐 기반 바이오텍 연구회사 Computomics가 시리즈 B 라운드에서 630만 유로를 조달했다. 이 자금은 기후변화에 대응하는 작물 육종 플랫폼의 상용화 확대에 사용될 예정이며, Convent Capital Agri Food Fund가 500만 유로를 주도 투자했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/18/computomics-raises-eur63m-to-scale-climate-smart-plant-breeding/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/germanys-computomics-secures-e6-3-million-to-help-crop-breeders-stay-ahead-of-heat-and-drought/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "company": "Groq",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.5,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 3500000000,
+   "stage": "비공개",
+   "investors": [
+    "Nvidia"
+   ],
+   "lead_investor": "Nvidia",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Groq는 북미, 유럽, 중동, 아시아태평양 지역에 13개의 데이터센터를 운영하는 AI 칩 스타트업입니다. Nvidia로부터 35억 달러 규모의 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/nvidia-reaches-ai-licensing-deal-with-chip-startup-groq"
+    }
+   ]
+  },
+  {
    "date": "2026-08-17",
    "company": "Orivium",
    "sector": "에너지",
@@ -473,6 +708,10 @@
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/quiet-ai-video-platform-chasing-50m-sora-catches"
     }
    ]
   },
