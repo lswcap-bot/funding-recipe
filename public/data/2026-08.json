@@ -2,6 +2,460 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-19",
+   "company": "Yuanxin Satellite",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 7.0,
+    "currency": "CNY",
+    "unit": "billion"
+   },
+   "amount_usd": 1038870000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Yuanxin Satellite이 약 70억 위안 규모의 펀딩 라운드를 완료했으며, 기업 평가액은 약 500억 위안이다. 보도된 평가액은 회사의 초기 목표인 750억 위안 이하이다. 회사는 위성 인터넷 개발을 계속하면서 최대 150억 위안을 모금하려는 계획을 이전에 공시했다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/08/19/yuanxin-satellite-reportedly-raises-nearly-rmb7-billion-at-rmb50-billion-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "Nybro",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "시드",
+   "investors": [
+    "QIC"
+   ],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "퀸즐랜드의 축우 유전학 바이오테크 스타트업 Nybro가 시드라운드를 확대하여 2,000만 달러를 조달했으며, QIC가 지원했습니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/queensland-beef-genetics-biotech-nybro-doubles-seed-round-to-20-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "BookMyShow",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "KKR"
+   ],
+   "lead_investor": "KKR",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "미디어·엔터테인먼트 플랫폼 BookMyShow가 사모펀드 KKR로부터 소수지분 투자를 유치했으며, 이 투자를 통해 라이브 엔터테인먼트 사업을 확대하고 글로벌 아티스트를 인도 관객에게 소개할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/kkr-picks-up-minority-stake-in-bookmyshow"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "CtrlS",
+   "sector": "기타",
+   "amount_original": {
+    "value": 250.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 26100000,
+   "stage": "비공개",
+   "investors": [
+    "Nikhil Kamath",
+    "Sreeram Reddy Vanga"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 하이퍼스케일 데이터센터 운영업체 CtrlS가 Rs 250 크로어 규모의 펀딩라운드를 진행했으며, Zerodha 공동창업자 Nikhil Kamath가 Rs 200 크로어, 기업가 Sreeram Reddy Vanga가 Rs 50 크로어를 각각 투자했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/zerodha-co-founder-nikhil-kamath-infuses-rs-200-cr-in-ctrls-rs-250-cr-fund-raise"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "Butterfly Learnings",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 65.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 6786000,
+   "stage": "비공개",
+   "investors": [
+    "Inflexor Ventures"
+   ],
+   "lead_investor": "Inflexor Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 에듀테크 스타트업 Butterfly Learnings가 Inflexor Ventures 주도로 Rs 65 crore 펀딩을 유치했다. 자폐증 조기 선별 솔루션 상용화와 기술 플랫폼 강화, 인도 전역 센터 확대에 자금을 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/butterfly-learnings-raises-65-crore-funding-led-by-inflexor-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "SnerpaPower",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 3.4,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3945700,
+   "stage": "시드",
+   "investors": [
+    "Encevo",
+    "Crowberry Capital",
+    "BackingMinds"
+   ],
+   "lead_investor": "Encevo",
+   "country": "아이슬란드",
+   "region": "유럽",
+   "ai_summary_ko": "Reykjavik 기반의 에너지 관리 소프트웨어 회사 SnerpaPower가 유럽 확장을 가속화하기 위해 €3.4 million의 시드 투자를 확보했습니다. Encevo가 주도적으로 투자했으며 기존 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/reykjaviks-snerpapower-secures-e3-4-million-to-help-power-intensive-industries-turn-electricity-into-a-competitive-advantage/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "EcoNomad Solutions",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 466.0,
+    "currency": "EUR",
+    "unit": "thousand"
+   },
+   "amount_usd": 540793,
+   "stage": "시드",
+   "investors": [
+    "British Design Fund"
+   ],
+   "lead_investor": "British Design Fund",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Harpenden 지역의 농업 기술 스타트업 EcoNomad Solutions이 소규모 축산농장의 메탄 배출량 감소와 유기 폐기물을 재생 에너지로 변환하기 위해 €466k의 투자를 유치했습니다. British Design Fund와 Innovate UK 투자자 파트너십 지원금으로 구성되었습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/turning-livestock-waste-into-renewable-energy-for-small-farms-uk-startup-economad-solutions-lands-e466k/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "Dubotech",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 400000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 400000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "남아시아",
+   "ai_summary_ko": "Dubotech는 미화 40만 달러의 자금을 지원받아 신흥시장을 위한 방위 로보틱스 분야에서 미화 64억 달러 규모의 검사 시장을 목표로 휴대용 수중 로봇을 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/scaling-indigenous-defense-robotics-emerging-markets"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "Medly AI",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 8.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 8000000,
+   "stage": "시드",
+   "investors": [
+    "Felix Capital",
+    "Eka Ventures",
+    "Ada Ventures"
+   ],
+   "lead_investor": "Felix Capital",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 AI 튜터링 플랫폼인 Medly AI가 시험 준비를 위한 개인화된 교육 접근성을 제공하기 위해 690만 유로(800만 달러) 규모의 시드 라운드 투자를 유치했습니다. 이 라운드는 Felix Capital이 주도했으며, 기존 투자자인 Eka Ventures와 Ada Ventures가 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/19/medly-ai-raises-8m-to-bring-ai-powered-tutoring-to-more-students/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/londons-medly-raises-e6-9-million-to-democratise-access-to-personalised-education-through-an-ai-tutor/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "Singular Photonics",
+   "sector": "기타",
+   "amount_original": {
+    "value": 2.15,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2150000,
+   "stage": "시드",
+   "investors": [
+    "ACF Investors",
+    "Wren Capital",
+    "Cambridge Angels",
+    "Scottish Enterprise",
+    "Quantum Exponential",
+    "Old College Capital"
+   ],
+   "lead_investor": "ACF Investors",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Edinburgh 기반의 반도체 회사 Singular Photonics가 SPAD 이미지 센서와 온칩 컴퓨팅 기술을 확장하기 위해 €1.85 million의 펀딩을 확보했습니다. ACF Investors가 주도적으로 투자했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/19/singular-photonics-lands-215m-to-develop-next-generation-image-sensors/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/scotlands-singular-photonics-secures-e1-85-million-to-scale-spad-image-sensors-with-on-chip-computing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "Aisel Health",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1972850,
+   "stage": "프리시드",
+   "investors": [
+    "Caesar Ventures",
+    "Nordic Web Ventures",
+    "LifeX",
+    "Angel Invest",
+    "Rockstart",
+    "EIFO"
+   ],
+   "lead_investor": "Caesar Ventures",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "코펜하겐 기반의 정신건강 관리용 AI 운영 체제를 개발하는 Aisel Health가 170만 유로 규모의 프리시드 라운드 투자를 유치했습니다. Caesar Ventures가 주도했으며, 여러 유럽 벤처캐피탈과 기존 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/19/beyond-ai-scribes-aisel-raises-eur17m-to-tackle-psychiatrys-capacity-crisis/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/copenhagens-aisel-health-raises-e1-7-million-to-scale-its-ai-operating-system-for-psychiatric-care/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "Flip",
+   "sector": "AI",
+   "amount_original": {
+    "value": 25.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 25000000,
+   "stage": "비공개",
+   "investors": [
+    "Notion Capital",
+    "HV Capital",
+    "L-Bank"
+   ],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "독일 Stuttgart의 frontline 직원을 위한 직원 경험 플랫폼인 Flip이 AI 인프라 개발과 사무직이 아닌 직원을 위한 지식 개발을 위해 €22 million을 조성했습니다. 기존 투자자인 Notion Capital과 HV Capital이 주도했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/19/flip-raises-25m-to-expand-ai-platform-for-frontline-workers/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/a-year-after-their-last-raise-germanys-flip-raises-e22-million-to-scale-its-frontline-ai-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "Prevalent AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 22.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 22000000,
+   "stage": "그로스",
+   "investors": [
+    "Integrity Growth Partners"
+   ],
+   "lead_investor": "Integrity Growth Partners",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "엔터프라이즈 AI 회사 Prevalent AI가 로스앤젤레스 기반의 Integrity Growth Partners로부터 $22백만의 그로스 투자를 확보했으며, 이는 회사가 설립 이후 처음으로 유치하는 주요 자본이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/19/prevalent-ai-secures-22m-growth-investment-to-scale-enterprise-ai-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "EcoNomad Solutions",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 230000.0,
+    "currency": "GBP",
+    "unit": "unit"
+   },
+   "amount_usd": 311788,
+   "stage": "비공개",
+   "investors": [
+    "British Design Fund"
+   ],
+   "lead_investor": "British Design Fund",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국의 EcoNomad Solutions는 소규모 축산농장의 메탄 배출을 줄이고 에너지 및 비료 비용을 감소시키는 폐기물-에너지 기술을 제공하기 위해 British Design Fund로부터 £230,000의 펀딩을 확보했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/19/economad-raises-ps400k-to-bring-waste-to-energy-tech-to-small-livestock-farms/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "Navi",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "비공개",
+   "investors": [
+    "Prosus"
+   ],
+   "lead_investor": "Prosus",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Sachin Bansal이 설립한 금융서비스 회사 Navi가 Prosus로부터 1억 달러의 자금을 유치했습니다. 이는 Navi의 첫 기관투자자 펀딩으로, 금융 서비스 사업 확장에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/sachin-bansal-founded-navi-raises-100-million-from-prosus"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "Also",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 150.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 150000000,
+   "stage": "비공개",
+   "investors": [
+    "Prysm Capital"
+   ],
+   "lead_investor": "Prysm Capital",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Rivian의 스핀아웃 회사 Also가 Prysm Capital의 주도 하에 1억 5천만 달러를 유치했습니다. 이 자금은 페달 보조 전자 자전거와 상용 화물 쿼드를 넘어 자율 배송 차량으로의 사업 확장에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-19",
+   "company": "Rillet",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Iconiq"
+   ],
+   "lead_investor": "Iconiq",
+   "country": "미국",
+   "region": null,
+   "ai_summary_ko": "AI-native account startup Rillet이 Iconiq 주도로 Series C 펀딩라운드에서 $100M을 조성하며 $1B 밸류에이션을 달성했다. 지난 3개월간 ARR을 두 배로 증가시켰다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-18",
    "company": "Lokal",
    "sector": "커머스",
