@@ -2,6 +2,288 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-20",
+   "company": "Seitec",
+   "sector": "보안",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "AUD",
+    "unit": "million"
+   },
+   "amount_usd": 2842440,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "캔버라 기반 방위 기술 스타트업 Seitec이 400만 호주달러 규모의 투자를 유치했다. 이 자금은 분쟁 지역 감지 기술을 전 세계로 확대하는 데 사용될 예정이며, 동맹국들의 더욱 강화된 탐지 기술 수요에 대응하기 위한 것이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/canberra-defence-tech-startup-seitec-detects-4-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "company": "Peeko",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 67.4,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 7043300,
+   "stage": "시리즈 A",
+   "investors": [
+    "Chiratae Ventures"
+   ],
+   "lead_investor": "Chiratae Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 소재 빠른 배송 베이비케어 플랫폼 Peeko가 Chiratae Ventures 주도로 67.4 크로어 루피의 시리즈 A 펀딩을 유치했다. 이 자금은 사업 확장, 기술 개발, 인력 채용에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/quick-commerce-babycare-platform-peeko-series-a-chiratae-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "company": "Velatir",
+   "sector": "AI",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5840500,
+   "stage": "프리시드",
+   "investors": [
+    "Spintop Ventures",
+    "Ugly"
+   ],
+   "lead_investor": "Spintop Ventures",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "덴마크의 AI 인프라 스타트업 벨라티르가 유럽 확장 및 인재 확보를 위해 500만 유로의 시드 자금을 유치했다. 이번 라운드는 신규 투자자 스핀탑 벤처스와 기존 투자자 언리의 주도로 2주 만에 완료되었다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/danish-ai-infrastructure-startup-velatir-secures-e5-million-six-months-after-its-pre-seed-round-and-official-launch/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "company": "Pixelgen Technologies",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 13.26,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 15489006,
+   "stage": "시리즈 B",
+   "investors": [
+    "Flat Capital",
+    "Industrifonden",
+    "Navigare Ventures"
+   ],
+   "lead_investor": "Flat Capital",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스톡홀름 기반 생명과학 회사인 Pixelgen Technologies가 세포 표면 단백질의 공간적 매핑을 위한 고처량 플랫폼 개발 사업에 사용할 €13.26 million을 시리즈 B 펀딩으로 유치했습니다. 신규 투자자 Flat Capital이 주도했으며, 기존 투자자인 Industrifonden과 Navigare Ventures가 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/stockholms-pixelgen-technologies-secures-e13-26-million-to-advance-spatial-mapping-of-cell-surface-proteins/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "company": "Artwod",
+   "sector": "에듀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [
+    "Airbridge Equity Partners",
+    "ForsVC"
+   ],
+   "lead_investor": null,
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "벨기에의 시각 예술가를 위한 학습 및 커뮤니티 플랫폼인 Artwod가 110만 유로 규모의 시드 라운드 투자를 유치했습니다. 이번 투자는 Airbridge Equity Partners와 ForsVC의 참여로 진행되었으며, 크리에이터 마켓플레이스 출시, 커뮤니티 참여 확대, 아티스트 충성도 구축을 위해 자금을 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/belgian-creative-learning-platform-artwod-raises-e1-1-million-to-launch-creators-marketplace/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "company": "Finnable",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 56.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 56000000,
+   "stage": "비공개",
+   "investors": [
+    "TVS",
+    "Claypond"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Finnable은 미화 5,600만 달러 규모의 펀딩을 조성했습니다. TVS와 Infosys 공동창업자, Claypond 등의 투자자들이 이 대출 금융 회사를 지원하고 있으며, 회사는 이미 수익성을 달성한 상태입니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/tvs-infosys-cofounder-finnables-56m-raise"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "company": "Velatir",
+   "sector": "AI",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5840500,
+   "stage": "시드",
+   "investors": [
+    "Spintop Ventures"
+   ],
+   "lead_investor": "Spintop Ventures",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "덴마크 AI 스타트업 Velatir이 유럽 전역에서 AI 인프라 플랫폼을 확장하고 팀을 성장시키기 위해 500만 유로의 시드 펀딩을 조달했습니다. 이번 라운드는 신규 투자자 Spintop Ventures와 기존 투자자들이 주도했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/20/velatir-secures-eur5m-seed-funding-to-expand-its-ai-infrastructure-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "company": "Guideless",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1168100,
+   "stage": "프리시드",
+   "investors": [
+    "Superhero Capital",
+    "FIRSTPICK VC"
+   ],
+   "lead_investor": "Superhero Capital",
+   "country": "리투아니아",
+   "region": "유럽",
+   "ai_summary_ko": "빌니우스 기반의 AI 기반 소프트웨어 교육 플랫폼인 Guideless가 워크플로우 교육 자료 작성 및 유지 비용을 절감하기 위해 €1 million의 프리시드 펀딩을 유치했습니다. Superhero Capital이 주도했으며, FIRSTPICK VC와 에이젤 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/20/lithuanian-ai-startup-guideless-raises-eur1m-to-streamline-software-training/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/vilnius-based-guideless-raises-e1-million-to-turn-software-workflows-into-narrated-video-training-guides-using-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "company": "Paralo",
+   "sector": "기타",
+   "amount_original": {
+    "value": 270.0,
+    "currency": "GBP",
+    "unit": "thousand"
+   },
+   "amount_usd": 367902,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국의 골프 기술 스타트업 Paralo가 골프 클럽을 위한 운영 시스템과 골퍼를 위한 연결 제품을 개발하기 위해 27만 파운드의 초과 구독 프리시드 펀딩 라운드를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/20/paralo-raises-ps270k-to-tackle-golfs-fragmented-technology-stack/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "company": "Callosum",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "시드",
+   "investors": [
+    "Atomico",
+    "Plural",
+    "DCVC",
+    "UK Sovereign AI Fund"
+   ],
+   "lead_investor": "Atomico",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 스타트업 Callosum이 이종 AI 모델과 칩을 통합하는 인프라 구축을 위해 €85.4 million을 시드 펀딩으로 유치했습니다. Atomico가 주도했으며, Plural, DCVC, UK Sovereign AI Fund 등 여러 투자자와 엔젤 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/20/callosum-raises-100m-seed-round/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/london-based-callosum-raises-e85-4-million-in-atomico-led-seed-round-to-unify-ai-models-and-chips/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "company": "Solinide Photonics",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4672400,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴의 포토닉스 딥테크 스타트업 Solinide Photonics가 실리콘나이트라이드 포토닉 집적회로 기술의 상용화 및 확장 가능한 제조 준비를 위해 4백만 유로의 시드 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/20/solinide-closes-eur4m-to-commercialise-photonic-chips-for-ai-data-centres/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-19",
    "company": "Yuanxin Satellite",
    "sector": "에너지",
@@ -402,6 +684,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/08/sachin-bansal-founded-navi-raises-100-million-from-prosus"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indian-medtech-hrs-navigation-raises-5m-to-expand-globally"
     }
    ]
   },
