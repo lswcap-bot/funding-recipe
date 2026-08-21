@@ -2,6 +2,203 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-21",
+   "company": "Vessev",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 27.0,
+    "currency": "AUD",
+    "unit": "million"
+   },
+   "amount_usd": 19353870,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "뉴질랜드",
+   "region": "오세아니아",
+   "ai_summary_ko": "뉴질랜드의 전기 수소날개 페리 스타트업 Vessev가 A$2,700만을 유치했으며, 호주와 미국에서 전기 수소날개 페리를 새로운 출퇴근 수단으로 만들기 위해 자금을 활용할 계획이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/kiwi-electric-ferry-startup-vessev-floats-27-million-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-21",
+   "company": "ENPULSION",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 22.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 26322750,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "오스트리아",
+   "region": "유럽",
+   "ai_summary_ko": "오스트리아의 우주 추진 시스템 제조업체 ENPULSION이 2,250만 유로를 조달했다. 이번 자금을 바탕으로 영국의 화학 추진 및 탱크 설계 회사인 Lift Me Off를 인수할 예정이며, 유럽우주청(ESA) 미션 수행 경험이 있는 기업을 통합할 계획이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/after-e22-5-million-raise-viennas-enpulsion-to-acquire-british-space-propulsion-company-lift-me-off/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-21",
+   "company": "HexSeed Technology",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 700000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 818930,
+   "stage": "프리시드",
+   "investors": [
+    "Carbon13",
+    "Net Zero Technology Centre",
+    "Vento Ventures"
+   ],
+   "lead_investor": "Carbon13",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국 기반 탄소 포집 및 활용(CCU) 스타트업 HexSeed Technology가 CO₂를 고부가가치 초재료로 변환하는 기술 개발을 위해 70만 유로 이상의 초기 단계 자금을 조달했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/uk-based-hexseed-raises-over-e700k-to-cool-ai-data-centres-with-its-with-diamond-coating-technology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-21",
+   "company": "Oshen",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 4.27,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4995473,
+   "stage": "비공개",
+   "investors": [
+    "Lunar Ventures",
+    "AlbionVC",
+    "Twin Track"
+   ],
+   "lead_investor": "Lunar Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "플리머스 기반 로봇공학 회사 Oshen이 해양 감시 로봇 군집 스케일링을 위해 427만 유로를 조달했다. 이번 자금으로 제조 능력을 3배로 확대하여 해군과 해양 과학 기관의 수요를 충족할 계획이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/plymouth-based-oshen-raises-e4-27-million-to-scale-robot-swarms-that-act-as-the-oceans-eyes-and-ears/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-21",
+   "company": "Redfaire",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 13.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 15208700,
+   "stage": "그로스",
+   "investors": [
+    "BGF"
+   ],
+   "lead_investor": "BGF",
+   "country": "아일랜드",
+   "region": "유럽",
+   "ai_summary_ko": "리머릭 기반 ERP 및 클라우드 서비스 제공업체 Redfaire가 BGF로부터 1,300만 유로의 소수 지분 투자를 받았다. 이 자금은 국제 확장, 서비스 개발, 인수 전략을 추진하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/limerick-based-redfaire-lands-e13-million-from-bgf-to-scale-its-erp-and-cloud-services-business/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-21",
+   "company": "Eyedentity",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1520870,
+   "stage": "시리즈 A",
+   "investors": [
+    "Norrsken Launcher",
+    "Karolinska Institutet Innovation"
+   ],
+   "lead_investor": "Norrsken Launcher",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스톡홀름 기반 의료기술 스타트업 Eyedentity가 AI 기반 안구 암 진단 플랫폼 개발을 위해 130만 유로를 투자받았다. 이번 자금은 규제 승인, 제품 개발, 안과 클리닉과 병원으로의 확장을 지원할 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/stockholm-based-eyedentity-secures-e1-3-million-to-detect-deadly-eye-cancer-earlier-with-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-21",
+   "company": "Starcloud",
+   "sector": "기타",
+   "amount_original": {
+    "value": 250.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 250000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Starcloud이 우주 기반 데이터 센터 사업을 위해 2억 5천만 달러를 조달했다. 우주 접근성이 제한되는 상황에서 궤도상 데이터 센터 분야의 경쟁이 심화되고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "company": "Bower",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2000000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "AI 기반 과학 연구 스타트업 Bower가 200만 달러의 프리시드 투자를 유치했으며, 실험을 캡처하기 전에 지식이 사라지는 것을 방지하기 위해 실험실 환경을 AI 연구 OS로 변환하는 데 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/ai-based-science-research-startup-bower-bags-2-million-pre-seed/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-20",
    "company": "Seitec",
    "sector": "보안",
@@ -147,6 +344,10 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/tvs-infosys-cofounder-finnables-56m-raise"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/oatsides-milk-profit"
     }
    ]
   },
@@ -728,16 +929,21 @@
    "amount_usd": 100000000,
    "stage": "시리즈 C",
    "investors": [
-    "Iconiq"
+    "Iconiq",
+    "Sequoia"
    ],
    "lead_investor": "Iconiq",
    "country": "미국",
-   "region": null,
+   "region": "북미",
    "ai_summary_ko": "AI-native account startup Rillet이 Iconiq 주도로 Series C 펀딩라운드에서 $100M을 조성하며 $1B 밸류에이션을 달성했다. 지난 3개월간 ARR을 두 배로 증가시켰다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/"
     }
    ]
   },
@@ -1146,6 +1352,10 @@
     {
      "name": "EU-Startups",
      "url": "https://www.eu-startups.com/2026/08/gravis-robotics-becomes-europes-latest-robotics-unicorn-after-e172-million-series-a/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/21/gravis-robotics-bags-200m-a-safer-marketplace-for-teen-odd-jobs-and-monzo-chairman-gary-hoffman-to-stand-down/"
     }
    ]
   },
