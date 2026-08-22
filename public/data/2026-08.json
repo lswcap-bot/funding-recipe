@@ -2,6 +2,112 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-22",
+   "company": "Craif",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/big-checks-wide-reach"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-22",
+   "company": "Kokoni",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/big-checks-wide-reach"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-22",
+   "company": "Navi Technologies",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/big-checks-wide-reach"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-22",
+   "company": "Rebellions",
+   "sector": "AI",
+   "amount_original": {
+    "value": 850.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 850000000,
+   "stage": "비공개",
+   "investors": [
+    "SK Hynix",
+    "Arm"
+   ],
+   "lead_investor": null,
+   "country": "한국",
+   "region": "동아시아",
+   "ai_summary_ko": "한국 AI 스타트업 Rebellions가 SK Hynix와 Arm 등 투자자들로부터 약 8억 5000만 달러를 유치했다. Nvidia가 이 회사와의 거래를 검토 중인 것으로 보도되었다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/samsung-backs-s-korean-ai-chip-makers-round-at-1-4b-valuation"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-22",
+   "company": "Letara",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 16.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 16000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "일본",
+   "region": "동아시아",
+   "ai_summary_ko": "일본 우주기술 스타트업 레타라가 하이브리드 로켓 기술을 바탕으로 소형 위성 추진체를 넘어 우주, 방위, 보안 분야로 확장하기 위해 약 26억 엔(1,600만 달러)을 투자유치했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-21",
    "company": "Vessev",
    "sector": "모빌리티",
