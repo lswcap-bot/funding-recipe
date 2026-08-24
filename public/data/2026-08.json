@@ -2,6 +2,193 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-24",
+   "company": "Asaya",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 88.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 9187200,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "스킨케어 스타트업 아사야가 시리즈 A 라운드에서 88크로르 루피를 유치했다. 펀딩은 R&D, 빠른 상거래를 포함한 제품 라인 확장, 팀 확대에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/skincare-brand-asaya-raises-rs-88-crore-in-series-a"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-24",
+   "company": "Third Wave Coffee",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 408.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 42595200,
+   "stage": "비공개",
+   "investors": [
+    "WestBridge Capital"
+   ],
+   "lead_investor": "WestBridge Capital",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Third Wave Coffee가 WestBridge Capital이 주도하는 펀딩 라운드에서 408크로르 루피를 유치했습니다. 이 자금은 지역 확장, 기존 시장에서의 입지 강화, 그리고 새로운 성장 카테고리 확대에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/third-wave-coffee-raises-rs-408-cr-led-by-westbridge-capital"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-24",
+   "company": "Embedd",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2682720,
+   "stage": "프리시드",
+   "investors": [
+    "Seedcamp",
+    "Cocoa",
+    "Connect Ventures",
+    "2100 Ventures",
+    "Vesna Capital",
+    "U.ventures",
+    "Underline Ventures",
+    "Common Magic",
+    "Roosh Ventures"
+   ],
+   "lead_investor": "Seedcamp",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 물리적 AI 인프라 스타트업 Embedd이 프리시드 투자로 230만 유로를 유치했다. Seedcamp이 주도 투자사이며, 8개 벤처캐피탈과 투자자들이 참여했다. 자금은 플랫폼 개발과 반도체 기업과의 협력 확대에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/london-based-embedd-raises-e2-3-million-to-build-the-software-infrastructure-for-physical-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-24",
+   "company": "AppsFlyer",
+   "sector": "AI",
+   "amount_original": {
+    "value": 400.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 400000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "이스라엘",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "이스라엘의 AI 스타트업 AppsFlyer가 4억 달러 규모의 신용 한도를 확보했다. 지난해 인력의 7%를 감축한 이 회사는 약 1,300명을 고용하고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/google-meta-israeli-appsflyer-1b"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-24",
+   "company": "Kazimi",
+   "sector": "보안",
+   "amount_original": {
+    "value": 2.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2566080,
+   "stage": "프리시드",
+   "investors": [
+    "Market One Capital",
+    "IBB Ventures"
+   ],
+   "lead_investor": "Market One Capital",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 기반의 모바일 사이버보안 스타트업 Kazimi가 프리시드 투자로 220만 유로를 유치했다. Market One Capital이 주도 투자사이며, IBB Ventures와 모바일 업계 경영진들이 참여했다. 자금은 앱 개발자를 위한 보안 및 퍼스트파티 데이터 검증 솔루션 개발에 사용된다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/24/kazimi-raises-eur22m-pre-seed-to-tackle-bot-activity-in-mobile-marketing/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/berlin-based-kazimi-secures-e2-2-million-to-help-app-developers-protect-and-verify-first-party-data/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-24",
+   "company": "Boldr",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "프리시리즈A",
+   "investors": [
+    "Unconventional Ventures",
+    "Ada"
+   ],
+   "lead_investor": "Unconventional Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 에너지 관리 스타트업 Boldr이 스마트 온난화 기술을 확장하기 위해 프리시리즈 A 라운드에서 420만 유로(500만 달러)를 투자받았다. Unconventional Ventures가 주도했으며, Ada 등이 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/24/boldr-raises-5m-to-turn-home-energy-systems-into-grid-capacity/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/smart-thermostat-maker-boldr-raises-e4-2-million-to-grow-connected-heating-and-cooling-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-24",
+   "company": "General Intuition",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Valor Ventures",
+    "Point72 Ventures",
+    "Seven Seven Six"
+   ],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "General Intuition은 공간과 시간을 통해 움직이는 생성형 AI 에이전트를 학습시키는 기초 모델을 개발하는 스타트업으로, Valor Ventures, Point72 Ventures, Seven Seven Six 등의 신규 투자자로부터 60억 달러의 사전 현금화 평가에서 자금 조달을 진행 중입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-22",
    "company": "Craif",
    "sector": "기타",
