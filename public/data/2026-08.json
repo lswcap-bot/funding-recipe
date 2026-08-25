@@ -2,6 +2,616 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-25",
+   "company": "XPeng Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 900.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 900000000,
+   "stage": "비공개",
+   "investors": [
+    "IDG Capital",
+    "Gaorong Ventures",
+    "Tencent",
+    "Alibaba"
+   ],
+   "lead_investor": "IDG Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "샤오펑의 로봇팀이 9억 달러 이상을 모금하며 63억 달러의 기업가치를 평가받았습니다. IDG Capital이 주도하고 Gaorong Ventures, Tencent, Alibaba가 참여했으며, 자금은 휴머노이드 로봇 개발을 지원할 예정입니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/08/25/xpengs-robotics-unit-raises-over-900m-at-a-6-3bn-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Immunobiota",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "뉴질랜드",
+   "region": "오세아니아",
+   "ai_summary_ko": "바이오테크 스타트업 Immunobiota가 제1형 당뇨병 치료를 위한 구강형 비면역억제 치료제 개발 및 임상 시험을 위해 500만 달러 규모의 시드 펀딩을 모금하려고 하고 있다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/breakthrough-diabetes-biotech-immunobiota-looks-to-raise-5-million-seed-for-clinical-trials/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "MATTER",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 25.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 25000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도 아메다바드의 전기 오토바이 스타트업 MATTER가 2,500만 달러를 투자 유치했다. 이 자금으로 제조 확대, 유통 네트워크 확장, 신규 오토바이 4종 출시에 사용될 예정이며, 인도 전기 이륜차 시장의 급속한 성장 흐름을 타고 있다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/ev-startup-matter-raises-25-million-scale-electric-motorcycle-business"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Tynor Orthotics",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 200.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 200000000,
+   "stage": "비공개",
+   "investors": [
+    "Kedaara Capital"
+   ],
+   "lead_investor": "Kedaara Capital",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Tynor Orthotics가 Kedaara Capital로부터 $200M의 투자를 유치했습니다. 이 투자는 회사의 성장 전략 지원과 브랜드 입지 강화를 목표로 합니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/kedaara-capital-invests-200-million-tynor-orthotics"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Nexedge Capital",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Nexedge Capital이 $20M의 자금을 조성했으며, 기술 플랫폼 강화, 인력 채용, 새로운 상품 출시 등에 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/wealth-management-firm-nexedge-capital-20-million-funding"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Airbound",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 37.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 37000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 기반의 Airbound가 Series A 펀딩으로 3,700만 달러를 유치했으며, 이 자금으로 항공기 엔지니어링, 제조 및 상용 운영을 확대하여 인도에서 드론 배송의 광범위한 채택을 추진합니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/airbound-raises-37-million-scale-autonomous-drone-delivery-india"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Perplexity",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Nvidia"
+   ],
+   "lead_investor": "Nvidia",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Nvidia가 AI 스타트업 Perplexity에 투자하기 위해 협상 중이며, 이번 펀딩 라운드에서 회사의 가치는 30억 달러 이상으로 평가될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/nvidia-eyes-stake-in-perplexity"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "BOOKR Kids",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 6.1,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 7113820,
+   "stage": "시리즈 A",
+   "investors": [
+    "TCEE Fund IV",
+    "Leib Lurie"
+   ],
+   "lead_investor": "TCEE Fund IV",
+   "country": "헝가리",
+   "region": "유럽",
+   "ai_summary_ko": "부다페스트 기반 에듀테크 기업 BOOKR Kids가 문해력, 언어 개발, AI 준비 교육에 중점을 두는 학습 플랫폼 개발을 위해 6.1백만 유로 규모 시리즈 A 펀딩을 완료했다. TCEE Fund IV가 주도 투자했으며 Kids Read Now 등이 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/hungarys-bookr-kids-closes-e6-1-million-series-a-for-global-edtech-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "eComID",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 14.58,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 17003196,
+   "stage": "시드",
+   "investors": [
+    "Systemiq Capital",
+    "Regeneration.VC",
+    "Course Corrected",
+    "Stadium",
+    "CapitalT"
+   ],
+   "lead_investor": "Systemiq Capital",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스톡홀름 기반 eComID가 AI 기반 맞춤형 커머스를 위한 '쇼핑 여권' 구축을 목표로 1,458만 유로(1,700만 달러)의 시드 펀딩을 조달했다. Systemiq Capital이 주도 투자했으며, H&M 그룹을 포함한 여러 투자자가 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/stockholms-ecomid-raises-e14-6-million-to-build-the-shopping-passport-for-ai-powered-personalised-commerce/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "MAASH",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 12.15,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 14169330,
+   "stage": "비공개",
+   "investors": [
+    "Ambra Capital",
+    "InvestPro",
+    "Bpifrance",
+    "Amorçage Industriel",
+    "Nordzucker",
+    "Tereos"
+   ],
+   "lead_investor": null,
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "브뤼셀 기반 발효 회사 MAASH가 식품 산업용 마이코단백질 생산을 공업 규모로 확대하기 위해 1,215만 유로의 펀딩을 확보했다. 이는 5개 신규 투자자로부터의 585만 유로 지분 투자와 공공 재정을 포함한 패키지다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/brussels-based-maash-secures-e12-15-million-to-take-mycoprotein-production-to-industrial-scale/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "ArcSpace",
+   "sector": "기타",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2332400,
+   "stage": "비공개",
+   "investors": [
+    "DEPO Ventures",
+    "SCE Freiraum Ventures",
+    "IRDI Capital Investissement"
+   ],
+   "lead_investor": "DEPO Ventures",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반 인궤위성 수리 기술 개발 스타트업 ArcSpace가 차세대 성장 단계를 지원하기 위해 200만 유로 이상의 펀딩을 유치했다. DEPO Ventures One 펀드가 주도하고 SCE Freiraum Ventures, IRDI Capital Investissement 등이 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/french-spacetech-startup-arcspace-secures-over-e2-million-for-in-orbit-satellite-servicing-and-repair/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Solace Care",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 2.1,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2449020,
+   "stage": "프리시드",
+   "investors": [
+    "Spintop Ventures",
+    "Plug and Play",
+    "Caroline Farberger"
+   ],
+   "lead_investor": "Spintop Ventures",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스톡홀름 기반의 생애 말기 플랫폼 Solace Care가 프리시드 라운드에서 210만 유로를 조달했습니다. 이 자금은 보험사 및 중개인 파트너십 확대, 네덜란드와 영국 진출, 제품 및 상업팀 성장에 사용될 예정입니다. Spintop Ventures가 주도 투자자로 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/europe-is-aging-rapidly-solace-care-raises-e2-1-million-in-largest-pre-seed-round-to-date-for-a-european-end-of-life-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Chandra Asri",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-buddy-bites-raises-series-a-funding-kcp-reaches-first-close-for-two-investment-vehicles-chandra-asri-to-acquire-cycle-carriage-businesses-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "KCP",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-buddy-bites-raises-series-a-funding-kcp-reaches-first-close-for-two-investment-vehicles-chandra-asri-to-acquire-cycle-carriage-businesses-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Buddy Bites",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-buddy-bites-raises-series-a-funding-kcp-reaches-first-close-for-two-investment-vehicles-chandra-asri-to-acquire-cycle-carriage-businesses-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Hala Mobility",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 14.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 14000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미상",
+   "region": "동남아",
+   "ai_summary_ko": "Hala Mobility는 은행 대출이 불가능한 긱 워커들을 대상으로 신용, 보험, 주택 등의 서비스를 제공하는 생태계를 구축하기 위해 미화 1,400만 달러의 투자 유치를 추진 중이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/hala-mobility-seeks-14m-build-gig-worker-ecosystem"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Lambda",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 E",
+   "investors": [
+    "TWG Global",
+    "USIT"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Lambda가 2025년 11월 18일에 시리즈 E 펀딩 라운드를 통해 TWG Global과 USIT로부터 1.5억 달러 이상을 유치했으며, 추가로 최대 30억 달러 규모의 자금 조달을 진행 중인 것으로 보도되었다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/microsoft-commits-60b-to-neocloud-data-center-providers"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Volve",
+   "sector": "기타",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "노르웨이",
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/25/volve-lands-3m-to-expand-construction-tendering-ai-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Neno",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 6.6,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 7696920,
+   "stage": "시드",
+   "investors": [
+    "AlleyCorp",
+    "Motive Partners"
+   ],
+   "lead_investor": "AlleyCorp",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "암스테르담 기반 AI 네이티브 금융 서비스 스타트업 Neno가 새로운 연구 부서 출범, 회계 및 세무 팀 확대, 2027년 유럽 시장 진출을 위해 6.6백만 유로의 시드 펀딩을 조성했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/25/dutch-ai-native-financial-services-startup-neno-secures-eur66m-for-european-expansion/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/amsterdams-neno-raises-e6-6-million-to-build-the-ai-native-back-office-suite-for-entrepreneurs/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Repodo",
+   "sector": "AI",
+   "amount_original": {
+    "value": 8.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 9329600,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/25/lunar-co-founders-launch-ai-audit-startup-repodo-raising-over-eur8m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Itoflow",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 2.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2500000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "AI 투자 플랫폼 Itoflow가 전문 투자 팀의 연구 및 포트폴리오 관리 자동화를 지원하기 위해 250만 달러의 프리시드 펀딩을 조성했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/25/itoflow-lands-25m-to-scale-investment-research-and-portfolio-management/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "MIRAVA",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "엔젤",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "MIRAVA는 3년간의 제품 개발을 거쳐 보트 관련 지능형 기술을 상용화하기 위해 500만 달러의 엔젤 펀딩을 조성했다. 이 자금은 추가 제품 개발, 소량 생산, 고객 배송을 지원할 것이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/25/how-intelligent-technology-could-redefine-recreational-boating/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Keenable",
+   "sector": "AI",
+   "amount_original": {
+    "value": 26.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 26000000,
+   "stage": "시드",
+   "investors": [
+    "Accel"
+   ],
+   "lead_investor": "Accel",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Accel이 주도한 2,600만 달러 규모의 시드 펀딩 라운드로 스텔스 모드를 탈출한 AI 에이전트용 웹 검색 인덱싱 플랫폼 Keenable이 광범위한 웹 검색 인덱스를 구축하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Gatik",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 200.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 200000000,
+   "stage": "비공개",
+   "investors": [
+    "Qatar Investment Authority",
+    "Koch Disruptive Technologies"
+   ],
+   "lead_investor": "Qatar Investment Authority",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "자율주행 트럭 스타트업 Gatik이 PepsiCo와의 거래를 바탕으로 카타르투자청과 Koch Disruptive Technologies가 주도한 2억 달러의 펀딩을 유치했습니다. 이는 회사 역사상 최대 규모의 자금 조달입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Stability AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 76.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 76000000,
+   "stage": "비공개",
+   "investors": [
+    "Warner",
+    "Sony"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "북미",
+   "ai_summary_ko": "Stable Diffusion 모델로 알려진 런던 기반 AI 스타트업 Stability AI가 7,600만 달러의 펀딩을 조성했다. 라운드에 음악 업계 투자자들을 포함한 세 개 투자사가 참여했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/25/stabiityai-raises-76m-with-warner-and-sony-investing/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-24",
    "company": "Asaya",
    "sector": "헬스케어",
