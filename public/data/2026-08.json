@@ -2,6 +2,230 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-27",
+   "company": "InspeCity",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 10480000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "우주기술 스타트업 InspeCity가 1억 루피의 펀딩을 유치했습니다. 이 회사는 궤도상 위성 서비스 및 우주 쓰레기 감소를 위한 로봇 및 추진 시스템을 개발하고 있으며, 향후 18개월 동안 4건의 궤도상 미션 수행에 자금을 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/spacetech-inspecity-inches-closer-to-orbit-with-rs-100-crore-funding"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "company": "Instinct",
+   "sector": "AI",
+   "amount_original": {
+    "value": 350.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 350000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "AI 스타트업 Instinct가 창립 1년 만에 2.5억 달러 밸류에이션으로 3.5억 달러를 조달했다. 회사는 큰 주목을 받고 있으나 개인정보보호 문제도 제기되고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-26",
+   "company": "Runable",
+   "sector": "AI",
+   "amount_original": {
+    "value": 21.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 21000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벤갈루루 소재 AI 에이전트 스타트업 Runable이 시리즈 A 펀딩으로 2,100만 달러를 유치했다. 회사는 소규모 사업자를 타깃하며 출시 3주 만에 연간 반복 수익 200만 달러를 달성했다고 주장한다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/ai-agent-startup-runable-raises-21-million-in-series-a"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-26",
+   "company": "Ringg AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Peak XV Partners"
+   ],
+   "lead_investor": "Peak XV Partners",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "음성 AI 스타트업 Ringg AI가 Peak XV Partners가 주도한 시리즈 A 펀딩 라운드에서 1천만 달러를 조달했습니다. 현재 Policybazaar, CRED, Flipkart, Groww 등 주요 기업들과 협력하고 있으며, 마켓플레이스, 헬스케어, 뱅킹, 핀테크 등 다양한 산업 분야의 고객을 서빙하고 있습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/voice-ai-startup-ringg-ai-raises-10m-series-a-peak-xv-partners"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-26",
+   "company": "Breedr",
+   "sector": "농업",
+   "amount_original": {
+    "value": 23.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 26838700,
+   "stage": "시리즈 B",
+   "investors": [
+    "Partech"
+   ],
+   "lead_investor": "Partech",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Breedr는 가축에 디지털 기록을 제공하는 영국 기반 플랫폼으로, 목장주와 농민들을 확대하고 게놈 데이터 등 더 많은 데이터를 확보하기 위해 시리즈 B 펀딩으로 2,300만 유로를 유치했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/livestock-tech-platform-breedr-raises-e23-million-to-expand-globally/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-26",
+   "company": "Ringg AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "비공개",
+   "investors": [
+    "Peak XV"
+   ],
+   "lead_investor": "Peak XV",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Peak XV가 인도 음성 스타트업 Ringg AI에 1,500만 달러를 투자했다. Ringg는 이 자금으로 음성, WhatsApp, 브라우저 에이전트 서비스를 확대할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/peak-xv-talks-indian-voice-ai-firm-10m"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-26",
+   "company": "Certain Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 13630000,
+   "stage": "시리즈 A",
+   "investors": [
+    "British Business Bank"
+   ],
+   "lead_investor": "British Business Bank",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Certain Energy는 망간 플로우 배터리 기술을 개발하는 장시간 에너지 저장 스타트업으로, 기술 상용화 및 그리드 규모 배포 준비를 위해 시리즈 A 펀딩으로 1,160만 유로를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/26/certain-energy-raises-ps10m-series-a-for-long-duration-battery-storage/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/grid-instability-fuels-e11-6-million-raise-for-uk-energytech-startup-certain-energy/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Fina",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000,
+   "stage": "시드",
+   "investors": [
+    "SquareOne Capital",
+    "Tomorrow Capital",
+    "Norte Ventures",
+    "Platanus"
+   ],
+   "lead_investor": null,
+   "country": "베네수엘라",
+   "region": "중남미",
+   "ai_summary_ko": "베네수엘라 핀테크 스타트업 Fina가 100만 달러 규모의 시드 라운드 펀딩을 유치했다. SquareOne Capital과 Tomorrow Capital이 주도 투자자로 참여했으며, Norte Ventures와 Platanus 등이 함께 투자했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/venezuelan-fintech-fina-raises-1m-seed-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "company": "Pay.com.au",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 39.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 39000000,
+   "stage": "시리즈 E",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Pay.com.au가 미국 시장 진출을 위해 3,900만 달러 규모의 시리즈 E 펀딩을 유치했다. PayRewards라는 서비스명으로 사업 청구서를 충성도 포인트로 전환하는 플랫폼을 미국에서 출시할 계획이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/pay-com-au-banks-39-million-series-e-for-us-launch/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-25",
    "company": "XPeng Robotics",
    "sector": "로보틱스",
@@ -3322,6 +3546,10 @@
     {
      "name": "EU-Startups",
      "url": "https://www.eu-startups.com/2026/08/the-10-biggest-startup-investments-in-sweden-this-year/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/"
     }
    ]
   },
