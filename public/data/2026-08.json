@@ -2,6 +2,242 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-28",
+   "company": "Ajaib",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 C",
+   "investors": [
+    "SBI Holdings"
+   ],
+   "lead_investor": "SBI Holdings",
+   "country": "인도네시아",
+   "region": "동남아",
+   "ai_summary_ko": "Ajaib이 SBI Holdings로부터 시리즈 C 펀딩을 유치했으며, SBI는 파트너로서 투자에 참여했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/pluang-bags-10m-funding-expands-indonesia-equities"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "company": "VitalFluid",
+   "sector": "농업",
+   "amount_original": {
+    "value": 17.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 20029400,
+   "stage": "비공개",
+   "investors": [
+    "Invest-NL",
+    "Alder Tree Investments",
+    "Horticoop",
+    "Brabantse Ontwikkelings Maatschappij",
+    "Future Food Fund",
+    "Graduate Ventures",
+    "Innovation Industries"
+   ],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "아인트호벤 기반의 VitalFluid가 화학 살균제의 대안으로 플라즈마 기술을 활용한 지속 가능한 작물 보호 기술 확대를 위해 1,720만 유로를 조달했습니다. Invest-NL과 Alder Tree Investments가 주도했으며 여러 기존 주주들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/eindhovens-vitalfluid-raises-e17-2-million-to-protect-crops-with-lightning-in-a-box-technology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "company": "Adaptyv Bio",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 34.35,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 40000575,
+   "stage": "시리즈 A",
+   "investors": [
+    "Highland Europe",
+    "Ace Ventures",
+    "ByFounders",
+    "Y Combinator"
+   ],
+   "lead_investor": "Highland Europe",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "로잔 기반의 바이오테크 스타트업 Adaptyv Bio가 AI 기반 단백질 설계를 위한 자동화된 습식랩 구축을 목표로 시리즈 A 라운드에서 3,435만 유로를 조달했습니다. Highland Europe이 주도했으며, 기존 투자자들도 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/lausanne-based-adaptyv-raises-e34-35-million-series-a-to-build-the-automated-lab-for-agentic-biology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "company": "Readily Diagnostics",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 811000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 944410,
+   "stage": "비공개",
+   "investors": [
+    "Gates Foundation"
+   ],
+   "lead_investor": "Gates Foundation",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴의 의료진단 스타트업 Readily Diagnostics가 Gates Foundation으로부터 약 81만 1천 유로의 그랜트 펀딩을 확보했습니다. 이 자금은 클라미디아, 임질, 질편모충증 등 주요 성병에 대한 저가형 검사 기술 개발에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/tackling-sti-testing-readily-diagnostics-raises-e811k-for-affordable-alternative/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "company": "cross-border payments platform",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 320.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 320000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/sg-fintech-surges-1b-h1-2025-driven-payments-ai"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "company": "Motion",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2000000,
+   "stage": "프리시드",
+   "investors": [
+    "Extantia Capital",
+    "Norrsken Evolve"
+   ],
+   "lead_investor": "Extantia Capital",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "Motion은 벨기에 브뤼셀의 로봇 서비스 플랫폼으로, 유럽 최초의 휴머노이드 서비스(HaaS) 플랫폼을 표방하고 있습니다. 이번 프리시드 라운드에서 170만 유로를 조달했으며, 이 자금은 벨기에의 산업, 창고, 물류 업체와의 5개 파일럿 프로젝트를 본격 운영으로 확대하는 데 활용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/27/motion-lands-2m-to-expand-humanoid-robot-deployments-across-europe/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/brussels-based-motion-raises-e1-7-million-to-tackle-europes-robot-adoption-problem/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "company": "ColibriTD",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4658000,
+   "stage": "시드",
+   "investors": [
+    "Earlybird Ventures",
+    "Earlybird Venture Capital",
+    "SymbiaVC",
+    "Medin VC"
+   ],
+   "lead_investor": "Earlybird Ventures",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "ColibriTD는 양자 기술을 활용한 다중물리 시뮬레이션 플랫폼을 개발하는 파리 기반의 양자 소프트웨어 회사입니다. 이번 시드 라운드에서 400만 유로를 조달했으며, 초기 100만 유로 프리시드 투자에 이어진 것입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/27/colibritd-secures-eur4m-to-scale-its-quantum-simulation-platform/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/paris-based-colibritd-raises-e4-million-to-scale-its-quantum-powered-multiphysics-simulation-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "company": "Google Maps for the underground",
+   "sector": "기타",
+   "amount_original": {
+    "value": 26.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 26000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "전 PG&E 엔지니어가 설립한 지하 시설 지도 서비스 스타트업이 고객 기반 확대 및 유틸리티·건설 업무의 행정 절차 간소화를 위해 2,600만 달러 시리즈 A를 조성했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "company": "Atorie",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 9.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 9500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Atorie는 고급 브랜드와 동일한 소재와 공장에서 생산된 명품 핸드백과 의류를 소비자에게 저렴하게 판매하는 서비스로, 950만 달러 규모의 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-27",
    "company": "InspeCity",
    "sector": "로보틱스",
