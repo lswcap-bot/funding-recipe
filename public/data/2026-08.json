@@ -2,6 +2,291 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-29",
+   "company": "Fasset",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-hype"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-29",
+   "company": "Wrtn Technologies",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-hype"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "company": "PsiBot",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "비공개",
+   "investors": [
+    "Ningbo Tuopu Group",
+    "Lens Technology",
+    "37 Interactive Entertainment",
+    "Wuhu Investment Holding Group",
+    "Fosun Fortune Capital",
+    "Zhuhai Technology Industry Group"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 구현형 AI 스타트업 PsiBot이 정밀 조작 기술을 개발하며 1억 달러 이상의 펀딩라운드를 완료했다. 닝보 투오푸 그룹, 렌즈 테크놀로지, 37 인터랙티브 엔터테인먼트 등 산업계 투자자들이 참여했으며, 기존 주주인 주하이 테크놀로지 인더스트리 그룹도 추가 투자했다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/08/28/embodied-ai-startup-psibot-raises-over-100-million-with-industrial-investors-joining/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "company": "Roma AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.2,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1200000,
+   "stage": "시드",
+   "investors": [
+    "Invexor Venture Partners"
+   ],
+   "lead_investor": "Invexor Venture Partners",
+   "country": "우루과이/칠레",
+   "region": "중남미",
+   "ai_summary_ko": "Roma AI는 Invexor Venture Partners가 주도한 $1.2M 규모의 시드 라운드 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/roma-ai-raises-1-2m-seed-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "company": "Ather Energy",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 1758.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 184238400,
+   "stage": "비공개",
+   "investors": [
+    "Hero MotoCorp"
+   ],
+   "lead_investor": "Hero MotoCorp",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Ather Energy는 기존 주주 Hero MotoCorp로부터 Rs 1,758 crore를 투자받아 추가 지분을 인수했다. 이는 Ather Energy의 주가를 7% 상승시켰다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/ather-share-price-up-7-after-hero-motocorp-increases-stake"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "company": "Lupin Dental",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 17464500,
+   "stage": "시리즈 A",
+   "investors": [
+    "Fynveur"
+   ],
+   "lead_investor": "Fynveur",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "몽펠리에 기반 루핀 덴탈은 혁신적인 치과 기술 개발에 중점을 두는 초기 단계 로보틱스 회사로, 펀베르가 1천만 유로를 투자하여 주도한 1,500만 유로 규모의 시리즈 A 펀딩을 완료했습니다. 기존 주주, 민간 투자자, 그리고 비피프랑스의 대출이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/montpellier-based-dental-robotics-startup-lupin-dental-closes-e15-million-series-a-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "company": "Nanolope",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "IBB Ventures"
+   ],
+   "lead_investor": "IBB Ventures",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 기반 나노롭은 건물 표면을 열 에너지 저장 시스템으로 전환하는 고밀도 열 에너지 저장 재료를 개발하는 딥테크 스타트업으로, IBB 벤처스의 프리시드 펀드 B#로부터 80만 유로를 조달했습니다. 이 자금은 에너지, 부동산, 재료 기술 분야의 경험 많은 비즈니스 엔젤과 업계 전문가들의 투자로 보완되었습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/berlin-based-nanolope-secures-e800k-to-turn-building-surfaces-into-thermal-energy-storage-systems/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "company": "Revier Therapeutics",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6985800,
+   "stage": "시드",
+   "investors": [
+    "KHAN Technology Transfer Fund II",
+    "High-Tech Gründerfonds",
+    "VORNvc"
+   ],
+   "lead_investor": "KHAN Technology Transfer Fund II",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "독일 하이델베르그 기반의 바이오테크 회사 Revier Therapeutics가 심대사 질환 치료제 개발을 위해 시드 펀딩 라운드에서 €6 million을 조달했으며, KHAN Technology Transfer Fund II가 라운드를 주도했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/heidelberg-based-revier-therapeutics-launches-with-e6-million-to-develop-cardiometabolic-therapies/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "company": "Clementine",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1979310,
+   "stage": "시드",
+   "investors": [
+    "Healthy.Capital"
+   ],
+   "lead_investor": "Healthy.Capital",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "네덜란드 마스트리흐트 기반의 AI 기반 청력 관리 플랫폼 Clementine이 청력 클리닉의 리드를 환자로 전환하는 데 도움을 주기 위해 시드 펀딩 라운드에서 €1.7 million을 조달했으며, Healthy.Capital이 라운드를 주도했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/maastricht-based-clementine-raises-e1-7-million-to-scale-its-ai-powered-hearing-care-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "company": "Ponda",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 1.6,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1862880,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국 브리스톨 기반의 생물소재 회사 Ponda가 재생 농업을 통해 습지를 복원하는 사업을 추진 중이며, 256명의 새로운 투자자를 유치하여 시드 연장 라운드에서 €1.6 million을 조달했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/biomaterials-company-ponda-closes-their-crowdfunding-round-at-e1-6-million-shattering-their-e230k-mininum/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "company": "Retro",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 21.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 21000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "인스타그램 전직 직원들이 만든 친구 중심 사진 공유 앱 Retro가 시리즈 A 펀딩으로 2,100만 달러를 유치했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "company": "Neocloud Lambda",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1000000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Neocloud Lambda이 Nvidia AI 칩을 구매하고 Microsoft에 임차하기 위해 민간 채무로 10억 달러를 조성했습니다. 이는 AI 붐의 높은 비용을 보여주는 일련의 대출 중 최신 사례입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-28",
    "company": "Ajaib",
    "sector": "핀테크",
@@ -19,6 +304,59 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/pluang-bags-10m-funding-expands-indonesia-equities"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "company": "Pluggy",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 3.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3500000,
+   "stage": "시리즈 A",
+   "investors": [
+    "DGF"
+   ],
+   "lead_investor": "DGF",
+   "country": "브라질",
+   "region": "남아시아",
+   "ai_summary_ko": "브라질의 오픈파이낸스 인프라 핀테크 스타트업 Pluggy가 DGF가 주도하는 시리즈 A 펀딩라운드에서 350만 달러를 유치했습니다. Y 컴팩니 등 여러 투자자가 참여했습니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/pluggy-raises-3-5m-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "company": "Autonomy",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 8.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 8000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Magna Capital",
+    "Comafi",
+    "Natan VC",
+    "Murchison Ventures"
+   ],
+   "lead_investor": "Magna Capital",
+   "country": "아르헨티나",
+   "region": "중남미",
+   "ai_summary_ko": "아르헨티나 핀테크 Autonomy는 Magna Capital, Comafi, Natan VC, Murchison Ventures가 주도한 $8M 규모의 시리즈 A 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/autonomy-raises-8m-series-a/"
     }
    ]
   },
@@ -603,6 +941,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/08/airbound-raises-37-million-scale-autonomous-drone-delivery-india"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-hype"
     }
    ]
   },
