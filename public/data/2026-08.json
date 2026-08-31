@@ -2,6 +2,25 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-30",
+   "company": "AssessPrep",
+   "sector": "에듀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "AssessPrep는 AI를 활용하여 시험 문제를 만들고 채점하며 분석하는 서비스를 제공하며, 학교가 학생들의 학습 어려움을 파악할 수 있도록 돕는 회사입니다. 최근 벤처캐피탈 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/assessprep-data-schools-can-use-marginal-rise-in-vc-inflow"
+    }
+   ]
+  },
+  {
    "date": "2026-08-29",
    "company": "Fasset",
    "sector": "기타",
