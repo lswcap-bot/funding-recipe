@@ -1,0 +1,26 @@
+{
+ "month": "2026-09",
+ "deals": [
+  {
+   "date": "2026-09-01",
+   "company": "Alteon",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Lachy Groom"
+   ],
+   "lead_investor": "Lachy Groom",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "20세 창업자가 설립한 Alteon은 풍력 에너지를 수확하여 수개월간 비행 가능한 자율 항공기를 개발 중이다. Lachy Groom이 투자했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/"
+    }
+   ]
+  }
+ ]
+}

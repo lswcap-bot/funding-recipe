@@ -2,6 +2,349 @@
  "month": "2026-08",
  "deals": [
   {
+   "date": "2026-08-31",
+   "company": "Sunrise",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "RMB",
+    "unit": "billion"
+   },
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "SenseTime에서 스핀아웃한 AI 칩 제조업체 Sunrise가 약 200억 위안의 기업가치에서 20억 위안(약 2억 8,000만 달러)을 조달했습니다. 이 자금 조달은 회사의 가치를 이전 라운드에서 거의 두 배로 늘렸습니다. AI 추론을 위한 칩 개발 중입니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/08/31/sensetime-spinout-sunrise-reportedly-raises-rmb2-billion-at-rmb20-billion-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "10개 AI 스타트업 (구체적 회사명 미명시)",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000,
+   "stage": "비공개",
+   "investors": [
+    "Airwallex"
+   ],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Airwallex는 호주의 10개 AI 스타트업에 총 $1백만의 지분 없는 투자를 제공했습니다. 이 투자는 로봇, 우주, 핀테크 레일 등 다양한 분야의 AI 스타트업들을 지원하기 위한 것입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/airwallex-tips-1-million-into-10-ai-startups/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "Apate.AI",
+   "sector": "보안",
+   "amount_original": {
+    "value": 11.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 11400000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Apate.AI는 사기꾼을 미끼로 삼는 AI 봇을 개발하는 스타트업으로, $11.4백만 규모의 시드 투자를 유치했습니다. 이 자금을 통해 글로벌 시장에서 사기꾼을 추적하고 정보를 수집하는 서비스를 확대할 계획입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/anti-scammer-startup-apate-ai-nabs-11-4-million-seed-raise-amid-us-move/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "Jagdish Farshan",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 43.5,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 4571850,
+   "stage": "비공개",
+   "investors": [
+    "Sharrp Ventures"
+   ],
+   "lead_investor": "Sharrp Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도 구자라트 지역의 지역 스낵 브랜드인 Jagdish Farshan이 Sharrp Ventures가 주도하는 라운드에서 43억 5천만 루피를 유치했다. 이 자금은 사업 확장과 관련된 활동에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/08/jagdish-farshan-raises-rs-435-cr-led-by-sharrp-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "Nexeon",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 116.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 135325320,
+   "stage": "비공개",
+   "investors": [
+    "National Wealth Fund",
+    "Korea Development Bank",
+    "Honda Xcelerator Ventures"
+   ],
+   "lead_investor": "National Wealth Fund",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Oxfordshire 기반 배터리 소재 개발 업체 Nexeon이 €116.7 million 규모의 투자 라운드를 완료했습니다. National Wealth Fund가 €61.4 million을 포함하여 주도했으며, Korea Development Bank와 Honda Xcelerator Ventures도 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/uk-based-batterytech-firm-nexeon-secures-e116-7-million-with-national-wealth-fund-backing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "KOVE Medical",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1971320,
+   "stage": "비공개",
+   "investors": [
+    "angel investors"
+   ],
+   "lead_investor": null,
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "Zurich 기반 MedTech 스타트업 KOVE Medical이 태아 수술 후 조산 위험을 줄이기 위한 임플란트형 의료 기기 개발을 위해 €1.7 million을 투자받았습니다. 이번 자금은 First-in-Human 연구로의 진행을 지원할 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/reducing-preterm-birth-risks-in-foetal-surgery-kove-medical-secures-e1-7-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "FileAI",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "SMBC",
+    "Singtel"
+   ],
+   "lead_investor": null,
+   "country": "싱가포르",
+   "region": "동남아",
+   "ai_summary_ko": "FileAI는 싱가포르 자동화 스타트업으로, SMBC와 Singtel의 투자를 받았습니다. AI 네이티브 비정형 데이터 매핑 도구인 fileScout을 출시했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/sg-automation-firm-fileai-enters-japan-with-jre-ventures-backing"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "S-Transistors",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.6,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3014960,
+   "stage": "프리시드",
+   "investors": [
+    "Lifeline Ventures"
+   ],
+   "lead_investor": "Lifeline Ventures",
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "핀란드 스타트업 S-Transistors는 초전도 트랜지스터 기반의 통합회로 개발을 위해 Lifeline Ventures가 주도한 프리시드 라운드에서 260만 유로를 유치했다. VTT 기술연구센터의 스핀오프 기업으로, 양자 마더보드 기술 개발에 자금을 사용할 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/31/s-transistors-raises-eur26m-for-superconducting-quantum-computing-platform/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "Foldcast",
+   "sector": "기타",
+   "amount_original": {
+    "value": 160000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 185536,
+   "stage": "프리시드",
+   "investors": [
+    "Venture Kick"
+   ],
+   "lead_investor": "Venture Kick",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "스위스 건설기술 스타트업 Foldcast는 콘크리트 사용을 줄이기 위한 재활용 종이 거푸집 기술 개발을 위해 Venture Kick으로부터 €160,000을 확보했다. 상용화를 향해 나아가고 있다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/31/foldcast-secures-eur160k-to-reduce-concrete-use-with-recyclable-paper-moulds/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "PANDA Therapeutics",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 160000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 185536,
+   "stage": "프리시드",
+   "investors": [
+    "Venture Kick"
+   ],
+   "lead_investor": "Venture Kick",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "PANDA Therapeutics는 알츠하이머병 치료를 위한 다중표적 치료법 개발을 추진하기 위해 Venture Kick으로부터 €160,000을 확보했다. 이 자금은 임상 개발로의 진전을 목표로 하고 있다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/08/31/panda-therapeutics-secures-160k-to-advance-multi-target-alzheimer-s-therapy/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "Clipto",
+   "sector": "AI",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Clipto는 AI를 활용해 대용량 비디오를 검색하는 스타트업으로, 3년 만에 연간반복수익(ARR) 1,500만 달러를 달성하고 수익성을 확보했다. 이번 라운드에서 1,500만 달러를 추가로 유치하며 기업가치는 2억 5,000만 달러로 평가받았다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "Bolt",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 27.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 27000000,
+   "stage": "브릿지",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "한때 110억 달러로 평가받던 체크아웃 스타트업 Bolt의 CEO Ryan Breslow가 회사를 구하기 위해 최대 2,700만 달러의 페이-투-플레이 브릿지 펀딩을 조성하고 있으며, 본인도 500만 달러를 투자하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "Blue Voice",
+   "sector": "AI",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Harvard Law 중퇴 창업자가 경찰관을 위한 'Harvey' 스타일의 AI 도구인 Blue Voice에 600만 달러를 유치했다. 이 솔루션은 부서별 법률, 지방 조례, 프로토콜, 가이드라인 등을 학습하여 일반적인 AI 도구가 접근할 수 없는 정보를 제공한다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "company": "Polymarket",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 300.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 300000000,
+   "stage": "비공개",
+   "investors": [
+    "1789 Capital"
+   ],
+   "lead_investor": "1789 Capital",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Polymarket이 Donald Trump Jr.의 투자펀드인 1789 Capital로부터 3억 달러를 투자받았으며, 해당 라운드 총규모는약 10억 달러로 보도되었다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/"
+    }
+   ]
+  },
+  {
    "date": "2026-08-30",
    "company": "AssessPrep",
    "sector": "에듀테크",
