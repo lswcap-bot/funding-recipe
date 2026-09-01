@@ -3,6 +3,540 @@
  "deals": [
   {
    "date": "2026-09-01",
+   "company": "Beijing Kling Technology",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.4,
+    "currency": "CNY",
+    "unit": "billion"
+   },
+   "amount_usd": 208264000,
+   "stage": "비공개",
+   "investors": [
+    "China Artificial Intelligence Industry Investment Fund",
+    "Charoen Pokphand Robot"
+   ],
+   "lead_investor": "China Artificial Intelligence Industry Investment Fund",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "콰이숏 산하 AI 동영상 생성 기업인 징핑 클링 테크놀로지가 중국 인공지능 산업투자펀드에서 14억 위안을 투자 유치했다. 동시에 차로엔 포크프란드 로봇도 약 1,945만 달러 규모의 투자를 진행했다. 클링 AI는 AI 기반 동영상 생성 기술 개발에 자금을 활용할 계획이다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/09/01/kuaishou-kling-ai-china-ai-fund-investment/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Huscarl",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 5.6,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5600000,
+   "stage": "시드",
+   "investors": [
+    "FRST",
+    "Y Combinator"
+   ],
+   "lead_investor": "FRST",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Huscarl은 자가보험 시장에서 AI 기술을 활용하는 스타트업으로, 기업의 보험 리스크 관리를 지원한다. FRST와 Y Combinator, Silicon Valley 투자자들로부터 560만 달러 규모의 시드 펀딩을 유치했으며, 미국 시장 확대에 자금을 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "Contxto",
+     "url": "https://www.contxto.com/en/funding/huscarl-raises-5-6m-to-bring-ai-to-the-growing-self-insurance-market/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Félix",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 200.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 200000000,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "중남미",
+   "ai_summary_ko": "핀테크 스타트업 Félix가 시리즈 C 라운드에서 2억 달러를 투자유치하여 유니콘 기업이 되었다. 이번 라운드를 통해 이전 라운드 대비 밸류에이션이 3배 상승했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/felix-raises-200m-series-c-and-reaches-unicorn-status/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "PassHub",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 1.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1400000,
+   "stage": "비공개",
+   "investors": [
+    "Parceiro Ventures"
+   ],
+   "lead_investor": "Parceiro Ventures",
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "여행사용 플랫폼인 브라질 스타트업 PassHub가 Parceiro Ventures 주도로 140만 달러를 투자유치했다. 2025년 12월 출시한 PassHub는 여행 플랫폼 확장을 위해 자금을 활용할 계획이다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/passhub-raises-1-4m-to-expand-travel-platform-for-agencies/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Gridsight",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 36.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 36000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/energy-network-management-platform-gridsight-charges-up-on-36-million-series-b/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Yuma Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 35.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 35000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Magna International"
+   ],
+   "lead_investor": "Magna International",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Yuma Energy가 시리즈 A 라운드에서 Magna International으로부터 3,500만 달러를 조달했다. 이 자금은 주로 전국적으로 배터리 서비스 네트워크 확장에 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/yuma-energy-35-million-in-series-a-from-magna-international"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Kepler Aerospace",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 8.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 8000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 기반 우주항공 스타트업 Kepler Aerospace가 시드 라운드에서 800만 달러를 유치했다. 이 자금은 6개의 떼 지어 다니는 ISR 위성 배치 및 미션 운영, 항공전자 사업 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/kepler-aerospace-bags-8-million-deploy-autonomous-swarming-satellites"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Cloover",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 86.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 99905800,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 기반 AI 네이티브 에너지 플랫폼 Cloover가 8,620만 유로(1억 달러) 규모의 신규 펀딩을 확보했다. 회사는 창립 3년 만에 수익성을 달성했으며 연간 수익이 3억 1,700만 유로(3억 5,000만 달러)를 초과한다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/berlin-based-cloover-secures-e86-2-million-facility-as-it-reaches-profitability-and-launches-ai-native-neo-utility/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "PLD Space",
+   "sector": "기타",
+   "amount_original": {
+    "value": 108.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 125172000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Mitsubishi Electric Corporation",
+    "COFIDES"
+   ],
+   "lead_investor": "Mitsubishi Electric Corporation",
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "스페인 우주 운송 회사 PLD Space가 시리즈 C 펀딩 라운드에 1억 800만 유로를 추가로 유치하여 총 2억 8,800만 유로 규모의 라운드로 확대했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/after-securing-e158-9-million-esa-award-pld-space-adds-e108-million-to-series-c-bringing-round-to-e288-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Bioactivx",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시리즈A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-bioactivx-raises-pre-series-a-funding-smbc-and-singtel-innov8-back-fileai-latest-china-investments-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Nexedge",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "비공개",
+   "investors": [
+    "Mirae Asset"
+   ],
+   "lead_investor": "Mirae Asset",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 자산관리업체 Nexedge는 2025년 2월 설립 이후 30억 달러의 운용자산까지 성장했으며, 이번 Mirae Asset 주도 투자로 2천만 달러를 조성했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/mirae-asset-lead-indian-wealth-firm-nexedges-25m"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Drizz",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.7,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2700000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "Drizz는 모바일 앱 릴리스 과정에서 발생하는 거짓 양성 테스트 오류를 해결하기 위해 자가 치유 AI 테스트 에이전트를 개발했으며, 이를 위해 270만 달러를 투자유치했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/vision-ai-agents-faster-mobile-app-releases"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "xorlab",
+   "sector": "보안",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5795000,
+   "stage": "시리즈 A+",
+   "investors": [
+    "Spicehaus Partners",
+    "Grapha Holding",
+    "EquityPitcher Ventures",
+    "ZKB"
+   ],
+   "lead_investor": "Spicehaus Partners",
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "취리히 기반 이메일 보안 솔루션 스타트업 xorlab이 유럽 확장을 위해 시리즈 A+ 라운드에서 500만 유로를 유치했습니다. 자금은 기존 투자자 Spicehaus Partners가 주도했으며, 여러 벤처캐피탈이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/01/xorlab-secures-eur5m-to-scale-its-email-security-platform-across-europe/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/zurich-based-xorlab-secures-e5-million-to-scale-sovereign-email-security-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Cloover",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 115900000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "주택용 태양광, 열펌프, 홈 전기화 플랫폼 Cloover가 출시 3년 만에 흑자 전환했으며, 1억 유로 규모의 추가 파이낸싱을 확보했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/01/cloover-turns-profitable-at-350m-revenue-run-rate-and-secures-100m-financing-facility/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Novespace",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Space Cargo Unlimited"
+   ],
+   "lead_investor": "Space Cargo Unlimited",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "상업용 미세중력 연구 및 제조 플랫폼을 개발하는 Space Cargo Unlimited가 CNES 자회사인 Novespace에 전략적 투자를 진행하여 미세중력 서비스 포트폴리오를 확대했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/01/space-cargo-unlimited-invests-in-cnes-subsidiary-novespace-to-expand-microgravity-offering/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "ID Finance",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 21.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 24339000,
+   "stage": "비공개",
+   "investors": [
+    "nordIX"
+   ],
+   "lead_investor": "nordIX",
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "스페인의 소비자 대출 사업을 성장시키기 위해 독일 자산운용사 nordIX로부터 2,100만 유로 규모의 부채 펀딩을 확보했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/01/id-finance-secures-eur21m-from-nordix-to-grow-its-spanish-lending-business/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "INLEAP Photonics",
+   "sector": "보안",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 23180000,
+   "stage": "시드",
+   "investors": [
+    "UVC Partners",
+    "HTGF",
+    "Balnord",
+    "Sentries",
+    "Scale Capital"
+   ],
+   "lead_investor": "UVC Partners",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "하노버 기반 레이저 기반 드론 방어 기술 회사 INLEAP Photonics가 시드 라운드에서 2,000만 유로를 유치했습니다. 자금은 주요 방위 인프라 보호 기술 확대를 위해 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/01/inleap-photonics-raises-eur20m-to-expand-laser-counter-drone-systems/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/drone-attack-at-leipzig-halle-airport-underscores-threat-as-inleap-photonics-raises-e20-million-for-drone-defence/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Instarc",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 1.25,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1448750,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "에스토니아",
+   "region": "유럽",
+   "ai_summary_ko": "탈린 기반의 규제기술(regtech) 회사 Instarc가 클라우드 네이티브 컴플라이언스 플랫폼의 상용화 확대를 위해 €125만을 전략적 투자로 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/01/instarc-raises-eur125m-to-scale-its-cloud-native-compliance-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Holifya",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2318000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "이탈리아의 디지털 비만 클리닉 Holifya가 AI와 고급 진단을 활용한 약물 기반 비만 치료를 확대하기 위해 €200만을 투자유치했습니다. 이 투자는 €160만의 지분 투자와 함께 구성되었습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/01/italian-obesity-digital-clinic-holifya-raises-eur2m-to-scale-ai-supported-glp-1-care/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "AIR",
+   "sector": "AI",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 50000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "AIR는 기업의 AI 에이전트가 사용하는 스킬과 애드온을 검증하고 모니터링하는 플랫폼으로 5천만 달러의 투자를 유치했다. 회사는 원치 않는 에이전트 동작을 차단하는 기능을 제공한다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "Empirik",
+   "sector": "AI",
+   "amount_original": {
+    "value": 21.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 21000000,
+   "stage": "시드",
+   "investors": [
+    "Sequoia"
+   ],
+   "lead_investor": "Sequoia",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Sequoia가 인큐베이션한 Empirik이 2,100만 달러 시드 펀딩을 유치했다. 이 스타트업은 IT 인프라의 장애를 미리 예측하는 서비스를 제공하며, Cursor가 소프트웨어 엔지니어링 분야에서 한 것처럼 인프라 분야에서 유사한 역할을 수행할 계획이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "company": "AfterQuery",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "AfterQuery는 AI 모델 훈련 스타트업으로, 4월 시리즈 A에서 3천만 달러를 3억 달러 밸류에이션으로 유치한 지 5개월 만에 새로운 라운드를 통해 32억 달러 밸류에이션을 달성했다. Y Combinator 졸업생 중 가장 빠르게 유니콘 지위를 획득한 것으로 보도되고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-01",
    "company": "Alteon",
    "sector": "에너지",
    "amount_original": null,

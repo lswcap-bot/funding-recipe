@@ -158,7 +158,8 @@
    "stage": "비공개",
    "investors": [
     "SMBC",
-    "Singtel"
+    "Singtel",
+    "Singtel Innov8"
    ],
    "lead_investor": null,
    "country": "싱가포르",
@@ -168,6 +169,10 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/sg-automation-firm-fileai-enters-japan-with-jre-ventures-backing"
+    },
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-bioactivx-raises-pre-series-a-funding-smbc-and-singtel-innov8-back-fileai-latest-china-investments-and-more"
     }
    ]
   },
