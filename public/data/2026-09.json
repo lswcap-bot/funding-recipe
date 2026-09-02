@@ -2,6 +2,300 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-02",
+   "company": "Drumbeat",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "NZD",
+    "unit": "million"
+   },
+   "amount_usd": 1165500,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "뉴질랜드",
+   "region": "오세아니아",
+   "ai_summary_ko": "Drumbeat은 창업자들의 스토리텔링을 지원하는 PR 커뮤니케이션 플랫폼으로, 200만 뉴질랜드 달러의 자금을 조성했습니다. 이 자금으로 호주와 미국 시장에서 서비스를 확장할 계획입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/kiwi-comms-startup-drumbeat-bags-nz2m-to-help-founders-tell-their-stories/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "company": "GonGlobal",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.2,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1200000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "GonGlobal은 흡입식 생식 의약품을 이용한 바늘 없는 체외수정 치료법을 개발하는 스타트업으로, 120만 달러의 투자 유치를 발표했습니다. 이 자금은 기존 주사 기반 난임 치료의 패러다임을 바꾸고 환자 경험을 개선하는 데 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/ivf-startup-gonglobal-raises-1-2-million-for-needle-free-treatments/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "company": "HyImpulse Technologies",
+   "sector": "기타",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 57890000,
+   "stage": "시리즈 A",
+   "investors": [
+    "JOIN Capital",
+    "Ace Capital Partners",
+    "North Ventures",
+    "BW-Capital",
+    "Bayern Kapital"
+   ],
+   "lead_investor": "JOIN Capital",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "HyImpulse Technologies는 상업용 로켓 제조업체로서 시리즈 A 확장 라운드에서 5천만 유로 이상을 유치했습니다. 이 자금은 JOIN Capital과 Ace Capital Partners가 주도하고 North Ventures, BW-Capital, Bayern Kapital 등 신규 투자자들이 참여했습니다. 유럽의 독립적인 우주 접근 능력 강화를 목표로 합니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/german-spacetech-hyimpulse-secures-over-e50-million-to-accelerate-europes-sovereign-launch-capabilities/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "company": "iPremom",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 17367000,
+   "stage": "시드",
+   "investors": [
+    "Amadeus Capital Partners",
+    "Asabys"
+   ],
+   "lead_investor": "Amadeus Capital Partners",
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "iPremom은 임신 초기 합병증의 조기 진단을 위한 혈액 검사 기반 분자진단 플랫폼 MaiRa를 개발한 스페인 바이오헬스케어 기업입니다. 시드 라운드에서 1,500만 유로를 유치했으며, 이 자금은 임상 검증과 상용화 추진에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/adressing-complicated-pregnancies-ipremom-raises-e15-million-to-advance-early-detection/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "company": "Pharosyn",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 2.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2894500,
+   "stage": "비공개",
+   "investors": [
+    "Moonfire",
+    "Entrepreneurs First",
+    "Transpose Platform",
+    "General Advance"
+   ],
+   "lead_investor": "Moonfire",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 제약업계 경쟁 정보 플랫폼 개발사 Pharosyn이 플랫폼 확대 및 제약 상업팀의 채택 지원을 위해 무nfire 주도로 250만 유로를 조달했다. Entrepreneurs First, Transpose Platform, General Advance 등이 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/uk-startup-pharosyn-raises-e2-5-million-for-pharma-competitive-intelligence-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "company": "Laters.com",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "싱가포르",
+   "region": "동남아",
+   "ai_summary_ko": "싱가포르 여행 스타트업 Laters.com이 유연한 여행 결제 서비스 확장을 위해 150만 달러를 투자유치했다. 이 자금은 기존 여행 사업 확장과 새로운 상품 및 사업 부문 개발에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/sg-travel-startup-nets-15m-expand-flexible-travel-payments"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "company": "HyImpulse",
+   "sector": "기타",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 57890000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "독일 우주기술 기업 HyImpulse는 서궤도 및 궤도 발사 시스템 고도화와 생산/상용 운영 확대를 위해 시리즈 A 연장 라운드에서 €500만 유로 이상을 조달했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/02/hyimpulse-secures-eur50m-to-scale-suborbital-and-orbital-launch-services/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "company": "Ki 13",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "시드",
+   "investors": [
+    "HICO Investment G"
+   ],
+   "lead_investor": "HICO Investment G",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Ki 13은 바이오매스 전기분해 기술을 이용해 저렴한 합성연료를 생산하는 영국 클린테크 기업으로, 산업용 파일럿 플랜트 구축을 위해 씨드 펀딩 $500만 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/02/ki-13-raises-5m-for-affordable-synthetic-fuels/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "company": "Conveo",
+   "sector": "기타",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 50000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "소비자 조사 기술 회사 Conveo가 시리즈 A에서 5천만 달러를 유치하여 미국 진출과 플랫폼 확장을 추진한다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/02/conveo-raises-50m-to-scale-its-ai-powered-consumer-intelligence-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "company": "Hiasynth",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "에인절",
+   "investors": [
+    "Further Than Capital"
+   ],
+   "lead_investor": "Further Than Capital",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "유럽 인구를 1:1 규모로 합성한 모델을 개발한 AI 스타트업 Hiasynth가 Further Than Capital이 주도한 에인절 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/02/hiasynth-raises-angel-funding-to-build-a-queryable-synthetic-model-of-europes-population/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "company": "HiddenLayer",
+   "sector": "보안",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "HiddenLayer이 $100 million 펀딩을 확보했습니다. 이 회사는 기업들의 AI 배포 보안을 위해 에이전트뿐만 아니라 도구와 애드온까지 모니터링할 수 있는 제품을 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "company": "Wonderful",
+   "sector": "AI",
+   "amount_original": {
+    "value": 550.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 550000000,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "Wonderful이 6개월 이내에 밸류에이션을 $5B 이상으로 두 배 이상 증가시키며 $550 million의 시리즈 C 펀딩을 유치했습니다. 이 자금은 제품 개발 가속화, FDE 팀 확장, 시장 수요 충족에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/02/netherlands-based-ai-startup-wonderful-raises-550m-at-5bn-valuation/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-01",
    "company": "Beijing Kling Technology",
    "sector": "AI",

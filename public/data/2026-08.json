@@ -1689,13 +1689,17 @@
    "stage": "엔젤",
    "investors": [],
    "lead_investor": null,
-   "country": null,
+   "country": "유럽",
    "region": "유럽",
    "ai_summary_ko": "MIRAVA는 3년간의 제품 개발을 거쳐 보트 관련 지능형 기술을 상용화하기 위해 500만 달러의 엔젤 펀딩을 조성했다. 이 자금은 추가 제품 개발, 소량 생산, 고객 배송을 지원할 것이다.",
    "sources": [
     {
      "name": "Tech.eu",
      "url": "https://tech.eu/2026/08/25/how-intelligent-technology-could-redefine-recreational-boating/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/mirava-raises-e4-2-million-to-build-a-new-category-in-recreational-boating-sponsored/"
     }
    ]
   },
