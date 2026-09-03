@@ -2,6 +2,396 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-03",
+   "company": "ENA Respiratory",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "ENA Respiratory는 바이러스 감염 치료 기술 개발 바이오테크 스타트업으로, 정부 펀드로부터 300만 달러를 유치했습니다. 이 자금은 독감, RSV, COVID를 퇴치하는 비강 스프레이를 천식 임상시험으로 진행하는 데 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/viral-infections-biotech-ena-respiratory-inhales-3-million-from-government-fund/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Business Nextgen Finance",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 215.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 22747000,
+   "stage": "비공개",
+   "investors": [
+    "Beams Fintech Fund I",
+    "Baring Private Equity India Fund 6",
+    "Saison Capital",
+    "UNLEASH"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Business Nextgen Finance가 Beams Fintech Fund I, Baring Private Equity India Fund 6, Saison Capital, UNLEASH로부터 2억 1천5백만 루피를 투자유치했습니다. 미소금융기관(MSME)을 위한 기술 기반 담보 대출 모델을 확장하기 위해 자금을 활용할 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/meet-the-lender-secured-small-business-credit-india-top-100-locations"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "VLCC",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 110.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 11638000,
+   "stage": "비공개",
+   "investors": [
+    "BlackSoil Capital"
+   ],
+   "lead_investor": "BlackSoil Capital",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "VLCC가 BlackSoil Capital로부터 1억 1천만 루피를 투자유치했습니다. 이번 투자 자금은 사업 성장 및 확장 활동을 지원하는 데 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/vlcc-raises-rs-110-crore-in-funding-from-blacksoil-capital"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Cradlewise",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 12.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 12000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "3one4 Capital",
+    "Prudent Investment Management"
+   ],
+   "lead_investor": "3one4 Capital",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "영아 수면 제품을 다루는 Cradlewise가 3one4 Capital과 Prudent Investment Management 주도로 1,200만 달러 시리즈 A 펀딩을 유치했습니다. 자금은 새로운 판매 채널 확대 및 국제시장 진출에 사용될 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/cradlewise-funding-3one4-capital-prudent-investment-management"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Piney",
+   "sector": "부동산",
+   "amount_original": {
+    "value": 1.6,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1858400,
+   "stage": "시리즈 A",
+   "investors": [
+    "Uni.fund",
+    "33East",
+    "VENTERI Capital"
+   ],
+   "lead_investor": "Uni.fund",
+   "country": "키프로스",
+   "region": "유럽",
+   "ai_summary_ko": "키프로스 설립 단기/중기 임대 숙박시설 관리 플랫폼 Piney가 유니펀드 주도로 160만 유로를 유치했습니다. 이는 2024년 12월 120만 유로 펀딩에 이은 후속 라운드입니다. 자금은 유럽 시장을 넘어 사업 확장에 사용될 계획입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/cyprus-founded-piney-raises-e1-6-million-to-take-its-rental-operations-platform-beyond-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Zeit AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4994450,
+   "stage": "비공개",
+   "investors": [
+    "Y Combinator",
+    "University of Oxford Seed Fund",
+    "Sequoia Capital Scout Fund",
+    "ACE Ventures",
+    "Hasso Plattner VC"
+   ],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "Zeit AI는 뮌헨 기반의 자율 데이터 엔지니어를 개발하는 스타트업으로, €4.3 million의 펀딩을 확보했다. Y Combinator, 옥스포드 대학 Seed Fund, Sequoia Capital Scout Fund, ACE Ventures, Hasso Plattner VC 등이 투자에 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/yc-backed-zeit-ai-raises-e5-million-to-build-europes-autonomous-data-engineer/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Strolll",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5807500,
+   "stage": "비공개",
+   "investors": [
+    "IW Capital",
+    "Cleveland Clinic",
+    "Future Planet Capital Regional"
+   ],
+   "lead_investor": "IW Capital",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Strolll은 증강현실을 활용한 신경재활 소프트웨어 의료기기 회사로, IW Capital이 주도하는 투자에 Cleveland Clinic과 Future Planet Capital Regional이 참여했다. 또한 Innovate UK로부터 €4.18 million의 혁신 대출과 €813.2k의 Growth Catalyst Investor 펀딩을 추가로 확보했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/uk-medtech-strolll-secures-e5-million-in-innovate-uk-funding-and-additional-iw-capital-led-investment/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Tensive",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 23230000,
+   "stage": "비공개",
+   "investors": [
+    "European Investment Bank"
+   ],
+   "lead_investor": "European Investment Bank",
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "밀라노 기반 의료기기 스타트업 Tensive가 유럽투자은행(EIB)으로부터 2천만 유로의 전환대출을 받았습니다. 이 자금은 유방 재건 및 조직 표지용 생분해성 스캐폴드인 REGENERA/SOFTAG의 연구개발, 임상시험, CE 마킹, 제조 확대 및 상용화 준비를 위해 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/breast-implant-alternative-startup-tensive-receives-e20-million-eib-loan-to-advance-regenera/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Sharpa",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 4.5,
+    "currency": "CNY",
+    "unit": "billion"
+   },
+   "amount_usd": 669735000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "로봇 자동화 스타트업 Sharpa가 RMB 45억 규모의 투자를 유치했습니다. 동사의 시스템은 인간을 위해 설계된 동일한 도구와 작업 공간을 사용하여 55단계 워크플로우를 자율적으로 완료할 수 있으며, Dairy Queen 등에서 실제 적용되고 있습니다.",
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/sharpa-raises-over-rmb-4-5-billion-as-it-puts-robots-to-work-at-dairy-queen"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Backbone",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4646000,
+   "stage": "프리시드",
+   "investors": [
+    "Pitchdrive",
+    "PROfounders Capital",
+    "Passion Capital",
+    "100IN"
+   ],
+   "lead_investor": "Pitchdrive",
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "브뤼셀 기반 식품산업 품질 관리 AI 운영체제 Backbone이 Pitchdrive 주도로 400만 유로의 프리시드 라운드를 완성했습니다. 자금은 마케팅 확대와 제품 개발 투자에 활용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/03/backbone-raises-eur4m-for-automated-food-quality-and-compliance/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/belgian-food-quality-ai-startup-backbone-raises-e4-million-pre-seed-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Souk",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 1.6,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1600000,
+   "stage": "프리시드",
+   "investors": [
+    "Sure Valley Ventures"
+   ],
+   "lead_investor": "Sure Valley Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Souk은 AI 기반 파트너 관리 플랫폼을 개발하는 영국 B2B 소프트웨어 스타트업으로, Sure Valley Ventures 주도로 160만 달러의 프리시드 펀딩을 조달했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/03/souk-lands-16m-to-turn-inactive-b2b-partners-into-revenue/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Rightcharge",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 500.0,
+    "currency": "GBP",
+    "unit": "thousand"
+   },
+   "amount_usd": 674850,
+   "stage": "그로스",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Rightcharge는 영국의 EV 충전 결제 스타트업으로, 유럽 전역 확장과 플릿 충전 결제 관리 플랫폼 개발을 위해 50만 파운드의 그로스 펀딩을 조달했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/03/rightcharge-raises-ps500k-to-scale-fleet-ev-charging-payments-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Zeit AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5807500,
+   "stage": "비공개",
+   "investors": [
+    "Y Combinator"
+   ],
+   "lead_investor": "Y Combinator",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "Zeit AI는 유럽의 중견 기업을 위한 자동화된 데이터 엔지니어링 기술을 개발하는 스타트업으로, 플랫폼 확장을 위해 Y Combinator 등으로부터 500만 유로를 조달했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/03/zeit-ai-raises-eur5m-to-give-europes-mid-market-its-own-data-engineer/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Atira",
+   "sector": "AI",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "시드",
+   "investors": [
+    "Accel",
+    "UVC",
+    "Fortino"
+   ],
+   "lead_investor": "Accel",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반 AI 회사 Atira가 산업용 영업 엔지니어링 자동화 플랫폼 확장을 위해 시드 펀딩으로 1,500만 달러를 조달했다. Accel이 주도 투자사로 참여했으며 UVC, Fortino 등이 함께 투자했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/03/atira-raises-175m-to-bring-ai-orchestration-to-industrial-sales/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "company": "Ultrahuman",
+   "sector": "기타",
+   "amount_original": {
+    "value": 70.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 70000000,
+   "stage": "비공개",
+   "investors": [
+    "Qualcomm"
+   ],
+   "lead_investor": "Qualcomm",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Ultrahuman이 스마트 링을 컴퓨터로 전환하기 위한 목표로 Qualcomm으로부터 7천만 달러의 투자를 유치했다. 회사는 2027년 1월까지 연 2억 달러의 수익 목표를 세우고 Qualcomm 기반의 스마트 링을 개발하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-02",
    "company": "Drumbeat",
    "sector": "SaaS",

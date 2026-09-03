@@ -1383,11 +1383,15 @@
    "lead_investor": "Systemiq Capital",
    "country": "스웨덴",
    "region": "유럽",
-   "ai_summary_ko": "스톡홀름 기반 eComID가 AI 기반 맞춤형 커머스를 위한 '쇼핑 여권' 구축을 목표로 1,458만 유로(1,700만 달러)의 시드 펀딩을 조달했다. Systemiq Capital이 주도 투자했으며, H&M 그룹을 포함한 여러 투자자가 참여했다.",
+   "ai_summary_ko": "스톡홀름 기반 스타트업 eComID가 Systemiq Capital 주도로 1,460만 유로 규모의 시드 라운드를 유치했습니다. 이 자금은 AI 기반 중고거래 플랫폼 Nilum을 인수하고 중고 이커머스(recommerce) 시장 진출을 위해 사용될 예정입니다.",
    "sources": [
     {
      "name": "EU-Startups",
      "url": "https://www.eu-startups.com/2026/08/stockholms-ecomid-raises-e14-6-million-to-build-the-shopping-passport-for-ai-powered-personalised-commerce/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/fresh-from-e14-6-million-seed-round-ecomid-acquires-nilum-to-push-into-recommerce/"
     }
    ]
   },
@@ -6246,19 +6250,29 @@
   {
    "date": "2026-08-04",
    "company": "Thinking Machines",
-   "sector": "기타",
-   "amount_original": null,
-   "amount_usd": null,
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1000000000,
    "stage": "비공개",
-   "investors": [],
-   "lead_investor": null,
+   "investors": [
+    "Accel"
+   ],
+   "lead_investor": "Accel",
    "country": null,
    "region": null,
-   "ai_summary_ko": null,
+   "ai_summary_ko": "Thinking Machines가 Accel 주도로 10억 달러 규모의 투자 라운드를 진행 중이며, 회사의 밸류에이션은 400억 달러로 평가되고 있다. 연간 수익은 1억 달러 이상으로 높은 성장을 보이고 있다.",
    "sources": [
     {
      "name": "KrASIA",
      "url": "https://kr-asia.com/deals-in-brief-bundle-raises-pre-seed-funding-temus-acquires-thinking-machines-nine-china-investments-and-more"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
     }
    ]
   },
