@@ -2,6 +2,297 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-04",
+   "company": "Plenti",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3000000,
+   "stage": "시드",
+   "investors": [
+    "Tether",
+    "Verda Ventures"
+   ],
+   "lead_investor": "Tether",
+   "country": "콜롬비아",
+   "region": "중남미",
+   "ai_summary_ko": "콜롬비아의 핀테크 기업 Plenti가 시드 라운드에서 300만 달러를 유치했다. Tether가 주도 투자자로 참여했으며, Verda Ventures도 함께 투자했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/colombian-fintech-plenti-raises-3m-seed-round-led-by-tether/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "company": "Comet",
+   "sector": "기타",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 10580000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Verlinvest"
+   ],
+   "lead_investor": "Verlinvest",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "운동화 브랜드 코메트가 Verlinvest 주도로 시리즈 B 투자 라운드에서 1억 인도루피를 유치했다. 펀딩은 소매 확장, 제품 개발 강화, 자체 솔 모델 개발 연구개발에 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/sneaker-brand-comet-rs-100-cr-series-b-led-by-verlinvest"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "company": "Octave.energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 11622000,
+   "stage": "시리즈 A",
+   "investors": [
+    "SPDG Growth"
+   ],
+   "lead_investor": "SPDG Growth",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "벨기에의 Octave.energy는 배터리 에너지 저장 시스템(BESS)과 에너지 관리 시스템(EMS) 솔루션을 제공하는 청정기술 스타트업으로, 유럽 전역 확장을 위해 SPDG Growth가 주도한 시리즈 A 라운드에서 €10 million을 조달했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/profitable-belgian-cleantech-octave-energy-raises-e10-million-to-scale-bess-and-ems-solutions-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "company": "iPronics",
+   "sector": "AI",
+   "amount_original": {
+    "value": 107.57,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 125017854,
+   "stage": "시리즈 B",
+   "investors": [
+    "Maverick Silicon",
+    "Light Street Capital",
+    "NVIDIA"
+   ],
+   "lead_investor": "Maverick Silicon, Light Street Capital",
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "스페인의 iPronics는 AI 인프라를 위한 실리콘 포토닉스 기반 광 회로 스위칭 솔루션을 전문으로 하는 기업으로, AI 데이터 센터의 광 네트워킹 확대를 위해 Maverick Silicon과 Light Street Capital이 주도한 시리즈 B 라운드에서 €107.57 million을 조달했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/spains-ipronics-raises-e107-6-million-with-nvidia-backing-to-scale-optical-networking-for-ai-data-centres/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "company": "Creoir",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2324400,
+   "stage": "시드",
+   "investors": [
+    "Gungnir Capital"
+   ],
+   "lead_investor": "Gungnir Capital",
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "핀란드의 방위기술 기업 크레오르가 방위 및 미션 크리티컬 시스템용 음성 AI 개발을 위해 스웨덴 VC 펀드 군그니르 캐피탈로부터 시드 투자를 유치했다. 목표 펀딩 규모는 200만 유로이며, EdgeVUI 및 Operator Assistant 제품의 상용화를 가속화하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/oulu-based-creoir-secures-seed-funding-to-scale-voice-ai-for-defence-and-mission-critical-systems/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "company": "Hivebotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6000000,
+   "stage": "비공개",
+   "investors": [
+    "Vertex Ventures"
+   ],
+   "lead_investor": "Vertex Ventures",
+   "country": "싱가포르",
+   "region": "동남아",
+   "ai_summary_ko": "싱가포르 로봇 기업 Hivebotics가 Vertex Ventures가 주도하는 라운드에서 600만 달러를 유치했습니다. 이 자금은 HiveIntelligence 소프트웨어의 추가 개발을 지원하는 데 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/robot-cleans-toilets-humans-dont"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "company": "Stellar Alpina",
+   "sector": "기타",
+   "amount_original": {
+    "value": 160000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 185952,
+   "stage": "시드",
+   "investors": [
+    "Venture Kick"
+   ],
+   "lead_investor": "Venture Kick",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "취리히 기반 우주 기술 스타트업 Stellar Alpina가 우주 내 추진 기술 개발을 위해 Venture Kick으로부터 16만 유로를 확보했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/04/stellar-alpina-secures-eur160k-from-venture-kick-for-in-space-propulsion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "company": "AI Score",
+   "sector": "AI",
+   "amount_original": {
+    "value": 5.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5400000,
+   "stage": "시드",
+   "investors": [
+    "Fuel Ventures"
+   ],
+   "lead_investor": "Fuel Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "AI Score는 생성형 및 에이전트 AI의 채택과 관리를 돕는 AI 스타트업으로, 기업들이 안전하게 에이전트 AI를 워크플로우에 도입할 수 있도록 하는 플랫폼을 구축하고 있습니다. 상품 개발 가속화, 운영 확대를 위해 Fuel Ventures가 주도한 시드 라운드에서 €4.6 million을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/04/uk-startup-ai-score-raises-54m-to-scale-its-enterprise-ai-governance-platform/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/londons-ai-score-raises-e4-6-million-to-help-businesses-keep-ai-agents-under-control/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "company": "Crusoe",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 3000000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Crusoe가 $30B 밸류에이션에서 $3B를 유치했습니다. 이번 펀딩라운드는 데이터센터 개발업체인 Crusoe가 Jane Street와 $13B 규모의 계약을 체결한 이후 진행되었습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "company": "Krafton",
+   "sector": "게임",
+   "amount_original": {
+    "value": 250.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 250000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Krafton이 인도에 추가로 2억 5,000만 달러를 투자하기로 결정했으며, 이는 게임 외 분야로의 확장을 의미한다. 이번 투자로 Krafton의 인도 내 총 투자액은 5억 달러를 넘을 것으로 예상된다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "company": "Nscale",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "AI 컴퓨팅 제공업체 Nscale은 Anthropic과 450억 달러 규모의 거래를 체결한 후, IPO를 앞두고 35억 달러 규모의 프리-IPO 펀딩을 추진 중이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "company": "XDOF",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "로봇 데이터 스타트업 XDOF가 스텔스 모드를 빠져나온 지 불과 3개월 만에 시리즈 B 펀딩을 진행 중이며, 회사 평가액은 12억 달러에 달한다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-03",
    "company": "ENA Respiratory",
    "sector": "바이오",
@@ -39,7 +330,8 @@
     "Beams Fintech Fund I",
     "Baring Private Equity India Fund 6",
     "Saison Capital",
-    "UNLEASH"
+    "UNLEASH",
+    "institutional investors"
    ],
    "lead_investor": null,
    "country": "인도",
@@ -49,6 +341,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/09/meet-the-lender-secured-small-business-credit-india-top-100-locations"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/lending-beyond-top-100-markets-india-defining-future-of-work"
     }
    ]
   },
@@ -369,7 +665,7 @@
   {
    "date": "2026-09-03",
    "company": "Ultrahuman",
-   "sector": "기타",
+   "sector": "헬스케어",
    "amount_original": {
     "value": 70.0,
     "currency": "USD",
@@ -378,16 +674,45 @@
    "amount_usd": 70000000,
    "stage": "비공개",
    "investors": [
-    "Qualcomm"
+    "Qualcomm",
+    "Qualcomm Ventures",
+    "Alpha Wave"
    ],
    "lead_investor": "Qualcomm",
    "country": null,
    "region": null,
-   "ai_summary_ko": "Ultrahuman이 스마트 링을 컴퓨터로 전환하기 위한 목표로 Qualcomm으로부터 7천만 달러의 투자를 유치했다. 회사는 2027년 1월까지 연 2억 달러의 수익 목표를 세우고 Qualcomm 기반의 스마트 링을 개발하고 있다.",
+   "ai_summary_ko": "헬스 인텔리전스 스타트업 Ultrahuman이 Qualcomm Ventures와 Alpha Wave 등으로부터 7천만 달러를 조성했습니다. 이 자금은 센싱, AI, 초소형 전자제품, 건강 알고리즘 분야의 연구개발 확대에 사용될 예정입니다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/funding-ultrahuman-70m-qualcomm-ventures-alpha-wave-others"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "company": "Pearler",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 16.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 16000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "호주의 투자 핀테크 기업 Pearler가 시리즈 A 라운드에서 1,600만 달러를 유치했다. ETF, 슈퍼(연금), 주택 구매자 도구 등을 확대하기 위한 자금이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/investment-fintech-pearler-bags-16-million-series-a/"
     }
    ]
   },
