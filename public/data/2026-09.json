@@ -2,6 +2,50 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-05",
+   "company": "HiBob",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/long-game"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-05",
+   "company": "Gimlet",
+   "sector": "AI",
+   "amount_original": {
+    "value": 300.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 300000000,
+   "stage": "비공개",
+   "investors": [
+    "A16z"
+   ],
+   "lead_investor": "A16z",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "Gimlet은 AI 인프라 스타트업으로 A16z가 주도한 3억 달러 규모의 펀딩 라운드를 유치했습니다. 이는 6개월 전 8,000만 달러 펀딩에 이은 후속 투자입니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/microsoftbacked-dmatrix-starts-shipping-ai-chip"
+    }
+   ]
+  },
+  {
    "date": "2026-09-04",
    "company": "Plenti",
    "sector": "핀테크",
