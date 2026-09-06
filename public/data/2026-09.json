@@ -2,6 +2,33 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-06",
+   "company": "Ola Electric",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 159.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 159000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Ola Electric이 경쟁 심화 속에서 1억 5,900만 달러 규모의 자금 조달을 계획하고 있습니다. 이사회는 회사의 인가 주식 자본을 약 83.2억 루피에서 87.2억 루피로 인상하는 것을 승인했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ola-electric-plans-217m-stake-sale-in-battery-arm"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/ola-electric-clears-rs-1500-cr-fund-raise-coo-quits"
+    }
+   ]
+  },
+  {
    "date": "2026-09-05",
    "company": "HiBob",
    "sector": "기타",
