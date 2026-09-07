@@ -2,6 +2,234 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-07",
+   "company": "HerSpace Manufacturing",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Gray Matters Capital"
+   ],
+   "lead_investor": "Gray Matters Capital",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "HerSpace Manufacturing은 Gray Matters Capital로부터 4천만 달러의 투자를 유치했으며, 카르나타카, 타밀나두, 안드라프라데시 지역의 제조 허브 확장에 자금을 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/herspace-manufacturing-40-million-gray-matters-capital"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "company": "Swish",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 225.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 23805000,
+   "stage": "비공개",
+   "investors": [
+    "Bertelsmann India"
+   ],
+   "lead_investor": "Bertelsmann India",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Swish는 빠른 음식 배달 플랫폼으로 올해 두 번째 펀딩 라운드에서 Bertelsmann India가 주도하는 225억 루피를 유치했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/swish-to-raise-rs-225-crore-led-by-bertelsmann-india"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "company": "Pixxel",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Temasek"
+   ],
+   "lead_investor": "Temasek",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Pixxel은 초분광 위성 영상 기술을 제공하는 인도 우주 스타트업으로, Temasek이 주도하여 1억 달러 규모의 시리즈 C 투자를 유치했습니다. 동사의 위성 군집으로 수집한 데이터를 활용한 지구 관측 영상 서비스를 제공합니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indian-spacetech-firm-galaxeye-acquires-starops"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/pixxel-raises-100-million-build-india-next-generation-earth-observation-infrastructure"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "company": "Nua",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 50000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Peak XV",
+    "Filter Capital"
+   ],
+   "lead_investor": "Peak XV",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "여성 웰니스 브랜드 Nua가 Peak XV와 Filter Capital이 주도하는 시리즈 C 라운드에서 5천만 달러를 유치했다. 회사는 현재 연 매출 100억 루피에서 2년 내 500억 루피로 증대할 계획이며, 이번 자금은 다음 성장 단계를 위해 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/zealand-medtech-firm-wellumio-raises-975m"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/womens-wellness-brand-nua-raises-series-c-round-peak-xv-filter-capital"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "company": "Cato",
+   "sector": "AI",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6973200,
+   "stage": "시드",
+   "investors": [
+    "Keen Venture Partners",
+    "Vento",
+    "Heartfelt",
+    "Moonstone",
+    "BHeroes",
+    "Alecla7"
+   ],
+   "lead_investor": "Keen Venture Partners",
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "밀라노 기반 AI 플랫폼 Cato가 공공 입찰 공고 발굴 및 분석, 수주 지원 서비스를 확장하기 위해 €6백만의 시드 펀딩을 조달했습니다. Keen Venture Partners가 주도한 이번 라운드에는 기존 투자자들도 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/07/cato-raises-eur6m-to-expand-its-ai-platform-for-public-sector-sales/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/milan-based-cato-raises-e6-million-to-help-companies-find-and-win-public-tenders-with-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "company": "Jaipur Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 4.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4997460,
+   "stage": "시드",
+   "investors": [
+    "EquityPitcher Ventures",
+    "High-Tech Gründerfonds"
+   ],
+   "lead_investor": "EquityPitcher Ventures",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "스위스 AI 회사 Jaipur Robotics가 폐기물 처리 시설의 컴퓨터 비전 및 자동화 기술을 확장하기 위해 €4.3백만의 시드 펀딩을 조달했습니다. 이번 투자는 EquityPitcher Ventures와 High-Tech Gründerfonds가 주도했으며, 시장 리더십 확보 및 신규 지역 진출을 목표로 하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/07/jaipur-robotics-raises-eur43m-to-bring-computer-vision-to-waste-plants/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/swiss-startup-jaipur-robotics-raises-e4-3-million-to-expand-its-ai-operating-system-across-more-waste-to-energy-and-industrial-plants/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "company": "Fluencify",
+   "sector": "마케팅",
+   "amount_original": {
+    "value": 4.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4300000,
+   "stage": "프리시드",
+   "investors": [
+    "byFounders",
+    "Wave Ventures"
+   ],
+   "lead_investor": "byFounders",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스톡홀름 기반 크리에이터 마케팅 플랫폼 Fluencify가 byFounders 주도로 3.7백만 유로 규모의 프리시드 펀딩을 유치했다. 회사는 출시 6개월 만에 170만 유로의 ARR을 달성했으며, Wave Ventures도 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/07/fluencify-secures-43m-to-scale-its-creator-campaign-platform/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/stockholm-based-fluencify-raises-e3-7-million-to-scale-its-end-to-end-creator-marketing-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "company": "Tickets for Good",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 3.9,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 5277090,
+   "stage": "비공개",
+   "investors": [
+    "NPIF II – Mercia Equity Finance"
+   ],
+   "lead_investor": "NPIF II – Mercia Equity Finance",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Tickets for Good는 저소득 근로자들을 위해 저가 콘서트 티켓을 제공하는 영국 스타트업으로, 국제 확장을 위해 450만 유로를 조달했다. 이 자금은 Sheffield에 3년 내 10개의 신규 일자리 창출에도 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/07/tickets-for-good-raises-ps39m-to-expand-low-cost-access-to-live-events-globally/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/robbie-williams-backed-tickets-for-good-raises-e4-5-million-for-international-expansion/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-06",
    "company": "Ola Electric",
    "sector": "모빌리티",
@@ -25,6 +253,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/09/ola-electric-clears-rs-1500-cr-fund-raise-coo-quits"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/ola-electric-clears-rs-1500-cr-fundraise-coo-exits"
     }
    ]
   },
