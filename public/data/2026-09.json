@@ -2,6 +2,825 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-08",
+   "company": "Genlight Medical",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 D+",
+   "investors": [
+    "Saizhi Bole",
+    "Kuanqiao Hengsong",
+    "Ningbo state capital"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "의료 헬스케어 기업 젠라이트 메디컬의 D 라운드 펀딩으로 수억 위안이 조달되었다. Saizhi Bole, Kuanqiao Hengsong, Ningbo state capital 등 투자자들이 참여했으며, 자금은 제품 등록 및 상용화 추진에 활용될 예정이다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/09/08/genlight-medical-c-d-rounds/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Genlight Medical",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 C",
+   "investors": [
+    "Qiming Venture Partners",
+    "Saizhi Bole",
+    "Kuanqiao Hengsong",
+    "Ningbo state capital"
+   ],
+   "lead_investor": "Qiming Venture Partners",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "의료 헬스케어 기업 젠라이트 메디컬이 C 라운드와 D 라운드를 연속으로 완료하여 총 수억 위안을 조달했다. C 라운드는 Qiming Venture Partners가 주도했으며, 조달 자금은 규제 승인 및 상용화 추진에 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/09/08/genlight-medical-c-d-rounds/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "MineWatch",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 900.0,
+    "currency": "USD",
+    "unit": "thousand"
+   },
+   "amount_usd": 900000,
+   "stage": "비공개",
+   "investors": [
+    "Alza Mining Tech"
+   ],
+   "lead_investor": "Alza Mining Tech",
+   "country": "칠레",
+   "region": "중남미",
+   "ai_summary_ko": "칠레 광산 기술 스타트업 MineWatch가 Alza Mining Tech가 주도하는 라운드에서 90만 달러를 유치했다. 2022년 설립된 회사로 지하 광산 기술 확대를 목표로 한다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/minewatch-raises-900k-to-expand-underground-mining-technology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Magnar",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 8.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 8000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "6 Degrees Capital",
+    "Hi Ventures"
+   ],
+   "lead_investor": "6 Degrees Capital",
+   "country": "칠레",
+   "region": "중남미",
+   "ai_summary_ko": "칠레 법률기술 스타트업 매그나르가 6 Degrees Capital과 Hi Ventures가 주도하는 시리즈 A 라운드에서 800만 달러를 유치했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/magnar-raises-8m-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Dela",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Dela는 마켓플레이스 거래에서 사기를 방지하기 위해 에스크로 결제, 신원 확인, 배송 도구 등을 제공하는 스타트업입니다. 이번 투자로 100만 달러를 유치했으며, 이 자금으로 마켓플레이스 판매의 안정성을 강화할 계획입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/dela-which-takes-the-scams-out-of-marketplace-sales-raises-1-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Sagava",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1509820,
+   "stage": "비공개",
+   "investors": [
+    "BioInnovation Institute"
+   ],
+   "lead_investor": null,
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "BioInnovation Institute가 탄소 감축 관련 스타트업인 Sagava에 €1.3 million의 추가 전환사채를 투자했으며, 이를 통해 해당 기업이 BII로부터 총 €1.8 million을 확보했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/bioinnovation-institute-injects-e7-8-million-into-six-startups-tackling-cancer-disease-pest-control-and-decarbonisation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Proxi Biotech",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1509820,
+   "stage": "비공개",
+   "investors": [
+    "BioInnovation Institute"
+   ],
+   "lead_investor": null,
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "BioInnovation Institute가 질병 대응 관련 스타트업인 Proxi Biotech에 €1.3 million의 추가 전환사채를 투자했으며, 이를 통해 해당 기업이 BII로부터 총 €1.8 million을 확보했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/bioinnovation-institute-injects-e7-8-million-into-six-startups-tackling-cancer-disease-pest-control-and-decarbonisation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Yngvi Bio",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1509820,
+   "stage": "비공개",
+   "investors": [
+    "BioInnovation Institute"
+   ],
+   "lead_investor": null,
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "BioInnovation Institute가 질병 대응 관련 스타트업인 Yngvi Bio에 €1.3 million의 추가 전환사채를 투자했으며, 이를 통해 해당 기업이 BII로부터 총 €1.8 million을 확보했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/bioinnovation-institute-injects-e7-8-million-into-six-startups-tackling-cancer-disease-pest-control-and-decarbonisation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Inia Biosciences",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1509820,
+   "stage": "비공개",
+   "investors": [
+    "BioInnovation Institute"
+   ],
+   "lead_investor": null,
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "BioInnovation Institute가 암 대응 관련 스타트업인 Inia Biosciences에 €1.3 million의 추가 전환사채를 투자했으며, 이를 통해 해당 기업이 BII로부터 총 €1.8 million을 확보했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/bioinnovation-institute-injects-e7-8-million-into-six-startups-tackling-cancer-disease-pest-control-and-decarbonisation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "3Sonic",
+   "sector": "기타",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1509820,
+   "stage": "비공개",
+   "investors": [
+    "BioInnovation Institute"
+   ],
+   "lead_investor": null,
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "BioInnovation Institute가 질병 대응 관련 스타트업인 3Sonic에 €1.3 million의 추가 전환사채를 투자했으며, 이를 통해 해당 기업이 BII로부터 총 €1.8 million을 확보했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/bioinnovation-institute-injects-e7-8-million-into-six-startups-tackling-cancer-disease-pest-control-and-decarbonisation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "PanTarg",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1509820,
+   "stage": "비공개",
+   "investors": [
+    "BioInnovation Institute"
+   ],
+   "lead_investor": null,
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "BioInnovation Institute가 암, 질병, 해충 방제 및 탄소 감축 관련 스타트업인 PanTarg에 €1.3 million의 추가 전환사채를 투자했으며, 이를 통해 해당 기업이 BII로부터 총 €1.8 million을 확보했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/bioinnovation-institute-injects-e7-8-million-into-six-startups-tackling-cancer-disease-pest-control-and-decarbonisation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Hope Care",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6968400,
+   "stage": "시리즈 A",
+   "investors": [
+    "Iberis Capital",
+    "Vieira de Matos – VDM Capital, S.A.",
+    "Buenavista Equity Partners"
+   ],
+   "lead_investor": "Iberis Capital",
+   "country": "포르투갈",
+   "region": "유럽",
+   "ai_summary_ko": "포르투갈의 디지털 헬스케어 회사 Hope Care가 원격 환자 모니터링 기술을 유럽 전역으로 확장하기 위해 Iberis Capital이 주도하고 VDM Capital과 기존 주주 Buenavista Equity Partners가 참여한 600만 유로 규모의 시리즈 A 펀딩을 완료했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/portugals-hope-care-closes-e6-million-series-a-to-expand-remote-patient-monitoring-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Tellia",
+   "sector": "농업",
+   "amount_original": {
+    "value": 4.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4994020,
+   "stage": "프리시드",
+   "investors": [
+    "Revent",
+    "Grey Silo Ventures"
+   ],
+   "lead_investor": "Revent",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반 농업 AI 음성 어시스턴트 스타트업 Tellia가 농민과 현장 팀이 음성으로 데이터를 캡처하고 활용할 수 있는 기술을 확장하기 위해 Revent가 주도하고 Grey Silo Ventures가 참여한 430만 유로 규모의 프리시드 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/french-agtech-startup-tellia-raises-e4-3-million-to-scale-voice-enabled-data-capture/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Simple AI",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시리즈A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/google-vp-warns-ai-wrapper-startups-struggle-survive"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Bookme",
+   "sector": "커머스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Tencent Cloud"
+   ],
+   "lead_investor": "Tencent Cloud",
+   "country": "사우디아라비아",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "Bookme는 1500만 명 이상의 고객을 확보한 커머스 플랫폼으로, Tencent Cloud의 지원을 받아 사우디 시장 진출을 추진하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/tencent-cloud-taps-hong-kong-as-global-expansion-hub"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Mistral AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.5,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 3500000000,
+   "stage": "시리즈 D",
+   "investors": [
+    "Samsung Electronics",
+    "Scaleup Europe Fund",
+    "PSG Equity"
+   ],
+   "lead_investor": "Samsung Electronics",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반의 AI 회사 Mistral이 삼성전자가 주도한 30억 유로 규모의 시리즈 D 펀딩을 완료했으며, 포스트머니 밸류에이션은 210억 유로 이상으로 유럽 기술 회사 중 최대 규모의 자금 조달을 기록했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/mistral-raises-830m-debt-for-europe-ai-data-center"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/french-ai-company-mistral-raises-e3-billion-series-d-led-by-samsung-at-over-e21-billion-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "unnamed company 6",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1509820,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "BioInnovation Institute는 헬스케어, 농업, 지속 가능한 에너지 분야의 기술 개발 기업 6곳에 총 780만 유로의 추가 펀딩을 배분했으며, 각 회사는 130만 유로씩을 지원받습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/08/bii-allocates-eur78m-to-help-six-companies-bring-technologies-to-market/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "unnamed company 5",
+   "sector": "농업",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1509820,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "BioInnovation Institute는 헬스케어, 농업, 지속 가능한 에너지 분야의 기술 개발 기업 6곳에 총 780만 유로의 추가 펀딩을 배분했으며, 각 회사는 130만 유로씩을 지원받습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/08/bii-allocates-eur78m-to-help-six-companies-bring-technologies-to-market/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "unnamed company 4",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1509820,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "BioInnovation Institute는 헬스케어, 농업, 지속 가능한 에너지 분야의 기술 개발 기업 6곳에 총 780만 유로의 추가 펀딩을 배분했으며, 각 회사는 130만 유로씩을 지원받습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/08/bii-allocates-eur78m-to-help-six-companies-bring-technologies-to-market/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "unnamed company 3",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1509820,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "BioInnovation Institute는 헬스케어, 농업, 지속 가능한 에너지 분야의 기술 개발 기업 6곳에 총 780만 유로의 추가 펀딩을 배분했으며, 각 회사는 130만 유로씩을 지원받습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/08/bii-allocates-eur78m-to-help-six-companies-bring-technologies-to-market/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "unnamed company 2",
+   "sector": "농업",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1509820,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "BioInnovation Institute는 헬스케어, 농업, 지속 가능한 에너지 분야의 기술 개발 기업 6곳에 총 780만 유로의 추가 펀딩을 배분했으며, 각 회사는 130만 유로씩을 지원받습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/08/bii-allocates-eur78m-to-help-six-companies-bring-technologies-to-market/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "unnamed company 1",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1509820,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "BioInnovation Institute는 헬스케어, 농업, 지속 가능한 에너지 분야의 기술 개발 기업 6곳에 총 780만 유로의 추가 펀딩을 배분했으며, 각 회사는 130만 유로씩을 지원받습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/08/bii-allocates-eur78m-to-help-six-companies-bring-technologies-to-market/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Veridue",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "프리시드",
+   "investors": [
+    "Episode 1 Ventures",
+    "HTGF",
+    "Pi Labs"
+   ],
+   "lead_investor": "Episode 1 Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 AI 기반 실사 및 M&A 플랫폼 Veridue가 재생 에너지 및 데이터 센터 분야의 투자 및 프로젝트 파이낸싱 가속화를 위해 Episode 1 Ventures 주도로 €3.44 million의 프리시드 라운드를 조성했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/08/veridue-secures-4m-pre-seed-to-streamline-energy-infrastructure-due-diligence/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/uk-based-veridue-secures-e3-44-million-to-accelerate-investment-and-project-financing-for-renewable-energy-and-data-centres/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "sci2sci",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1393680,
+   "stage": "프리시드",
+   "investors": [
+    "Heliad",
+    "I"
+   ],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 소재 소프트웨어 스타트업 sci2sci가 규제 산업을 위한 신뢰할 수 있는 AI 인프라 구축을 목표로 프리시드 라운드에서 120만 유로를 유치했습니다. 이 라운드는 Heliad와 I가 공동 주도했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/08/sci2sci-raises-eur12m-to-build-trusted-ai-infrastructure-for-regulated-industries/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Ground A",
+   "sector": "보안",
+   "amount_original": {
+    "value": 9.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 10452600,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "독일 방위기술 회사 Ground A는 레이저 기반 드론 대응 시스템을 개발한 기업으로, 스텔스 상태에서 벗어나며 프리시드 펀딩 라운드로 900만 유로 이상을 투자받았습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/08/ground-a-raises-eur9m-to-bring-laser-based-counter-drone-technology-to-market/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Green Eagle Solutions",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Copilot Capital"
+   ],
+   "lead_investor": "Copilot Capital",
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "스페인 에너지 기술 회사 Green Eagle Solutions는 재생 에너지 운영 자동화 기술을 개발하고 있으며, Copilot Capital로부터 주요 투자를 유치했습니다. 이를 통해 재생 에너지 '자동조종' 기술을 글로벌 시장에 확대할 계획입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/08/green-eagle-solutions-lands-copilot-capital-backing-to-take-renewable-energy-autopilot-global/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "NavigateAI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 25.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 25000000,
+   "stage": "비공개",
+   "investors": [
+    "Elad Gil",
+    "Khosla Ventures",
+    "Lennar"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Eric Wu가 창립한 NavigateAI는 건설 근로자에게 스마트폰과 메타 AI 안경을 통해 실시간 무선 음성 지도를 제공하는 AI 코파일럿을 개발하고 있습니다. 심각한 노동력 부족 문제를 해결하기 위해 Elad Gil, Khosla Ventures, Lennar로부터 2,500만 달러를 투자받았습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Stoke Space",
+   "sector": "기타",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1000000000,
+   "stage": "시리즈 E",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "우주 스타트업 스토크 스페이스가 시리즈 E 라운드에서 10억 달러의 초기 마감을 완료했다. 이 자금은 회사가 궤도 진입을 달성하고 더 큰 규모의 새로운 로켓을 운영할 준비를 하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Poseidon Aerospace",
+   "sector": "기타",
+   "amount_original": {
+    "value": 60.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 60000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "항공우주 스타트업 포세이돈 에어로스페이스가 6천만 달러를 투자유치했다. 회사는 조종사를 제거하여 화물 항공기의 경제성을 재구성하려고 노력하고 있으며, 첫 번째 무인 시험 비행을 앞두고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Bluecore Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 50000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "핵에너지 스타트업 블루코어 에너지가 출시 후 단 2개월 만에 5천만 달러의 오버서브스크립션 시드 펀딩을 완료했다. 회사는 지난 몇 개월 전 1천만 달러의 프리시드 펀딩도 획득했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "Mistral",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "EUR",
+    "unit": "billion"
+   },
+   "amount_usd": 3484200000,
+   "stage": "시리즈 D",
+   "investors": [
+    "Samsung",
+    "Scaleup Europe",
+    "PSG Equity",
+    "Samsung Electronics",
+    "Scaleup Eur"
+   ],
+   "lead_investor": "Samsung Electronics",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스 AI 회사 Mistral이 주권 AI를 다음 단계로 나아가기 위해 시리즈 D 펀딩에서 30억 유로를 유치했습니다. 삼성전자가 라운드를 주도했으며, 평가액은 210억 유로 이상입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/08/mistral-secures-eur3b-series-d-to-push-sovereign-ai-into-its-next-phase/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "company": "The Exploration Company",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 450.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 450000000,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "우주 탐사 회사 The Exploration Company가 재사용 가능한 우주선 개발을 위해 4억 5,000만 달러를 유치했다. 이는 유럽의 우주 회사가 조성한 최대 규모의 시리즈 C 펀딩으로, SpaceX에 도전하기 위한 자금이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/08/the-exploration-company-raises-450m-series-c-to-scale-reusable-space-transport/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/the-exploration-company-secures-e387-million-to-accelerate-development-of-reusable-high-thrust-rocket-engine/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "company": "Betterplan",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 1.1,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1100000,
+   "stage": "비공개",
+   "investors": [
+    "Anastassiou family office"
+   ],
+   "lead_investor": "Anastassiou family office",
+   "country": "칠레",
+   "region": "중남미",
+   "ai_summary_ko": "칠레의 자산관리 핀테크 기업 베터플랜이 Anastassiou 패밀리 오피스가 주도하는 라운드에서 110만 달러를 조달했다. 이 자금은 아르헨티나 시장으로의 확대를 목표로 활용될 예정이다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/betterplan-raises-1-1m-to-expand-into-argentina/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-07",
    "company": "HerSpace Manufacturing",
    "sector": "기타",
@@ -44,6 +863,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/09/swish-to-raise-rs-225-crore-led-by-bertelsmann-india"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/pixxel-indias-biggest-spacetech-fundraise-swish-to-raise-rs-225-cr"
     }
    ]
   },
@@ -73,6 +896,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/09/pixxel-raises-100-million-build-india-next-generation-earth-observation-infrastructure"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/pixxel-indias-biggest-spacetech-fundraise-swish-to-raise-rs-225-cr"
     }
    ]
   },
