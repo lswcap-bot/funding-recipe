@@ -2,6 +2,411 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-09",
+   "company": "Metacognition AI",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "오세아니아",
+   "ai_summary_ko": "메타코그니션 AI가 로봇용 운영체제 개발을 위해 1,000만 달러를 조성했다. 이 기술은 음성을 통해 작업자가 기계를 훈련할 수 있는 '로봇용 윈도우' 역할을 한다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/ai-startup-raises-10-million-to-build-robotics-operating-system/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "Carrum Mobility",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Uber"
+   ],
+   "lead_investor": "Uber",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "카룸 모빌리티가 우버가 주도하는 시리즈 B 라운드에서 1,000만 달러를 조성했다. 이 자금은 국가 전역에 사업을 확대하고 기술 및 인재에 투자하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/carrum-mobility-raises-10-million-in-series-b-led-by-uber"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "QNu Labs",
+   "sector": "보안",
+   "amount_original": {
+    "value": 200.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 21020000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "QNu Labs는 양자안전 사이버보안 회사로 2억 루피를 신규 투자로 유치했습니다. 이 자금은 연구, 판매, 기술 역량 확대에 사용될 예정이며, 인도가 양자 기술 분야를 발전시키면서 수요가 증가하고 있습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/qnu-labs-raises-rs-200-cr-as-demand-for-quantum-safe-cybersecurity-grows"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "KARAM Safety",
+   "sector": "기타",
+   "amount_original": {
+    "value": 600.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 63060000,
+   "stage": "비공개",
+   "investors": [
+    "Motilal Oswal Alternates"
+   ],
+   "lead_investor": "Motilal Oswal Alternates",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도 최대 규모의 PPE 제조사인 KARAM Safety가 Motilal Oswal Alternates로부터 600크로 루피를 유치했습니다. 이 자금은 글로벌 인수합병과 사업 확장에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/karam-safety-motilal-oswal-alternates-600-crore-investment"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "Limetax",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6991200,
+   "stage": "프리시드",
+   "investors": [
+    "Motive Partners",
+    "Activant",
+    "Heliad"
+   ],
+   "lead_investor": "Motive Partners",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 기반 AI 기반 세무회계 회사 Limetax가 600만 유로의 프리시드 에쿼티 투자와 3000만 유로의 신용 한도를 통해 총 3600만 유로를 조성했다. 에쿼티 라운드는 뉴욕 기반 Motive Partners가 주도했으며 Activant과 Heliad가 참여했고, 신용 한도는 독일 은행 컨소시엄에서 제공했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/limetax-lands-e36-million-to-build-an-ai-powered-group-of-german-tax-and-accounting-firms/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "Implicity",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "IRIS",
+    "Five Arrows"
+   ],
+   "lead_investor": "IRIS",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반 AI 기반 심장 원격 모니터링 스타트업 Implicity가 국제 확장과 AI 역량 강화를 위해 IRIS와 Five Arrows가 주도한 3,500만 유로 펀딩을 유치했다. 이 자금으로 특히 미국 시장 진출과 차세대 심부전 예측 알고리즘 개발을 추진할 계획이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/french-cardiac-monitoring-startup-implicity-reports-26-lower-mortality-as-it-raises-e35-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "Tazapay",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 400.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 400000000,
+   "stage": "비공개",
+   "investors": [
+    "Circle"
+   ],
+   "lead_investor": "Circle",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "Tazapay는 Circle로부터 4억 달러에 인수되었습니다. Tazapay의 거래 중 약 60%가 스테이블코인을 포함합니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/circle-uae-approval-money-services-business"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "Strong by Form",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 5.8,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6758160,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "칠레",
+   "region": "유럽",
+   "ai_summary_ko": "Strong by Form은 목재를 고성능 소재로 재해석하는 딥테크 기업으로, 유럽 시장 진출을 위해 580만 유로의 시리즈 A 펀딩을 유치했습니다. 칠레에서 설립되어 현재 마드리드에 본사를 두고 운영 중입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/09/strong-by-form-raises-eur58m-to-take-on-concrete-with-less-wood/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "Anemo Labs",
+   "sector": "AI",
+   "amount_original": {
+    "value": 700000.0,
+    "currency": "GBP",
+    "unit": "unit"
+   },
+   "amount_usd": 949550,
+   "stage": "프리시드",
+   "investors": [
+    "Zinc",
+    "SFC Capita"
+   ],
+   "lead_investor": "Zinc",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 딥테크 스타트업 Anemo Labs는 냄새를 통한 질병 관련 화합물 탐지 기술 개발을 위해 70만 파운드의 프리시드 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/09/anemo-labs-lands-ps700k-to-give-ai-a-sense-of-smell/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "Rebaba",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 4.6,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4600000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴의 에너지 기술 회사 Rebaba는 중고 전기차 배터리를 활용한 배터리 에너지 저장 시스템 확장을 위해 460만 달러의 초과 구독 시드 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/09/rebaba-closes-46m-seed-to-scale-second-life-battery-storage-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "Fundcraft",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 12.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 13982400,
+   "stage": "그로스",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "유럽의 디지털 펀드 운영 플랫폼 Fundcraft은 유럽 전역 확장 및 대체투자 기술 개발을 위해 1200만 유로의 성장 펀딩을 확보했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/09/digital-fund-operations-platform-fundcraft-secures-eur12m-growth-financing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "Actionable",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [
+    "Hi I",
+    "Hi inov",
+    "Axeleo Capital"
+   ],
+   "lead_investor": "Hi I",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "Actionable는 인공지능을 활용한 고객 만족도 예측 분석 전문 스타트업으로, 기업들이 이탈할 고객, 불만 고객, 재구매 고객을 식별하도록 돕는 플랫폼을 제공합니다. Hi inov가 주도한 라운드에서 860만 유로를 조달했으며, 기존 투자자인 Axeleo Capital도 지분을 확대했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/09/actionable-raises-10m-to-turn-customer-data-into-behavioural-predictions/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/paris-based-actionable-raises-e8-6-million-to-scale-its-predictive-customer-experience-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "FRYTE Mobility",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 3.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4078200,
+   "stage": "시드",
+   "investors": [
+    "4impact capital",
+    "Rethink Ventures",
+    "Revent",
+    "F-LOG",
+    "accilium ventures"
+   ],
+   "lead_investor": "4impact capital",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반 전자트럭 충전 인프라 연결 플랫폼 개발 스타트업 FRYTE Mobility가 시드 라운드에서 350만 유로를 유치했다. 이번 투자라운드는 4impact capital과 Rethink Ventures가 주도했으며, 기존 투자자들도 참여했다. 현재까지 총 500만 유로를 모금했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/09/fryte-mobility-lands-eur35m-to-build-the-coordination-layer-for-etruck-charging/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/munich-based-fryte-mobility-raises-e3-5-million-to-connect-etruck-fleets-with-charging-infrastructure-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "CloudNC",
+   "sector": "AI",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "비공개",
+   "investors": [
+    "Nimble Ventures",
+    "Calculus Venture"
+   ],
+   "lead_investor": "Nimble Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 정밀 가공용 AI 소프트웨어 개발 스타트업 CloudNC가 1720만 유로(2000만 달러)를 투자유치했다. 미국 벤처투자사 Nimble Ventures가 주도했으며, 제품 확대와 신규 시장 진출, 신제품 출시에 자금을 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/09/cloudnc-lands-20m-to-expand-its-ai-software-for-precision-manufacturing/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/london-based-cloudnc-raises-e17-2-million-to-scale-ai-powered-precision-machining/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "HelmGuard",
+   "sector": "보안",
+   "amount_original": {
+    "value": 7.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7300000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 거버넌스, 리스크 및 컴플라이언스 스타트업 HelmGuard가 위험 및 컴플라이언스 평가 자동화 플랫폼 확장을 위해 730만 달러의 시드 펀딩을 조성했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/09/helmguard-raises-73m-to-move-compliance-beyond-paperwork/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "company": "SCI Semiconductor",
+   "sector": "AI",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 6782500,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "메모리 안전 컴퓨터 칩을 개발한 SCI Semiconductor가 생산 가속화를 위해 500만 파운드를 조성했습니다. 큰 관심 속에 진행된 이번 펀드라운드로 회사는 메모리 안전 칩 생산 규모를 확대할 계획입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/09/sci-semiconductor-raises-ps5m-to-ramp-up-production-of-memory-safe-chips/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-08",
    "company": "Genlight Medical",
    "sector": "헬스케어",
@@ -96,6 +501,10 @@
     {
      "name": "LatamList",
      "url": "https://latamlist.com/magnar-raises-8m-series-a/"
+    },
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/magnar-raises-8m-series-a-ep-233/"
     }
    ]
   },
