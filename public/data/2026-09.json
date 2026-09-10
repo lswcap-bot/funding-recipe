@@ -2,6 +2,384 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-10",
+   "company": "PHYMI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "시드",
+   "investors": [
+    "IDG Capital",
+    "Yunqi Capital",
+    "DiDi",
+    "Fosun RZ Capital",
+    "Glory Ventures",
+    "Hesai Technology"
+   ],
+   "lead_investor": "IDG Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "창립 초기 단계인 PHYMI는 former DeepRoute.ai 임원 Liu Nianqiu가 설립한 embodied AI 스타트업으로, 물리적 에이전트(Physical Agents) 개발을 통해 목표 이해 및 조작 능력을 갖춘 AI 솔루션을 제공하고 있다. 이번 투자는 IDG Capital이 주도하고 중국의 주요 기업들이 참여한 약 1억 달러 규모의 시드 펀딩이며, 스타트업 AI 에이전트 기술의 실용화를 가속화할 것으로 기대된다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/09/10/embodied-ai-startup-phymi-raises-nearly-us100-million-in-seed-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "First Table",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "First Table는 호주의 비성수기 식사 할인 예약 플랫폼으로, 1000만 달러의 투자 유치를 통해 할인 다이닝 시장에서의 경쟁력을 강화하고 있습니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/kiwi-discount-restaurant-bookings-platform-chows-down-on-10-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "Theater",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 75.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 7860000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Niveshaay"
+   ],
+   "lead_investor": "Niveshaay",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Theater는 2021년 설립된 인도 패션 브랜드로, 신발, 양말, 향수, 가방 등을 판매합니다. 이번 시리즈 A 라운드에서 75크로어 루피(약 9천만 달러)를 유치했으며, Niveshaay가 주도 투자사입니다. 자금은 제품 개발과 브랜드 확장에 사용될 것으로 보입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/fashion-brand-theater-raises-rs-75-cr-in-series-a-led-by-niveshaay"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "Greenwave Circularity",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 31.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 31500000,
+   "stage": "비공개",
+   "investors": [
+    "OeEB of Austria"
+   ],
+   "lead_investor": "OeEB of Austria",
+   "country": "오스트리아",
+   "region": "유럽",
+   "ai_summary_ko": "Greenwave Circularity가 오스트리아의 OeEB로부터 3,150만 달러 규모의 펀딩을 유치했습니다. 이번 자금을 통해 폐기물 가치사슬을 개선하기 위한 새로운 솔루션을 개발할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/greenwave-circularity-raises-315-million-financing-from-oeeb-of-austria"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "Piston",
+   "sector": "기타",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "FPV Ventures"
+   ],
+   "lead_investor": "FPV Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "결제 네트워크 회사 Piston이 FPV Ventures가 주도하는 시리즈 A 펀딩으로 1,500만 달러를 조달했습니다. 이번 자금은 결제 네트워크 확장, 제품 개발, 채용에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/piston-raises-15-million-in-series-a-led-by-fpv-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "Grubel",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3484800,
+   "stage": "프리시드",
+   "investors": [
+    "Point Nine",
+    "Jeff Dean",
+    "Chris Ré"
+   ],
+   "lead_investor": "Point Nine",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨과 튀빙겐 기반의 AI 연구소 Grubel이 개별 법적 사건에 적응하는 시스템 개발을 위해 프리시드 단계에서 300만 유로를 조달했습니다. Point Nine이 주도 투자했으며 Google 전 최고 과학자 Jeff Dean 등 엔젤 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/new-german-ai-research-lab-grubel-raises-e3-million-to-build-systems-that-adapt-to-individual-legal-cases/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "IVEX",
+   "sector": "AI",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5808000,
+   "stage": "시리즈 A",
+   "investors": [
+    "The Faktory",
+    "Dedicated.lu"
+   ],
+   "lead_investor": null,
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "벨기에 헤베를레 기반의 DeepTech 스타트업 IVEX가 자동차 안전 테스트 기술 고도화를 위해 500만 유로 규모의 시리즈 A 펀딩을 완료했습니다. 기존 투자자인 The Faktory, Dedicated.lu와 개인 투자자들이 참여했으며, 북미와 아시아 시장 확대를 계획하고 있습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/ku-leuven-spin-out-ivex-lands-e5-million-to-accelerate-ai-powered-automotive-safety-testing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "Biorsaf",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 5.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6040320,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "이탈리아 투스카니 지역의 식품안전 디지털화 전문 회사 Biorsaf이 520만 유로 규모의 펀딩 라운드를 완료했습니다. 또한 볼로냐 기반의 식품정보 디지털 관리 플랫폼 Cooki를 인수하여 컴플라이언스 전 단계를 아우르는 통합 솔루션을 제공하는 이탈리아 최초의 사업자가 되었습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/italys-biorsaf-raises-e5-2-million-and-acquires-cooki-to-build-ai-powered-food-regtech-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "Bynario",
+   "sector": "보안",
+   "amount_original": {
+    "value": 2.1,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2439360,
+   "stage": "프리시드",
+   "investors": [
+    "360 Capital Partners",
+    "PranaVentures"
+   ],
+   "lead_investor": "3VC",
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "이탈리아 밀라노 기반의 사이버보안 회사 Bynario가 210만 유로 규모의 프리시드 펀딩을 완료했습니다. 360 Capital Partners가 주도하고 PranaVentures가 참여했으며, Bynario의 AI 연구팀이 Apple 운영체제의 심각한 보안 취약점을 발견한 것으로 알려졌습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/10/bynario-raises-eur21m-to-develop-ai-powered-platform-for-software-vulnerabilities/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/milan-based-bynario-raises-e2-1-million-pre-seed-after-ai-research-exposed-serious-apple-vulnerabilities/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "Arlequin AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 28.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 32524800,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리에 기반한 AI 회사 Arlequin AI가 위상수학적 신경망 아키텍처 개발을 가속화하고 국제 배포를 확대하기 위해 시리즈 A 펀딩으로 2,800만 유로를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/10/arlequin-ai-lands-eur28m-to-scale-topological-neural-network-technology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "Improbable의 AI 비즈니스 메시징 앱",
+   "sector": "AI",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [
+    "Improbable"
+   ],
+   "lead_investor": "Improbable",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Improbable은 UK 기술회사로서 벤처 빌딩으로 사업 전환했으며, 비즈니스 프로세스 자동화를 위한 AI 메시징 앱을 개발하여 1000만 달러로 지원하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/10/venture-builder-improbable-backs-ai-business-messaging-app-with-10m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "Robutler",
+   "sector": "AI",
+   "amount_original": {
+    "value": 400.0,
+    "currency": "USD",
+    "unit": "thousand"
+   },
+   "amount_usd": 400000,
+   "stage": "비공개",
+   "investors": [
+    "ZAS Ventures"
+   ],
+   "lead_investor": "ZAS Ventures",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Robutler이 AI, SaaS, 로보틱스 분야에 투자하는 ZAS Ventures로부터 40만 달러를 투자유치했습니다. ZAS Ventures는 우크라이나 창업자들이 설립한 미국 기반 벤처캐피탈입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/10/robutler-raises-400k-from-zas-ventures-to-build-the-youtube-of-software/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "Maven Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "The Boring Company",
+   "sector": "기타",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 3000000000,
+   "stage": "비공개",
+   "investors": [
+    "UAE"
+   ],
+   "lead_investor": "UAE",
+   "country": null,
+   "region": "중동/아프리카",
+   "ai_summary_ko": "The Boring Company가 UAE가 주도한 라운드에서 30억 달러를 유치했습니다. 회사는 중동 지역에 150km 이상의 터널 굴착을 계획하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "company": "Furo",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "에너지 스타트업 Furo의 세 명의 창업자들이 실리콘밸리에서 독일로 이전한 후, 주로 미국 투자자들로부터 400만 달러의 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-09",
    "company": "Metacognition AI",
    "sector": "로보틱스",
@@ -1262,12 +1640,13 @@
    "amount_usd": 23805000,
    "stage": "비공개",
    "investors": [
-    "Bertelsmann India"
+    "Bertelsmann India",
+    "Bertelsmann"
    ],
    "lead_investor": "Bertelsmann India",
    "country": "인도",
    "region": "남아시아",
-   "ai_summary_ko": "Swish는 빠른 음식 배달 플랫폼으로 올해 두 번째 펀딩 라운드에서 Bertelsmann India가 주도하는 225억 루피를 유치했습니다.",
+   "ai_summary_ko": "Swish가 Bertelsmann India가 주도한 라운드에서 2,400만 달러를 유치했습니다. 빠른 음식 배달 플랫폼인 Swish는 증가하는 수요를 충족하기 위해 주방 네트워크와 공급망 인프라 확장에 자금을 사용할 계획입니다.",
    "sources": [
     {
      "name": "YourStory",
@@ -1276,6 +1655,14 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/09/pixxel-indias-biggest-spacetech-fundraise-swish-to-raise-rs-225-cr"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/automating-messy-world-pharma-distribution"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/swish-raises-usd-24m-led-by-bertelsmann-india"
     }
    ]
   },
