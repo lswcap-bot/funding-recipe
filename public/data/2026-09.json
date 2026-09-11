@@ -2,6 +2,123 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-11",
+   "company": "Popo Global",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 532.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 55647200,
+   "stage": "비공개",
+   "investors": [
+    "Artal Asia"
+   ],
+   "lead_investor": "Artal Asia",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Popo Global(Pizza Bakery 운영)이 Artal Asia로부터 532크로르 루피를 투자유치했습니다. 현재 벵갈루루에 40개 지점을 운영 중이며, 조성된 자금으로 도시 밖으로의 확장을 계획하고 있습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/pizza-bakery-founders-popo-global-raise-rs-532-cr-from-artal-asia"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "company": "Graph AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 13.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13300000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "제약 산업에 초점을 맞춘 AI 기술 스타트업 Graph AI가 시리즈 A 라운드에서 1330만 달러를 유치했습니다. 이 자금은 미국과 유럽 지역 확대 및 제품 개발 가속화에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/graph-ai-raises-133-million-in-series-a"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "company": "Gravity Gardens",
+   "sector": "농업",
+   "amount_original": {
+    "value": 2.6,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3013920,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "Gravity Gardens는 네덜란드 기반 농업기술 스타트업으로, 화학물질 없는 종자 활성화 기술을 개발하고 있습니다. 유럽의 경작지와 원예 작물용 종자 활성화를 위해 물, 화학물질, 코팅을 추가하지 않는 건식 공정을 제공합니다. 이번 시드 라운드를 통해 €2.6 million을 확보했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/dutch-agtech-gravity-gardens-secures-e2-6-million-to-scale-its-dry-chemical-free-seed-activation-technology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "company": "Kraken",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "비공개",
+   "investors": [
+    "Nasdaq"
+   ],
+   "lead_investor": "Nasdaq",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/nouriel-roubini-cowrites-white-paper-usafi"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "company": "Mecka AI",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 A",
+   "investors": [
+    "Sequoia"
+   ],
+   "lead_investor": "Sequoia",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-10",
    "company": "PHYMI",
    "sector": "AI",
@@ -76,6 +193,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/09/fashion-brand-theater-raises-rs-75-cr-in-series-a-led-by-niveshaay"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indian-defense-ai-startup-tsecond-ai-raises-21-5m"
     }
    ]
   },
@@ -367,15 +488,22 @@
    },
    "amount_usd": 4000000,
    "stage": "비공개",
-   "investors": [],
-   "lead_investor": null,
+   "investors": [
+    "TQ Ventures",
+    "Sandberg Bernthal Venture Partners"
+   ],
+   "lead_investor": "TQ Ventures",
    "country": "독일",
    "region": "유럽",
-   "ai_summary_ko": "에너지 스타트업 Furo의 세 명의 창업자들이 실리콘밸리에서 독일로 이전한 후, 주로 미국 투자자들로부터 400만 달러의 펀딩을 유치했다.",
+   "ai_summary_ko": "뮌헨 기반 에너지 소프트웨어 회사 Furo(구 Lumera Energy)가 344만 유로의 펀딩을 완료했습니다. 이번 라운드는 미국 투자사 TQ Ventures가 주도했으며, 소프트웨어 개발과 유럽 시장 확대에 사용될 예정입니다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/munich-based-furo-raises-e3-44-million-to-make-industrial-battery-storage-economically-viable/"
     }
    ]
   },
@@ -1539,7 +1667,7 @@
    "lead_investor": "Samsung Electronics",
    "country": "프랑스",
    "region": "유럽",
-   "ai_summary_ko": "프랑스 AI 회사 Mistral이 주권 AI를 다음 단계로 나아가기 위해 시리즈 D 펀딩에서 30억 유로를 유치했습니다. 삼성전자가 라운드를 주도했으며, 평가액은 210억 유로 이상입니다.",
+   "ai_summary_ko": "Mistral이 시리즈 D 펀딩라운드에서 3억 유로를 조달했다. 본 주차에 유럽 지역에서 70개 이상의 기술 펀딩 딜이 39억 유로 이상의 규모로 진행되었으며, 5건 이상의 출구 및 M&A 거래가 발생했다.",
    "sources": [
     {
      "name": "TechCrunch",
@@ -1548,6 +1676,10 @@
     {
      "name": "Tech.eu",
      "url": "https://tech.eu/2026/09/08/mistral-secures-eur3b-series-d-to-push-sovereign-ai-into-its-next-phase/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/11/mistral-secures-3b-series-d-100-days-to-save-eu-inc-and-early-stage-funding-crisis/"
     }
    ]
   },
@@ -1566,7 +1698,7 @@
    "lead_investor": null,
    "country": "유럽",
    "region": "유럽",
-   "ai_summary_ko": "우주 탐사 회사 The Exploration Company가 재사용 가능한 우주선 개발을 위해 4억 5,000만 달러를 유치했다. 이는 유럽의 우주 회사가 조성한 최대 규모의 시리즈 C 펀딩으로, SpaceX에 도전하기 위한 자금이다.",
+   "ai_summary_ko": "유럽 우주 기업 The Exploration Company가 3억 8700만 유로를 유치했습니다. 이 자금은 유럽우주청(ESA)과의 7억 6000만 유로 규모 계약을 통해 국제우주정거장용 유럽 최초의 상용 화물 캡슐 개발에 사용될 예정입니다.",
    "sources": [
     {
      "name": "TechCrunch",
@@ -1579,6 +1711,10 @@
     {
      "name": "EU-Startups",
      "url": "https://www.eu-startups.com/2026/09/the-exploration-company-secures-e387-million-to-accelerate-development-of-reusable-high-thrust-rocket-engine/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/after-e387-million-raise-the-exploration-company-wins-esas-aladdin-cargo-capsule-contract-worth-e760-million/"
     }
    ]
   },
