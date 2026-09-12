@@ -2,6 +2,44 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-12",
+   "company": "Algomatic Dynamics",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/sugar-spice-and-sprinkles-of-ai"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-12",
+   "company": "Cylake",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/sugar-spice-and-sprinkles-of-ai"
+    }
+   ]
+  },
+  {
    "date": "2026-09-11",
    "company": "Popo Global",
    "sector": "푸드테크",
@@ -37,15 +75,21 @@
    },
    "amount_usd": 13300000,
    "stage": "시리즈 A",
-   "investors": [],
-   "lead_investor": null,
+   "investors": [
+    "Insight Partners"
+   ],
+   "lead_investor": "Insight Partners",
    "country": "인도",
    "region": "남아시아",
-   "ai_summary_ko": "제약 산업에 초점을 맞춘 AI 기술 스타트업 Graph AI가 시리즈 A 라운드에서 1330만 달러를 유치했습니다. 이 자금은 미국과 유럽 지역 확대 및 제품 개발 가속화에 사용될 예정입니다.",
+   "ai_summary_ko": "Graph AI는 Insight Partners가 주도하는 1,330만 달러 규모의 투자 라운드를 유치했습니다. 이 회사의 소프트웨어는 사례 처리 시간을 3시간 이상에서 10분 이하로 단축합니다.",
    "sources": [
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/09/graph-ai-raises-133-million-in-series-a"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-agents-surge-enterprises-94-flag-sprawl-risks-report"
     }
    ]
   },
@@ -1832,6 +1876,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/09/pixxel-indias-biggest-spacetech-fundraise-swish-to-raise-rs-225-cr"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/sugar-spice-and-sprinkles-of-ai"
     }
    ]
   },
