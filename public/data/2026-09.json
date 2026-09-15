@@ -2,6 +2,365 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-14",
+   "company": "Eagle Cloud",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14907000,
+   "stage": "시리즈 B+",
+   "investors": [
+    "MTR Lab",
+    "Northern Light Venture Capital"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Eagle Cloud는 엔터프라이즈 AI 에이전트 보안 거버넌스 인프라 제공 회사로, 시리즈 B로부터 4개월 후 약 1억 위안(약 1,400만 달러) 규모의 시리즈 B+ 펀딩을 유치했으며, MTR Lab과 Northern Light Venture Capital이 주도투자자로 참여했다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/09/14/eagle-cloud-closes-nearly-rmb-100-million-series-b-to-expand-ai-agent-security-governance-infrastructure/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Elita",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.9,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1900000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Elita는 개 건강 관리 서비스를 제공하는 스타트업으로, 유전자 뱅킹, 집에서 사용 가능한 진단 테스트, 24/7 원격 진료 등을 통해 반려견 관리를 수의사 의존도를 벗어나 확장하기 위해 190만 달러를 유치했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/canine-health-startup-gets-1-9-million-treat/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Aeon",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 12.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 13861200,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "취리히 기반 헬스케어 회사 Aeon이 시드 확장 라운드에서 €12 million을 초과하는 투자를 받았습니다. 이 자금은 AI 기반의 전신 건강검진 서비스를 제공하는 회사의 성장을 지원합니다. 또한 Aeon은 독일의 혈액 진단 플랫폼 Aware Health를 인수했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/exclusive-switzerlands-aeon-acquires-aware-health-as-total-seed-funding-passes-e12-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Ferm Labs",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3465300,
+   "stage": "비공개",
+   "investors": [
+    "CDP Venture Capital",
+    "Fund F",
+    "Redstone"
+   ],
+   "lead_investor": "CDP Venture Capital",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "Zug 기반의 바이오프로세싱 플랫폼 회사 Ferm Labs이 €3 million을 투자받았습니다. 이 라운드는 CDP Venture Capital이 주도했으며, 유럽의 여러 투자자들이 참여했습니다. 투자금은 바이오프로세싱 플랫폼을 글로벌 클린라벨 식품 시장으로 확장하는 데 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/swiss-italian-startup-ferm-labs-secures-e3-million-to-scale-its-bioprocessing-based-b2b-ingredient-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Greencovery",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1155100,
+   "stage": "비공개",
+   "investors": [
+    "ROM InWest",
+    "Brightlands Venture Partners"
+   ],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "네덜란드 바겐닝겐 소재의 푸드테크 스타트업 Greencovery가 코코아 업사이클링 기술 확대를 위해 100만 유로를 유치했습니다. 추가로 300만 유로 규모의 후속 펀딩도 진행 중입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/wageningen-based-greencovery-raises-e1-million-to-scale-cocoa-upcycling-technology-with-further-e3-million-round-underway/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Freya Industries",
+   "sector": "보안",
+   "amount_original": {
+    "value": 533000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 615668,
+   "stage": "비공개",
+   "investors": [
+    "Foundry Ventures",
+    "Longswan Ventures",
+    "Propel Capital",
+    "Saminvest",
+    "Schyssta Änglar"
+   ],
+   "lead_investor": null,
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴의 드론 탐지 및 보안 센서 개발 회사 Freya Industries가 유럽 시장 확대를 위해 53만 3천 유로를 유치했습니다. 이번 자금은 고객 주문 이행, 팀 확충, 유럽 시장 진출에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/swedish-drone-detection-company-freya-raises-e533k-to-scale-team-and-aid-european-rollout/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Z.ai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 5000000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Z.ai가 차세대 GLM 모델 개발을 위해 약 50억 달러 규모의 자금을 조달했다. 주식 배치로 20억 달러, 전환채로 약 30억 달러를 확보했으며, 이를 차세대 기초모델, 자체 학습 시스템, 대규모 학습 및 추론, 컴퓨팅 자원과 인프라 업그레이드에 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/chinas-zhipu-ai-revenue-jumps-400-cloud-business-grows"
+    },
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/09/14/z-ai-completes-around-us5-billion-financing-for-next-generation-glm-models/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Arcustin Games",
+   "sector": "게임",
+   "amount_original": {
+    "value": 500000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 500000,
+   "stage": "프리시드",
+   "investors": [
+    "Webrazzi GSYF"
+   ],
+   "lead_investor": "Webrazzi GSYF",
+   "country": "터키",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "이스탄불 기반의 모바일 게임 스튜디오 아르쿠스틴 게임즈가 웹래즈 GSYF로부터 프리시드 펀딩으로 50만 달러를 조달했으며, 이때의 기업 가치는 1천만 달러입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/14/ai-native-game-studio-arcustin-games-raises-500k-from-webrazzi-gsyf/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Tandem Health",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Scaleup Europe Fund",
+    "Kinnevik",
+    "Northzone",
+    "Amino Collective",
+    "Visionaries"
+   ],
+   "lead_investor": "Scaleup Europe Fund",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스톡홀름 기반 헬스테크 스타트업 Tandem Health이 시리즈 B 펀딩라운드에서 €86.49 million을 조달했습니다. Scaleup Europe Fund(EQT 운영)가 주도 투자자로 참여했으며, 기존 투자자들도 후속 투자를 진행했습니다. 투자금은 유럽 의료 클리닉을 위한 AI 의료 어시스턴트 개발에 사용됩니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/14/swedish-healthtech-tandem-health-scores-100m-series-b-led-by-eus-eur5bn-tech-startup-fund/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/stockholms-tandem-health-raises-e86-5-million-to-build-an-ai-native-operating-system-for-european-healthcare/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Custodea",
+   "sector": "AI",
+   "amount_original": {
+    "value": 350000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 404285,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "유럽 AI 데이터 플랫폼 Custodea가 중소기업들이 비즈니스 데이터를 중앙집중식으로 관리하도록 지원하기 위해 35만 유로의 시드 펀딩을 투자자 네트워크로부터 조달했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/14/custodea-secures-eur350k-to-give-european-smes-greater-control-over-their-data/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Chift",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 10.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 12128550,
+   "stage": "시리즈 A",
+   "investors": [
+    "BlackFin Capital Partners"
+   ],
+   "lead_investor": "BlackFin Capital Partners",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "브뤼셀 기반 핀테크 스타트업 Chift가 시리즈 A 라운드에서 €10.5 million을 조달했습니다. BlackFin Capital Partners가 주도 투자자로 참여했습니다. Chift는 유럽 소프트웨어 회사들을 위한 금융 연결 계층을 제공합니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/14/chift-raises-eur105m-series-a-to-scale-financial-connectivity-across-europe/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/brussels-based-chift-raises-e10-5-million-series-a-to-become-europes-financial-connectivity-layer/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Mama Insurance",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Fastweb+Vodafone",
+    "Founders Factory"
+   ],
+   "lead_investor": "Fastweb+Vodafone",
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "이탈리아 보험기술 회사 Mama Insurance가 Fastweb+Vodafone이 주도하고 Founders Factory가 참여한 신규 펀딩 라운드를 확보했으며, 2025년 초기 투자에 이어 회사의 총 펀딩을 늘렸다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/14/fastwebvodafone-backs-italian-insurtech-mama-insurance-in-new-funding-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Open Cosmos",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 300.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 346530000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "유럽의 위성 회사 Open Cosmos가 위성 제조 능력 확대와 연결성 및 지구 관측 서비스 배포 가속화를 위해 3억 유로의 펀딩을 확보했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/14/open-cosmos-secures-eur300m-to-expand-satellite-intelligence-and-connectivity/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Cornelis",
+   "sector": "AI",
+   "amount_original": {
+    "value": 205.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 205000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Cornelis는 AI 인프라 기업으로 Nvidia의 지배력에 대항하기 위해 2억 500만 달러를 투자 유치했다. GPU 처리 시간이 낭비되는 문제를 해결하기 위해 Active Compute Fabric이라는 네트워크 기술을 출시했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-12",
    "company": "Algomatic Dynamics",
    "sector": "기타",
