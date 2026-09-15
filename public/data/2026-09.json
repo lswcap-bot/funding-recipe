@@ -2,6 +2,572 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-15",
+   "company": "A5X",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 70.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 70000000,
+   "stage": "시리즈 D",
+   "investors": [
+    "Morgan Stanley",
+    "Goldman Sachs",
+    "Kaszek"
+   ],
+   "lead_investor": null,
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질 핀테크 A5X가 Morgan Stanley, Goldman Sachs, Kaszek이 주도한 시리즈 D에서 7천만 달러를 유치했다. 기존 투자자들도 함께 참여했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/a5x-raises-70m-series-d/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Emilia AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1500000,
+   "stage": "프리시드",
+   "investors": [
+    "Prosus"
+   ],
+   "lead_investor": "Prosus",
+   "country": "콜롬비아",
+   "region": "중남미",
+   "ai_summary_ko": "Emilia AI는 2024년 설립된 콜롬비아 AI 스타트업으로, Prosus가 주도한 프리시드 라운드에서 150만 달러를 유치했다. Prosus는 이 라운드에서 100만 달러를 투자했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/emilia-ai-raises-1-5m-pre-seed-round-led-by-prosus/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Darwinbox",
+   "sector": "SaaS",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Teachers' Venture Growth"
+   ],
+   "lead_investor": "Teachers' Venture Growth",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "캐나다의 Teachers' Venture Growth가 인도 하이데라바드 기반 인적자원관리 기술 플랫폼 Darwinbox에 후속 투자를 실시했습니다. Darwinbox는 전 세계 1,400개 이상의 고객을 보유하고 있습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/teachers-venture-growth-follow-on-investment-darwinbox"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Magnitude Biosciences",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1730850,
+   "stage": "비공개",
+   "investors": [
+    "Northstar Ventures"
+   ],
+   "lead_investor": "Northstar Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Magnitude Biosciences는 더럼 대학교 스핀아웃 기업으로, 체외 고처리량 스크리닝 플랫폼인 VivoScan의 상용화를 가속화하기 위해 150만 유로를 조달했습니다. Northstar Ventures가 주도한 이 펀딩은 신약 발견 플랫폼의 상용화를 지원합니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/magnitude-biosciences-secures-e1-5-million-investment-to-scale-in-vivo-drug-discovery-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Jack & Jill",
+   "sector": "AI",
+   "amount_original": {
+    "value": 34.68,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 40017252,
+   "stage": "시리즈 A",
+   "investors": [
+    "Air Street Capital",
+    "Madrona",
+    "Antler",
+    "Creandum",
+    "Ada Ventures",
+    "Entrepreneurs First",
+    "Expedite Capital",
+    "Repeat.vc"
+   ],
+   "lead_investor": "Air Street Capital",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "잭 앤 질은 채용 시장의 양쪽(구직자와 고용주)에 AI 에이전트를 제공하는 런던 기반 스타트업으로, 시리즈 A 라운드에서 3,468만 유로를 조달했습니다. Air Street Capital이 주도하고 Madrona와 Antler가 새로운 투자자로 참여했으며, 기존 투자자들도 함께했습니다. 이 자금으로 AI 에이전트 플랫폼을 확장할 계획입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Isometric",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 43.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 49617700,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 산업경제 인증 회사 Isometric이 시리즈 A 펀딩 4,300만 유로를 확보했다. 이번 투자는 기업의 카본 제거 사업 확대 및 신규 투자자 영입을 통한 성장 가속화를 목표로 하고 있다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/uk-climatetech-startup-isometric-brings-series-a-to-e43-million-as-it-expands-beyond-carbon-removal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "N&E Innovations",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-vietnams-tevo-secures-non-dilutive-financing-ne-innovations-raises-series-a-funding-eight-china-investments-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Tevo",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-vietnams-tevo-secures-non-dilutive-financing-ne-innovations-raises-series-a-funding-eight-china-investments-and-more"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Tabby",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 233.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 233000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "아랍에미리트",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "UAE 핀테크 기업 Tabby가 2023년 흑자 달성 후 6.5억 달러 기업가치 평가로 2억 3,300만 달러 투자를 유치했다. 회사는 사우디 IPO 추진을 급하게 하지 않고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/peak-xv-leads-ringg-ais-15m-series-extension"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Flam",
+   "sector": "AI",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 40000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "QED Investors",
+    "Shah Rukh Khan"
+   ],
+   "lead_investor": "QED Investors",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루와 샌프란시스코 기반의 AI 기반 인터랙티브 콘텐츠 스타트업 Flam이 QED Investors, Shah Rukh Khan 등으로부터 4천만 달러를 유치했다. BITS Pilani 동문들이 창립한 이 회사는 펀딩을 R&D, 제품 포트폴리오 확장, 기업 판매 확대에 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/quickbytes-govtech-singapore-fighting-fire-fire-cybersecurity"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/ai-content-startup-flam-raises-series-b-qed-investors-shah-rukh-khan-others"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Euclyd",
+   "sector": "AI",
+   "amount_original": {
+    "value": 231.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 231000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Samsung",
+    "Somerset Capital Partners",
+    "Scaleup Europe Fund",
+    "Innovation Industries",
+    "EIFO"
+   ],
+   "lead_investor": "Samsung",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "아인트호벤 기반의 반도체 시스템 스타트업 EUCLYD가 기초 AI 모델을 위한 초고효율 인프라 개발 가속화를 위해 €200 million 이상의 시리즈 A 펀딩을 유치했습니다. 라운드는 Samsung과 Somerset Capital Partners 등이 공동으로 주도했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/eu-ai-chip-startups-raise-funds-to-rival-nvidia-chips"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/dutch-ai-chip-startup-euclyd-lands-e200-million-series-a-taps-ex-asml-chief-peter-wennink-as-chairman/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Zero",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "시드",
+   "investors": [
+    "Lovable founders",
+    "Langdock founders",
+    "Primary Venture Partners",
+    "Inception Fund",
+    "Defiant",
+    "Greens"
+   ],
+   "lead_investor": "Primary Venture Partners",
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "헬싱키 기반의 AI 시대 GTM 운영 시스템 개발 스타트업 Zero가 Lovable, Supercell 창업자들의 지원을 받아 €8.93 million 규모의 시드 라운드 펀딩을 유치했습니다. 라운드는 Primary Venture Partners가 주도했으며, 여러 투자사와 유명 창업자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/15/crm-challenger-zero-gets-backing-from-lovable-and-langdock-founders-in-10m-raise/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/helsinkis-zero-raises-e8-93-million-with-backing-from-lovable-and-supercell-founders-to-make-crm-history/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Exein",
+   "sector": "보안",
+   "amount_original": {
+    "value": 270.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 270000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "로마 기반의 Exein은 Physical AI 사이버보안 회사로, 2억 3,400만 유로를 조달하며 14억 유로의 기업가치로 유니콘 지위에 도달했습니다. 유럽의 가장 가치 있는 사이버보안 스타트업으로 평가받고 있으며, 자금은 미국과 아태지역 확장 및 지능형 기계 보안 강화에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/15/exein-raises-270m-at-1-7b-valuation-claims-title-of-europe-s-most-valuable-cybersecurity-scaleup/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/facing-5000-new-attacks-weekly-italys-exein-raises-e234-million-for-physical-ai-cybersecurity/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Depotcharge",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 2.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3115530,
+   "stage": "프리시드",
+   "investors": [
+    "BGL"
+   ],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반 전기트럭 충전 인프라 플랫폼 Depotcharge가 국제 확장을 지원하기 위해 프리시드펀딩라운드에서 €2.7백만을 조달했으며, BGL과의 파트너십도 체결했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/15/depotcharge-lands-eur27m-and-bgl-partnership-to-scale-electric-truck-charging/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "EnforceShield",
+   "sector": "기타",
+   "amount_original": {
+    "value": 1.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1961630,
+   "stage": "시드",
+   "investors": [
+    "Vendep Capital",
+    "FIRSTPICK VC"
+   ],
+   "lead_investor": "Vendep Capital",
+   "country": "리투아니아",
+   "region": "유럽",
+   "ai_summary_ko": "빌뉴스 기반의 EnforceShield는 AI 기반 지적재산권 침해로부터 기업을 보호하는 리걸테크 스타트업으로, 170만 유로의 시드 라운드를 조달했습니다. Vendep Capital이 주도하고 FIRSTPICK VC가 참여했으며, 자금은 자율적 IP 집행 플랫폼의 기능 확장에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/15/lithuanian-legaltech-enforceshield-secures-eur17m-for-automated-ip-enforcement/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/vilnius-based-enforceshield-raises-e1-7-million-seed-round-to-fight-ai-powered-ip-abuse-with-autonomous-enforcement/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "OriginalVoices",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 1348300,
+   "stage": "프리시드",
+   "investors": [
+    "Iona Star"
+   ],
+   "lead_investor": "Iona Star",
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "OriginalVoices는 AI 시스템을 위한 인간 생성 데이터와 인사이트를 제공하는 플랫폼으로, Iona Star가 주도하는 프리시드 펀딩라운드에서 £1백만을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/15/originalvoices-raises-ps1m-pre-seed-round-led-by-iona-star/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "AcademyAI",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 1.65,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 2224695,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "AcademyAI는 직원들의 AI 스킬을 평가하고 역할에 맞는 교육을 제공하는 플랫폼 개발을 위해 £1.65 million의 프리시드 펀딩을 성공적으로 조달했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/15/academyai-raises-ps165m-to-close-the-workplace-ai-skills-gap/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Artificial Intelligence Underwriting Company (AIUC)",
+   "sector": "AI",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 40000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Ribbit Capital",
+    "First Harmonic"
+   ],
+   "lead_investor": "Ribbit Capital",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Anthropic의 초기 직원과 전 METR COO가 설립한 AIUC가 Ribbit Capital과 First Harmonic의 참여로 시리즈 A 펀딩 4,000만 달러를 유치하여 AI 에이전트를 제어하는 방식을 개발했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Evvy",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 40000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Catalio Capital Management"
+   ],
+   "lead_investor": "Catalio Capital Management",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "여성 건강 회사 Evvy가 질 마이크로바이옴 데이터를 통해 여성 건강 연구를 진흥하기 위해 Catalio Capital Management가 주도하는 4,000만 달러 규모의 시리즈 B 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Profound",
+   "sector": "AI",
+   "amount_original": {
+    "value": 180.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 180000000,
+   "stage": "시리즈 D",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Profound는 시리즈 D 펀딩라운드에서 1억 8천만 달러를 조달하며 18억 달러의 유니콘 기업으로 성장했다. 이는 7개월 전 진행한 시리즈 C 라운드(9천 6백만 달러) 이후 빠르게 진행된 라운드이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Primero",
+   "sector": "AI",
+   "amount_original": {
+    "value": 12.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 12000000,
+   "stage": "시드",
+   "investors": [
+    "Kaszek",
+    "General Catalyst"
+   ],
+   "lead_investor": null,
+   "country": "멕시코",
+   "region": "중남미",
+   "ai_summary_ko": "멕시코-콜롬비아 AI 스타트업 Primero가 Kaszek과 General Catalyst가 공동으로 주도한 1,200만 달러 규모의 시드 라운드 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/primero-raises-12m-seed-round-led-by-kaszek-and-general-catalyst/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "company": "Loads",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "비공개",
+   "investors": [
+    "Addem Capital"
+   ],
+   "lead_investor": "Addem Capital",
+   "country": "칠레",
+   "region": "중남미",
+   "ai_summary_ko": "칠레 식품 무역 핀테크 기업 Loads가 멕시코 구조화 채무 회사 Addem Capital으로부터 1,500만 달러 규모의 회전 신용 시설을 확보했습니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/loads-secures-15m-credit-facility-from-addem-capital/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-14",
    "company": "Eagle Cloud",
    "sector": "AI",
