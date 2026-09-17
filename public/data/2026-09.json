@@ -2,6 +2,463 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-17",
+   "company": "Hello Robotaxi",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "비공개",
+   "investors": [
+    "Shanghai Guotou Venture Capital",
+    "Minhang Jintou",
+    "China Creation Ventures"
+   ],
+   "lead_investor": "Shanghai Guotou Venture Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Hello Robotaxi는 상하이 주푸 지능 기술 주식회사를 통해 약 1억 달러의 신규 투자 라운드를 완료했다. 상하이 궈톈 벤처캐피탈이 주도하고 민항 진터우, 차이나 크리에이션 벤처스가 참여했다. 투자 후 기업가치는 약 30억 달러에 근접하다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/09/17/hello-robotaxi-100-million-financing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "ReFresh",
+   "sector": "기타",
+   "amount_original": {
+    "value": 2.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2500000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "오세아니아",
+   "ai_summary_ko": "ReFresh는 직장의 심리사회적 안전 문화를 강화하기 위한 솔루션을 제공하는 스타트업으로, 이번 시드 라운드에서 250만 달러를 유치했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/workplace-psychological-safety-startup-refresh-plants-2-5-million-seed-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "DheyaTech",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 43.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 4480600,
+   "stage": "비공개",
+   "investors": [
+    "Avaana Capital"
+   ],
+   "lead_investor": "Avaana Capital",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "DheyaTech는 Avaana Capital의 주도로 Rs 43 크로어 규모의 펀딩을 유치했습니다. 이 자금은 자체 개발한 마이크로 가스 터빈 엔진의 상용화를 위해 사용될 예정이며, 회사는 2026년 비행 시험을 준비 중입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/dheyatech-raises-rs-43-crore-micro-gas-turbine-engine"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "Yaanendriya",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 1563000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 기반의 딥테크 스타트업 Yaanendriya가 드론, 방위, 로봇용 관성 센서 및 항법 시스템 개발로 1,500만 루피(크로르) 규모의 시드 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/yaanendriya-sensors-navigation-startup"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "Health Force",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 4.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4822020,
+   "stage": "시드",
+   "investors": [
+    "LUMO Labs",
+    "Step Venture",
+    "Next Tier Ventures",
+    "Target Global",
+    "Calm/Storm"
+   ],
+   "lead_investor": "LUMO Labs",
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "바르셀로나 기반 헬스테크 스타트업 Health Force가 병원 운영을 위한 엔터프라이즈급 AI 에이전트 개발로 420만 유로의 시드 펀딩을 유치했다. LUMO Labs가 주도 투자자이며, 병원의 효율성 개선을 목표로 하고 있다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/barcelona-based-health-force-raises-e4-2-million-to-streamline-hospital-operations-with-ai-agents/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "Treble",
+   "sector": "AI",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 17221500,
+   "stage": "시리즈 A",
+   "investors": [
+    "Paladin Capital Group",
+    "KOMPAS VC",
+    "Frumtak Ventures",
+    "European Innovation Council (EIC) Fund"
+   ],
+   "lead_investor": "Paladin Capital Group",
+   "country": "아이슬란드",
+   "region": "유럽",
+   "ai_summary_ko": "아이슬란드 기반의 사운드 시뮬레이션 및 합성 음향 데이터 회사 Treble이 약 1,500만 유로 규모의 시리즈 A 라운드 투자를 유치했다. Paladin Capital Group이 주도하고 기존 투자자들이 참여했으며, 물리적 AI에 음성 기능을 추가하려는 목표를 가지고 있다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/reykjavik-based-treble-raises-e15-million-to-bring-sound-and-voice-to-physical-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "Ryft",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 23.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 26406300,
+   "stage": "시리즈 B",
+   "investors": [
+    "Gresham House Ventures",
+    "Pembroke VCT",
+    "Ingenii Capital"
+   ],
+   "lead_investor": "Gresham House Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "맨체스터 기반 결제 회사 Ryft가 유럽 확장을 가속화하기 위해 2,300만 유로 규모의 시리즈 B 펀딩을 확보했으며, Gresham House Ventures가 주도했고 기존 투자자들이 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/uk-fintech-startup-ryft-secures-e23-million-to-accelerate-european-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "Hang Ten",
+   "sector": "AI",
+   "amount_original": {
+    "value": 53.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 53000000,
+   "stage": "비공개",
+   "investors": [
+    "Xora"
+   ],
+   "lead_investor": "Xora",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "인포시스 전 CEO가 설립한 AI 스타트업 Hang Ten이 Xora(Temasek의 초기 투자 플랫폼)의 주도로 5,300만 달러를 조달했으며, 이를 통해 총 펀딩액은 8,500만 달러에 도달했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/alibaba-merges-enterprise-ai-tools-to-battle-tencent"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "D-Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 400.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 400000000,
+   "stage": "비공개",
+   "investors": [
+    "Mirae Asset"
+   ],
+   "lead_investor": "Mirae Asset",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/chinese-robot-ai-startup-d-robotics-raises-150m-for-expansion"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "Manus",
+   "sector": "AI",
+   "amount_original": {
+    "value": 500.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 500000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "Manus는 제품 관리 및 연구 업무를 수행하는 AI 에이전트를 제공하는 회사로, 약 5억 달러 규모의 투자 유치를 진행 중이며 기존 메타와의 딜이 무산된 후 새로운 투자를 진행하고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/manus-fallout-redraws-lines-global-ai-startups"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "Nearby Computing",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 680000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 780708,
+   "stage": "비공공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "클라우드-엣지 환경을 오케스트레이션하고 자동화하는 딥테크 회사 Nearby Computing이 네트워크, 인프라, 애플리케이션 및 AI 관리를 위해 68만 유로의 투자를 확보했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/17/nearby-computing-secures-eur680k-to-scale-cloud-to-edge-orchestration-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "Creem",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5740500,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "AI 네이티브 회사를 위한 청구 및 수익화 플랫폼인 Creem이 시드 펀딩으로 500만 유로를 조달했다. 이 자금은 소프트웨어 비즈니스를 위한 금융 및 수익 도구 플랫폼 개발 및 확대에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/17/creem-secures-eur5m-to-build-financial-infrastructure-for-ai-native-startups/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "MicroLub",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [
+    "Northern Gritstone",
+    "NPIF II – PXN Equity Finance"
+   ],
+   "lead_investor": "Northern Gritstone",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "MicroLub은 음식 및 개인용품에서 지방과 기름을 대체하는 단백질 기반 바이오윤활제 기술을 개발하는 딥테크 성분 솔루션 회사입니다. 870만 유로 규모의 펀딩 라운드를 완료했으며, Northern Gritstone이 주도투자자로 참여했고 기존 투자자들도 함께 투자했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/17/microlub-raises-10m-to-cut-fat-and-calories-without-compromising-taste/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/leeds-based-microlub-raises-e8-7-million-to-help-food-makers-cut-fat-without-sacrificing-taste-and-texture/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "Treble Technologies",
+   "sector": "AI",
+   "amount_original": {
+    "value": 18.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 18000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "음성 시뮬레이션 및 합성 음향 데이터 회사인 Treble Technologies가 시리즈 A-2 라운드에서 1,800만 달러를 조달했다. 이 자금은 오디오 기능이 있는 제품 개발 및 테스트를 위한 기술 확대에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/17/treble-raises-18m-to-scale-acoustic-simulation-for-physical-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "Logibot",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 1.4,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1607340,
+   "stage": "비공개",
+   "investors": [
+    "BeamBerlin"
+   ],
+   "lead_investor": "BeamBerlin",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "벨기에 소프트웨어 플랫폼 Logibot이 물류 로봇에 지능형 계층을 추가하는 기술로 BeamBerlin이 주도한 라운드에서 140만 유로를 조달했다. 이 자금은 로봇 임대 에이전시 구축에 활용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/17/logibot-bags-eur14m-to-build-a-temp-agency-for-robots/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "syte",
+   "sector": "부동산",
+   "amount_original": {
+    "value": 9.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 10332900,
+   "stage": "시리즈 A",
+   "investors": [
+    "amberra",
+    "NRW.BANK"
+   ],
+   "lead_investor": "amberra",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "syte는 뮌스터 기반의 부동산 분석 플랫폼을 제공하는 프롭테크 스타트업입니다. 유럽 확장을 위해 900만 유로 규모의 시리즈 A 라운드를 완료했으며, Volksbanken Raiffeisenbanken의 벤처 스튜디오인 amberra가 주도투자자로 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/17/syte-raises-eur9m-to-automate-early-stage-real-estate-planning/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/munster-based-syte-raises-e9-million-to-expand-its-ai-powered-real-estate-analytics-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "Magentic",
+   "sector": "AI",
+   "amount_original": {
+    "value": 18.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 18000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Felicis"
+   ],
+   "lead_investor": "Felicis",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/17/magentic-raises-18m-to-automate-industrial-operations-with-ai-agents/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "company": "Crusoe",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.9,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 3900000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Crusoe가 데이터센터와 AI팩토리 구축을 위해 39억 달러 규모의 펀딩을 유치했다. 이번 투자 라운드로 회사의 기업가치는 309억 달러로 평가되었다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-16",
    "company": "Evatto",
    "sector": "AI",
