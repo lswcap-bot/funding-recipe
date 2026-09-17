@@ -2,6 +2,472 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-16",
+   "company": "Evatto",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.02,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1020000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Startmate 동문사 Evatto가 $1.02 million의 프리시드 투자를 유치했습니다. 이 자금은 엔터프라이즈 이벤트 관리를 스프레드시트에서 벗어나 AI 기반으로 전환하는 데 사용될 계획입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/startmate-alumni-evatto-raises-1-02-million-pre-seed/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Nandhana Foods",
+   "sector": "푸드테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "L Catterton"
+   ],
+   "lead_investor": "L Catterton",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "레스토랑 체인 Nandhana Foods가 글로벌 소비자 중심 투자사 L Catterton으로부터 투자를 유치했습니다. 이 투자는 Nandhana Foods의 다음 단계 성장을 지원할 것으로 예상됩니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/l-catterton-to-invest-in-restaurant-chain-nandhana-foods"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "iGii",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 26.49,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 30561513,
+   "stage": "시리즈 B",
+   "investors": [
+    "Scottish National Investment Bank",
+    "PXN"
+   ],
+   "lead_investor": "Scottish National Investment Bank",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "스털링에 기반한 딥테크 첨단소재 기업 iGii가 2,649만 유로의 시리즈 B 펀딩을 유치했다. 라운드는 스코틀랜드 국립투자은행이 주도했으며, PXN 등이 참여했다. 펀딩은 자사의 독점 탄소 나노소재 Gii의 상용화 및 산업 채택 가속화에 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/stirling-based-igii-secures-e26-5-million-to-commercialise-its-proprietary-carbon-nanomaterial/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Expanse",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5191650,
+   "stage": "시드",
+   "investors": [
+    "Crane Venture Partners",
+    "PXN Ventures",
+    "AIP Seed"
+   ],
+   "lead_investor": "Crane Venture Partners",
+   "country": "미국/영국",
+   "region": "북미",
+   "ai_summary_ko": "AI 인프라 회사인 Expanse가 450만 유로 규모의 시드 펀딩 라운드를 완료했으며, 엔지니어링 팀 확대와 제품 개발 가속화를 목표로 하고 있다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/u-s-and-u-k-based-expanse-raises-e4-5-million-for-predictive-ai-infrastructure-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Gongzhi Marine",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14910000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "하얼빈공정대학 스핀아웃 기업인 공지마린이 심해 로봇 수요 증가에 따라 약 1억 위안 규모의 예상 주문을 확보했으며, 여러 펀딩 라운드를 마무리했다.",
+   "sources": [
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/gongzhi-marine-closes-three-funding-rounds-as-deep-sea-robot-demand-grows"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Keewano",
+   "sector": "AI",
+   "amount_original": {
+    "value": 12.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 12000000,
+   "stage": "비공개",
+   "investors": [
+    "a16z"
+   ],
+   "lead_investor": "a16z",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "Keewano는 AI 데이터베이스 스타트업으로, a16z가 주도한 1200만 달러 규모의 투자 라운드에 참여했습니다. 창업자들은 이전에 TestProject와 Devalore를 개발했으며, 2024년에 Keewano를 출시했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/israeli-vc-firm-remagine-secures-25m-ai-digital-startups"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Complir",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 11.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 11000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "코펜하겐 기반의 제품 규정 준수 기술 회사 Complir는 소매업체와 브랜드가 규제 요구사항을 관리하도록 돕는 AI 기반 플랫폼 확장을 위해 시드 라운드에서 1,100만 달러를 투자받았습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/16/copenhagens-complir-raises-11m-to-tackle-product-compliance-bottlenecks/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Quartz",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 2.75,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 3700400,
+   "stage": "프리시드",
+   "investors": [
+    "Daphni",
+    "Outward VC",
+    "K Fund"
+   ],
+   "lead_investor": "Daphni",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 핀테크 스타트업 Quartz는 개인금융 플랫폼 런칭을 위해 프리시드 라운드에서 275만 파운드를 조성했으며, Daphni가 주도 투자사로 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/16/quartz-launches-with-ps275m-to-build-a-personal-banker-for-everyone/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Opio",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4614800,
+   "stage": "비공개",
+   "investors": [
+    "Frst",
+    "Seedcamp",
+    "GFC"
+   ],
+   "lead_investor": null,
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "Opio는 금융 실사 자동화를 위한 AI 스타트업으로, 감사인들이 기업의 재무제표를 검토하는 과정을 돕는 전문 기술을 개발하고 있습니다. Frst, Seedcamp, GFC 투자사로부터 400만 유로를 투자받았습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/16/opio-raises-eur4m-to-automate-the-grunt-work-of-financial-due-diligence/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Veridion",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Hoxton Ventures",
+    "Underline Ventures",
+    "OTB Ventures",
+    "Gapminder",
+    "Day One Capital"
+   ],
+   "lead_investor": "Hoxton Ventures",
+   "country": "루마니아",
+   "region": "유럽",
+   "ai_summary_ko": "부쿠레슈티에 기반한 비즈니스 인텔리전스 스타트업 Veridion이 1,750만 유로의 시리즈 A 펀딩을 유치했다. 라운드는 Hoxton Ventures가 주도했으며, Underline Ventures, OTB Ventures, Gapminder, Day One Capital 등의 기존 투자사들이 참여했다. 펀딩은 전 세계 6억 4,200만 개 기업의 실시간 디지털 복제본 확대에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/16/veridion-lands-20m-to-take-business-intelligence-beyond-static-data/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/bucharest-based-veridion-raises-e17-5-million-to-scale-its-real-time-map-of-the-worlds-businesses/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Hackuity",
+   "sector": "보안",
+   "amount_original": {
+    "value": 19.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 19000000,
+   "stage": "비공개",
+   "investors": [
+    "Forgepoint Capital",
+    "Forgepoint Capital International",
+    "Bright Pixel",
+    "Bpifrance",
+    "Seventure Partners"
+   ],
+   "lead_investor": "Forgepoint Capital",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스 리용에 기반한 AI 기반 취약점 운영 센터(VOC)인 Hackuity가 1,600만 유로 규모의 펀딩 라운드를 유치했다. 이번 라운드는 Forgepoint Capital International이 주도했으며, 기존 투자사인 Bright Pixel, Bpifrance, Seventure Partners가 참여했다. 펀딩은 제품 혁신, AI 역량 강화, 유럽 및 아시아 지역 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/16/hackuity-secures-19m-to-address-rising-ai-driven-security-vulnerabilities/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/vulnerability-tsunami-prompts-frances-hackuity-to-land-e16-million-for-automated-cyber-remediation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "AcouBatt",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 1.1,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 1480160,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 소재 딥테크 스타트업 AcouBatt는 배터리 진단 기술 개발 및 배터리 제조업체와의 산업 파일럿 진행을 위해 110만 파운드의 프리시드 펀딩을 조성했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/16/acoubatt-raises-ps11m-to-improve-battery-manufacturing-safety-and-reliability/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Integral",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 18.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 20766600,
+   "stage": "시리즈 A",
+   "investors": [
+    "Mosaic Ventures",
+    "Reid Hoffman"
+   ],
+   "lead_investor": "Mosaic Ventures",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 소재 회계기술 회사 Integral은 AI 기반 중소기업용 회계, 세무, 급여 서비스 확대를 위해 1,800만 유로의 시리즈 A 펀딩을 조성했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/16/integral-lands-eur18m-series-a-for-ai-native-accounting-and-tax-services/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/berlin-based-integral-raises-e18-million-to-deliver-ai-run-accounting-tax-and-payroll-services-to-smes/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "ETFBOOK",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 13.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13000000,
+   "stage": "비공개",
+   "investors": [
+    "Expedition Growth Capital"
+   ],
+   "lead_investor": "Expedition Growth Capital",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "ETFBOOK은 ETF 데이터 및 분석 플랫폼을 미주와 아시아태평양 지역으로 확장하기 위해 1,300만 달러 규모의 펀딩을 조성했습니다. Expedition Growth Capital이 주도하는 라운드로 글로벌 서비스 확대를 목표로 하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/16/etfbook-raises-13m-to-expand-etf-data-and-analytics-globally/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Boxd",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2000000,
+   "stage": "프리시드",
+   "investors": [
+    "BlueYard Capital"
+   ],
+   "lead_investor": "BlueYard Capital",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "네덜란드 스타트업 Boxd가 AI 코딩 에이전트를 위한 클라우드 컴퓨팅 인프라 개발을 목표로 BlueYard Capital이 주도한 프리시드 투자로 200만 달러를 조성했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/16/boxd-raises-2m-to-build-cloud-infrastructure-for-ai-coding-agents/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Human hair toothpaste pioneer (name not specified)",
+   "sector": "기타",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "프리시드",
+   "investors": [
+    "Hoxton Ventures"
+   ],
+   "lead_investor": "Hoxton Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국 스타트업이 인간의 머리카락이나 양모에서 추출한 단백질을 이용해 충치 예방 치약을 개발하고 있으며, Hoxton Ventures로부터 400만 달러 규모의 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/16/hoxton-ventures-backs-human-hair-toothpaste-pioneer-in-4m-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "company": "Fortell",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 163.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 163000000,
+   "stage": "비공개",
+   "investors": [
+    "Founders Fund",
+    "Thrive Capital",
+    "Valor Equity"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Fortell은 AI 기술을 활용한 보청기 스타트업으로, 최근 Founders Fund, Thrive Capital, Valor Equity 등으로부터 1억 6,300만 달러의 투자를 유치했다. 현재 보청기 시장의 독점 구조를 혁신하기 위해 노력하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "company": "Medow Health AI",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 3.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3500000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/doctors-microdose-ai-receptionist-with-another-3-5-million-in-seed-funding/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-15",
    "company": "A5X",
    "sector": "핀테크",
@@ -242,6 +708,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/09/ai-content-startup-flam-raises-series-b-qed-investors-shah-rukh-khan-others"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/govt-to-match-vc-investments-chip-startups-shah-rukh-khan-qed-investors-back-flam"
     }
    ]
   },
