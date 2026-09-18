@@ -2,6 +2,278 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-18",
+   "company": "기타 스타트업 4개",
+   "sector": "기타",
+   "amount_original": {
+    "value": 8.9,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 8900000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "오세아니아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/cheque-in-5-startups-raised-29-9-million-this-week-and-8-months-ago/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "company": "Buildkite",
+   "sector": "AI",
+   "amount_original": {
+    "value": 21.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 21000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "오세아니아",
+   "ai_summary_ko": "Buildkite는 올해 초 2천 3백만 달러의 손실을 기록한 후 CEO 교체에 앞서 2천 1백만 달러의 자금을 조달했다. AI 코드 수요 급증으로 인한 투자로 보인다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/cheque-in-5-startups-raised-29-9-million-this-week-and-8-months-ago/"
+    },
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/buildkite-quietly-raised-21-million-earlier-this-year-after-posting-massive-losses/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "company": "TUSK IC",
+   "sector": "기타",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 17190000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Matterwave Ventures",
+    "FORWARD.one",
+    "Flanders Future Tech Fund"
+   ],
+   "lead_investor": "Matterwave Ventures",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "KU Leuven에서 분사한 안트베르펜 기반 팹리스 반도체 회사 TUSK IC가 Ka대역 위성칩을 대량 생산으로 옮기기 위해 1,500만 유로의 시리즈 A 펀딩을 완료했다. 이 라운드는 Matterwave Ventures, FORWARD.one, Flanders Future Tech Fund가 주도했으며, Schaubroeck 가족과 기존 투자자들도 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/antwerp-based-tusk-ic-secures-e15-million-to-move-its-ka-band-satellite-chips-into-mass-production/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "company": "Phosphoenix",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1489800,
+   "stage": "비공개",
+   "investors": [
+    "TTT Medtech Fund"
+   ],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "암스테르담 기반 신경보철 스타트업 Phosphoenix가 심한 실명 환자를 위한 신경자극 시스템 개발을 지원하기 위해 130만 유로 규모의 펀딩을 완료했다. 이번 라운드에는 기존 투자자인 TTT Medtech Fund(819 Capital 관리)를 포함한 여러 투자자들이 참여했으며, 이 자금은 첫 임상 시험 준비와 신경자극 시스템 개발에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/amsterdams-phosphoenix-raises-e1-3-million-to-advance-neuroprosthetic-system-for-people-with-profound-blindness/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "company": "Big Picture Bio",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 2.55,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2922300,
+   "stage": "프리시드",
+   "investors": [
+    "Kadmos Capital",
+    "Exceptional Ventures"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 바이오테크 스타트업 Big Picture Bio가 암 및 복합질환 치료를 위한 AI 설계 병용요법 개발에 260만 유로의 프리시드 펀딩을 유치했다. 자금은 Kadmos Capital과 Exceptional Ventures가 공동 주도한 175만 유로의 프리시드 라운드와 81만 5천 유로의 비희석적 지원으로 구성되어 있다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/london-based-big-picture-bio-emerges-from-stealth-with-e2-55-million-to-develop-ai-designed-cancer-drug-combinations/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "company": "Cycloid",
+   "sector": "SaaS",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스의 Internal Developer Portal 및 Platform 회사 Cycloid가 시리즈 A 펀딩 후 유럽연합의 1억 8천만 유로 규모의 주권 클라우드 프레임워크 개발자 포털로 선정되었다. 6년간의 계약으로 EU 내 최대 5,000명의 개발자에게 4개 유럽 공급자의 클라우드 서비스에 대한 통합 접근을 제공할 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/paris-based-cycloid-plugs-into-european-commissions-e180-million-sovereign-cloud-framework-following-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "company": "Penelope Health",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 87.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 99702000,
+   "stage": "비공개",
+   "investors": [
+    "Thoreau"
+   ],
+   "lead_investor": "Thoreau",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 실시간 의료보험 정책 인텔리전스 플랫폼 Penelope Health가 Thoreau로부터 8700만 유로의 펀딩 약정을 받았다. 이 투자는 실시간 결제와 임상 규칙을 위한 공유 레이어를 만들기 위해 HealthTech 인프라 플랫폼 Thoreau와의 파트너십과 함께 발표되었다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/with-200-million-patients-covered-penelope-health-secures-e87-million-in-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "company": "PaXini",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동남아",
+   "ai_summary_ko": "PaXini는 embodied AI 기업, 연구기관, 오픈소스 커뮤니티에 제품과 데이터셋을 공급하는 로봇 제조사다. 누적 펀딩으로 5억 9600만 달러를 확보했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/bydbacked-robot-maker-paxini-eyes-hk-ipo"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "company": "Dtcpay",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 25.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 25000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "SBI Group"
+   ],
+   "lead_investor": "SBI Group",
+   "country": "싱가포르",
+   "region": "동남아",
+   "ai_summary_ko": "싱가포르 결제 회사 Dtcpay가 SBI Group으로부터 2,500만 달러의 시리즈 A 펀딩을 유치했다. 회사는 이번 자금으로 제품 개발, 가맹점 네트워크 확장, 규제 시장 진출을 추진할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/airwallex-leads-sea-payment-startup-funding-report"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "company": "Arcos",
+   "sector": "보안",
+   "amount_original": {
+    "value": 5.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6303000,
+   "stage": "시드",
+   "investors": [
+    "High-Tech Gründerfonds",
+    "Bayern Kapital",
+    "Pact",
+    "Haufe",
+    "Robin Capital"
+   ],
+   "lead_investor": "High-Tech Gründerfonds",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반의 민간 안보 인프라 구축·운영 스타트업 Arcos가 550만 유로의 시드 펀딩 라운드를 완료했다. 라운드는 High-Tech Gründerfonds가 주도했으며 Bayern Kapital, Pact, Haufe, Robin Capital 및 전략적 비즈니스 엔젤들이 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/18/arcos-secures-eur55m-to-protect-critical-infrastructure-from-physical-threats/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/munich-based-arcos-raises-e5-5-million-to-build-and-operate-civil-safety-infrastructure-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "company": "Vantora (formerly UP.Labs)",
+   "sector": "기타",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Vantora는 산업용 기업을 위한 스타트업을 구축하는 회사로, $100M 규모의 투자를 유치했습니다. 물리적 AI 분야에 집중하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-17",
    "company": "Hello Robotaxi",
    "sector": "모빌리티",
@@ -218,18 +490,22 @@
     "unit": "million"
    },
    "amount_usd": 400000000,
-   "stage": "비공개",
+   "stage": "시리즈 C",
    "investors": [
     "Mirae Asset"
    ],
    "lead_investor": "Mirae Asset",
    "country": "중국",
    "region": "동아시아",
-   "ai_summary_ko": null,
+   "ai_summary_ko": "D-Robotics는 시리즈 C 펀딩라운드에서 4억 달러를 조달했다. 자금은 Sunrise 칩 포트폴리오와 로봇 개발을 위한 풀체인 소프트웨어 플랫폼 지원에 사용될 예정이다.",
    "sources": [
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/chinese-robot-ai-startup-d-robotics-raises-150m-for-expansion"
+    },
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/09/18/d-robotics-raises-400-million-in-series-c-funding/"
     }
    ]
   },
@@ -246,13 +522,17 @@
    "stage": "비공개",
    "investors": [],
    "lead_investor": null,
-   "country": null,
+   "country": "미국",
    "region": "동남아",
    "ai_summary_ko": "Manus는 제품 관리 및 연구 업무를 수행하는 AI 에이전트를 제공하는 회사로, 약 5억 달러 규모의 투자 유치를 진행 중이며 기존 메타와의 딜이 무산된 후 새로운 투자를 진행하고 있다.",
    "sources": [
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/manus-fallout-redraws-lines-global-ai-startups"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
     }
    ]
   },
