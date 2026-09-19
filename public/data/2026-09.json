@@ -2,6 +2,46 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-19",
+   "company": "Barq",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-after-the-hype"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-19",
+   "company": "Vals AI",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Andreessen Horowitz"
+   ],
+   "lead_investor": "Andreessen Horowitz",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Vals AI는 AI 벤치마킹을 중립적이고 신뢰할 수 있는 자원으로 만들기 위해 노력하고 있습니다. Andreessen Horowitz의 지원을 받으며, 급증하는 AI 모델들 사이에서 표준화된 벤치마킹 플랫폼을 구축하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-18",
    "company": "기타 스타트업 4개",
    "sector": "기타",
@@ -506,6 +546,10 @@
     {
      "name": "TechNode",
      "url": "https://technode.com/2026/09/18/d-robotics-raises-400-million-in-series-c-funding/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-after-the-hype"
     }
    ]
   },
@@ -1415,6 +1459,10 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/peak-xv-leads-ringg-ais-15m-series-extension"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-after-the-hype"
     }
    ]
   },
