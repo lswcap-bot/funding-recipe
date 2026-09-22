@@ -2,6 +2,243 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-21",
+   "company": "Amber",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 78.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 78500000,
+   "stage": "시리즈 E",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Amber는 배터리 및 EV 에너지 거래 플랫폼을 운영하는 스타트업으로, 시리즈 E 펀딩에서 7,850만 달러를 조성했다. 이를 통해 유럽을 시작으로 글로벌 시장 진출을 추진할 계획이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/power-play-amber-charges-up-on-78-5-million-series-e-for-global-push/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "company": "HEO",
+   "sector": "기타",
+   "amount_original": {
+    "value": 37.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 37000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "NRF"
+   ],
+   "lead_investor": "NRF",
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "HEO는 정지궤도(GEO) 위성을 모니터링하는 우주 감시 스타트업으로, 주권방위를 위한 궤도 감시 기능을 제공한다. NRF의 지원을 받아 시리즈 B 펀딩에서 3,700만 달러를 조성했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/space-monitoring-startup-scores-nrf-backing-in-37-million-series-b/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "company": "Novadip Biosciences",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 10.4,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 11949600,
+   "stage": "비공개",
+   "investors": [
+    "New Science Ventures",
+    "Fund+",
+    "Wallonie Entreprendre",
+    "VIVES Fund",
+    "ORSA Tech",
+    "Sambrinvest",
+    "Noshaq",
+    "Invest.BW"
+   ],
+   "lead_investor": "New Science Ventures",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "벨기에의 바이오텍 기업 Novadip Biosciences가 재생의학 분야의 임상시험 자금 조달을 위해 €10.4 million의 전환사채 투자를 유치했습니다. 투자는 미국 기반 New Science Ventures가 주도했으며, 기존 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/belgiums-novadip-biosciences-raises-e10-4-million-to-fund-pivotal-clinical-trial-and-unlock-eib-loan-tranche/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "company": "Dana",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "01Fintech"
+   ],
+   "lead_investor": "01Fintech",
+   "country": "인도네시아",
+   "region": "동남아",
+   "ai_summary_ko": "인도네시아의 디지털 지갑 Dana가 싱가포르 기반의 01Fintech으로부터 투자를 유치했습니다. 01Fintech 그룹은 금융 인프라, 디지털 결제, 임베디드 파이낸스에 초점을 맞추고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indonesias-danantara-pressure-show-real-results"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "company": "Unit1 Studio",
+   "sector": "게임",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 26790000,
+   "stage": "비공개",
+   "investors": [
+    "Balderton Capital",
+    "Mercuri",
+    "Gilston Music",
+    "Paul McGuinness"
+   ],
+   "lead_investor": "Balderton Capital",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던의 아바타 콘서트 제작사 Unit1 Studio가 €23.3 million의 신규 자금을 조달했습니다. Balderton Capital이 주도 투자자이며, 기존 투자자들도 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/21/unit1-studio-raises-ps20m-to-scale-avatar-concert-technology/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/londons-unit1-studio-secures-e23-3-million-to-scale-avatar-concerts-beyond-the-one-venue-abba-voyage-model/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "company": "Metris Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "시드",
+   "investors": [
+    "PT1 Ventures",
+    "Octopus Ventures",
+    "AENU",
+    "Blackfinch Ventures",
+    "Plug and Play"
+   ],
+   "lead_investor": "PT1 Ventures",
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "런던의 재생에너지 자산 관리 AI 플랫폼 Metris Energy가 €4.35 million의 시드 라운드 투자를 유치했습니다. PT1 Ventures가 주도 투자자이며, 새로운 AI 인터페이스 Metria AI를 공개했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/21/metris-secures-5m-to-build-a-unified-data-layer-for-energy-assets/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/londons-metris-energy-raises-e4-35-million-to-scale-ai-platform-for-managing-renewable-energy-assets/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "company": "FintechOS",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 28.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 28000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "루마니아",
+   "region": "유럽",
+   "ai_summary_ko": "FintechOS는 은행과 보험회사를 위한 AI 및 소프트웨어 서비스를 제공하는 루마니아 스타트업으로, 2017년 설립되었다. 이번 펀딩라운드에서 기존 투자자들로부터 2,800만 달러의 주식 및 부채 펀딩을 조달했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/21/fintechos-raises-28m-in-equity-and-debt/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "company": "Corridor",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 25.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 25000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Corridor는 중소기업을 위한 건강보험 중개 서비스를 제공하는 스타트업으로, 전통적인 중개사가 간과해온 소규모 계정 시장에 집중하고 있다. 이번 시드 펀딩으로 2,500만 달러를 유치했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "company": "Kairos Power",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "비공개",
+   "investors": [
+    "Samsung C&T"
+   ],
+   "lead_investor": "Samsung C&T",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Kairos Power가 Google을 위한 핵 반응로 건설 프로젝트에 Samsung C&T로부터 최대 1억 달러 규모의 투자를 유치했습니다. 이를 통해 첫 번째 50메가와트 핵 발전소 건설을 지원하게 됩니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-19",
    "company": "Barq",
    "sector": "기타",
