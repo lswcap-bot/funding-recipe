@@ -2,6 +2,487 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-22",
+   "company": "OpenDebt",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2000000,
+   "stage": "프리시드",
+   "investors": [
+    "Blackbird",
+    "Antler"
+   ],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "OpenDebt는 AI 기반 채무 회수 기술을 제공하는 핀테크 스타트업으로, Blackbird와 Antler로부터 200만 달러의 프리시드 펀딩을 확보했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/ai-debt-recovery-fintech-opendebt-bags-2-million-in-pre-seed/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Heidi",
+   "sector": "AI",
+   "amount_original": {
+    "value": 140.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 140000000,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Heidi는 임상 노트 AI 솔루션 제공업체로, 1억 4천만 달러 규모의 시리즈 C 펀딩을 통해 유니콘 기업이 되었으며 글로벌 확장을 목표로 하고 있다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/best-in-tech-scaleup-of-the-year-turns-unicorn-after-140m-series-c/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Kairos",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "비공개",
+   "investors": [
+    "Samsung"
+   ],
+   "lead_investor": "Samsung",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Kairos는 삼성으로부터 구글 원자로 개발을 위해 최대 1억 달러의 투자를 받았다. Kairos의 원자로 설계는 물 대신 녹는 소금을 냉각제로 사용한다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/a16zs-crypto-arm-seeks-2b-fund-sources"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Delvitech",
+   "sector": "AI",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스위스",
+   "region": "남아시아",
+   "ai_summary_ko": "스위스 AI 기업 Delvitech가 인도 진출 확대를 위해 벵갈루루에 1,000만 달러를 초기 투자하여 허브를 구축할 계획입니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/swiss-ai-firm-delvitech-nets-40m-plans-india-facility-by-2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Circle",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "비공개",
+   "investors": [
+    "Binance"
+   ],
+   "lead_investor": "Binance",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "암호화폐 거래소 Binance가 Circle에 1억 달러를 투자하고 5% 할인된 가격으로 주식을 매입하여 USDC 협력을 확대했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/binance-adds-prediction-markets-wallet-app"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Eevi",
+   "sector": "에듀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "Rockstart"
+   ],
+   "lead_investor": "Rockstart",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "음성 기반 AI 언어 튜터인 Eevi는 Rockstart가 주도한 프리시드 펀딩 라운드를 완료했으며, 실시간 음성 대화를 중심으로 한 언어 학습 플랫폼을 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/22/eevi-raises-pre-seed-funding-to-get-language-learners-speaking-from-day-one/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Gamindo",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 1.4,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1604820,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "Gamindo는 기업이 기술 지식 없이도 기업 콘텐츠를 인터랙티브한 교육 자료로 변환할 수 있는 코퍼레이트 트레이닝 플랫폼으로, 140만 유로의 시드 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/22/gamindo-raises-eur14m-to-make-corporate-training-more-interactive/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Spott",
+   "sector": "AI",
+   "amount_original": {
+    "value": 21.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 21000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Balderton",
+    "Balderton Capital",
+    "Base10 Partners",
+    "Y Combinator",
+    "Fortino"
+   ],
+   "lead_investor": "Balderton",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "레우펀 기반의 AI 기반 지원자 추적 시스템 및 고객관계관리 플랫폼 스팟이 채용 대행사용 AI 네이티브 운영체제 구축을 위해 €18.3백만 규모의 시리즈 A 펀딩을 완료했다. 이번 라운드는 발더튼 캐피탈이 주도했으며, 베이스텐 파트너스, 와이 콤비네이터, 포르티노가 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/22/spott-secures-21m-series-a-to-expand-its-ai-platform-for-recruitment-agencies/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/leuven-based-spott-raises-e18-3-million-to-build-the-ai-native-operating-system-for-recruitment-agencies/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Benford",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5731500,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/22/benford-raises-eur5m-to-rebuild-financial-audit-from-the-ground-up/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Lightspring",
+   "sector": "기타",
+   "amount_original": {
+    "value": 3.1,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3553530,
+   "stage": "시드",
+   "investors": [
+    "Atlantic",
+    "OVNI Capital",
+    "Concept Ventures",
+    "Ixcore",
+    "Plug and Play Ventures"
+   ],
+   "lead_investor": "Atlantic",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "베장송 기반의 포토닉 집적회로 광학 인터페이스 설계 및 제조 회사인 라이트스프링이 광학 패키징 기술 개발을 위해 €3.1백만 규모의 시드 라운드 펀딩을 완료했다. 이번 라운드는 애틀란틱과 오브니 캐피탈이 주도했으며, 컨셉트 벤처스가 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/22/lightspring-raises-eur35m-to-tackle-photonic-chip-manufacturing-bottleneck/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/besancon-based-lightspring-raises-over-e3-5-million-to-industrialise-photonic-chip-packaging/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Zeliq",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 7.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 8024100,
+   "stage": "프리시리즈A",
+   "investors": [
+    "The Moon Venture",
+    "Julien Jean (JJ Capinvest)",
+    "Sylvestre Blavet (Freelance.com)"
+   ],
+   "lead_investor": "The Moon Venture",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/22/zeliq-raises-eur7m-to-build-an-agentic-revenue-workspace/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Morphotonics",
+   "sector": "AI",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 45852000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/22/morphotonics-closes-eur40m-series-b-to-tackle-ai-devices-hidden-manufacturing-bottleneck/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Primo",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 8.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 8000000,
+   "stage": "비공개",
+   "investors": [
+    "Headline",
+    "Global Founders Capital",
+    "Arthur Waller",
+    "Romain Niccoli"
+   ],
+   "lead_investor": "Headline",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반의 AI 플랫폼 프리모가 IT 팀을 위한 자율형 AI 에이전트 배포 목적으로 €6.9백만 규모의 펀딩 라운드를 완료했다. 이번 라운드는 헤드라인과 로켓 인터넷의 벤처캐피탈 플랫폼인 글로벌 파운더스 캐피탈이 주도했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/22/primo-raises-8m-to-bring-autonomous-ai-agents-to-it-operations/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/paris-based-primo-raises-e6-9-million-to-deploy-autonomous-ai-agents-for-it-teams/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Biolevate",
+   "sector": "AI",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 34389000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "생명과학 AI 회사 바이올레이트가 과학 및 규제 워크플로우 자동화 플랫폼 확장과 국제 성장을 지원하기 위해 3,000만 유로의 시리즈 A 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/22/biolevate-lands-eur30m-series-a-to-scale-life-sciences-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Verda",
+   "sector": "AI",
+   "amount_original": {
+    "value": 189.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 189000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Emergence Capital"
+   ],
+   "lead_investor": "Emergence Capital",
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "헬싱키 기반 AI 인프라 회사 Verda가 €164.8백만을 Series B 라운드로 조달했으며, Emergence Capital이 주도투자자로 참여했다. 이 투자로 회사는 유럽의 최신 유니콘 기업이 되었다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/22/verda-raises-189m-to-advance-its-ai-cloud-and-expand-compute-capacity/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/helsinkis-verda-becomes-europes-latest-unicorn-after-raising-e164-8-million-to-scale-its-full-stack-ai-cloud/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Terasi",
+   "sector": "보안",
+   "amount_original": {
+    "value": 11.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 12609300,
+   "stage": "시드",
+   "investors": [
+    "NATO Innovation Fund"
+   ],
+   "lead_investor": "NATO Innovation Fund",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스톡홀름 기반 방위 기술 스타트업 테라시가 NATO 혁신 기금이 공동 주도한 1,100만 유로 규모의 시드 투자를 유치했다. 회사는 전장 통신 기술을 개발하고 있다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/22/nato-innovation-fund-co-leads-eur11m-investment-in-defencetech-outfit-terasi/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Nexstrom",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "싱가포르",
+   "region": "동남아",
+   "ai_summary_ko": "싱가포르 기반 반도체 장비 회사 넥스트롬이 2D 반도체 소재를 칩 제조업체들이 대량 생산할 수 있도록 돕는 장비 개발을 위해 신규 자금을 조달했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "company": "Snorkel AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 350.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 350000000,
+   "stage": "시리즈 E",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Snorkel AI가 AI 훈련 데이터 수요 증가에 힘입어 3억 5천만 달러 규모의 시리즈 E 펀딩을 유치했다. 이를 통해 회사 가치는 35억 달러로 3배 증가했으며, 데이터 서비스 사업 확장을 추진할 계획이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "company": "Hysata",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 49.0,
+    "currency": "AUD",
+    "unit": "million"
+   },
+   "amount_usd": 34973750,
+   "stage": "비공개",
+   "investors": [
+    "ARENA"
+   ],
+   "lead_investor": "ARENA",
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Hysata가 호주 울롱공의 전해질 생산 공장 건설을 위해 ARENA로부터 4,900만 달러를 유치했다. 이 공장은 더 저렴한 그린 수소 생산을 목표로 하고 있다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/best-in-tech-winner-hysata-scores-49-million-from-arena-for-98m-electrolyser-plant/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-21",
    "company": "Amber",
    "sector": "에너지",
@@ -201,15 +682,21 @@
    },
    "amount_usd": 25000000,
    "stage": "시드",
-   "investors": [],
-   "lead_investor": null,
+   "investors": [
+    "Bain Capital"
+   ],
+   "lead_investor": "Bain Capital",
    "country": "미국",
    "region": "북미",
-   "ai_summary_ko": "Corridor는 중소기업을 위한 건강보험 중개 서비스를 제공하는 스타트업으로, 전통적인 중개사가 간과해온 소규모 계정 시장에 집중하고 있다. 이번 시드 펀딩으로 2,500만 달러를 유치했다.",
+   "ai_summary_ko": "Bain Capital이 주도한 2,500만 달러 규모의 투자 라운드에서 AI 헬스케어 스타트업 Corridor가 자금을 유치했습니다. 창업자는 이전에 Scale AI에서 제품 담당 임원으로 근무한 경력이 있습니다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indias-health-ventures-closes-741m-fund-ii"
     }
    ]
   },
