@@ -2,6 +2,533 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-23",
+   "company": "NG.CASH",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "비공개",
+   "investors": [
+    "Blockchain Capital"
+   ],
+   "lead_investor": "Blockchain Capital",
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질의 핀테크 회사 NG.CASH가 블록체인 캐피탈이 주도한 라운드에서 1,500만 달러를 유치했다. 이 회사는 지난 7월 시리즈 B에서 2,650만 달러를 이미 조달한 바 있다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/ng-cash-raises-15m-from-blockchain-capital/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Nuvia",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1800000,
+   "stage": "비공개",
+   "investors": [
+    "Amador Capital",
+    "Nascent",
+    "NXTP",
+    "Crivo Ventures"
+   ],
+   "lead_investor": "Amador Capital",
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질의 AI 스타트업 누비아가 아마도르 캐피탈과 나센트가 주도한 라운드에서 180만 달러를 유치했다. 이 자금은 라틴아메리카 전역의 AI 영업 에이전트 확대에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/nuvia-raises-1-8m-to-expand-ai-sales-agents-across-latin-america/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Kinoxis",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 6.75,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6750000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "치매 치료제 개발 바이오테크 기업인 Kinoxis가 675만 달러 규모의 투자를 유치했다. 이번 투자와 별도로 250만 달러 규모의 그랜트를 추가로 받아 총 925만 달러를 확보했으며, 이 자금으로 치매 관련 약물 임상시험을 진행할 계획이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/dementia-biotech-kinoxis-raises-6-75-million-with-a-2-5m-grant-as-cherry-on-top/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Ultraviolette",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 85.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 85000000,
+   "stage": "시리즈 E",
+   "investors": [
+    "Yali Capital"
+   ],
+   "lead_investor": "Yali Capital",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Ultraviolette가 딥테크 펀드 Yali Capital의 주도로 Series E 라운드에서 8,500만 달러를 유치했다. 회사는 2027년 미국 진출을 추진하고 있으며, 라틴아메리카와 동남아 지역으로도 확대할 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/ultraviolette-raises-85-million-series-e"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Hughes Precision",
+   "sector": "기타",
+   "amount_original": {
+    "value": 250.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 26100000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": null,
+   "ai_summary_ko": "방위 산업 제조업체 Hughes Precision이 Rs 250 crore 펀딩을 조달했습니다. 이 자금은 소형 탄약 제조 시설 확장과 중형 탄약 부문으로의 진출에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/defence-manufacturer-hughes-precision-raises-rs-250-crore-funding"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Brahma AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 150.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 150000000,
+   "stage": "비공개",
+   "investors": [
+    "Multiples Alternate Asset Management"
+   ],
+   "lead_investor": "Multiples Alternate Asset Management",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Brahma AI는 Multiples Alternate Asset Management로부터 1억 5천만 달러를 조달했습니다. 기존 미디어·엔터테인먼트 사업을 넘어 스포츠, 헬스케어, 광고 분야로 확장하고 새로운 AI 애플리케이션을 개발 중입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/funding-brahma-ai-150-million-multiples-alternate-asset-management"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Spiich",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3423300,
+   "stage": "시드",
+   "investors": [
+    "Ugly Duckling Ventures"
+   ],
+   "lead_investor": "Ugly Duckling Ventures",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스톡홀름 기반 AI 영업 에이전트 스타트업 Spiich가 시드 라운드에서 300만 유로를 조달했습니다. 이 자금은 10개월 전 진행된 60만 유로 프리시드 라운드에 이어진 것으로, 누적 펀딩 규모는 360만 유로입니다. 라운드는 북유럽 B2B 소프트웨어 회사에 투자하는 코펜하겐 기반의 Ugly Duckling Ventures가 주도했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/stockholms-spiich-raises-e3-million-to-let-ai-handle-admin-work-while-sales-teams-focus-on-customers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Heidi",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 340.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 340000000,
+   "stage": "비공개",
+   "investors": [
+    "General Catalyst"
+   ],
+   "lead_investor": "General Catalyst",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Heidi는 AI 헬스케어 스타트업으로, 175만 건 이상의 환자 방문 기록에서 사용되어 왔다. General Catalyst가 주도한 3억 4천만 달러 규모의 투자 라운드에 참여했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/fixing-doctor-burnout-ai-harder-sea"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Cyera",
+   "sector": "보안",
+   "amount_original": {
+    "value": 400.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 400000000,
+   "stage": "비공개",
+   "investors": [
+    "Goldman Sachs"
+   ],
+   "lead_investor": "Goldman Sachs",
+   "country": "이스라엘",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "2021년 설립된 사이버보안 기업 Cyera가 골드만삭스로부터 4억 달러를 투자받았다. 비인간 신원 통제 분야로 사업을 확장하고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/blackstonebacked-data-security-firm-cyera-valued-9b"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Sol",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "비공개",
+   "investors": [
+    "General Catalyst",
+    "Kunal Shah"
+   ],
+   "lead_investor": "General Catalyst",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도 AI 스타트업 Sol이 General Catalyst를 포함한 투자자로부터 400만 달러 규모의 투자를 유치했다. Sol은 자체 컴퓨터 환경에서 브라우저 접근 및 100여 개 이상의 전문 기능 라이브러리를 제공하는 도구를 개발하고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/solo-founders-fix-unreliable-generative-ai-models"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/ai-startup-sol-raises-4-million-from-general-catalyst-kunal-shah-and-others"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Noxtua",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 114110000,
+   "stage": "시리즈 C",
+   "investors": [
+    "C.H.BECK"
+   ],
+   "lead_investor": "C.H.BECK",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "2017년 베를린에서 설립된 법률기술 스타트업 Noxtua가 1억 유로 이상의 시리즈 C 펀딩을 완료했다. C.H.BECK이 다수 지분을 인수했으며, 회사는 옥스포드대학교와 임페리얼칼리지런던의 연구 결과로부터 파생되었다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/23/noxtua-raises-more-than-eur100m-as-chbeck-takes-majority-stake-german-legaltech/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "CIOC Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3423300,
+   "stage": "비공개",
+   "investors": [
+    "CleverNett"
+   ],
+   "lead_investor": "CleverNett",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "벨기에 에너지 최적화 회사 CIOC Energy가 재생에너지 개발업체 CleverNett로부터 300만 유로를 조달했다. CleverNett이 소수 지분을 인수했으며, CIOC Energy는 독립성을 유지한다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/23/cioc-energy-secures-eur3m-for-solar-and-battery-optimisation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "F13",
+   "sector": "AI",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "프리시드",
+   "investors": [
+    "Point Nine Capital"
+   ],
+   "lead_investor": "Credo Ventures",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "벡터 그래픽 생성을 위한 기초 모델을 개발하는 AI 회사 F13이 스텔스 상태에서 벗어나 프리시드 펀딩으로 500만 달러를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/23/f13-emerges-from-stealth-with-5m-for-vector-graphics-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Palma.ai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1800000,
+   "stage": "프리시드",
+   "investors": [
+    "Plug and Play Ventures",
+    "Deel",
+    "Scale"
+   ],
+   "lead_investor": "D11Z",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "엔터프라이즈 AI 에이전트 거버넌스 플랫폼인 Palma.ai가 프리시드 펀딩으로 180만 달러를 유치했으며, D11Z가 주도 투자자로 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/23/palmaai-raises-18m-to-bring-governed-ai-agents-to-more-enterprises/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "mika",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6846600,
+   "stage": "시드",
+   "investors": [
+    "Wecken & Cie.",
+    "Smedvig Ventures"
+   ],
+   "lead_investor": "Smedvig Ventures",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 기반 수직 AI 스타트업 mika가 독일의 소규모 제한회사(GmbH, UG)를 대상으로 한 AI 네이티브 세무 서비스를 확장하기 위해 시드 라운드에서 600만 유로를 조달했습니다. 라운드는 Smedvig Ventures가 주도했으며, 바젤 기반의 패밀리 오피스 등이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/23/german-ai-startup-mika-raises-eur6m-to-simplify-accounting-and-tax-for-smes/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/berlin-based-mika-raises-e6-million-to-scale-its-ai-native-alternative-to-traditional-tax-firms/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "StandardX",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 13276000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "의료 및 융합 에너지용 희귀 동위원소 생산을 위한 가속기 기반 동위원소 정제소를 개발하는 딥테크 회사 StandardX가 시드 펀딩으로 1천만 파운드를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/23/standardx-launches-with-ps10m-to-expand-isotope-production-for-medicine-and-fusion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "TEKEVER",
+   "sector": "AI",
+   "amount_original": {
+    "value": 580.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 580000000,
+   "stage": "시리즈 D",
+   "investors": [],
+   "lead_investor": null,
+   "country": "포르투갈",
+   "region": "유럽",
+   "ai_summary_ko": "AI 기반 자율 시스템 제공업체인 TEKEVER가 시리즈 D 펀딩의 첫 번째 클로징으로 5억 8천만 달러를 유치했으며, 회사 가치는 64억 달러로 평가되었다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/23/tekever-raises-580m-series-d-at-6-4b-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Stasher",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 3982800,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 트래블테크 스타트업 Stasher가 글로벌 확장을 위해 300만 파운드 규모의 펀딩을 유치했습니다. 자금은 수하물 보관 마켓플레이스 및 스마트 락커 네트워크 확장에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/23/london-traveltech-stasher-secures-ps3m-for-global-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Basecamp Research",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 140.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 140000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Nvidia",
+    "Anthropic"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Basecamp Research는 AI를 활용해 질병 치료 의약품을 더 빠르게 개발하는 영국 생명과학 스타트업으로, 1억4천만 달러의 시리즈 C 펀딩을 유치했습니다. 이번 라운드에는 AI 강자인 Nvidia와 신규 투자자인 Anthropic이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/23/anthropic-and-nvidia-back-basecamp-research-in-140m-series-c/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Bird",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 450.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 450000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": "Bird는 비즈니스 커뮤니케이션 플랫폼으로서 Twilio의 유럽 경쟁사로 평가받던 기업이 4억5천만 달러 규모의 부채 펀딩을 유치했습니다. 회사는 AI 비즈니스로의 전환을 강조하고 있으며, 피크 시점 1,000명에서 120명으로 인원을 축소하는 구조조정을 진행했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/23/bird-raises-450m-in-debt-headcount-cut-from-1000-to-120/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "company": "Enveda",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 311.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 311000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Enveda는 자연 유래 AI 신약을 임상 시험에 진입시키기 위해 3억 1100만 달러를 조달했으며, 회사 가치는 20억 달러로 평가되었다. 현재 피부 질환 치료 및 GLP-1 약물 중단 후 체중 감량 유지 약물을 테스트 중이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-22",
    "company": "OpenDebt",
    "sector": "핀테크",
@@ -570,7 +1097,8 @@
    "amount_usd": null,
    "stage": "비공개",
    "investors": [
-    "01Fintech"
+    "01Fintech",
+    "01F Group"
    ],
    "lead_investor": "01Fintech",
    "country": "인도네시아",
@@ -580,6 +1108,10 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/indonesias-danantara-pressure-show-real-results"
+    },
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-singapore-based-dtcpay-closes-series-a-round-01f-group-invests-in-dana-ten-china-investments-and-more"
     }
    ]
   },
@@ -978,6 +1510,10 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/airwallex-leads-sea-payment-startup-funding-report"
+    },
+    {
+     "name": "KrASIA",
+     "url": "https://kr-asia.com/deals-in-brief-singapore-based-dtcpay-closes-series-a-round-01f-group-invests-in-dana-ten-china-investments-and-more"
     }
    ]
   },
