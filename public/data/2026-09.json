@@ -2,6 +2,251 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-24",
+   "company": "Ema",
+   "sector": "AI",
+   "amount_original": {
+    "value": 77.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 77000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Accel",
+    "Prosus",
+    "Creaegis"
+   ],
+   "lead_investor": "Creaegis",
+   "country": "인도",
+   "region": "북미",
+   "ai_summary_ko": "엔터프라이즈 AI 스타트업 Ema가 Creaegis가 주도한 시리즈 B 펀딩라운드에서 7,700만 달러를 유치했다. 이 회사는 기업이 업무 흐름을 자동화할 수 있도록 하는 에이전트 플랫폼을 제공하며, 투자금은 시장 개척 활동과 새로운 지역 진출에 사용할 예정이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/microsoft-office-bug-shared-confidential-emails-copilot-ai"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/enterprise-ai-startup-ema-raises-series-b-round-led-by-creaegis"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "company": "50skills",
+   "sector": "AI",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6000000,
+   "stage": "비공개",
+   "investors": [
+    "Frumtak Ventures",
+    "Swiss Post",
+    "Swiss Post Ventures",
+    "Avant"
+   ],
+   "lead_investor": null,
+   "country": "아이슬란드",
+   "region": "유럽",
+   "ai_summary_ko": "레이캬비크 기반 AI 기반 HR 워크플로우 자동화 플랫폼 회사 50skills가 €5.3백만의 펀딩을 유치했습니다. Frumtak Ventures, Swiss Post Ventures, Avant가 라운드를 공동 주도했으며, 영업, 마케팅, 커뮤니티 고용 가속화와 AI 에이전트 개발에 투자할 계획입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/24/50skills-raises-6m-to-scale-its-ai-operating-system-for-people-workflows/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/reykjavik-based-50skills-raises-e5-3-million-to-scale-its-ai-powered-hr-workflow-automation-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "company": "Clastix",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 2.9,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3296430,
+   "stage": "시드",
+   "investors": [
+    "CDP Venture Capital Sgr",
+    "Mistral",
+    "Vertis SGR"
+   ],
+   "lead_investor": "CDP Venture Capital Sgr",
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "나폴리 기반 쿠버네티스 인프라 소프트웨어 회사 Clastix가 유럽 주권형 쿠버네티스 인프라 구축을 위해 €2.9백만의 시드 라운드 펀딩을 유치했습니다. CDP Venture Capital Sgr, Mistral, Vertis SGR이 참여했으며, 이는 회사의 첫 외부 펀딩입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/24/clastix-bags-eur29m-to-tackle-the-complexity-of-kubernetes-at-scale/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/italys-clastix-raises-e2-9-million-with-mistral-backing-to-build-sovereign-kubernetes-infrastructure-for-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "company": "Duqu",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1705050,
+   "stage": "프리시드",
+   "investors": [
+    "Curiosity VC",
+    "No Such Ventures"
+   ],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "암스테르담 기반 핀테크 스타트업 Duqu가 미지급 인보이스에 묶인 자금에 대한 즉시 접근을 제공하는 서비스로 Curiosity VC와 No Such Ventures로부터 150만 유로의 프리시드 투자를 유치했다. 회사는 신용 평가 프로세스의 95%를 자동화하는 자체 AI 언더라이팅 엔진을 개발했으며, 이 기술을 제3자에게도 제공하고 있다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/24/duqu-raises-eur15m-to-give-businesses-faster-access-to-working-capital/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/amsterdam-based-duqu-raises-e1-5-million-to-unlock-cash-tied-up-in-unpaid-invoices/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "company": "Crux Analytics",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 1.9,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2159730,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "유럽",
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/24/crux-analytics-raises-eur19m-to-help-banks-win-and-retain-small-business-customers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "company": "Reply Next",
+   "sector": "AI",
+   "amount_original": {
+    "value": 400000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 454680,
+   "stage": "프리시드",
+   "investors": [
+    "4Founders Capital"
+   ],
+   "lead_investor": "4Founders Capital",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Reply Next는 다중 지점을 가진 기업의 디지털 존재 관리를 위한 AI 플랫폼으로, 4Founders Capital 주도 하에 40만 유로의 프리시드 펀딩을 확보했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/24/ai-platform-reply-next-secures-eur400k-pre-seed-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "company": "Kontext",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "비공개",
+   "investors": [
+    "42CAP",
+    "a16z CSX",
+    "HTGF"
+   ],
+   "lead_investor": "42CAP",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "AI 보안 회사 Kontext가 AI 에이전트를 위한 런타임 보안 플랫폼 확대를 위해 400만 달러를 유치했으며, 42CAP의 주도 하에 a16z CSX와 HTGF의 지원을 받았다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/24/kontext-raises-4m-for-runtime-security-platform-for-ai-agents/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "company": "OWOW Venture Studio",
+   "sector": "기타",
+   "amount_original": {
+    "value": 2.65,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3012255,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "아인트호펜 기반의 OWOW Venture Studio가 제조업 및 원래장비제조(OEM) 분야의 초기 단계 B2B 스타트업을 구축하기 위해 8개의 패밀리 오피스와 엔젤 투자자로부터 265만 유로를 조성했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/24/owow-venture-studio-lands-eur265m-to-build-b2b-startups-for-traditional-industries/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "company": "O-ID",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 1.2,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1200000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "일본",
+   "region": "동아시아",
+   "ai_summary_ko": "도쿄 기반의 O-ID가 산업용 제조 및 물류를 위한 완전 모듈식 휴머노이드 로봇 개발을 위해 프리시드 펀딩으로 120만 달러를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/24/brits-in-japan-raise-1m-to-put-modular-humanoid-robots-to-work/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-23",
    "company": "NG.CASH",
    "sector": "핀테크",
