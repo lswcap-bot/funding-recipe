@@ -2,6 +2,71 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-25",
+   "company": "RentBetter",
+   "sector": "부동산",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "RentBetter는 AI 기반 자체 관리 솔루션으로 임대인들이 비용이 많이 드는 중개인을 제거할 수 있도록 돕는 프롭테크 회사로, 500만 달러의 투자를 확보했습니다. 이 자금은 임대인 지원 도구 개발 및 시장 확대에 사용될 것입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/proptech-play-rentbetter-moves-in-on-5-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "company": "Medcast",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 5.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5400000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Medcast는 호주 일반의들을 위한 임상 AI 플랫폼 MedLuma를 개발하는 의료 에듀테크 스타트업으로, 540만 달러의 투자를 유치했습니다. 이 자금은 신뢰할 수 있는 AI 코파일럿으로서 MedLuma의 개발 및 확대에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/medical-edtech-medcast-diagnoses-5-4-million-for-clinical-ai-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "company": "호주 스타트업",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "오세아니아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/cheque-in-7-startups-raised-274-7-million-this-week/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-24",
    "company": "Ema",
    "sector": "AI",
@@ -675,6 +740,10 @@
     {
      "name": "Tech.eu",
      "url": "https://tech.eu/2026/09/23/tekever-raises-580m-series-d-at-6-4b-valuation/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/25/tekever-raises-580m-series-d-dtcp-closes-455m-defence-fund-and-the-challenge-to-reinvent-chip-design/"
     }
    ]
   },
@@ -813,12 +882,16 @@
    "investors": [],
    "lead_investor": null,
    "country": null,
-   "region": null,
+   "region": "오세아니아",
    "ai_summary_ko": "Heidi는 임상 노트 AI 솔루션 제공업체로, 1억 4천만 달러 규모의 시리즈 C 펀딩을 통해 유니콘 기업이 되었으며 글로벌 확장을 목표로 하고 있다.",
    "sources": [
     {
      "name": "Startup Daily",
      "url": "https://www.startupdaily.net/topic/funding/best-in-tech-scaleup-of-the-year-turns-unicorn-after-140m-series-c/"
+    },
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/cheque-in-7-startups-raised-274-7-million-this-week/"
     }
    ]
   },
@@ -1274,6 +1347,10 @@
     {
      "name": "Startup Daily",
      "url": "https://www.startupdaily.net/topic/funding/power-play-amber-charges-up-on-78-5-million-series-e-for-global-push/"
+    },
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/cheque-in-7-startups-raised-274-7-million-this-week/"
     }
    ]
   },
@@ -6053,18 +6130,29 @@
    "date": "2026-09-04",
    "company": "Nscale",
    "sector": "AI",
-   "amount_original": null,
-   "amount_usd": null,
+   "amount_original": {
+    "value": 3.36,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 3360000000,
    "stage": "프리시드",
-   "investors": [],
+   "investors": [
+    "Third Point",
+    "Nvidia"
+   ],
    "lead_investor": null,
    "country": "미국",
    "region": "북미",
-   "ai_summary_ko": "AI 컴퓨팅 제공업체 Nscale은 Anthropic과 450억 달러 규모의 거래를 체결한 후, IPO를 앞두고 35억 달러 규모의 프리-IPO 펀딩을 추진 중이다.",
+   "ai_summary_ko": "영국 AI 네오클라우드 기업 Nscale이 미국 IPO를 앞두고 Third Point, Nvidia 등으로부터 33억 6천만 달러의 전환사채 펀딩을 유치했다. 이 자금은 대규모 AI 데이터센터 구축에 사용될 예정이다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
     }
    ]
   },
