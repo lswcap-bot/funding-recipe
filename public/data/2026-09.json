@@ -2,6 +2,48 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-26",
+   "company": "IITM Unicorn Frontier Fund I (스페이스, 양자, 배터리, 탄소포집 관련 4개 스타트업)",
+   "sector": "기타",
+   "amount_original": {
+    "value": 450.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 46980000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "IITM 유니콘 프론티어 펀드 I가 4억 5천만 루피의 첫 번째 클로징을 달성했으며, 스페이스, 양자, 배터리, 탄소포집 분야의 4개 딥테크 스타트업에 약 5천 5백만 루피를 배포했다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/iitm-unicorn-frontier-fund-i-hits-rs-450-cr-first-close"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "company": "EVAS Intelligence",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/move-fast-dont-break"
+    }
+   ]
+  },
+  {
    "date": "2026-09-25",
    "company": "RentBetter",
    "sector": "부동산",
@@ -532,6 +574,10 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/blackstonebacked-data-security-firm-cyera-valued-9b"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/move-fast-dont-break"
     }
    ]
   },
@@ -892,6 +938,10 @@
     {
      "name": "Startup Daily",
      "url": "https://www.startupdaily.net/topic/funding/cheque-in-7-startups-raised-274-7-million-this-week/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/move-fast-dont-break"
     }
    ]
   },
@@ -6141,7 +6191,7 @@
     "Third Point",
     "Nvidia"
    ],
-   "lead_investor": null,
+   "lead_investor": "Nvidia",
    "country": "미국",
    "region": "북미",
    "ai_summary_ko": "영국 AI 네오클라우드 기업 Nscale이 미국 IPO를 앞두고 Third Point, Nvidia 등으로부터 33억 6천만 달러의 전환사채 펀딩을 유치했다. 이 자금은 대규모 AI 데이터센터 구축에 사용될 예정이다.",
@@ -6153,6 +6203,10 @@
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/nvidiabacked-ai-startup-nscale-files-ipo"
     }
    ]
   },
