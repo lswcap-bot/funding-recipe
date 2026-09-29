@@ -2,6 +2,344 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-28",
+   "company": "Amaani",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Amaani가 Series A 펀딩 라운드에서 500만 달러를 모금했으며, 브랜드 확장, 제품 개발, 기술 강화에 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/amaani-raises-5-million-in-series-a"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "Balwaan Krishi",
+   "sector": "농업",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 10420000,
+   "stage": "시리즈 B",
+   "investors": [
+    "First Bridge India Growth Fund Private Equity"
+   ],
+   "lead_investor": "First Bridge India Growth Fund Private Equity",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "농업기계 회사 Balwaan Krishi가 Series B 라운드에서 1억 루피를 모금했습니다. First Bridge India Growth Fund Private Equity가 주도하고 다른 기관 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/agricultural-machinery-balwaan-krishi-raises-rs-100-crore-series-b"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "Reactive Technologies",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 19.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 21618200,
+   "stage": "비공개",
+   "investors": [
+    "European Investment Bank"
+   ],
+   "lead_investor": "European Investment Bank",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 전력망 기술 회사 Reactive Technologies가 유럽투자은행(EIB)으로부터 1,900만 유로를 조달했습니다. 이 자금은 GridVerix 플랫폼을 강화하여 유럽의 전력망 정전 위험을 줄이고 운영 비용을 낮추며 청정 에너지 공급을 증가시키는 데 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/londons-reactive-technologies-secures-e19-million-eib-financing-to-strengthen-europes-power-grids/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "Klang",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.32,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1501896,
+   "stage": "비공개",
+   "investors": [
+    "Johan Lenander",
+    "Emil Sjödin"
+   ],
+   "lead_investor": "Johan Lenander",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴 헬싱보리의 AI 회사인 Klang이 회의, 인터뷰, 대화 등을 전사·요약·분석하는 솔루션을 제공하며, 창업자 Johan Lenander와 Emil Sjödin이 주도하는 라운드에서 €1.32 million을 유치했다. 기업 가치는 €13.2 million으로 평가되었다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/helsingborgs-conversation-ai-startup-klang-raises-e1-32-million-and-releases-open-speech-to-text-model-for-swedish/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "DOD Solution",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.8,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2048040,
+   "stage": "프리시드",
+   "investors": [
+    "Angel One Fund",
+    "Better Angle",
+    "Defence Builder Fund",
+    "Network VC",
+    "Newfund",
+    "UAID Fund",
+    "WildField Ventures"
+   ],
+   "lead_investor": null,
+   "country": "에스토니아",
+   "region": "유럽",
+   "ai_summary_ko": "에스토니아-우크라이나 국방기술 기업 DOD Solution이 무인 시스템을 위한 온보드 자율주행 기술 개발을 위해 €1.8 million 규모의 프리시드 펀딩라운드를 완료했습니다. 이번 라운드에는 Angel One Fund, Better Angle, Defence Builder Fund 등 8개 기관이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/combat-tested-in-ukraine-dod-solution-raises-e1-8-million-to-scale-ai-autonomy-for-unmanned-systems/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "Keploy",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Flipkart Ventures"
+   ],
+   "lead_investor": "Flipkart Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Keploy는 AI 스타트업으로 Flipkart Ventures로부터 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/peak-xv-backs-ai-concierge-startup-m-in-11m-seed-round"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "Alive",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Flipkart Ventures"
+   ],
+   "lead_investor": "Flipkart Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Alive는 인도의 6개 시장에서 500개 이상의 큐레이션된 경험을 제공하는 스타트업이며, Flipkart Ventures로부터 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/peak-xv-backs-ai-concierge-startup-m-in-11m-seed-round"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "Cashew",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "싱가포르",
+   "region": "동남아",
+   "ai_summary_ko": "Syfe의 전직 임원 Sebastian Sieber가 설립한 Cashew는 싱가포르의 개인금융 시장에서 아직 아날로그 방식으로 남아있는 주택담보대출 영역을 디지털화하는 스타트업입니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/fixing-hidden-50k-cost-singapores-home-loan-market"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "bilt.me",
+   "sector": "AI",
+   "amount_original": {
+    "value": 700000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 700000,
+   "stage": "프리시드",
+   "investors": [
+    "Superhero Capital",
+    "Markus Villig",
+    "Martin Sokk"
+   ],
+   "lead_investor": "Superhero Capital",
+   "country": "에스토니아",
+   "region": "유럽",
+   "ai_summary_ko": "탈린 기반의 AI 네이티브 모바일 앱 빌더 bilt.me가 프리시드 라운드에서 614.9만 유로를 조달했습니다. Superhero Capital이 주도했으며, Bolt 창업자 Markus Villig과 Lightyear 창업자 Martin Sokk도 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/28/shopify-of-mobile-apps-biltme-raises-700k-to-turn-ideas-into-mobile-businesses/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/estonias-bilt-me-raises-e615k-with-backing-from-bolt-and-lightyear-founders-to-scale-its-ai-native-mobile-app-builder/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "Complaion",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 13.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 15360300,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "Complaion은 유럽 중소기업의 인증서 및 규정 준수 관리를 돕는 이탈리아 회사로, 팀 확대와 기술 개발, 국제 확장을 지원하기 위해 1,350만 유로의 펀딩을 조성했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/28/complaion-raises-eur135m-to-simplify-compliance-for-european-smes/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "Granite",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4551200,
+   "stage": "비공개",
+   "investors": [
+    "Bifrost Studios"
+   ],
+   "lead_investor": "Bifrost Studios",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Granite는 에이전틱 클라우드 인프라 기술을 상용화하기 위해 Bifrost Studios가 주도한 라운드에서 400만 유로의 투자를 유치했다. 이 자금으로 소프트웨어와 하드웨어를 시장에 출시할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/28/granite-raises-eur4m-to-bring-its-agentic-cloud-infrastructure-to-market/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "MAVI",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "회계 스태핑 회사 MAVI가 스텔스 모드를 벗고 400만 달러의 펀딩을 유치했다. AI 붐으로 인한 새로운 형태의 회계 인력 수요에 베팅하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "SiMa AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 150.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 150000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Fidelity",
+    "Amplify"
+   ],
+   "lead_investor": "Fidelity",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "에지 컴퓨팅 스타트업 SiMa AI가 Fidelity와 Amplify가 주도한 시리즈 C 라운드에서 1억 5천만 달러를 조달했으며, 이를 통해 회사의 가치평가는 14억 5천만 달러에 도달했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "company": "Modal Labs",
+   "sector": "AI",
+   "amount_original": {
+    "value": 750.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 750000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "AI 인프라 제공업체인 Modal Labs가 7억5천만 달러 규모의 신규 투자를 유치했으며, 이는 4개월 전 대비 기업가치를 3배 이상 증가시킨 약 157.5억 달러로 평가받았다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-26",
    "company": "IITM Unicorn Frontier Fund I (스페이스, 양자, 배터리, 탄소포집 관련 4개 스타트업)",
    "sector": "기타",
