@@ -2,6 +2,380 @@
  "month": "2026-09",
  "deals": [
   {
+   "date": "2026-09-29",
+   "company": "Galgo",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 55.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 55000000,
+   "stage": "비공개",
+   "investors": [
+    "BBVA Spark"
+   ],
+   "lead_investor": "BBVA Spark",
+   "country": "칠레",
+   "region": "중남미",
+   "ai_summary_ko": "칠레의 오토바이 금융 플랫폼 갈고가 BBVA 스파크로부터 5,500만 달러 규모의 신용 시설을 확보했습니다. 이 자금은 사업 확장에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/galgo-secures-55m-credit-facility-from-bbva-spark/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "Trendspek",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "인프라 자산 분석 플랫폼 트렌드스펙이 600만 달러의 자금을 확보했습니다. 드론, 3D 기록 및 AI 기술을 활용하여 핵심 인프라의 붕괴를 방지하는 솔루션을 제공합니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/asset-analysis-platform-trendspek-bans-6-million-to-keep-critical-infrastructure-upright/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "Bharat Housing Network",
+   "sector": "부동산",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "비공개",
+   "investors": [
+    "Symbiotics"
+   ],
+   "lead_investor": "Symbiotics",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "부라트 하우징 네트워크가 심바이오틱스로부터 500만 달러의 투자를 유치했습니다. 이 자금은 태양광 지붕 금융, 전기 이동성 금융, 신규 클린테크 중소기업에 대한 신용 제공에 배치될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/bharat-housing-network-secures-5-million-from-symbiotics"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "Nudge",
+   "sector": "커머스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Adani Family Office"
+   ],
+   "lead_investor": "Adani Family Office",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Nudge(iSocial Sports 운영)는 스포츠 중심 모델에서 영수증 기반 보상, 커머스 및 구매 인텔리전스로 사업 방향을 전환했으며, Adani Family Office로부터 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/adani-family-office-backs-nudge-as-startup-pivots-to-rewards-led-commerce"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "Marble",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 6.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 7380750,
+   "stage": "시리즈 A",
+   "investors": [
+    "Smartfin",
+    "ADNEXUS",
+    "Passion",
+    "42Capital"
+   ],
+   "lead_investor": "Smartfin",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반 부정 탐지 및 AML 준수 오픈소스 플랫폼 Marble이 시리즈 A에서 650만 유로를 조성했다. Smartfin이 주도하고 ADNEXUS, Passion, 42Capital 등 기존 투자자들이 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/paris-based-marble-raises-e6-5-million-to-automate-fraud-and-aml-compliance-with-its-no-code-open-source-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "ANote Music",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2271000,
+   "stage": "비공개",
+   "investors": [
+    "Seventure Partners",
+    "ScaleFund"
+   ],
+   "lead_investor": "Seventure Partners",
+   "country": "룩셈부르크",
+   "region": "유럽",
+   "ai_summary_ko": "룩셈부르크 기반 음악 로열티 마켓플레이스 ANote Music이 200만 유로 펀딩을 완료했다. Seventure Partners가 주도하고 ScaleFund 및 기존 투자자들이 참여했으며, 자금은 카탈로그 확대에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/luxembourgs-anote-music-raises-e2-million-to-transform-music-royalties-into-an-accessible-asset-class/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "Reverion",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 154.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 175094100,
+   "stage": "시리즈 B",
+   "investors": [
+    "Kembara",
+    "Mundi Ventures"
+   ],
+   "lead_investor": "Kembara",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "에네르기테크 기업 Reverion이 분산형 에너지 공급을 위한 가역형 연료전지 발전소 생산 확대를 위해 1억 5,420만 유로(1억 7,500만 달러)의 시리즈 B 펀딩을 조달했다. 이번 라운드는 뭔디 벤처스 산하 10억 유로 규모의 딥테크 및 기후펀드인 켐바라가 주도했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/germanys-reverion-raises-e154-2-million-to-scale-production-of-power-plants-that-generate-electricity-from-gas/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "IPercept",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 16.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 16500000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Isogon Ventures",
+    "215"
+   ],
+   "lead_investor": null,
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴 머신 피트니스 트래커 회사 IPercept가 Isogon Ventures와 London 소재 VC 215의 공동 주도로 $16.5M 규모의 시리즈 A 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/29/swedish-machine-fitness-tracker-ipercept-raises-165m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "Rayon",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 11355000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Partech",
+    "Northzone",
+    "Foundamental",
+    "Seedcamp"
+   ],
+   "lead_investor": "Partech",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반 실내 디자인용 브라우저 드로잉 소프트웨어 Rayon이 시리즈 A 펀딩으로 1,000만 유로를 조성했다. Partech가 주도하고 Northzone, Foundamental, Seedcamp 등 기존 투자자들이 참여했으며, 이로써 총 펀딩은 약 1,600만 유로에 달한다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/29/rayon-raises-eur10m-series-a-to-expand-ai-powered-interior-design-platform/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/09/paris-based-rayon-raises-e10-million-to-build-the-drawing-layer-for-interior-designs-ai-era/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "Aptadir Therapeutics",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 45.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 45000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "밀라노 소재 바이오테크 회사 Aptadir Therapeutics가 난치성 유전질환 치료제 개발을 위해 $45M 규모의 시드 라운드 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/29/milan-based-biotech-aptadir-therapeutics-raises-45m-seed-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "Sovera Security",
+   "sector": "보안",
+   "amount_original": {
+    "value": 535.0,
+    "currency": "EUR",
+    "unit": "thousand"
+   },
+   "amount_usd": 607492,
+   "stage": "비공개",
+   "investors": [
+    "EIFO"
+   ],
+   "lead_investor": "EIFO",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "덴마크 사이버보안 회사 Sovera Security가 주권 AI 사이버보안 구축을 위해 덴마크 수출투자기금(EIFO)으로부터 €535,000을 확보했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/29/sovera-security-secures-eur535k-from-eifo-to-build-sovereign-ai-cybersecurity/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "Kyndred",
+   "sector": "AI",
+   "amount_original": {
+    "value": 500.0,
+    "currency": "EUR",
+    "unit": "thousand"
+   },
+   "amount_usd": 567750,
+   "stage": "프리시드",
+   "investors": [
+    "Early Game Ventures"
+   ],
+   "lead_investor": "Early Game Ventures",
+   "country": "루마니아",
+   "region": "유럽",
+   "ai_summary_ko": "루마니아 스타트업 Kyndred가 일상 업무를 지원하는 AI 동반자 개발을 위해 Early Game Ventures로부터 €500,000의 프리시드 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/29/romanias-kyndred-raises-eur500k-from-early-game-ventures-to-build-ai-companions/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "Cotierra",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "스위스 기반 기후기술 회사 코티에라가 열대 농업에서 바이오차 확대를 위해 300만 달러를 유치했다. 이번 라운드를 통해 필드 배포 단계에서 상업적 확장으로 나아갈 계획이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/29/cotierra-raises-3m-to-scale-decentralised-biochar-across-tropical-agriculture/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "Spotable",
+   "sector": "기타",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4542000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "벨기에 건설기술 스타트업 스포터블이 유럽과 미국 확장을 위해 시드 라운드에서 400만 유로를 유치했다. 자금은 플랫폼 개발과 국제 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/09/29/belgian-construction-tech-spotable-raises-eur4m-for-international-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "company": "EliseAI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 350.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 350000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "EliseAI가 a16z의 지원 하에 3억 5천만 달러를 조달했습니다. 이는 회사의 가치평가를 1년 만에 2배로 올려 40억 달러에 도달하게 했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/"
+    }
+   ]
+  },
+  {
    "date": "2026-09-28",
    "company": "Amaani",
    "sector": "기타",
@@ -313,6 +687,10 @@
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c"
     }
    ]
   },
