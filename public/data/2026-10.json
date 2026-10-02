@@ -1,0 +1,337 @@
+{
+ "month": "2026-10",
+ "deals": [
+  {
+   "date": "2026-10-01",
+   "company": "R2Crete",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 750000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 750000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "R2Crete는 매립된 콘크리트를 저탄소 건축 자재로 변환하는 기술을 개발한 회사이며, $750,000의 프리시드 펀딩을 유치했습니다. 현재 파일럿 플랜트가 운영 중입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/melbourne-uni-concrete-recycling-spinout-cements-750000-pre-seed/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "company": "Seeds Fincap",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 10380000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Michael & Susan Dell Foundation"
+   ],
+   "lead_investor": "Michael & Susan Dell Foundation",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/seeds-fincap-rs-100-cr-series-b-round-michael-susan-dell-foundation"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "company": "Metaview",
+   "sector": "AI",
+   "amount_original": {
+    "value": 53.1,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 59992380,
+   "stage": "시리즈 C",
+   "investors": [
+    "Insight Partners",
+    "GV",
+    "Intrepid Growth Partners",
+    "Seedcamp",
+    "Vertex Ventures US",
+    "Plural",
+    "Garuda Ventures"
+   ],
+   "lead_investor": "Insight Partners",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "London 기반의 AI 채용 플랫폼 Metaview가 채용 워크플로우 자동화 확대를 위해 €53.1백만의 시리즈 C 펀딩을 유치했다. Insight Partners가 주도 투자자로 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "company": "Revnu",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.6,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2937480,
+   "stage": "비공개",
+   "investors": [
+    "NPIF II – PXN Equity Finance"
+   ],
+   "lead_investor": "NPIF II – PXN Equity Finance",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Manchester 기반의 AI 판매 플랫폼 Revnu가 팀 구성, UK·US 성장 가속화, 추가 국제 시장 진출을 위해 €2.6백만을 유치했다. NPIF II – PXN Equity Finance가 주도 투자자로 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/ai-sales-startup-revnu-raises-e2-6-million-to-build-team-and-accelerate-international-growth/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "company": "GMI Cloud",
+   "sector": "AI",
+   "amount_original": {
+    "value": 668.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 668000000,
+   "stage": "비공개",
+   "investors": [
+    "Nvidia"
+   ],
+   "lead_investor": "Nvidia",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "GMI Cloud가 Nvidia를 포함한 투자자들로부터 6억6800만 달러의 투자 유치를 발표했다. 이번 펀딩은 전 세계 다양한 지역에서 컴퓨팅 용량을 확대하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/seas-ai-buildout-caught-global-memory-squeeze"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "company": "FRANK",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 2.9,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3276420,
+   "stage": "비공개",
+   "investors": [
+    "Armilar",
+    "Start Ventures"
+   ],
+   "lead_investor": "Armilar",
+   "country": "포르투갈",
+   "region": "유럽",
+   "ai_summary_ko": "포르투갈의 보험기술 회사 FRANK가 보험 중개인을 위한 AI 기반 플랫폼 개발과 국제 진출을 준비하기 위해 Armilar와 Start Ventures가 주도하는 투자 라운드에서 290만 유로를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/01/frank-raises-eur29m-to-cut-paperwork-for-insurance-brokers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "company": "Foundational",
+   "sector": "기타",
+   "amount_original": {
+    "value": 8.2,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 10851880,
+   "stage": "프리시드",
+   "investors": [
+    "Inflection",
+    "BACKED",
+    "Final Frontier",
+    "Adjacent",
+    "Type One"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 위성 추적 스페이스테크 스타트업 Foundational이 €9.6 million의 프리시드 펀딩을 유치하며 스텔스 모드를 탈출했다. 본 라운드에는 Inflection, BACKED, Final Frontier, Adjacent, Type One 등 다수의 초기 단계 벤처캐피탈이 참여했으며, 이 자금은 위성과 우주 잔해를 밀리미터 정밀도로 추적하는 인프라 개발에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/01/foundational-secures-ps82m-pre-seed-as-it-emerges-from-stealth/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/londons-foundational-exits-stealth-with-e9-6-million-to-track-satellites-and-debris-with-millimetre-level-precision/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "company": "Deepslate",
+   "sector": "AI",
+   "amount_original": {
+    "value": 7.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 8699460,
+   "stage": "시드",
+   "investors": [
+    "42CAP",
+    "Alstin Capital",
+    "SIVentures"
+   ],
+   "lead_investor": "42CAP",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 기반 음성 AI 회사 Deepslate가 뮌헨의 기술 투자자 42CAP가 주도하고 Alstin Capital, 기존 투자자 SIVentures 등이 참여한 시드 라운드에서 €7.7M을 조성했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/01/deepslate-secures-eur77m-for-its-european-voice-ai-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "company": "Osavul",
+   "sector": "보안",
+   "amount_original": {
+    "value": 8.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 9603300,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "러시아의 우크라이나 침략 이후 설립된 스타트업 Osavul이 NATO와 정부가 적대적 위협을 조기에 감지하도록 돕는 기술을 바탕으로 850만 유로 규모의 시리즈 A 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/01/hostile-threat-warning-startup-osavul-raises-8-5m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "company": "Good Tape",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Nordic Makers"
+   ],
+   "lead_investor": null,
+   "country": "덴마크",
+   "region": "동아시아",
+   "ai_summary_ko": "코펜하겐 기반 AI 전사 회사 Good Tape가 Nordic Makers로부터 투자를 유치했다. 150개 이상의 국가에서 300만 명 이상이 사용하고 있으며, 새로운 탐색 기능을 출시했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/01/good-tape-raises-fresh-funding-and-launches-explore-to-uncover-stories-buried-in-old-interviews/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "company": "Voltaback",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 2.8,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3163440,
+   "stage": "비공개",
+   "investors": [
+    "Serena",
+    "Aurélien de Meaux",
+    "Maxim"
+   ],
+   "lead_investor": null,
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스 기반 플릿 관리 소프트웨어 스타트업 Voltaback이 유럽 투자 펀드 Serena와 여러 비즈니스 엔젤로부터 280만 유로를 유치했다. 이 자금은 유럽 전역에서 EV 충전 환급을 확대하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/01/voltaback-raises-eur28m-to-scale-ev-charging-reimbursement-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "company": "Photon",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "메시징 플랫폼에서 작동하는 AI 에이전트 개발을 돕는 스타트업 Photon이 450만 달러 규모의 투자를 유치했다. 소비자들이 앱 대신 에이전트를 사용하는 추세에 대응하기 위해 iMessage, SMS/RCS, 이메일 등 다양한 메시징 채널에서 AI 에이전트를 구축할 수 있도록 지원한다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "company": "Armadin",
+   "sector": "보안",
+   "amount_original": {
+    "value": 255.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 255500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Kevin Mandia가 설립한 보안 스타트업 Armadin이 $255.5M을 투자 유치했으며, 기업의 보안을 강화하기 위해 에이전트 스웜 기술을 활용하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/"
+    }
+   ]
+  }
+ ]
+}

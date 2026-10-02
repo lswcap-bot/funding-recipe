@@ -3,6 +3,29 @@
  "deals": [
   {
    "date": "2026-09-30",
+   "company": "Eastend Ventures",
+   "sector": "기타",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 30000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Eastend Ventures가 시드니과 멜번 외 지역의 스타트업을 지원하기 위해 3000만 달러 규모의 데뷔 펀드를 조성했습니다. 이 펀드는 남호주, 서호주, 퀸즐랜드의 스타트업들이 유니콘 과대광고 이전에 엑싯할 수 있도록 지원하는 것을 목표로 합니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/venture-capital/eastend-ventures-nails-30-million-debut-fund-to-back-sa-wa-and-queensland-startups/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-30",
    "company": "Arivihan",
    "sector": "에듀테크",
    "amount_original": {
@@ -86,7 +109,7 @@
     "unit": "crore"
    },
    "amount_usd": 182525000,
-   "stage": "비공개",
+   "stage": "시리즈 C",
    "investors": [],
    "lead_investor": null,
    "country": "인도",
@@ -96,6 +119,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/09/ev-two-wheeler-maker-simple-energy-bags-rs-1750-cr-funding"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/09/shreshth-mishra-simple-energy-rs-1750-cr-pivot-scale-across-india"
     }
    ]
   },
