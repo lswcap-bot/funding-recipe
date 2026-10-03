@@ -2,6 +2,220 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-03",
+   "company": "iPiD",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/tales-as-old-as-time"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "company": "Erad",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/tales-as-old-as-time"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "company": "Leadsynbio",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/tales-as-old-as-time"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "company": "회사명 미상 - 친환경 콘크리트",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "호주 스타트업이 친환경 콘크리트 개발을 위해 투자 자금을 유치했습니다. 구체적인 회사명과 정확한 금액은 기사 요약에 명시되지 않았습니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/cheque-in-3-startups-pocket-18-75-million-to-start-october/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "company": "회사명 미상 - AI 인프라 스캔",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "호주 스타트업이 AI 인프라 스캔 기술 개발을 위해 투자 자금을 유치했습니다. 구체적인 회사명과 정확한 금액은 기사 요약에 명시되지 않았습니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/cheque-in-3-startups-pocket-18-75-million-to-start-october/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "company": "회사명 미상 - 암 치료 기술",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "호주 스타트업이 암 치료 관련 기술 개발을 위해 투자 자금을 유치했습니다. 구체적인 회사명과 정확한 금액은 기사 요약에 명시되지 않았습니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/cheque-in-3-startups-pocket-18-75-million-to-start-october/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "company": "Omnio",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 2.9,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3255250,
+   "stage": "비공개",
+   "investors": [
+    "기존 투자자 및 주주"
+   ],
+   "lead_investor": null,
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "우메오 기반 바이오텍 스타트업 Omnio가 난치성 만성 상처 치료를 위한 플라스미노겐 기반 치료제 개발 진행을 위해 기존 투자자들로부터 290만 유로의 초과청약 라운드를 유치했습니다. 이 자금은 임상시험 진행을 위한 GMP 제조 공정 완료에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/swedens-omnio-raises-e2-9-million-to-advance-its-plasminogen-based-therapy-for-hard-to-heal-chronic-wounds/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "company": "Kuro Technology",
+   "sector": "AI",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 11225000,
+   "stage": "비공개",
+   "investors": [
+    "UVC Partners"
+   ],
+   "lead_investor": "UVC Partners",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 기반 건설기술 스타트업 Kuro Technology가 일반 건설업자들을 위한 AI 소프트웨어를 개발하기 위해 UVC Partners가 주도한 라운드에서 1,000만 유로를 유치했습니다. 이 자금은 건설 산업의 AI 기반 솔루션 개발에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/berlin-based-kuro-raises-e10-million-to-build-the-ai-foundation-for-general-contractors/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "company": "Breye Therapeutics",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 67.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 75768750,
+   "stage": "시리즈 A",
+   "investors": [
+    "Mission BioCapital",
+    "Novo Holdings",
+    "Sound Bioventures"
+   ],
+   "lead_investor": "Mission BioCapital",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "덴마크의 임상단계 생물의약품 회사인 Breye Therapeutics가 망막질환의 조기 치료를 위한 경구용 치료제 개발을 위해 6,750만 유로의 시리즈 A 펀딩을 완료했습니다. Mission BioCapital과 Novo Holdings가 공동으로 주도했으며, Sound Bioventures 등 기존 투자자들도 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/denmarks-breye-therapeutics-raises-e67-5-million-to-advance-oral-therapies-for-early-treatment-of-retinal-diseases/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "company": "Trustly",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 40000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴 핀테크 Trustly가 주요 주주 2곳으로부터 4천만 달러의 지분 투자 약정을 받았다. 이는 회사의 성장 전략을 지원하기 위한 투자다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/02/swedish-fintech-receives-40m-equity-commitment-from-key-shareholders/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-01",
    "company": "R2Crete",
    "sector": "에너지",
@@ -243,20 +457,28 @@
    "date": "2026-10-01",
    "company": "Good Tape",
    "sector": "AI",
-   "amount_original": null,
-   "amount_usd": null,
-   "stage": "비공개",
+   "amount_original": {
+    "value": 600000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 673500,
+   "stage": "프리시드",
    "investors": [
     "Nordic Makers"
    ],
-   "lead_investor": null,
+   "lead_investor": "Nordic Makers",
    "country": "덴마크",
    "region": "동아시아",
-   "ai_summary_ko": "코펜하겐 기반 AI 전사 회사 Good Tape가 Nordic Makers로부터 투자를 유치했다. 150개 이상의 국가에서 300만 명 이상이 사용하고 있으며, 새로운 탐색 기능을 출시했다.",
+   "ai_summary_ko": "코펜하겐 기반 AI 음성 전사 회사 Good Tape가 Nordic Makers로부터 60만 유로를 유치했습니다. Zendesk 공동창립자 Alexander Aghassipour가 이 투자를 주도했으며 Good Tape의 이사회에 합류했습니다.",
    "sources": [
     {
      "name": "Tech.eu",
      "url": "https://tech.eu/2026/10/01/good-tape-raises-fresh-funding-and-launches-explore-to-uncover-stories-buried-in-old-interviews/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/copenhagens-good-tape-raises-e600k-from-nordic-makers-to-complete-management-buy-out-zendesk-co-founder-joins-board/"
     }
    ]
   },
