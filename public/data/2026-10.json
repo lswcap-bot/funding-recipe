@@ -3,6 +3,25 @@
  "deals": [
   {
    "date": "2026-10-03",
+   "company": "정보 부족",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "주간 펀딩이 $400만 이상을 기록했으며, 이는 주로 $100만 이상의 두 건의 대규모 딜로 인한 것입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/weekly-funding-roundup-sept-26-oct-2-vc-inflow-continues-to-maintain-strong-momentum"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-03",
    "company": "iPiD",
    "sector": "기타",
    "amount_original": null,
