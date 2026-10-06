@@ -2,6 +2,333 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-05",
+   "company": "Reuse",
+   "sector": "기타",
+   "amount_original": {
+    "value": 21.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 21000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "At One Ventures"
+   ],
+   "lead_investor": "At One Ventures",
+   "country": "칠레",
+   "region": "중남미",
+   "ai_summary_ko": "칠레의 재생 전자제품 스타트업 Reuse가 At One Ventures가 주도하는 시리즈 A 펀딩으로 2,100만 달러를 조달했다. 이 자금은 라틴 아메리카 지역으로의 사업 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/reuse-raises-21m-series-a-to-expand-across-latin-america/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "company": "SQC",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.6,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3600000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "SQC가 AI 에너지 예측, 시계, 바이오센서 개발을 위한 양자 분야 정부 보조금 중 360만 달러를 획득했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/quantum-computing/sqc-among-6-startups-sharing-12-3-million-in-quantum-grants/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "company": "TVS Automobile Solutions",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 425.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 44115000,
+   "stage": "비공개",
+   "investors": [
+    "UAE investor"
+   ],
+   "lead_investor": "UAE investor",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "TVS Automobile Solutions가 UAE 투자자로부터 4억 2500만 루피를 유치했다. 자금은 중동과 북아프리카 지역에서 myTVS 자동차 애프터마켓 브랜드 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/tvs-automobile-solutions-raises-rs-425-cr-uae-investor-expand-mytvs"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "company": "Pandektes",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 13.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 15125400,
+   "stage": "시리즈 A",
+   "investors": [
+    "Alstin Capital",
+    "PROfounders",
+    "Scale Capital"
+   ],
+   "lead_investor": "Alstin Capital",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "코펜하겐 기반 법률 테크 회사 Pandektes가 AI 기반 법률 조사 플랫폼을 위한 데이터 인프라 구축을 목표로 1,350만 유로 규모의 시리즈 A 펀딩을 조성했다. 뮌헨 기반 초기 단계 벤처캐피탈 Alstin Capital이 주도 투자했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/copenhagens-pandektes-raises-e13-5-million-to-build-the-data-infrastructure-for-ai-powered-legal-research/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "company": "RobCo",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Sequoia",
+    "Lightspeed",
+    "Greenfield",
+    "Kindred",
+    "Lingotto",
+    "Promus Ventures"
+   ],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반 로보틱스 스타트업 롭코가 신규 투자와 직원 이차 주식 판매를 통해 8억 9240만 유로의 유니콘 기업이 되었습니다. 회사는 9개월 만에 기업가치가 2배 증가했다고 발표했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/munich-based-robco-becomes-a-robotics-unicorn-as-valuation-doubles-in-nine-months/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "company": "Rodinia Generation",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4481600,
+   "stage": "비공개",
+   "investors": [
+    "Vitamin°C",
+    "Climentum Capital",
+    "EIFO"
+   ],
+   "lead_investor": "Vitamin°C",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "덴마크의 패션테크 스타트업 로디니아 제너레이션이 의류 생산 기술 개발을 위해 400만 유로를 유치했습니다. 이번 자금은 포르투갈에 상업 규모의 시설 건립에 사용될 예정이며, 2027년 완성을 목표로 하고 있습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/fashiontech-startup-rodinia-generation-aims-to-save-100-billion-litres-of-water-annually-secures-e4-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "company": "TravClan",
+   "sector": "커머스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Flipkart"
+   ],
+   "lead_investor": "Flipkart",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "여행사의 디지털화를 지원하는 인도 여행 플랫폼 TravClan이 Flipkart의 투자를 유치했다. 이전에 TravClan은 미화 470만 달러를 모금한 바 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/flipkart-quick-commerce-helps-lift-walmart-sales"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/flipkart-acquires-minority-stake-travclan"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "company": "Fleuret AI",
+   "sector": "보안",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4481600,
+   "stage": "프리시드",
+   "investors": [
+    "RAISE Ventures",
+    "Auriga Cyber Ventures",
+    "Wind Capital",
+    "Better Angle"
+   ],
+   "lead_investor": "RAISE Ventures",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반 사이버보안 스타트업 Fleuret AI가 AI 에이전트로 침투 테스트를 자동화하는 플랫폼을 개발하기 위해 400만 유로 규모의 프리시드 라운드 펀딩을 조성했다. RAISE Ventures가 주도 투자했으며, Auriga Cyber Ventures, Wind Capital, Better Angle 등이 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/05/fleuret-ai-raises-eur4m-to-advance-ai-powered-offensive-cybersecurity-in-europe/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/french-cybersecurity-startup-fleuret-ai-raises-e4-million-to-automate-penetration-testing-with-ai-agents/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "company": "Buntar Aerospace",
+   "sector": "보안",
+   "amount_original": {
+    "value": 16.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 16000000,
+   "stage": "비공개",
+   "investors": [
+    "Freedom Fund"
+   ],
+   "lead_investor": "Freedom Fund",
+   "country": "우크라이나",
+   "region": "유럽",
+   "ai_summary_ko": "우크라이나 국방기술 회사 번타르 에어로스페이스가 방위 자율화 기술 확대를 위해 1,600만 달러 펀딩을 완료했습니다. 프리덤 펀드와 국제 성장형 에쿼티 투자자가 주도한 라운드에 가르다르 등이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/05/buntar-aerospace-raises-16m-to-scale-ukrainian-defence-autonomy/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "company": "Namespace",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 42.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 42000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Scale Venture Partners"
+   ],
+   "lead_investor": "Scale Venture Partners",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "취리히 기반 소프트웨어 개발 플랫폼 네임스페이스가 3700만 유로 규모의 시리즈 B 펀딩을 완료했습니다. 이 자금은 제품 개발 가속화 및 데이터센터 확장에 사용될 예정이며, 시리즈 A 이후 7개월 만에 진행되었습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/05/namespace-raises-42m-ssries-b-seven-months-after-series-a/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/namespace-secures-e37-million-to-scale-coding-build-and-test-infrastructure-across-mac-windows-and-linux/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "company": "Ghost",
+   "sector": "AI",
+   "amount_original": {
+    "value": 11.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 11000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Ghost는 AI 에이전트가 사용자를 대신해 작업을 수행할 수 있도록 설계된 개인용 컴퓨터인 Core를 개발하고 있으며, 19세 창업자가 1,100만 달러 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "company": "Factory",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Menlo"
+   ],
+   "lead_investor": "Menlo",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Factory가 Menlo로부터 투자를 유치했다. Khosla의 비판 직후 Menlo가 투자 결정을 발표했으며, Menlo는 긍정적인 블로그 게시물을 함께 발표했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "company": "Etched",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "AI 칩 스타트업 Etched가 최근 자금 조달 이후 수개월 만에 기존 가치의 2배 이상인 400억 달러 이상의 기업 가치로 투자 제안을 받고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-03",
    "company": "정보 부족",
    "sector": "기타",
