@@ -2,6 +2,573 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-07",
+   "company": "ByteDance",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1000000000,
+   "stage": "비공개",
+   "investors": [
+    "ADIA",
+    "Coller EQT"
+   ],
+   "lead_investor": null,
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "ByteDance가 ADIA와 Coller EQT로부터 10억 달러 규모의 펀딩을 유치 중이며, 투자자 배분에 따라 ByteDance의 추정 기업가치는 4천억~4천5백억 달러 수준으로 평가되고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/bytedance-fold-trae-coze-doubao-china-sources"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "OKX",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Circle Internet Group",
+    "Ripple",
+    "SC Ventures"
+   ],
+   "lead_investor": null,
+   "country": null,
+   "region": "기타",
+   "ai_summary_ko": "OKX가 25억 달러 기업가치에서 추가 펀딩을 유치했으며, Circle Internet Group, Ripple, Standard Chartered의 투자 부문인 SC Ventures가 투자자에 포함되었습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/crypto-exchange-okx-adds-social-network-trading-app"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Asaas",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 55.6,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 55600000,
+   "stage": "비공개",
+   "investors": [
+    "Institutional investors"
+   ],
+   "lead_investor": null,
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질 핀테크 기업 Asaas가 FIDC(금융채권 발행)를 통해 5,560만 달러를 조달했습니다. 기관투자자들이 시니어 주식을 통해 5,190만 달러를 제공했으며, 이 자금은 중소기업의 미수금 금융에 사용됩니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/asaas-raises-55-6m-fidc-to-finance-smb-receivables-in-brazil/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "BioLinker",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 1.7,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1700000,
+   "stage": "비공개",
+   "investors": [
+    "Axcell",
+    "FAPESP"
+   ],
+   "lead_investor": "Axcell",
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질 바이오테크 스타트업 BioLinker가 170만 달러 규모의 펀딩을 유치했습니다. Axcell이 140만 달러를 주도 투자했으며, FAPESP도 참여했습니다. 이 자금은 아마존에 자동화된 바이오테크 랩 구축에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/biolinker-raises-1-7m-to-build-automated-biotech-lab-in-the-amazon/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Beyond Appliances",
+   "sector": "기타",
+   "amount_original": {
+    "value": 110.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 11407000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Fireside Ventures"
+   ],
+   "lead_investor": "Fireside Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 기반의 주방 가전 브랜드인 Beyond Appliances가 Fireside Ventures가 주도한 시리즈 B 라운드에서 110억 루피를 조달했다. 이 자금은 R&D, 제품 포트폴리오 확대, 그리고 새로운 제조 시설 설립에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/beyond-appliances-raises-rs-110-cr-series-b-fireside-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "WhiteLab Genomics",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 23.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 26144080,
+   "stage": "시리즈 B",
+   "investors": [
+    "AVP",
+    "Yaday Health"
+   ],
+   "lead_investor": "AVP",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반 바이오테크 회사 WhiteLab Genomics가 2,320만 유로 규모의 시리즈 B 펀딩라운드를 완료했습니다. 20억 유로 이상의 자산을 운용 중인 독립 글로벌 투자사 AVP가 이번 라운드를 주도했으며, Yaday Health 등 신규 투자자들도 참여했습니다. AI를 활용한 유전체 의학 개발 가속화를 목표로 하고 있습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/paris-based-whitelab-genomics-raises-e23-2-million-to-accelerate-ai-driven-genomic-medicine-development/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "AI startups (multiple)",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2000000,
+   "stage": "비공개",
+   "investors": [
+    "Granite Asia",
+    "Google"
+   ],
+   "lead_investor": "Granite Asia",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "Granite Asia와 Google이 파트너십을 통해 AI 스타트업들에 최대 200만 달러까지 투자하며, 선정된 스타트업들은 Google Cloud 및 Gemini 크레딧 최대 35만 달러를 추가로 지원받는다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/dbs-granite-asia-launch-110m-ai-ipo-fund-for-asian-firms"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "CloudsineAI",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "V-Key"
+   ],
+   "lead_investor": "V-Key",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "싱가포르 보안 회사 V-Key가 CloudsineAI에 지분투자를 진행하며, 양사는 V-Key의 신원확인 및 암호화 도구와 CloudsineAI의 웹 무결성 및 AI 보안 제품을 결합하기로 합의했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/singapores-tower-capital-asia-takes-majority-stake-in-v-key"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Finmid",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 17.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 19157300,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "독일 챌린저 뱅크 N26 창업자의 지원을 받는 베를린 기반 핀테크 회사 Finmid가 시리즈 A 연장 라운드에서 1,700만 유로를 유치했으며, 에스토니아 라이드헤일링 회사 Bolt와의 거래를 체결했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/06/n26-founder-backed-finmid-raises-eur17m-series-a-extension-strikes-bolt-deal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Procuros",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 22538000,
+   "stage": "시리즈 A",
+   "investors": [
+    "XAnge",
+    "W23"
+   ],
+   "lead_investor": "XAnge",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "함부르크 기반 공급망 연결 플랫폼인 Procuros가 2,000만 유로 규모의 시리즈 A 펀딩라운드를 완료했습니다. 이번 라운드는 파리와 베를린에 본사를 둔 유럽 벤처캐피탈 XAnge가 주도했으며, 글로벌 벤처캐피탈 펀드 W23도 참여했습니다. 자율적인 B2B 거래를 위한 AI 기반 인프라 구축을 목표로 하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/06/autonomous-b2b-trade-gets-a-boost-as-procuros-raises-eur20m/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/hamburgs-procuros-raises-e20-million-series-a-to-build-ai-native-infrastructure-for-autonomous-b2b-trade/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Finches",
+   "sector": "농업",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2253800,
+   "stage": "프리시드",
+   "investors": [
+    "Bayern Kapital"
+   ],
+   "lead_investor": "High-Tech Gründerfonds",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/06/finches-lands-eur2m-to-help-food-producers-spot-supply-risks-earlier/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Cleavr",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 8.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 9015200,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": "Varsity",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/06/cleavr-bags-eur8m-to-scale-ai-powered-invoice-collection-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Nettle",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4800000,
+   "stage": "시드",
+   "investors": [
+    "Project A Ventures"
+   ],
+   "lead_investor": "MTech",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/06/nettle-raises-48m-to-expand-its-ai-workspace-for-insurers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Hadrian",
+   "sector": "AI",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 40000000,
+   "stage": "비공개",
+   "investors": [
+    "HV Capital",
+    "Motive Partners",
+    "Forgepoint Capital International",
+    "SmartFin",
+    "Picus Capital"
+   ],
+   "lead_investor": "Forgepoint Capital International",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던-암스테르담 기반의 방어 보안 플랫폼 Hadrian이 3,568만 유로 규모의 펀딩라운드를 완료했습니다. Forgepoint Capital International과 SmartFin이 주도했으며, 기존 투자자인 HV Capital, Motive Partners, Picus Capital도 참여했습니다. EMEA와 미국 지역 확장 및 엔지니어링 연구팀 강화에 투자금을 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/06/hadrian-raises-40m-to-tackle-ai-driven-cyber-threats/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/london-amsterdam-based-hadrian-raises-e35-68-million-to-scale-its-agentic-ai-offensive-security-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Comparables.ai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/06/comparablesai-secures-6m-seed-to-scale-its-ai-platform-for-dealmakers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Spiko",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 90.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 90000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "New Enterprise Associates",
+    "New Enterprise"
+   ],
+   "lead_investor": "New Enterprise Associates",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리와 런던에 본사를 둔 토큰화된 현금 펀드 플랫폼 스피코가 시리즈 B 라운드에서 약 8,000만 유로를 투자 유치했습니다. 이는 2025년 7월의 1,890만 유로 시리즈 A에 이어진 투자로, 누적 펀딩은 약 1억 670만 유로에 달합니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/06/nea-leads-spikos-90m-series-b-to-expand-access-to-cash-yield/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/paris-and-london-based-spiko-raises-nearly-e80-million-to-help-businesses-and-individuals-put-idle-cash-to-work/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "SimpL",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1352280,
+   "stage": "프리시드",
+   "investors": [
+    "Techshop Capital"
+   ],
+   "lead_investor": "Techshop Capital",
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "이탈리아 스타트업 SimpL이 B2B 영업 기회 창출을 위한 AI 기반 운영 시스템 개발을 위해 프리시드 라운드에서 120만 유로를 조성했습니다. 이번 라운드는 Techshop Capital이 주도했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/06/italian-simpl-raises-eur12m-to-power-b2b-sales-with-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Vates",
+   "sector": "기타",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 33807000,
+   "stage": "그로스",
+   "investors": [
+    "IRIS",
+    "Bpifrance"
+   ],
+   "lead_investor": null,
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스 가상화 회사 Vates가 IRIS Growth fund와 Bpifrance LargeVenture fund로부터 3000만 유로의 투자를 유치했습니다. 이번 투자는 글로벌 가상화 시장의 변화 속에서 전 세계적 확장을 추진하기 위한 것입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/06/iris-and-bpifrance-back-vates-with-eur30m-for-global-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Edonia",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 16903500,
+   "stage": "비공개",
+   "investors": [
+    "SWEN Blue Ocean 2",
+    "Asterion Ventures",
+    "EIT Food",
+    "Bpifrance"
+   ],
+   "lead_investor": "SWEN Blue Ocean 2",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스 푸드테크 스타트업 에도니아가 미세조류 기반 육류 대체 단백질 성분 상용화를 위해 1,500만 유로를 투자 유치했습니다. 이번 라운드는 SWEN Blue Ocean 2, Asterion Ventures 등이 주도했으며, 2024년 200만 유로 투자에 이어진 후속 투자입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/06/edonia-raises-eur15m-to-scale-microalgae-protein-as-an-alternative-to-meat/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/up-to-27-times-lower-carbon-footprint-than-beef-edonia-raises-e15-million-for-their-meat-alternative/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Furientis",
+   "sector": "기타",
+   "amount_original": {
+    "value": 25.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 25000000,
+   "stage": "비공개",
+   "investors": [
+    "Benchmark"
+   ],
+   "lead_investor": "Benchmark",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Furientis가 저비용 미사일 요격기 대량 생산을 위해 벤치마크로부터 2,500만 달러를 유치했습니다. 이는 실리콘밸리의 유명 펀드 벤치마크가 순수 방위 산업에 처음으로 투자한 사례입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Lambda",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 4000000000,
+   "stage": "비공개",
+   "investors": [
+    "Coatue",
+    "Blackstone"
+   ],
+   "lead_investor": "Coatue",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "엔비디아가 지원하는 AI 컴퓨팅 스타트업 Lambda가 2027년 IPO를 앞두고 코우토와 블랙스톤 주도로 45억 달러 기업가치 평가에서 최대 40억 달러를 조달 중이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "company": "Melius",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "전 Ramp 엔지니어들이 설립한 Melius가 2,000만 달러를 투자유치했다. 마케터들의 광고 비용 관리에서 벗어나 크리에이티브 자산과 캠페인 생성 도구 개발에 집중하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-05",
    "company": "Reuse",
    "sector": "기타",
