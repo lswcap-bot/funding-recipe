@@ -3,6 +3,476 @@
  "deals": [
   {
    "date": "2026-10-07",
+   "company": "Firmus",
+   "sector": "AI",
+   "amount_original": {
+    "value": 7.1,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 7100000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Firmus는 ASX 상장을 통해 71억 달러의 펀딩을 조달하고 있으며, 이 중 44억 달러를 엔비디아 서버 구매 및 배포에 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/asx/firmus-will-spend-4-4-billion-on-servers-and-deployment-from-asx-raise/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Recur Club",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 500.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 51700000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Recur Club이 D2C 브랜드를 위해 5억 루피 규모의 펀드를 출범했다. 이 펀드는 축제 시즌 동안 D2C 브랜드들이 직면한 재고 자금 조달과 생산 능력 확대라는 두 가지 핵심 자본 과제를 해결하는 것을 목표로 한다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/festive-season-bonanza-recur-club-launches-rs-500-cr-fund-for-d2c-brands"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "byteXL",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 9.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 9000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "AI 기반 대학 연계 기술 교육을 제공하는 하이드라바드 소재 에듀테크 스타트업 byteXL이 900만 달러를 투자유치했습니다. 이 자금으로 대학 네트워크 확대, AI 학습 도구 강화, 15개 주의 50만 명 공학생 대상 서비스 확대를 추진할 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/edtech-firm-bytexl-9m-investors-back-college-linked-ai-skilling-model"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Sunfox Technologies",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 7.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "심장진단 플랫폼을 개발하는 의료기기 스타트업 Sunfox Technologies가 700만 달러를 투자유치했습니다. 이 자금은 인도 내 사업 확대, 글로벌 시장 진출 역량 강화, 스케일업 및 연구개발에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/medtech-company-sunfox-technologies-raises-7m"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Lumio",
+   "sector": "기타",
+   "amount_original": {
+    "value": 12.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 12000000,
+   "stage": "비공개",
+   "investors": [
+    "Blume Ventures"
+   ],
+   "lead_investor": "Blume Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Lumio는 Blume Ventures가 주도한 1200만 달러 규모의 펀딩을 유치했다. 이 자금은 R&D, 제품 브랜딩 및 인재 채용에 활용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/consumer-tech-brand-lumio-raises-12-million-led-by-blume-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Quanfluence",
+   "sector": "기타",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [
+    "Chiratae Ventures"
+   ],
+   "lead_investor": "Chiratae Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Quanfluence는 Chiratae Ventures가 주도한 1000만 달러 규모의 펀딩을 유치했다. 이 자금은 풀스택 포토닉 양자컴퓨터 개발에 사용되며, 2027년까지 초기 프로세서, 2029년까지 확장 가능한 머신 출시를 목표로 하고 있다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/deeptech-startup-quanfluence-raises-10m-led-by-chiratae-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Konsileo",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 5.9,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6594430,
+   "stage": "비공개",
+   "investors": [
+    "Committed Capital",
+    "ACF Investors"
+   ],
+   "lead_investor": "Committed Capital",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/uk-based-insurtech-konsileo-raises-e5-9-million-to-expand-its-team-and-integrate-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Netsec",
+   "sector": "보안",
+   "amount_original": {
+    "value": 8.93,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 9981061,
+   "stage": "비공개",
+   "investors": [
+    "Partech",
+    "Primo Capital",
+    "View Different"
+   ],
+   "lead_investor": "Partech",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "사이버보안 및 관리형 IT 서비스를 제공하는 유럽 기업 Netsec이 AI 기반 솔루션 확대를 위해 €8.93백만을 조달했다. 파리 기반 벤처캐피탈 Partech가 라운드를 주도했으며, Primo Capital과 전 Amazon 경영진 Diego Piacentini의 투자 전담회사 View Different가 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/france-and-italy-based-netsec-raises-over-e8-93-million-to-scale-its-ai-native-solution-for-cybersecurity-and-it/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "VoltR",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 16.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 17883200,
+   "stage": "비공개",
+   "investors": [
+    "SPI 2 Fund"
+   ],
+   "lead_investor": "SPI 2 Fund",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스 친환경 설계 리튬 배터리 제조업체 VoltR이 산업화 가속화를 위해 €16백만의 주식 투자와 €6백만의 보조금(Première Usine 프로그램)을 포함한 총 €22백만을 조달했다. 주식 투자는 Bpifrance가 관리하는 SPI 2 Fund로부터 확보했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/french-startup-voltr-secures-e22-million-to-scale-lithium-battery-remanufacturing-in-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Rivercell",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 22.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 24589400,
+   "stage": "시드",
+   "investors": [
+    "HV",
+    "HCVC",
+    "Alven",
+    "Bpifrance Digital Venture"
+   ],
+   "lead_investor": "HV",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반 바이오테크·AI 기업 Rivercell이 인간 세포가 치료에 반응하는 방식을 예측하는 고유한 세포 반응 데이터 인프라와 세계 모델을 구축하며 €22백만 규모의 시드 라운드로 스텔스 모드를 빠져나갔다. HV가 라운드를 주도했으며, HCVC, Alven, Bpifrance Digital Venture가 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/frances-rivercell-emerges-from-stealth-with-e22-million-for-ai-powered-drug-discovery-infrastructure/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "DeepSeek",
+   "sector": "기타",
+   "amount_original": {
+    "value": 11.9,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 11900000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "동아시아",
+   "ai_summary_ko": "DeepSeek이 7월부터 시작한 펀딩 라운드에서 약 74.6억 달러의 기업가치 평가를 목표로 11.9억 달러를 모금하고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/deepseek-resumes-fundraising-74b-valuation"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Cori Clinical",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "시드",
+   "investors": [
+    "Enzo",
+    "Heartfelt",
+    "Together Ventures",
+    "Bynd",
+    "Breega"
+   ],
+   "lead_investor": "Breega",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Cori Clinical은 임상시험 설계를 개선하고 지연을 단축하는 AI 플랫폼으로, Breega가 주도한 400만 달러 시드 라운드 펀딩을 완료했으며, Enzo, Heartfelt, Together Ventures, Bynd 등이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/07/cori-clinical-secures-4m-seed-to-improve-clinical-trial-design-and-cut-delays/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/londons-cori-clinical-raises-e3-55-million-to-accelerate-clinical-trials-and-reduce-delays/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "MintNeuro",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "비공개",
+   "investors": [
+    "Odyssey Ventures",
+    "33East",
+    "JSK Investments"
+   ],
+   "lead_investor": "Odyssey Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "신경 임플란트와 웨어러블 기기용 특화된 칩을 개발하는 영국 반도체 기업 MintNeuro가 제품 출시 가속화와 국제 진출 확대를 위해 €4.4백만을 조달했다. Odyssey Ventures가 라운드를 주도했으며, 33East, JSK Investments 등이 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/07/mintneuro-raises-5m-to-scale-chips-purpose-built-for-neural-devices/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/neural-chips-for-parkinsons-and-epilepsy-draw-e4-4-million-for-london-startup-mintneuro/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Noah",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 38.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 38000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Noah는 스테이블코인 인프라 구축 스타트업으로, 3,800만 달러의 시드 펀딩을 성공적으로 마감했습니다. 이번 라운드에서 추가로 1,600만 달러를 유치했으며, 2020년 설립된 회사는 지난해 2,200만 달러를 시드 라운드로 모금한 바 있습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/07/uk-stablecoin-infrastructure-startup-noah-closes-38m-seed-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Parallel Systems",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "SpaceX 출신 인력이 설립한 Parallel Systems는 자율주행 전기 철도 차량의 생산 확대를 위해 1억 달러 펀딩을 조성했으며, 이 차량은 최대 500마일까지 수천 파운드의 화물을 운송할 수 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Bloom",
+   "sector": "기타",
+   "amount_original": {
+    "value": 3.6,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3600000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Detroit 스타트업 Bloom은 드론과 로봇 회사들이 미국 기반 제조업체와 배송업체를 찾을 수 있도록 지원하는 플랫폼을 위해 360만 달러 펀딩을 조성했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Healthleap",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 A",
+   "investors": [
+    "Hummingbird Ventures"
+   ],
+   "lead_investor": "Hummingbird Ventures",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Healthleap은 Hummingbird Ventures의 주도로 3,000만 달러 시리즈 A 펀딩을 통해 병원 환자 모니터링 AI 기술을 확장하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Healthleap",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [
+    "Sequoia Capital",
+    "First Round Capital"
+   ],
+   "lead_investor": "Sequoia Capital",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Healthleap은 병원 환자 중 더 세밀한 진료가 필요한 환자를 식별하는 AI 도구를 개발했으며, Sequoia Capital과 First Round Capital의 공동 주도로 800만 달러 시드 펀딩을 조성했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "company": "Nous Research",
+   "sector": "AI",
+   "amount_original": {
+    "value": 90.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 90000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Nous Research는 Hermes Agent의 개발사로, 9천만 달러의 시리즈 B 투자를 유치했습니다. 이를 통해 기업 사용자를 위한 AI 에이전트를 출시하며, 회사는 15억 달러의 기업가치를 달성했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
    "company": "ByteDance",
    "sector": "AI",
    "amount_original": {

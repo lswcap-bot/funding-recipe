@@ -5249,8 +5249,12 @@
    "date": "2026-09-11",
    "company": "Mecka AI",
    "sector": "로보틱스",
-   "amount_original": null,
-   "amount_usd": null,
+   "amount_original": {
+    "value": 60.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 60000000,
    "stage": "시리즈 A",
    "investors": [
     "Sequoia"
@@ -5258,11 +5262,15 @@
    "lead_investor": "Sequoia",
    "country": "미국",
    "region": "북미",
-   "ai_summary_ko": null,
+   "ai_summary_ko": "Mecka AI는 인간의 동작 데이터를 수집하고 분석하여 휴머노이드 로봇 및 기타 로봇 훈련에 사용하는 스타트업입니다. 일상적인 작업을 기록하는 사람들에게 보상을 지급하는 방식으로 운영됩니다. 이번에 Sequoia로부터 6천만 달러의 투자를 유치했습니다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/"
     }
    ]
   },
