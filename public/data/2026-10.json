@@ -2,6 +2,372 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-09",
+   "company": "Isomorphic Labs",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.1,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 2100000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Isomorphic Labs는 알파벳 산하 회사로, 5개월 전 시리즈 B 라운드에서 미화 21억 달러를 투자 유치했으며, 현재 최대 500억 달러의 기업가치 평가를 받고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/zuckerberg-backed-biohubs-ai-biology-effort-hits-1-8b"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "Diraq",
+   "sector": "AI",
+   "amount_original": {
+    "value": 73.0,
+    "currency": "AUD",
+    "unit": "million"
+   },
+   "amount_usd": 50687550,
+   "stage": "비공개",
+   "investors": [
+    "DARPA"
+   ],
+   "lead_investor": "DARPA",
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Diraq이 DARPA로부터 A$73백만을 투자받아 실리콘 양자 기술의 확장성을 입증하기 위한 프로젝트를 진행하고 있습니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/us-defence-invests-73-million-in-diraq-with-another-357m-on-the-table/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "IMMIX",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 3.12,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3490032,
+   "stage": "시리즈 A",
+   "investors": [
+    "Crane Venture Partners",
+    "BTSE",
+    "Portfolio Ventures"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 AI 네이티브 트레이딩 펌인 IMMIX가 스테이블코인 통화 환전을 위한 FX 인프라 구축을 위해 크레인 벤처 파트너스, BTSE, 포트폴리오 벤처스로부터 €3.12 million을 조달했다. 이전 시드라운드에서 MassMutual Ventures와 Ripple Ventures로부터 €2.5 million을 조달한 바 있다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/londons-immix-secures-e3-12-million-to-build-fx-infrastructure-for-stablecoin-payments-beyond-the-us-dollar/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "NeoFleet Capital",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 3.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3915100,
+   "stage": "프리시드",
+   "investors": [
+    "Mark Loughran"
+   ],
+   "lead_investor": "Mark Loughran",
+   "country": "키프로스",
+   "region": "유럽",
+   "ai_summary_ko": "림마솔 기반의 NeoFleet Capital이 신흥시장의 택시 차량을 금융하는 플랫폼으로서 프리시드 단계에서 350만 유로를 유치했다. 전 인드라이브 회장겸 CFO인 Mark Loughran이 주요 투자자로 참여하여 회장 겸 공동창립자로 합류했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/limassol-based-neofleet-capital-raises-e3-5-million-to-finance-taxi-fleets-across-emerging-markets/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "Elvy",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Leonardo DiCaprio"
+   ],
+   "lead_investor": "Leonardo DiCaprio",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스톡홀름 기반의 가정용 에너지 전환 솔루션 제공 회사인 Elvy가 할리우드 배우 레오나르도 디카프리오로부터 투자를 유치했다. 투자 규모는 공개되지 않았으며, 고객 추천 플랫폼 출시도 함께 발표했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/leonardo-dicaprio-yes-that-leo-announces-investment-in-swedish-energytech-startup-elvy/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "Butterfly Effect",
+   "sector": "AI",
+   "amount_original": {
+    "value": 500.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 500000000,
+   "stage": "비공개",
+   "investors": [
+    "Boyu Capital",
+    "IDG Capital",
+    "Tencent",
+    "HSG",
+    "ZhenFund"
+   ],
+   "lead_investor": "Boyu Capital",
+   "country": "중국",
+   "region": "동남아",
+   "ai_summary_ko": "Butterfly Effect는 사용자를 대신해 작업과 워크플로우를 실행할 수 있는 AI 에이전트를 개발하는 회사로, 텍스트 생성만 하는 기존 AI와 다르다. 5억 달러 이상의 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/china-blocks-metas-manus-acquisition"
+    },
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/08/manus-parent-butterfly-effect-completes-more-than-500-million-funding-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "DailyObjects",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 34.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 34400000,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "디자인 중심의 라이프스타일 테크 브랜드 DailyObjects가 시리즈 C 펀딩 라운드에서 332크로르 루피를 유치했습니다. 이 자금은 소매 확장, 연구개발, 브랜드 구축 및 국제 진출에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/360-one-asset-leads-7-7m-pre-series-b-in-indias-home-essentials"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/dailyobjects-raises-rs-332-cr-in-series-c-funding-round"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "Golbriak Space",
+   "sector": "기타",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4474400,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "에스토니아",
+   "region": "유럽",
+   "ai_summary_ko": "에스토니아의 Golbriak Space는 위성 별자리용 레이저 통신 기술의 산업화 가속화 및 생산 능력 확대를 위해 400만 유로의 펀딩을 확보했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/08/golbriak-space-raises-eur4m-to-scale-laser-communications-for-satellite-constellations/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "Verso",
+   "sector": "AI",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6000000,
+   "stage": "시드",
+   "investors": [
+    "Angular Ventures",
+    "100in",
+    "KimaVentures",
+    "Olympe Capital",
+    "Sharpstone"
+   ],
+   "lead_investor": "Angular Ventures",
+   "country": "미상",
+   "region": "유럽",
+   "ai_summary_ko": "Verso는 소비자 인텔리전스 플랫폼으로 Angular Ventures 주도의 600만 달러 시드 펀딩을 유치했으며, 100in, KimaVentures, Olympe Capital, Sharpstone 등이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/08/verso-raises-6m-to-bring-consumer-intelligence-into-business-decision-making/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "TODAY",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 2.8,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3132080,
+   "stage": "시드",
+   "investors": [
+    "High-Tech Gründerfonds",
+    "Insurtech Gateway",
+    "SeedX",
+    "Lucid Capital",
+    "Herbert Rogenhofer",
+    "Pierre Dubosq"
+   ],
+   "lead_investor": null,
+   "country": "미상",
+   "region": "유럽",
+   "ai_summary_ko": "코펜하겐 기반 금융 및 보험 어드바이저를 위한 AI 판매 운영 시스템을 제공하는 TODAY가 High-Tech Gründerfonds와 InsurTech Gateway의 공동 주도로 €2.8 million의 시드 펀딩을 확보했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/08/today-lands-eur28m-to-scale-its-ai-platform-for-financial-advisors/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/copenhagens-today-raises-e2-8-million-to-bring-compliant-ai-agents-to-financial-and-insurance-advisors/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "Innercrowd",
+   "sector": "기타",
+   "amount_original": {
+    "value": 750.0,
+    "currency": "EUR",
+    "unit": "thousand"
+   },
+   "amount_usd": 838950,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/08/dutch-startup-innercrowd-raises-eur750k-to-turn-festival-fans-into-marketers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "Universal Quantum",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "브라이튼 기반의 Universal Quantum이 양자컴퓨팅 시스템 개발사로서 영국 양자 기업 중 최대 규모의 시리즈 A 펀딩인 8900만 유로를 유치했다. 이번 자금으로 글로벌 확장과 모듈형 양자컴퓨터 상용화를 가속화할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/08/university-of-sussex-quantum-spinout-raises-record-ps100m-series-a/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/universal-quantum-secures-uks-largest-quantum-series-a-with-e89-million-to-scale-modular-quantum-computers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "TrueLayer",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 27.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 27000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/08/truelayer-captures-27m-investment-as-targets-italy-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "company": "Arena (LMArena leaderboard)",
+   "sector": "AI",
+   "amount_original": {
+    "value": 200.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 200000000,
+   "stage": "비공개",
+   "investors": [
+    "Lightspeed",
+    "Khosla"
+   ],
+   "lead_investor": "Lightspeed",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "인기 있는 AI 모델 평가 플랫폼 LMArena를 운영하는 회사가 라이트스피드와 코슬라 벤처스 주도로 2억 달러를 유치했다. 10개월 만에 기업 가치가 31억 달러로 거의 2배 증가했으며, AI 모델의 거짓 말하기 등 정렬 문제를 측정하는 사업을 확대하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-07",
    "company": "Firmus",
    "sector": "AI",
@@ -252,7 +618,7 @@
   {
    "date": "2026-10-07",
    "company": "DeepSeek",
-   "sector": "기타",
+   "sector": "AI",
    "amount_original": {
     "value": 11.9,
     "currency": "USD",
@@ -260,15 +626,22 @@
    },
    "amount_usd": 11900000000,
    "stage": "비공개",
-   "investors": [],
+   "investors": [
+    "Tencent",
+    "CATL"
+   ],
    "lead_investor": null,
-   "country": null,
+   "country": "중국",
    "region": "동아시아",
-   "ai_summary_ko": "DeepSeek이 7월부터 시작한 펀딩 라운드에서 약 74.6억 달러의 기업가치 평가를 목표로 11.9억 달러를 모금하고 있다.",
+   "ai_summary_ko": "AI 분야의 중국 기업 DeepSeek이 텐센트, CATL 등이 참여하는 라운드에서 최소 120억 달러(약 800억 위안)의 펀딩을 확보하고 있다. 초기 목표액 50억 위안을 초과하는 투자자 관심을 받고 있다.",
    "sources": [
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/deepseek-resumes-fundraising-74b-valuation"
+    },
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/08/deepseek-reportedly-nears-12-billion-funding-round-backed-by-tencent-and-catl/"
     }
    ]
   },
