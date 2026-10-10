@@ -2,6 +2,252 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-10",
+   "company": "Terra Charge",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/from-backend-to-bedtime"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "company": "Supabase",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/from-backend-to-bedtime"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "company": "NeoGrowth",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 85.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 8789000,
+   "stage": "비공개",
+   "investors": [
+    "FMO"
+   ],
+   "lead_investor": "FMO",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "NeoGrowth가 FMO 주도로 85크로어 루피의 투자를 유치했습니다. 이 자금은 MSME의 신용 접근성 확대, 디지털 대출 역량 강화, 시장 진출 확대에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/neogrowth-raises-rs-85-crore-led-by-fmo"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "company": "Besso",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 4.29,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4807374,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "베른 기반의 국제 무역 규제 관리 솔루션 업체 베소가 유럽의 한 대규모 패밀리 오피스로부터 €4.29 million 펀딩을 조달했습니다. 기존 초기 단계 펀딩 라운드와 달리 단일 투자자로부터의 자금 조달입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/bern-based-besso-raises-e4-29-million-to-scale-its-ai-powered-trade-regulation-intelligence-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "company": "Klarent",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 7.13,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 7989878,
+   "stage": "시드",
+   "investors": [
+    "Mosaic Ventures",
+    "Moonfire Ventures",
+    "Jürgen Galler",
+    "Harris Barton",
+    "AngelInvest Ventures"
+   ],
+   "lead_investor": "Mosaic Ventures",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "취리히 기반 자율 소프트웨어 테스팅 스타트업 클라렌트가 런던의 모자이크 벤처스 주도로 €7.13 million 규모의 시드 펀딩을 완료했습니다. 문파이어 벤처스와 구글 전 이사 등 유명 엔젤 투자자들이 참여했으며, 미국 시장 진출을 계획하고 있습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/zurichs-klarent-raises-e7-13-million-to-scale-its-agentic-software-testing-platform-and-expand-into-the-us/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "company": "Sava Technologies",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 B",
+   "investors": [
+    "Ascensia",
+    "Balderton Capital",
+    "Norrsken VC",
+    "Simplyhealth Ventures",
+    "JamJar Investments",
+    "Pentland"
+   ],
+   "lead_investor": "Ascensia",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던의 헬스테크 스타트업 사바 테크놀로지스가 시리즈 B 라운드에서 3,208만 유로를 유치했다. 피부 아래 분자를 감지하는 웨어러블 바이오센서 플랫폼을 개발 중이며, 제조 확장과 상용화 준비 자금으로 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/londons-sava-raises-e32-08-million-and-partners-with-ascensia-to-bring-its-glucose-microsensor-to-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "company": "SpectaCell",
+   "sector": "바이오",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [
+    "imec.xpand",
+    "PMV's Flanders Future Tech Fund",
+    "InnovationQuarter Capital",
+    "Qbic",
+    "VIB"
+   ],
+   "lead_investor": "imec.xpand",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "벨기에 겐트의 세포 분석 플랫폼 개발 스타트업 스펙타셀이 공식 출범했다. 면역치료 개발용 차세대 세포 분석 기술을 개발 중이며, 시드 단계에서 600만 유로를 유치했다. imec.xpand가 주도 투자자로 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/ghent-based-spectacell-launches-with-e6-million-to-advance-its-cell-analysis-platform-for-immunotherapy-development/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "company": "Arena Intelligence",
+   "sector": "AI",
+   "amount_original": {
+    "value": 200.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 200000000,
+   "stage": "비공개",
+   "investors": [
+    "Lightspeed",
+    "Khosla"
+   ],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Arena Intelligence가 Lightspeed와 Khosla를 주도 투자자로 하여 2억 달러 규모의 투자를 유치했다. 이 스타트업은 캘리포니아 버클리 대학교 Sky Computing Lab의 연구 프로젝트인 Chatbot Arena에서 출발했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/oases-helps-enterprises-maximize-hong-kongs-strengths"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "company": "OllyGarden",
+   "sector": "기타",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "비공개",
+   "investors": [
+    "Next Frontier Capital",
+    "Grand"
+   ],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "OllyGarden은 텔레메트리 품질 개선을 위한 옵저버빌리티 플랫폼으로, $4백만의 벤처캐피탈 펀딩을 유치했습니다. Next Frontier Capital과 Grand를 포함한 투자자들의 지원으로 기술 개발을 진행할 계획입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/09/ollygarden-bags-4m-to-improve-telemetry-quality/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "company": "Autentic AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1680900,
+   "stage": "프리시드",
+   "investors": [
+    "Baobab Ventures",
+    "Lanai Ventures",
+    "Acurio Ventures",
+    "Masia VC"
+   ],
+   "lead_investor": null,
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "Autentic AI는 AI 기반 시장 조사 기술을 개발하는 스페인 스타트업으로, 창업자들은 Dani Diestre, Aniol Carreras, Jacob Bamio입니다. 이번 라운드에서 프리시드 단계로 €1.5백만을 유치하여 기술 개발을 가속화할 계획입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/09/spanish-autentic-ai-raises-eur15m-to-accelerate-ai-powered-market-research/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-09",
    "company": "Isomorphic Labs",
    "sector": "AI",
@@ -315,6 +561,10 @@
     {
      "name": "EU-Startups",
      "url": "https://www.eu-startups.com/2026/10/universal-quantum-secures-uks-largest-quantum-series-a-with-e89-million-to-scale-modular-quantum-computers/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/09/universal-quantum-raises-100m-sap-buys-techwolf-and-european-startups-raise-five-times-more-funding-in-september-than-august/"
     }
    ]
   },
@@ -481,6 +731,10 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/10/consumer-tech-brand-lumio-raises-12-million-led-by-blume-ventures"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/from-backend-to-bedtime"
     }
    ]
   },
