@@ -3,6 +3,104 @@
  "deals": [
   {
    "date": "2026-10-10",
+   "company": "NIMO",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "CNY",
+    "unit": "billion"
+   },
+   "amount_usd": 224145000,
+   "stage": "천사",
+   "investors": [
+    "Gobi Partners"
+   ],
+   "lead_investor": "Gobi Partners",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 AI 안경 브랜드 NIMO를 개발한 스타트업이 천사 투자로 수억 위안을 유치하여 기업가치 15억 위안에 도달했습니다. Gobi Partners를 포함한 여러 중국 벤처캐피탈이 투자했으며, 회사는 일상용 스마트 안경을 개발하고 오프라인 판매 채널을 구축했습니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/10/ai-glasses-brand-nimo-secures-angel-funding-at-rmb-1-5-billion-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "company": "LivSyn Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14943000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Suwen Electric Energy"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "베이징의 로봇 회사 LivSyn Robotics가 시리즈 A 펀딩 라운드에서 최소 1억 위안을 유치했습니다. 이번 라운드에는 상장 에너지 서비스 회사인 Suwen Electric Energy와 구체명 미공개의 AI 로봇 전문 전략 투자자가 참여했습니다. LivSyn은 서로 다른 로봇 설계를 연결하는 RUDA(Robotics Unified Device Architecture) 플랫폼을 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/10/livsyn-robotics-raises-series-a-funding-for-platform-connecting-robots-with-ai-models/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "company": "Nat Habit",
+   "sector": "기타",
+   "amount_original": {
+    "value": 142.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 14682800,
+   "stage": "시리즈 C",
+   "investors": [
+    "Trident Growth Partners"
+   ],
+   "lead_investor": "Trident Growth Partners",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Nat Habit이 Trident Growth Partners가 주도하는 시리즈 C 라운드에서 1억 4,200만 루피를 조달했습니다. 이 자금은 제품 포트폴리오 확대, 유통망 확장, 제조 시설 확충에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/nat-habit-raises-rs-142-cr-in-series-c-led-by-trident-growth-partners"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "company": "SPUN Global",
+   "sector": "기타",
+   "amount_original": {
+    "value": 1.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1800000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도네시아",
+   "region": "동남아",
+   "ai_summary_ko": "SPUN Global은 인도네시아 비자 벤처에서 분사한 회사로, 2026년 초 시드 펀딩으로 180만 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/antler-backs-1-8m-round-in-indonesian-travel-startup-spun"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
    "company": "Terra Charge",
    "sector": "기타",
    "amount_original": null,
