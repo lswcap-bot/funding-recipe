@@ -2,6 +2,370 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-13",
+   "company": "Mesa School of Business",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 110.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 11484000,
+   "stage": "비공개",
+   "investors": [
+    "Dharana Capital",
+    "Elevation Capital"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Mesa School of Business가 2026년 10월에 Dharana Capital과 Elevation Capital의 공동 주도로 1억 1,000만 루피를 투자받았다. 투자금은 기존 프로그램의 AI 기반 커리큘럼 구축, 새로운 프로그램 출시 및 성장, 스타트업 생태계와의 전략적 파트너십 구축에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/mesa-school-of-business-raises-rs-110-crore-co-led-dharana-capital-elevation-capital"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "Clueso",
+   "sector": "AI",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "IIT Madras 동문들이 설립한 에이전틱 비디오 스타트업 Clueso가 시리즈 A 라운드에서 1,000만 달러를 조성했습니다. 회사는 자금을 기업 시장 진출 확대, 에이전틱 기술 고도화, 편집 기능 확장에 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/agentic-video-startup-clueso-raises-series-a-funding"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "company": "PONGBOT",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14941000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Shanghai State Investment Pilot Fund",
+    "Hua Capital",
+    "Pudong Venture Capital",
+    "BlueRun Ventures"
+   ],
+   "lead_investor": "Shanghai State Investment Pilot Fund",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 AI 스포츠 하드웨어 회사 PONGBOT이 수억 위안 규모의 시리즈 B 펀딩을 완료했다. 상하이 국유투자 파일럿 펀드가 주도 투자사로 참여했으며, 화 캐피탈과 푸동 벤처캐피탈이 함께했다. 기존 투자자인 블루런 벤처스도 투자를 증가시켰다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/12/sports-training-robot-maker-pongbot-raises-hundreds-of-millions-of-rmb-in-series-b/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "company": "Matrix Innovation",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "X Square Robot",
+    "송산호 투자자본",
+    "XBOT PARK Fund"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 동관의 촉각 센서 제조사 Matrix Innovation이 X Square Robot, 송산호 투자자본, XBOT PARK Fund 등으로부터 수천만 위안의 투자를 유치했습니다. 펀딩은 신세대 데이터 수집 장갑, 공급망 개선, 제조 역량 확대에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/12/tactile-sensor-maker-matrix-innovation-raises-tens-of-millions-of-rmb/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "company": "Infinigence AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.3,
+    "currency": "RMB",
+    "unit": "billion"
+   },
+   "amount_usd": null,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 AI 인프라 제공업체 인피니젠스 AI가 시리즈 C 펀딩라운드에서 23억 위안을 조달했습니다. 누적 펀딩액은 43억 위안이며, 회사는 2023년 설립되어 다양한칩 플랫폼에서 AI 모델을 효율적으로 실행할 수 있는 소프트웨어 및 인프라를 개발합니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/12/ai-infrastructure-provider-infinigence-ai-raises-rmb-2-3-billion-in-series-c-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "company": "Qippay",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "NZD",
+    "unit": "million"
+   },
+   "amount_usd": 2799750,
+   "stage": "비공개",
+   "investors": [
+    "All Roads Wholesale Fund"
+   ],
+   "lead_investor": "All Roads Wholesale Fund",
+   "country": "뉴질랜드",
+   "region": "오세아니아",
+   "ai_summary_ko": "오클랜드 핀테크 회사 Qippay가 All Roads Wholesale Fund로부터 NZ$500만을 투자받아 부모 회사인 Qippay Group의 25% 지분을 양도했다. 이 거래는 완료될 예정이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/kiwi-open-banking-fintech-qippay-pockets-nz5-million-for-25-stake/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "company": "Boldfit",
+   "sector": "기타",
+   "amount_original": {
+    "value": 400.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 41760000,
+   "stage": "비공개",
+   "investors": [
+    "The Wealth Company AIF"
+   ],
+   "lead_investor": "The Wealth Company AIF",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Boldfit가 The Wealth Company AIF로부터 4억 루피를 투자받았다. 투자금은 주로 소매 확장, 제조 증대, 그리고 비유기적 기회 창출을 포함한 성장 관련 활동에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/the-wealth-company-aif-invests-rs-400-crore-in-boldfit"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "company": "Wiremind",
+   "sector": "AI",
+   "amount_original": {
+    "value": 35.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 39133500,
+   "stage": "비공개",
+   "investors": [
+    "IronWave",
+    "Bpifrance Investissement",
+    "Seaya Andromeda"
+   ],
+   "lead_investor": null,
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반 AI 소프트웨어 기업 Wiremind는 설립 12년 만에 첫 투자 라운드인 3,500만 유로를 유치했습니다. IronWave, Bpifrance Investissement, Seaya Andromeda가 이 라운드에 참여했으며, 회사는 운송, 항공화물, 이벤트 산업에 AI 솔루션을 제공하고 있습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/profitable-french-scale-up-wiremind-raises-e35-million-after-12-years-of-bootstrapping/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "company": "HyLight",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 13.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 14535300,
+   "stage": "비공개",
+   "investors": [
+    "Rubio Impact Ventures",
+    "DRW",
+    "Teampact Ventures",
+    "Y Combinator",
+    "Ring Capital"
+   ],
+   "lead_investor": null,
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스 스타트업 HyLight는 유럽의 중요 인프라 점검을 위해 자율 수소 동력 비행선을 개발하는 회사입니다. Rubio Impact Ventures, DRW, Teampact Ventures 등으로부터 1,300만 유로를 유치했으며, 기존 투자자인 Y Combinator와 Ring Capital도 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/hylight-raises-e13-million-for-its-autonomous-airships-inspecting-europes-critical-infrastructure/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "company": "Nuvacore",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": "Sequoia",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "Sequoia의 투자를 받은 칩 스타트업 Nuvacore가 $2.5억 밸류에이션을 추구 중이다. 공동창립자 Gerard Williams는 과거 Qualcomm이 $1.4억에 인수한 Nuvia를 설립했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/sequoia-backs-ex-apple-execs-new-ai-cpu-startup-nuvacore"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "company": "1KOMMA5°",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "독일 에너지테크 유니콘 1KOMMA5°가 최신 펀딩 라운드에서 13억 5천만 달러의 밸류에이션을 달성했습니다. 회사는 AI 기반 에너지 관리 사업에 1억 유로를 투자할 계획입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/12/1komma5-reaches-1-35b-valuation-plans-100m-investment-in-energy-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "company": "Scarlet",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 50000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Headline",
+    "Notion Capital"
+   ],
+   "lead_investor": "Headline",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/12/scarlet-raises-50m-series-b-to-accelerate-ai-medical-device-certification/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "company": "Monopulse",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2236200,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/12/monopulse-raises-over-eur2m-to-advance-electronic-warfare-resistant-drones/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "company": "Former Plaud exec's AI app",
+   "sector": "AI",
+   "amount_original": {
+    "value": 26.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 26000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "전 Plaud 임원진이 설립한 AI 앱이 사용자의 활동을 백그라운드에서 지속적으로 청취하고 맥락을 수집하여 더 나은 지원과 제안을 제공하는 것을 목표로 2,600만 달러의 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "company": "Memobottle",
+   "sector": "기타",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "AUD",
+    "unit": "million"
+   },
+   "amount_usd": 1396220,
+   "stage": "비공개",
+   "investors": [
+    "July founders"
+   ],
+   "lead_investor": "July founders",
+   "country": "오스트레일리아",
+   "region": "오세아니아",
+   "ai_summary_ko": "Memobottle은 July의 창립자들로부터 200만 호주달러를 투자받아 20% 지분을 양도했으며, 이는 회사의 평가액을 1,000만 달러로 책정한다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/july-founders-pour-2-million-into-memobottle-for-a-20-stake/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-10",
    "company": "NIMO",
    "sector": "AI",
