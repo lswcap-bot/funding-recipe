@@ -3,6 +3,397 @@
  "deals": [
   {
    "date": "2026-10-13",
+   "company": "Ola Dimensions",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Tuobang",
+    "Hony Capital"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Ola Dimensions는 홈 로봇 개발 스타트업으로 수억 위안 규모의 천사플러스 펀딩 라운드를 완료했으며, 이는 약 6개월 만에 네 번째 자금 조달이다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/13/home-robot-startup-ola-dimensions-raises-hundreds-of-millions-of-rmb-in-fourth-funding-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "Archa",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 11.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 11000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Archa는 개인 보증을 제거하고 AI로 기업 지출을 관리하는 신용카드 핀테크 솔루션을 위해 1,100만 달러의 에쿼티와 5,000만 달러의 부채를 조달했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/credit-card-fintech-taps-11-million-raise/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "Undecimal Bio",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 16.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 17900800,
+   "stage": "시드",
+   "investors": [
+    "4BIO Capital",
+    "IQ Capital"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "케임브리지 기반 Undecimal Bio는 RNA 의약품의 표적 전달을 위한 AI 기반 플랫폼 DELiveri를 개발하고 있으며, 1600만 유로의 시드 펀딩을 4BIO Capital과 IQ Capital의 주도로 유치했습니다. 이 자금은 간을 넘어 정의된 세포 유형으로 RNA 의약품을 유도할 수 있는 켤레체를 식별하는 플랫폼 확장에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/undecimal-bio-lands-e16-million-to-develop-targeted-rna-medicines-beyond-the-liver/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "Obsero",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1118800,
+   "stage": "시드",
+   "investors": [
+    "SFC Capital"
+   ],
+   "lead_investor": "SFC Capital",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 AI 검색 플랫폼 및 컨설팅 회사 Obsero가 시드 라운드에서 €1백만을 유치했습니다. SFC Capital이 주도 투자자로 참여했고 회사의 여러 고객들도 함께 투자했습니다. 이 자금은 AI 에이전트 개발, 엔지니어링 팀 규모 확대, 시장 진출 가속화에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/londons-obsero-raises-e1-million-to-help-brands-improve-visibility-in-ai-powered-search/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "MakeO",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "싱가포르",
+   "region": "동남아",
+   "ai_summary_ko": "MakeO가 아시아 지역 확장을 위해 1,000만 달러의 자금을 조성했습니다. 이 회사는 2026년 초에 Zenyum을 인수하였으며, 현재 아시아 시장 진출을 가속화하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/paypal-shares-sink-19-after-weak-q4-results-ceo-change"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "CarbonFarm",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 7.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 7831600,
+   "stage": "시리즈 A",
+   "investors": [
+    "Colam Impact",
+    "Proparco",
+    "Suma Capital",
+    "elea",
+    "Working Capital Fund"
+   ],
+   "lead_investor": "Colam Impact",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "CarbonFarm은 벼 재배에서 발생하는 메탄 배출량을 감시하기 위한 디지털 MRV 솔루션 기술을 확장하기 위해 초과 구독된 시리즈 A 펀딩 라운드에서 700만 유로를 조달했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/13/carbonfarm-raises-eur7m-to-tackle-methane-emissions-from-rice-cultivation/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/paris-based-carbonfarm-raises-e7-million-to-tackle-methane-emissions-from-rice-farming/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "ParkMundo",
+   "sector": "기타",
+   "amount_original": {
+    "value": 2.3,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2573240,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "ParkMundo는 공항 주차장 마켓플레이스와 B2B 유통 플랫폼을 확장하기 위해 시드 펀딩 라운드에서 230만 유로를 조달했으며, 이는 회사의 첫 외부 펀딩입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/13/parkmundo-raises-eur23m-to-connect-airport-parking-with-global-travel-platforms/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "Ubitium",
+   "sector": "AI",
+   "amount_original": {
+    "value": 14.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 14000000,
+   "stage": "시드",
+   "investors": [
+    "Ibex Investors"
+   ],
+   "lead_investor": "Ibex Investors",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Ubitium은 자율주행 머신과 물리적 AI 애플리케이션을 위한 범용 프로세서 개발을 목표로 Ibex Investors가 주도하는 시드 펀딩 라운드에서 1,400만 달러를 조달했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/13/ubitium-lands-14m-to-bring-universal-computing-to-physical-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "reebuild",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3356400,
+   "stage": "시드",
+   "investors": [
+    "Fortino Ventures",
+    "Rise PropTech",
+    "CuriosityVC"
+   ],
+   "lead_investor": "Fortino Ventures",
+   "country": "오스트리아",
+   "region": "유럽",
+   "ai_summary_ko": "비엔나 소재 리빌드는 건설 및 부동산 업계를 위한 AI 기반 백오피스 자동화 플랫폼으로, 포르티노 벤처스가 주도한 시드 라운드에서 300만 유로를 조성했습니다. 라이즈 프롭테크와 큐리오시티VC 등 다른 투자자들도 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/13/reebuild-secures-eur3m-to-automate-financial-workflows-in-construction/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/vienna-based-reebuild-raises-e3-million-to-build-the-ai-operating-system-for-construction-and-real-estate/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "Alchera Technologies",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.7,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 3576690,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "케임브리지에 설립된 스타트업 Alchera Technologies가 AI를 활용해 도시의 도로와 대중교통 관리를 효율화하는 기술을 개발하고 있으며, 시드 라운드에서 270만 파운드를 조달했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/13/tranport-data-specialist-alchera-raises-ps27m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "Sainaptic",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 1324700,
+   "stage": "비공개",
+   "investors": [
+    "Cornerstone VC",
+    "Ufi Ventures"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국 에듀테크 스타트업 Sainaptic이 AI 기반 평가 채점 기술 확대를 위해 100만 파운드의 신규 펀딩을 조달했습니다. Cornerstone VC와 Ufi Ventures가 공동으로 이 라운드를 주도했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/13/sainaptic-lands-ps1m-to-expand-ai-assisted-marking-technology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "Epyr",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 16782000,
+   "stage": "시리즈 A",
+   "investors": [
+    "SlateVC",
+    "AENU",
+    "Daphni",
+    "WEPA Ventures",
+    "OVNI Capital",
+    "Auru"
+   ],
+   "lead_investor": "SlateVC",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스 산업에너지 기술 회사 Epyr가 산업용 열 저장 시스템 배포에 성공한 후 SlateVC가 주도하는 시리즈 A 라운드에서 1,500만 유로를 조달했습니다. 기존 투자자 AENU, Daphni과 신규 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/13/french-startup-epyr-raises-eur15m-following-successful-industrial-heat-storage-deployment/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "ID Finance",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 545.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 609746000,
+   "stage": "비공개",
+   "investors": [
+    "Spice Expeditions",
+    "WashU",
+    "Kingsway Capital",
+    "i80 Group"
+   ],
+   "lead_investor": null,
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "바르셀로나 기반 핀테크 그룹 ID Finance는 소비자 금융 앱 Plazo의 성장을 지원하기 위해 5억 4500만 유로의 부채 및 주식 펀딩을 확보했습니다. 이 자금은 Spice Expeditions, WashU, Kingsway Capital, i80 Group이 참여했으며, i80 Group은 자산 기반 금융을 제공했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/13/spanish-fintech-id-finance-lands-545m-in-debt-and-equity/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/one-of-spains-largest-recent-fintech-deals-sees-id-finance-secure-e545-million-to-scale-plazo/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "Causa Prima",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "시드",
+   "investors": [
+    "Base10 Partners",
+    "QED Investors"
+   ],
+   "lead_investor": "Base10 Partners",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "자율화된 재무 플랫폼을 개발하는 Causa Prima가 Base10 Partners 주도로 2천만 달러 규모의 시드 펀딩을 유치했습니다. QED Investors도 참여했으며, 프리시드 라운드로부터 3개월 후에 이루어졌습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/13/causa-prima-lands-20m-seed-just-three-months-after-pre-seed/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "company": "Pluto Security",
+   "sector": "보안",
+   "amount_original": {
+    "value": 42.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 42000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Pluto Security가 기업의 AI 도구 사용으로 인한 새로운 보안 위협에 대응하기 위해 4,200만 달러의 투자를 유치했습니다. 직원들이 예상 밖의 방식으로 AI 도구를 사용하면서 기업 시스템에 새로운 보안 취약점이 발생하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
    "company": "Mesa School of Business",
    "sector": "에듀테크",
    "amount_original": {
@@ -217,7 +608,8 @@
     "DRW",
     "Teampact Ventures",
     "Y Combinator",
-    "Ring Capital"
+    "Ring Capital",
+    "Teampac"
    ],
    "lead_investor": null,
    "country": "프랑스",
@@ -227,6 +619,10 @@
     {
      "name": "EU-Startups",
      "url": "https://www.eu-startups.com/2026/10/hylight-raises-e13-million-for-its-autonomous-airships-inspecting-europes-critical-infrastructure/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/13/french-deeptech-hylight-raises-eur13m-to-industrialise-autonomous-hydrogen-powered-airships/"
     }
    ]
   },
