@@ -2,6 +2,557 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-14",
+   "company": "AGIBOT",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "CNY",
+    "unit": "billion"
+   },
+   "amount_usd": 149420000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 AI 로봇 제조업체 AGIBOT이 약 10억~15억 위안 규모의 새로운 펀딩 라운드를 진행 중이며, 회사 가치는 약 500억 위안으로 평가되고 있습니다. 2023년 설립된 AGIBOT은 7월부터 홍콩 상장을 준비하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/14/robot-maker-agibot-nears-new-funding-round-at-rmb-50-billion-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "SUNMMIO",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "CNY",
+    "unit": "billion"
+   },
+   "amount_usd": 298840000,
+   "stage": "프리시리즈A",
+   "investors": [
+    "Yizhuang State Investment",
+    "Beijing state-backed investment platforms"
+   ],
+   "lead_investor": "Yizhuang State Investment",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "베이징 기반 AI 칩 스타트업 SUNMMIO가 프리A2와 시리즈 A 펀딩을 완료했습니다. 이번 라운드는 베이징 정부 지원 투자 플랫폼인 Yizhuang State Investment가 주도했습니다. 회사는 지난 1년간 약 20억 위안을 조달했으며, 대규모 모델 추론용 3D 적층 칩을 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/14/ai-inference-chip-startup-sunmmio-completes-pre-a2-and-series-a-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "The/Nudge",
+   "sector": "AI",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "비공개",
+   "investors": [
+    "Google.org"
+   ],
+   "lead_investor": "Google.org",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "The/Nudge가 Google.org로부터 1,500만 달러의 투자를 받았다. 이 자금은 인도의 소규모 사업자들이 신용, 시장 접근, 규제 준수 지원을 받을 수 있도록 돕는 AI 도구 개발에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/thenudge-secures-15m-from-googleorg-to-develop-ai-tools-for-small-businesses"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Pigment",
+   "sector": "SaaS",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "NVIDIA"
+   ],
+   "lead_investor": "NVIDIA",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "Pigment는 비즈니스 계획 솔루션 분야에서 NVIDIA의 소수 지분 투자를 받았습니다. NVIDIA의 유럽 AI 생태계 구축 전략의 일환입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/nvidia-plans-minority-investments-in-four-french-startups-as-european-tech-commitment-nears-e9-billion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Genesis AI",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "NVIDIA"
+   ],
+   "lead_investor": "NVIDIA",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "Genesis AI는 물리적 AI 분야에서 NVIDIA의 소수 지분 투자를 받았습니다. NVIDIA는 유럽 AI 기술 발전에 약 9억 유로를 투자하고 있습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/nvidia-plans-minority-investments-in-four-french-startups-as-european-tech-commitment-nears-e9-billion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Entalpic",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "NVIDIA"
+   ],
+   "lead_investor": "NVIDIA",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "Entalpic는 재료 발견 분야에서 NVIDIA의 소수 지분 투자를 받았습니다. NVIDIA의 유럽 AI 생태계 확대 전략의 일부입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/nvidia-plans-minority-investments-in-four-french-startups-as-european-tech-commitment-nears-e9-billion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Doctolib",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "NVIDIA"
+   ],
+   "lead_investor": "NVIDIA",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "Doctolib는 NVIDIA의 소수 지분 투자를 받았습니다. NVIDIA는 유럽의 AI 생태계 구축에 commitment을 지속하고 있으며, 이 투자는 그 일환입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/nvidia-plans-minority-investments-in-four-french-startups-as-european-tech-commitment-nears-e9-billion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Qilimanjaro Quantum Tech",
+   "sector": "기타",
+   "amount_original": {
+    "value": 19.6,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 21942200,
+   "stage": "시리즈 A",
+   "investors": [
+    "Indra Group (IndraMind)",
+    "Spanish Society for Technological Transformation (SETT)"
+   ],
+   "lead_investor": "Indra Group (IndraMind)",
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "스페인의 풀스택 양자컴퓨팅 회사 Qilimanjaro Quantum Tech이 시리즈 A 펀딩 첫 클로즈로 1,960만 유로를 유치했으며, Indra Group의 IndraMind가 1,000만 유로를 주도 투자했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/barcelonas-full-stack-quantum-computing-company-qilimanjaro-quantum-tech-completes-e19-6-million-first-close-of-its-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Ambio",
+   "sector": "기타",
+   "amount_original": {
+    "value": 5.1,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5709450,
+   "stage": "시드",
+   "investors": [
+    "b2venture",
+    "Montis",
+    "Lifeline Ventures"
+   ],
+   "lead_investor": "b2venture",
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "핀란드 스타트업 Ambio가 재활용 플라스틱 조달을 위한 AI 기반 조달 솔루션 개발을 위해 b2venture가 주도한 510만 유로 규모의 시드 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/helsinkis-ambio-raises-e5-1-million-to-scale-its-ai-powered-recycled-plastics-procurement-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Aliena",
+   "sector": "기타",
+   "amount_original": {
+    "value": 5.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "싱가포르",
+   "region": "동남아",
+   "ai_summary_ko": "싱가포르 기반 위성용 전기 추진기 제조업체 Aliena가 유럽 확장을 위해 550만 달러를 유치했다. 해당 부품의 글로벌 공급 부족이 수요를 견인하고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/sg-spacetech-startup-aliena-raises-55m-expand-europe"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Parallel Loop",
+   "sector": "AI",
+   "amount_original": {
+    "value": 6.6,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6600000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "싱가포르",
+   "region": "동남아",
+   "ai_summary_ko": "Qoala의 전직 임원진이 설립한 AI 회사 Parallel Loop가 660만 달러를 유치했다. 이 자금은 아시아, 유럽, 중동 전역에서 기업 AI 도입을 지원하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/openais-codex-head-sees-incredible-adoption-across-asia"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Affinity Labs",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2000000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 스타트업 Affinity Labs가 크리에이터 주도 소프트웨어 브랜드 포트폴리오 확장과 AI 기반 제품 개발 기술 고도화를 위해 프리시드 라운드에서 200만 달러를 조성했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/14/affinity-labs-raises-2m-to-build-ai-powered-software-brands-with-creators/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Coding Giants",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6717000,
+   "stage": "그로스",
+   "investors": [
+    "Orbit Capital"
+   ],
+   "lead_investor": "Orbit Capital",
+   "country": "폴란드",
+   "region": "유럽",
+   "ai_summary_ko": "폴란드의 STEM 교육 플랫폼 Coding Giants가 Orbit Capital로부터 최대 600만 유로의 벤처 채무 파이낸싱을 확보했습니다. 이를 통해 유럽을 넘어 글로벌 확장을 추진합니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/14/orbit-capital-backs-coding-giants-to-scale-stem-education-internationally/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/warsaws-coding-giants-secures-up-to-e6-million-to-expand-its-stem-education-platform-beyond-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Stride",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 4.6,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 6102820,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국의 예방 건강 관리 스타트업 Stride가 진단 기반 헬스 플랫폼 개발과 국제 확장을 위해 시드 라운드에서 460만 파운드를 조성했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/14/uk-healthtech-startup-stride-raises-ps46m-to-expand-preventative-health-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "네 개의 프랑스 스타트업",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Nvidia"
+   ],
+   "lead_investor": "Nvidia",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "Nvidia가 유럽 기술 생태계에 대한 의지를 보여주기 위해 4개의 프랑스 스타트업에 투자하고 영국에 2억 5천만 달러의 AI 안전 연구용 컴퓨트 기부를 진행했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/14/nvidia-invests-in-four-french-tech-companies-makes-ps250m-uk-compute-donation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "KP Labs",
+   "sector": "기타",
+   "amount_original": {
+    "value": 4.42,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4948190,
+   "stage": "비공개",
+   "investors": [
+    "Momentum Capital Partners"
+   ],
+   "lead_investor": "Momentum Capital Partners",
+   "country": "폴란드",
+   "region": "유럽",
+   "ai_summary_ko": "폴란드 우주 기술 회사 KP Labs가 위성 데이터 궤도상 처리 솔루션 개발을 위해 Momentum Capital Partners로부터 442만 유로를 투자 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/14/polish-spacetech-kp-labs-secures-4-42m-from-momentum-capital-partners-to-scale-in-orbit-ai-data-processing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "FLÆ Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1119500,
+   "stage": "시드",
+   "investors": [
+    "Purple Ventures",
+    "Garage Angels"
+   ],
+   "lead_investor": null,
+   "country": "체코",
+   "region": "유럽",
+   "ai_summary_ko": "체코 스타트업 FLÆ Robotics가 호텔 산업을 위한 AI 어시스턴트 제품 'BE-A' 개발을 가속화하고 국제 확장을 위해 Purple Ventures와 Garage Angels로부터 시드 펀딩 100만 유로 이상을 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/14/czech-startup-flae-robotics-lands-over-eur1m-to-automate-hotel-guest-services/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/flae-robotics-raises-over-e1-million-in-seed-funding-to-develop-its-ai-hospitality-agent/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Miracly",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.8,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2015100,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Miracly는 TheWild Ventures가 개발한 AI 기반 마케팅 자동화 플랫폼으로, 180만 유로의 프리시드 펀딩을 유치하고 런칭했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/14/miracly-launches-with-eur18m-to-automate-ai-powered-marketing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Augur",
+   "sector": "보안",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "UK government VC fund"
+   ],
+   "lead_investor": "UK government VC fund",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Augur는 영국 정부의 5억 파운드 규모 VC 펀드로부터 투자를 받았으며, AI 기술을 활용해 영국의 감시 네트워크를 업데이트하는 보안 스타트업입니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/14/the-uk-governments-ps500m-vc-fund-backs-uk-security-startup-augur/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Duvo",
+   "sector": "AI",
+   "amount_original": {
+    "value": 32.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 32000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Balderton Capital",
+    "Index Ventures",
+    "Northzone",
+    "Credo Ventures"
+   ],
+   "lead_investor": "Balderton Capital",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Duvo는 Balderton Capital이 주도하고 Index Ventures, Northzone, Credo Ventures가 참여한 3,200만 달러의 시리즈 A 펀딩을 유치했으며, 총 펀딩액이 증가했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/14/from-rohlik-to-enterprise-ai-tomas-cuprs-duvo-raises-32m-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Skeleton Technologies",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Siemens"
+   ],
+   "lead_investor": "Siemens",
+   "country": "에스토니아",
+   "region": "유럽",
+   "ai_summary_ko": "탈린에 본사를 둔 AI 인프라 고전력 시스템 개발사 Skeleton Technologies가 Siemens로부터 9자리(수억 달러 규모) 투자를 유치했으며, 이로 인해 회사 가치가 10억 달러 이상으로 상향되었다. 투자금은 주로 미국 제조시설 확대와 실리콘밸리 R&D 활동 가속화에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/14/skeleton-technologies-surpasses-1b-valuation-with-siemens-backing-for-us-expansion/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/new-unicorn-alert-estonias-skeleton-technologies-lands-multi-million-funding-to-expand-ai-infrastructure-in-the-us/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Salience Labs",
+   "sector": "AI",
+   "amount_original": {
+    "value": 125.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 125000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Salience Labs는 AI 데이터센터 연결을 위한 포토닉 칩 개발 회사로, 광학 스위칭 기술 배포를 가속화하기 위해 1억 2,500만 달러의 시리즈 B 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/14/salience-labs-secures-125m-to-scale-photonic-chips-for-ai-data-centres/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Zenzap",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 44.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 44000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Zenzap은 직장 내 커뮤니케이션을 위해 WhatsApp을 대체하는 것을 목표로 하는 AI 채팅 앱입니다. 이 플랫폼은 Starbucks와 Taco Bell을 포함한 주요 기관에서 사용되고 있으며, 이번 투자로 4,400만 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-13",
    "company": "Ola Dimensions",
    "sector": "로보틱스",
