@@ -2,6 +2,44 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-17",
+   "company": "Tessolve",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/whats-next-after-a-companys-mega-evolution"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "company": "Infinigence",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/whats-next-after-a-companys-mega-evolution"
+    }
+   ]
+  },
+  {
    "date": "2026-10-16",
    "company": "InfiMaker",
    "sector": "로보틱스",
@@ -1288,6 +1326,10 @@
     {
      "name": "Startup Daily",
      "url": "https://www.startupdaily.net/topic/funding/credit-card-fintech-taps-11-million-raise/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/whats-next-after-a-companys-mega-evolution"
     }
    ]
   },
