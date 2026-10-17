@@ -2,6 +2,321 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-16",
+   "company": "InfiMaker",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 50000000,
+   "stage": "프리시리즈A",
+   "investors": [
+    "IDG Capital",
+    "Kunlun Capital"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 데스크톱 제조 스타트업 InfiMaker가 IDG Capital과 Kunlun Capital로부터 수천만 달러 규모의 프리시리즈A 펀딩을 완료했습니다. 동사는 전문가 및 크리에이터 사용자를 위한 콤팩트 5축 CNC 기계를 개발하고 있으며, 2024년 DJI 전직원과 로보틱스 연구자들에 의해 설립되었습니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/16/desktop-manufacturing-startup-infimaker-raises-tens-of-millions-of-dollars-in-pre-a-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "company": "Ruoyu Technology",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "Sunway Communication",
+    "Jinmu Capital",
+    "Qindao Capital",
+    "Huanghai Capital",
+    "Zhongchuang Capital"
+   ],
+   "lead_investor": "Sunway Communication",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "심천 소재 로봇 AI 개발사인 루오유 테크놀로지가 선웨이 커뮤니케이션이 주도하는 프리-A 펀딩라운드에서 9자리 수준의 인민폐를 조달했다. 2023년 설립되어 하얼빈공업대학 심천캠퍼스에서 인큐베이트된 루오유는 로봇이 환경을 인지하도록 돕는 AI 시스템을 개발하고 있다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/16/robot-ai-developer-ruoyu-secures-pre-a-funding-led-by-sunway-communication/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "company": "Scanntech",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 180.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 180000000,
+   "stage": "비공개",
+   "investors": [
+    "L Catterton",
+    "Partners"
+   ],
+   "lead_investor": "L Catterton",
+   "country": "우루과이",
+   "region": "중남미",
+   "ai_summary_ko": "우루과이 소매기술 회사 Scanntech가 L Catterton이 주도하고 Partners가 참여한 1억 8천만 달러 규모의 펀딩라운드를 유치했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/uruguayan-scanntech-raises-180m-round-led-by-l-catterton/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "company": "Imersa",
+   "sector": "AI",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "USD",
+    "unit": "thousand"
+   },
+   "amount_usd": 50000,
+   "stage": "시드",
+   "investors": [
+    "Flávio Szenkier"
+   ],
+   "lead_investor": "Flávio Szenkier",
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질 스타트업 Imersa가 AI 영업 코파일럿 개발을 위해 Flávio Szenkier로부터 5만 달러 규모의 첫 펀딩라운드를 유치했다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/imersa-raises-50k-to-develop-ai-sales-copilot/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "company": "RapidCanvas",
+   "sector": "AI",
+   "amount_original": {
+    "value": 29.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 29000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "RapidCanvas는 AI 플랫폼과 필드 AI 엔지니어를 결합하여 맞춤형 AI 솔루션을 제공하는 회사이며, 시리즈 B 라운드에서 2,900만 달러를 투자유치했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/ai-execution-company-rapidcanvas-raises-29m-in-series-b"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "company": "Goodweek",
+   "sector": "AI",
+   "amount_original": {
+    "value": 10.69,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 12029457,
+   "stage": "시드",
+   "investors": [
+    "Adara Ventures"
+   ],
+   "lead_investor": "Adara Ventures",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "스트라스부르 창립 기업 Goodweek이 중소기업을 위한 AI 관리 플랫폼으로 포지셔닝하며 Adara Ventures가 주도한 시드 라운드에서 €10.69백만을 조달했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/strasbourg-founded-goodweek-raises-e10-69-million-to-become-the-ai-manager-for-smbs/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "company": "LearnUpon",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 44.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 50075850,
+   "stage": "그로스",
+   "investors": [
+    "Claret Capital Partners"
+   ],
+   "lead_investor": "Claret Capital Partners",
+   "country": "아일랜드",
+   "region": "유럽",
+   "ai_summary_ko": "더블린 기반의 엔터프라이즈 러닝 플랫폼 LearnUpon이 Claret Capital Partners로부터 €44.5백만의 성장 금융 시설을 확보했습니다. 이는 에이전틱 학습 플랫폼 확장을 위한 성장 채무 자금입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/dublin-based-learnupon-secures-e44-5-million-to-scale-its-agentic-learning-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "company": "Unravel Health",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 2.96,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3330888,
+   "stage": "비공개",
+   "investors": [
+    "Conduit EIS Impact Fund",
+    "Wrightwood",
+    "Leo Capital",
+    "Embryo Ventures",
+    "Hermesa"
+   ],
+   "lead_investor": "Conduit EIS Impact Fund",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 Unravel Health가 여성의 호르몬을 자택에서 측정할 수 있는 손바닥 크기의 'Micro Lab' 개발을 위해 €2.96백만을 조달했습니다. 이 장치는 수 분 내에 타액 샘플에서 여러 호르몬을 측정할 수 있습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/londons-unravel-health-raises-e2-96-million-to-help-women-track-hormones-at-home-with-a-palm-sized-lab/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "company": "Neonomics",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 3.56,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4006068,
+   "stage": "비공개",
+   "investors": [
+    "Newmark Capital",
+    "Bankify",
+    "FirstMark Capital",
+    "TTU Private"
+   ],
+   "lead_investor": null,
+   "country": "노르웨이",
+   "region": "유럽",
+   "ai_summary_ko": "노르웨이의 오픈 파이낸스 플랫폼 Neonomics가 기존 주주로부터 €3.56백만을 조달했습니다. 이 회사는 유럽의 기업들에게 금융 데이터, 인텔리전스, 검증 및 결제 인프라를 제공하고 있으며, 운영 비용을 거의 절반으로 감축했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/norwegian-open-banking-provider-neonomics-secures-e3-56-million-after-cutting-operating-costs-by-nearly-half/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "company": "Microbiotica",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 42.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 47262600,
+   "stage": "시리즈 C",
+   "investors": [
+    "British Business Bank",
+    "Tencent",
+    "IP Group",
+    "Cambridge Innovation Capital",
+    "Flerie Invest",
+    "Seventure Partners"
+   ],
+   "lead_investor": "British Business Bank",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Microbiotica는 정밀 마이크로바이옴 의약품을 개발하는 임상 단계의 영국 바이오파마 회사다. 염증성 장질환 치료제 개발을 진행 중이며, British Business Bank가 주도한 시리즈 C 펀딩의 첫 번째 클로즈를 통해 4,200만 유로를 조달했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/new-treatment-for-inflammatory-bowel-disease-lands-microbiotica-e42-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "company": "OMass Therapeutics",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 275.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 309457500,
+   "stage": "시리즈 C",
+   "investors": [
+    "Bain Capital Life Sciences",
+    "Forbion",
+    "Novo Holdings",
+    "Janus Henderson Investors",
+    "SV Health Investors",
+    "Jefferson Life Sciences"
+   ],
+   "lead_investor": "Bain Capital Life Sciences, Forbion, Novo Holdings",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "옥스포드 스핀아웃인 OMass Therapeutics는 소분자 치료제 개발 바이오텍 회사로, 검증된 표적 생태계에 대한 소분자 치료제를 개발하고 있다. Bain Capital Life Sciences, Forbion, Novo Holdings가 주도한 시리즈 C 펀딩라운드를 통해 2억 7,500만 유로를 조달했으며, 여러 기존 투자자들도 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/oxford-spin-out-omass-therapeutics-lands-e275-million-to-bring-novel-small-molecule-therapies-closer-to-patients/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "company": "GasLab",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "DJ이자 프로듀서인 Reinier Zonneveld가 창립한 생성형 AI 음악 플랫폼 GasLab이 100만 달러의 프리시드 펀딩을 받으며 런칭되었다. GasLab은 생성형 AI를 통해 음악 제작 솔루션을 제공하는 플랫폼이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/16/dj-reinier-zonneveld-launches-ai-music-startup-gaslab-with-1m-pre-seed-funding/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-15",
    "company": "SciVisual",
    "sector": "AI",
@@ -1270,6 +1585,10 @@
     {
      "name": "EU-Startups",
      "url": "https://www.eu-startups.com/2026/10/one-of-spains-largest-recent-fintech-deals-sees-id-finance-secure-e545-million-to-scale-plazo/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/16/id-finance-lands-545m-uk-launches-refugee-focused-vc-fund-and-the-race-to-save-eu-inc/"
     }
    ]
   },
