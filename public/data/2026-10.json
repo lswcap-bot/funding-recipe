@@ -2,6 +2,404 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-19",
+   "company": "FAIRINO",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 D",
+   "investors": [
+    "Meituan",
+    "Yongxin"
+   ],
+   "lead_investor": "Meituan",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 협력형 로봇 회사 FAIRINO가 Meituan이 주도하는 시리즈 D 펀딩을 완료했습니다. 최근 두 라운드(시리즈 C+와 시리즈 D)를 통해 거의 10억 위안을 조성했으며, 자금은 생산 확대 및 산업용 로봇 개발을 지원하는 데 사용됩니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/19/meituan-leads-series-d-funding-for-collaborative-robot-maker-fairino/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "Gewu Tongzhi",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14968000,
+   "stage": "천사",
+   "investors": [
+    "Hongfu Asset Management",
+    "Peak Investment",
+    "Hangzhou Capital",
+    "Hangzhou Talent Group"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Hangzhou 기반 로봇 AI 스타트업 Gewu Tongzhi가 거의 1억 위안의 천사 펀딩을 완료했습니다. 회사는 2026년에 설립되었으며 물리적 학습과 결합된 세계 모델을 활용하여 민첩한 로봇 조작을 위한 AI를 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/19/former-huawei-engineers-robot-ai-startup-gewu-tongzhi-raises-nearly-rmb-100-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "Syncrowin",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3000000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "산업용 AI 운영 지능 스타트업 Syncrowin이 $3백만의 프리시드 투자를 유치했다. 공장의 기계 고장과 낭비를 사전에 예방하기 위해 AI 기술을 활용한다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/ai-factory-maintenance-startup-syncrowin-bags-3-million-pre-seed/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "SupaHuman",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 2.6,
+    "currency": "NZD",
+    "unit": "million"
+   },
+   "amount_usd": 1474590,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "뉴질랜드",
+   "region": "오세아니아",
+   "ai_summary_ko": "뉴질랜드 에듀테크 스타트업 SupaHuman이 AI를 활용한 직원 교육 시스템으로 NZ$2.6백만의 시리즈 A 투자를 유치했다. 이 자금으로 호주 시장 진출을 추진할 계획이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/kiwi-edtech-supahuman-chalks-up-2-6-million-series-for-australian-plans/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "Even Healthcare",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 50000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Khosla Ventures"
+   ],
+   "lead_investor": "Khosla Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 소재의 Even Healthcare가 Khosla Ventures가 주도하는 시리즈 B 펀딩라운드에서 5천만 달러를 조달했습니다. 회사는 향후 6개월 내에 5개의 새로운 병원을 개설할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/even-healthcare-raises-50m-in-series-b-round-led-by-khosla-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "The Pant Project",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 109.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 11477700,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": null,
+   "ai_summary_ko": "The Pant Project는 프리미엄 남성복 시장에서의 입지를 강화하기 위해 1억 909만 루피를 조달했습니다. 이 자금은 소매점 확장과 새로운 제품 카테고리 개발에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/the-pant-project-bags-rs-109-cr-to-accelerate-retail-expansion"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "Huppa",
+   "sector": "기타",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1122500,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "네덜란드 암스테르담의 스포츠테크 스타트업 Huppa는 체육관, 크로스핏 박스 및 스튜디오를 위한 올인원 플랫폼 개발에 사용할 100만 유로 규모의 프리시드 펀딩을 확보했다. 본 펀딩라운드는 Sentia, Keylane, TicketSwap, Moneybird, Revue의 창립자를 포함한 경험 많은 기업가 및 투자자 그룹이 주도했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/amsterdams-huppa-raises-e1-million-to-build-an-operating-system-for-class-based-gyms-and-studios/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "Nouscom",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 120.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 134700000,
+   "stage": "시리즈 D",
+   "investors": [
+    "M Ventures",
+    "Revelation Partners",
+    "Angelini Ventures",
+    "EIB",
+    "Neva"
+   ],
+   "lead_investor": "M Ventures",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "스위스 바젤의 바이오테크 기업 Nouscom은 암 면역치료 개발을 위해 M Ventures와 Revelation Partners가 주도한 1억 2천만 유로(1억 3천 5백만 달러) 규모의 시리즈 D 펀딩을 확보했다. 본 펀딩은 신세대 네오안티젠 기반 암 면역치료를 임상시험 단계로 진행하기 위해 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/switzerlands-nouscom-bags-e120-million-to-bring-innovative-cancer-immunotherapy-closer-to-clinical-trials/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "Salmon Group",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 140.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 140000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "필리핀",
+   "region": "동남아",
+   "ai_summary_ko": "필리핀의 핀테크 기업 Salmon Group이 1억 4,000만 달러 규모의 펀딩을 유치했습니다. 해당 자금은 대출 사업 확대 및 오토바이론, 소상공인(MSME) 대출 등 신규 상품 출시에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/billease-enters-ph-digital-banking-rural-bank-buy"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "Vessla",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3300000,
+   "stage": "프리시드",
+   "investors": [
+    "Seedcamp",
+    "Inception Fund",
+    "Tiny VC"
+   ],
+   "lead_investor": "Seedcamp",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴 스톡홀름의 AI 스타트업 Vessla는 부동산 관리를 위한 AI 에이전트 운영 시스템 개발에 사용할 294만 유로(330만 달러) 규모의 프리시드 펀딩을 확보했다. 본 펀딩라운드는 Seedcamp가 주도했으며 2배 이상의 구독 신청을 기록했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/19/vessla-exits-stealth-with-33m-to-bring-ai-agents-to-property-management/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/stockholms-vessla-exits-stealth-with-e2-94-million-to-bring-ai-agents-to-property-management/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "Linkener",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 7.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 8418750,
+   "stage": "비공개",
+   "investors": [
+    "Klima Energy Transition Fund",
+    "GoHub Ventures"
+   ],
+   "lead_investor": "Klima Energy Transition Fund",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "에너지 기술 스타트업 Linkener는 Alantra의 에너지 전환 펀드인 Klima Energy Transition Fund가 주도한 750만 유로 규모의 펀딩 라운드를 완료했다. 기존 주주 GoHub Ventures도 이 라운드에 참여했으며, 에너지 관리 플랫폼 확장을 계획하고 있다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/19/linkener-secures-eur75m-to-expand-its-energy-management-platform/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/valencia-based-linkener-raises-e7-5-million-to-digitise-and-optimise-energy-management-for-businesses/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "NOVUS",
+   "sector": "모빌리티",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "468 Capital"
+   ],
+   "lead_investor": "468 Capital",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "NOVUS는 베를린과 샌프란시스코 기반의 벤처캐피탈 468 Capital이 주도한 이중자릿수 백만 달러 규모의 펀딩 라운드를 완료했다. 경량 전기 이륜차 NOVUS One을 독일에서 캘리포니아로 확대할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/19/novus-secures-eight-figure-funding-to-take-its-electric-lightbike-from-germany-to-california/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "Even Healthcare",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 300.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 300000000,
+   "stage": "비공개",
+   "investors": [
+    "Khosla Ventures"
+   ],
+   "lead_investor": "Khosla Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Even Healthcare는 Khosla Ventures 주도의 투자 라운드에서 3억 달러 가치평가를 받았다. 인도의 병원 네트워크 확장을 계획하고 있으며, 인도의 병원 경제에 대한 과제에 도전하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "Town",
+   "sector": "AI",
+   "amount_original": {
+    "value": 108.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 108000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Forerunner Ventures",
+    "Menlo Ventures"
+   ],
+   "lead_investor": "Forerunner Ventures",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "AI 어시스턴트 스타트업 Town은 출시 4개월 만에 유니콘 밸류에이션을 획득했으며, Forerunner Ventures와 Menlo Ventures가 공동 주도한 시리즈 B 라운드에서 1억 800만 달러를 조달했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "Tenstorrent",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1500000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Tenstorrent는 오픈 웨이트 AI 칩 개발을 확대하기 위해 15억 달러를 조달했으며, 이를 통해 Nvidia 경쟁 업체로서 독립적으로 운영하겠다는 의지를 보였습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "company": "Tolan",
+   "sector": "AI",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 30000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Tolan은 AI 동반자 앱으로 25만 명 이상의 활성 사용자를 확보한 후 3천만 달러를 추가로 조달했습니다. 이번 투자를 통해 사용자의 삶을 항해하도록 돕는 AI 동반자 앱의 확장을 추진하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-17",
    "company": "Tessolve",
    "sector": "기타",
