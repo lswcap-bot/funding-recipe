@@ -2,6 +2,399 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-20",
+   "company": "Neolix",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 400.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 400000000,
+   "stage": "시리즈 E",
+   "investors": [
+    "Boyu Capital",
+    "China's National Artificial Intelligence Industry Investment Fund",
+    "Alibaba's AEF"
+   ],
+   "lead_investor": "Boyu Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "자율주행 배송 차량 업체 Neolix가 시리즈 E 펀딩라운드에서 약 4억 달러를 유치했습니다. Boyu Capital과 중국 국가급 AI산업투자펀드가 주도 투자자로 참여했으며, 알리바바의 AEF 등 다른 투자자들도 함께했습니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/20/autonomous-delivery-vehicle-maker-neolix-raises-nearly-400-million-in-series-e-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "Alice",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 40000000,
+   "stage": "시리즈 D",
+   "investors": [
+    "International Finance Corporation",
+    "DEG",
+    "Finnfund"
+   ],
+   "lead_investor": "International Finance Corporation",
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질 헬스테크 Alice가 국제금융공사(IFC) 주도로 4천만 달러의 시리즈 D 라운드를 조성했으며, DEG, Finnfund 등이 참여했습니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/alice-raises-40m-series-d-led-by-ifc/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "Dapta",
+   "sector": "AI",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6000000,
+   "stage": "시드",
+   "investors": [
+    "Chingona Ventures",
+    "Crew"
+   ],
+   "lead_investor": "Chingona Ventures",
+   "country": "콜롬비아",
+   "region": "중남미",
+   "ai_summary_ko": "콜롬비아 AI 스타트업 Dapta가 Chingona Ventures 주도로 600만 달러의 시드 라운드를 조성했으며, Crew 등이 참여했습니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/dapta-raises-6m-seed-round-led-by-chingona-ventures/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "EFY Finance",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [
+    "Tether"
+   ],
+   "lead_investor": "Tether",
+   "country": "파나마",
+   "region": "중남미",
+   "ai_summary_ko": "파나마 기반 핀테크 EFY Finance가 시드 펀딩 라운드의 일환으로 Tether로부터 투자를 확보했습니다. 라틴아메리카 전역으로 확장할 계획입니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/efy-finance-secures-investment-from-tether-to-expand-across-latin-america/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "Rebill",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 5.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5400000,
+   "stage": "프리시리즈A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "아르헨티나",
+   "region": "중남미",
+   "ai_summary_ko": "아르헨티나 핀테크 스타트업 Rebill이 프리시리즈A 라운드에서 540만 달러를 유치했습니다. 이번 투자로 누적 펀딩이 540만 달러 이상에 도달했습니다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/argentine-fintech-rebill-raises-5-4m-pre-series-a-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "Hunar.AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 4212000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Blume Ventures"
+   ],
+   "lead_investor": "Blume Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Hunar.AI는 프론트라인 집약적 산업을 위한 전문화된 AI 기술 개발에 집중하고 있습니다. 이번 펀딩으로 AI 인프라 구축, 제품 개발, 시장 진출 확대에 자금을 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/hunarai-raises-rs-40-crore-in-series-a-led-by-blume-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "XRlabs",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 7.48,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 8388820,
+   "stage": "시드",
+   "investors": [
+    "Playground Global",
+    "Eka Ventures"
+   ],
+   "lead_investor": "Playground Global",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "XRlabs는 런던 기반의 외과용 인텔리전스 회사로, 외과의사들이 만들고 외과의사들을 위해 설계되었다. 회사는 AI를 수술실에 도입하기 위해 팔로알토 기반의 딥테크 중심 벤처 펌 Playground Global이 주도한 748만 유로의 시드 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/london-based-surgical-intelligence-company-xrlabs-raises-e7-48-million-to-bring-ai-into-the-operating-room/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "Emerald",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.66,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1861690,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Emerald는 런던 기반 예방 의료 플랫폼으로, 회사의 기금 조달 총액을 366만 유로로 늘린 추가 166만 유로의 펀딩을 확보했다. 최신 펀딩에는 Innovate UK의 83만 2천 유로 규모 그랜트와 벤처 캐피탈 83만 2천 유로가 포함된다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/londons-emerald-secures-e1-66-million-to-scale-its-preventive-healthcare-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "Cellbox Solutions",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5607500,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "독일의 바이오 물질 운송 전문 물류기술 회사 Cellbox Solutions가 시리즈 A 펀딩 최종 클로징을 통해 총 500만 유로를 유치했습니다. 회사는 민감한 생물학적 물질을 위한 통합 물류 솔루션으로 사업을 확대할 계획입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/container-for-biological-material-helps-cellbox-raise-a-e5-million-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "Plinto",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 2.9,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3252350,
+   "stage": "프리시드",
+   "investors": [
+    "People Ventures",
+    "Emblem"
+   ],
+   "lead_investor": "People Ventures",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "AI 기반 금융 거래 모니터링 플랫폼을 운영하는 덴마크 스타트업 Plinto가 People Ventures와 Emblem으로부터 €2.9 million의 펀딩을 받아 플랫폼 개발과 엔터프라이즈 고객 확대에 투자한다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/20/danish-startup-plinto-raises-eur29m-to-streamline-financial-controls/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/copenhagens-plinto-raises-e2-9-million-to-help-finance-teams-catch-and-fix-errors-with-ai-agents/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "Ganiga",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1682250,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "이탈리아의 딥테크 스타트업 Ganiga가 AI 기반 음식물 쓰레기 관리 기술 개발 및 상용화 확대를 위해 €1.5 million의 에쿼티 펀딩을 조달했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/20/ganiga-secures-eur25m-to-expand-its-ai-powered-food-waste-technology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "Blackwall",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": "에스토니아",
+   "region": "유럽",
+   "ai_summary_ko": "웹 트래픽 관리 플랫폼 Blackwall이 $100 million 규모의 시리즈 C 펀딩을 유치하며 $2.2 billion의 기업 가치를 평가받았다. 최근 €1 billion 이상의 밸류에이션으로 에스토니아 유니콘 클럽에 진입했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/20/blackwall-hits-2-2b-valuation-with-100m-series-c-just-weeks-after-joining-estonia-s-unicorn-club/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "Coherence Quantum",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.78,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3117770,
+   "stage": "시드",
+   "investors": [
+    "Lifeline Ventures"
+   ],
+   "lead_investor": "Lifeline Ventures",
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "Coherence Quantum은 양자 컴퓨터용 극저온 신호 전달 및 제어 플랫폼을 개발하는 에스포 기반 양자 하드웨어 회사이다. 회사는 차세대 양자 프로세서를 위한 극저온 인프라에 대한 새로운 접근 방식을 개발하기 위해 280만 유로의 시드 펀딩을 유치했다. 본 라운드는 헬싱키 기반 조기 단계 투자자 Lifeline Ventures가 주도했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/20/coherence-quantum-raises-eur278m-to-tackle-quantum-computer-scaling-challenges/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/espoo-based-coherence-quantum-raises-e2-78-million-to-build-infrastructure-for-larger-quantum-computers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "German startups (4 unnamed)",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Nvidia"
+   ],
+   "lead_investor": "Nvidia",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "Nvidia가 유럽에 대한 $10 billion의 투자 약속의 일환으로 독일의 4개 스타트업에 투자하고 있다. 기사에서는 구체적인 회사명과 투자 규모가 명시되지 않았다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/20/nvidia-invests-in-four-german-startups-as-part-of-10bn-european-investment-pledge/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "Daytona",
+   "sector": "AI",
+   "amount_original": {
+    "value": 60.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 60000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Daytona는 AI 에이전트를 위한 클라우드 인프라를 개발하는 회사로, 시리즈 B 펀딩 라운드에서 $60 million을 유치했다. 이 라운드는 회사의 밸류에이션을 $1 billion으로 올렸으며, 총 누적 펀딩액은 $91 million이 되었다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/20/daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-cloud/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "company": "Reliable Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 115.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 115000000,
+   "stage": "시리즈 D+",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "SpaceX 출신 창업자가 설립한 항공 우주 로봇 회사 Reliable Robotics가 시리즈 D 라운드 연장으로 1억 1,500만 달러의 에쿼티와 2,500만 달러의 부채 자금을 유치했으며, 밸류에이션이 10억 달러를 넘어섰다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-19",
    "company": "FAIRINO",
    "sector": "로보틱스",
@@ -368,11 +761,15 @@
    "lead_investor": null,
    "country": "미국",
    "region": "북미",
-   "ai_summary_ko": "Tenstorrent는 오픈 웨이트 AI 칩 개발을 확대하기 위해 15억 달러를 조달했으며, 이를 통해 Nvidia 경쟁 업체로서 독립적으로 운영하겠다는 의지를 보였습니다.",
+   "ai_summary_ko": "미국 AI 칩 스타트업 Tenstorrent가 하드웨어 확장을 위해 15억 달러를 조달했습니다. Intel과 Qualcomm이 최대 50억 달러 규모의 인수를 추진 중인 것으로 보도되었습니다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-chip-startup-taalas-raises-169m-rival-nvidia"
     }
    ]
   },
