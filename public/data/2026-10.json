@@ -2,6 +2,402 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-21",
+   "company": "YITA",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14979000,
+   "stage": "시드",
+   "investors": [
+    "Galbot",
+    "Fourier",
+    "Matrix Partners China",
+    "CCB International",
+    "SenseTime Guoxiang Capital",
+    "L2F founder fund"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 로봇 하드웨어 스타트업 YITA가 시드 및 시드+ 라운드를 통해 1억 위안 이상을 모금했다. Galbot, Fourier, Matrix Partners China 등 여러 투자자가 참여했으며, Lighthouse Capital이 인큐베이터 및 재무 자문사로 활동했다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/21/robot-hardware-startup-yita-secures-funding-from-galbot-and-fourier/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "Jingji Intelligent",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 1497900,
+   "stage": "시드",
+   "investors": [
+    "Haowen Tianshu Robotics",
+    "Shanghai Lanyun Industrial Development"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "상하이 기반 청소 로봇 스타트업 징지 인텔리전트가 하오웬 톈슈 로보틱스와 상하이 란윤 산업개발로부터 수천만 위안대의 시드 펀딩을 유치했다. 회사는 수직면, 조리대, 위생설비 청소에 중점을 두고 있으며, 설립 약 1개월 만에 이번 투자를 받았다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/21/cleaning-robotics-startup-jingji-intelligent-raises-tens-of-millions-of-rmb-in-seed-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "Cuttable",
+   "sector": "AI",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Cuttable이 AI 광고 플랫폼으로 시리즈 A에서 2,000만 달러를 유치했다. 이 자금은 AI 광고가 성공과 실패 사례로부터 학습하도록 개선하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/sam-kroonenburgs-adtech-cuttable-adds-20m-million-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "EstateMin",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1123400,
+   "stage": "프리시드",
+   "investors": [
+    "NDRC",
+    "First Port Syndicate",
+    "Enterprise Ireland",
+    "Mike Hanrahan",
+    "Moira McKenna",
+    "Conor Stanley"
+   ],
+   "lead_investor": null,
+   "country": "아일랜드",
+   "region": "유럽",
+   "ai_summary_ko": "아일랜드 신탁·부동산 법무 관리를 위한 AI 기반 리갈테크 스타트업 EstateMin이 유럽 투자사로부터 100만 유로의 프리시드 펀딩을 유치했다. NDRC, First Port Syndicate, Enterprise Ireland 등과 개인 엔젤 투자자들이 참여했으며, 미국 시장 확장에 자금을 활용할 계획이다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/former-international-boxers-legaltech-startup-estatemin-raises-e1-million-to-scale-in-the-us/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "Skyfly Technologies",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 8.91,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 10009494,
+   "stage": "시드",
+   "investors": [
+    "HICO Investment Group",
+    "Archangel"
+   ],
+   "lead_investor": "HICO Investment Group",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Skyfly Technologies는 영국의 전기 및 하이브리드 전기 수직이착륙 항공기 개발 회사로, 2인승 Axe eVTOL 항공기를 시장에 출시하고 방위사업용 Longbow를 개발하기 위해 891만 유로의 시드 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/britains-skyfly-raises-e8-91-million-to-bring-its-two-seat-axe-evtol-to-market-and-develop-longbow-for-defence/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "Jenz",
+   "sector": "AI",
+   "amount_original": {
+    "value": 540000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 606636,
+   "stage": "프리시드",
+   "investors": [
+    "Antler",
+    "Ada Ventures"
+   ],
+   "lead_investor": null,
+   "country": "노르웨이",
+   "region": "유럽",
+   "ai_summary_ko": "노르웨이 AI 스타트업 Jenz가 Antler과 Ada Ventures로부터 €540,000의 프리시드 펀딩을 유치했으며, 추가로 Innovation Norway로부터 NOK 1 million의 스타트업 지원금을 받았습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/21/jenz-lands-eur540k-four-months-after-hackathon-win-to-streamline-retail-operations/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "YGO",
+   "sector": "AI",
+   "amount_original": {
+    "value": 8.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 8987200,
+   "stage": "시리즈 A",
+   "investors": [
+    "Ventech",
+    "Sake Bosch",
+    "Caesar",
+    "Business Angels"
+   ],
+   "lead_investor": "Ventech",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "YGO는 여행 산업을 위한 AI 인프라 레이어를 구축하는 베를린 기반 스타트업으로, AI 에이전트를 통해 여행 인벤토리를 예약 가능하게 만들기 위해 800만 유로의 시리즈 A 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/21/ygo-secures-eur8m-to-scale-its-ai-powered-travel-infrastructure/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/berlin-based-ygo-raises-e8-million-to-make-travel-inventory-bookable-through-ai-agents/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "Rulen",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.8,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2022120,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "이탈리아 AI 스타트업 Rulen(구 LexSA)이 세금 및 회계 분야의 AI 기반 플랫폼 개발 및 상용화 확대를 위해 €1.8 million의 시드 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/21/rulen-secures-eur18m-to-turn-tax-rules-into-action-with-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "Go Eve",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 750000.0,
+    "currency": "GBP",
+    "unit": "unit"
+   },
+   "amount_usd": 1005150,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": "Innovate UK",
+   "country": "아일랜드",
+   "region": "유럽",
+   "ai_summary_ko": "University College Dublin과 Imperial College London의 공동 스핀아웃 회사 Go Eve가 DockChain 전기차 충전 기술 개발을 위해 Innovate UK 및 민간 투자자로부터 75만 파운드를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/21/go-eve-secures-ps750k-to-advance-its-dockchain-ev-charging-technology/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "Photon Bridge",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 11234000,
+   "stage": "비공개",
+   "investors": [
+    "Amadeus APEX Technology Fund",
+    "360 Capital"
+   ],
+   "lead_investor": "Amadeus APEX Technology Fund",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "Photon Bridge는 AI 및 통신 분야의 광학 엔진을 개발하는 에인트호판 기반 스타트업으로, AI 인프라 구축에 필수적인 레이저 개발의 병목 현상을 해결하기 위해 1,000만 유로를 유치했습니다. 신규 투자자인 Amadeus APEX Technology Fund와 360 Capital이 라운드를 공동 주도했습니다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/21/dutch-photonics-startup-photon-bridge-raises-eur10m-to-tackle-ais-looming-laser-bottleneck/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/eindhoven-based-photon-bridge-raises-e10-million-to-build-optical-engines-for-ai-and-telecom/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "Opply",
+   "sector": "AI",
+   "amount_original": {
+    "value": 7.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": "Chalfen Ventures",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "소비재(CPG) 브랜드를 위한 AI 기반 운영 플랫폼을 개발하는 Opply가 Chalfen Ventures 주도의 펀딩 라운드에서 750만 달러를 유치했다. Index Ventures 등이 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/21/opply-raises-75m-to-expand-its-agentic-ai-platform-for-cpg-brands/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "Mika Games",
+   "sector": "게임",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": "Flint Capital",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Wargaming 공동창립자인 Nick Katselapov가 설립한 게임 투자회사 Mika Games가 Flint Capital이 주도한 펀딩 라운드에서 1천만 달러를 유치했다. 여러 신규 및 기존 투자자들이 참여했다.",
+   "sources": [
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/21/mika-games-gets-10m-boost-to-support-mobile-game-developers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "Blacksmith",
+   "sector": "AI",
+   "amount_original": {
+    "value": 66.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 66000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Sequoia"
+   ],
+   "lead_investor": "Sequoia",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Blacksmith는 기업들이 AI 코드를 더 효과적으로 구축하고 테스트할 수 있게 해주는 플랫폼입니다. Sequoia가 주도하는 시리즈 C 라운드에서 6,600만 달러를 유치했으며, 기업가치는 10억 달러에 도달했습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "Legora",
+   "sector": "AI",
+   "amount_original": {
+    "value": 550.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 550000000,
+   "stage": "시리즈 E",
+   "investors": [
+    "Atreides Management"
+   ],
+   "lead_investor": "Boston-based",
+   "country": "스웨덴",
+   "region": "북미",
+   "ai_summary_ko": "스웨덴의 법률전문가용 에이전틱 운영시스템 개발사인 레고라가 €489 million(5억 5천만 달러) 규모의 시리즈 E 펀딩을 조성했다. 이번 라운드는 에트레이즈 매니지먼트가 주도했으며, 기업가치는 €7.8 billion($8.8 billion)에 평가됐다. 국제 확장과 레고라 aOS 강화에 자금을 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/21/legoras-valuation-leaps-to-88bn-as-raises-550m/"
+    },
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/theres-no-stopping-legora-e489-million-for-stockholms-legaltech-unicorn/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "company": "Flapping Airplanes",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1000.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "AI 연구실 Flapping Airplanes가 시리즈 A 펀딩라운드에서 10억 달러를 유치했다. 이는 9개월 전 1,800만 달러의 시드 펀딩 이후의 투자로, 회사는 인터넷 데이터를 최소한으로 사용하고도 AI 모델을 구축하는 것을 목표로 하고 있다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-20",
    "company": "Neolix",
    "sector": "모빌리티",
@@ -1602,20 +1998,29 @@
    "date": "2026-10-14",
    "company": "Pigment",
    "sector": "SaaS",
-   "amount_original": null,
-   "amount_usd": null,
+   "amount_original": {
+    "value": 250.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 250000000,
    "stage": "비공개",
    "investors": [
-    "NVIDIA"
+    "NVIDIA",
+    "Scaleup Europe Fund"
    ],
    "lead_investor": "NVIDIA",
    "country": "프랑스",
    "region": "유럽",
-   "ai_summary_ko": "Pigment는 비즈니스 계획 솔루션 분야에서 NVIDIA의 소수 지분 투자를 받았습니다. NVIDIA의 유럽 AI 생태계 구축 전략의 일환입니다.",
+   "ai_summary_ko": "프랑스 엔터프라이즈 소프트웨어 스타트업 Pigment가 EU의 €5억 규모 투자펀드인 Scaleup Europe Fund 주도로 $250 million을 유치했으며, 기업가치는 $2.3 billion으로 평가받았습니다.",
    "sources": [
     {
      "name": "EU-Startups",
      "url": "https://www.eu-startups.com/2026/10/nvidia-plans-minority-investments-in-four-french-startups-as-european-tech-commitment-nears-e9-billion/"
+    },
+    {
+     "name": "Tech.eu",
+     "url": "https://tech.eu/2026/10/21/scaleup-europe-fund-leads-ps250m-funding-round-in-pigment/"
     }
    ]
   },
