@@ -2,6 +2,285 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-22",
+   "company": "CureBay",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 10550000,
+   "stage": "프리시리즈A",
+   "investors": [
+    "IvyCap Ventures"
+   ],
+   "lead_investor": "IvyCap Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "CureBay가 IvyCap Ventures가 주도한 프리시리즈A 라운드에서 1억 루피를 유치했다. 자금은 인도 전역의 운영 확장, 헬스케어 전달 네트워크 강화, 기술 및 AI 역량 개발에 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/curebay-raises-rs-100-cr-in-pre-series-c-round-led-by-ivycap-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "company": "Enact Intelligence",
+   "sector": "AI",
+   "amount_original": {
+    "value": 26.68,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 29894940,
+   "stage": "프리시드",
+   "investors": [
+    "redalpine",
+    "Notion Capital",
+    "firstminute capital"
+   ],
+   "lead_investor": null,
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "스위스 취리히 기반의 Physical AI 스타트업 Enact Intelligence가 €26.68백만의 프리시드 펀딩 라운드로 스텔스 모드를 벗었습니다. Yann LeCun과 Arthur Mensch를 포함한 저명한 엔젤 투자자들과 redalpine, Notion Capital, firstminute capital 등의 기관 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/backed-by-yann-lecun-and-arthur-mensch-swiss-physical-ai-startup-enact-intelligence-exits-stealth-with-e26-68-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "company": "Beyond Vision",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 28.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 31374000,
+   "stage": "비공개",
+   "investors": [
+    "Índico Capital Partners",
+    "Lince Capital",
+    "ActiveCap"
+   ],
+   "lead_investor": "Índico Capital Partners",
+   "country": "포르투갈",
+   "region": "유럽",
+   "ai_summary_ko": "리스본 기반 AI 드론 제조사인 Beyond Vision이 €28백만 이상의 투자 유치를 완료했습니다. Índico Capital Partners와 Lince Capital이 라운드를 공동 주도했으며, 2024년부터 주주인 ActiveCap도 추가 투자했습니다. 회사는 민간 및 국방 시장에서 AI 드론 사업을 확장하기 위해 자금을 활용할 계획입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/lisbons-beyond-vision-raises-over-e28-million-to-scale-ai-drones-for-civilian-and-defence-markets/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "company": "Indurex",
+   "sector": "보안",
+   "amount_original": {
+    "value": 7.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 7843500,
+   "stage": "시리즈 A",
+   "investors": [
+    "Contrarian Ventures",
+    "Axeleo Capital"
+   ],
+   "lead_investor": "Contrarian Ventures",
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "암스테르담 기반 사이버물리시스템(CPS) 보안 플랫폼 스타트업 Indurex가 스텔스 상태에서 벗어난 지 9개월 만에 시리즈 A 라운드에서 700만 유로를 유치했습니다. 이 라운드는 에너지 및 산업 기술 기업에 투자하는 유럽 초기 단계 벤처캐피탈인 Contrarian Ventures가 주도했으며, Axeleo Capital과 기타 네덜란드 벤처캐피탈이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/amsterdams-indurex-raises-e7-million-to-strengthen-cybersecurity-and-safety-across-cyber-physical-systems/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "company": "Peak Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 108.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 108000000,
+   "stage": "비공개",
+   "investors": [
+    "GM"
+   ],
+   "lead_investor": "GM",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "배터리 스타트업 Peak Energy가 GM으로부터 1억 800만 달러의 투자를 유치했다. 나트륨이온 배터리 공급 확대를 위한 파트너십 연장의 일환이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/huawei-sp-mobility-unveil-ultra-fast-ev-charging"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "company": "DeepSeek",
+   "sector": "AI",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 15000000000,
+   "stage": "비공개",
+   "investors": [
+    "Tencent",
+    "CATL"
+   ],
+   "lead_investor": null,
+   "country": null,
+   "region": "동아시아",
+   "ai_summary_ko": "DeepSeek이 텐센트와 CATL로부터 150억 달러를 투자받았다. AI 데이터센터 지출 증대와 오픈소스 모델 개발을 진행 중이며, IPO를 준비 중이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/deepseek-hires-underwriters-planned-shanghai-ipo"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "company": "Unicorn India",
+   "sector": "기타",
+   "amount_original": {
+    "value": 450.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 47475000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Unicorn India가 IIT Madras와 함께 출범한 펀드의 첫 번째 클로징에서 Rs 450 crore를 유치했습니다. 회사는 미국 시장 진출을 위해 전 Google 임원을 새로운 리더로 임명했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indian-fabless-startup-vervesemi-secures-10m-series-a"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "company": "Chapter Home",
+   "sector": "부동산",
+   "amount_original": {
+    "value": 6.66,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6660000,
+   "stage": "비공개",
+   "investors": [
+    "Bessemer"
+   ],
+   "lead_investor": "Bessemer",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Chapter Home이 Bessemer를 포함한 투자자들로부터 666만 달러 규모의 펀딩을 조달했다. 회사는 해당 자금을 제품 개발, 신규 카테고리 진출, 기술 개발, 브랜드 구축에 사용할 예정이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/meta-taps-debt-13b-el-paso-data-center"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/chapter-home-raises-rs-63-cr-in-a-mix-of-equity-and-debt"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "company": "Skydance",
+   "sector": "기타",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1000000000,
+   "stage": "비공개",
+   "investors": [
+    "Elon Musk"
+   ],
+   "lead_investor": "Elon Musk",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Elon Musk이 Skydance에 10억 달러를 투자했다. 이 투자는 회사의 재정 상황을 개선하고 주가 상승을 도모하기 위한 것이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "company": "OpenAI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 30000000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "OpenAI는 1조 2,500억 달러 기업가치 평가에서 300억 달러 규모의 신규 투자 유치를 추진 중이며, 이는 비상장 기업 중 최고 기업가치 기록을 경신할 것으로 예상됩니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "company": "Warhound",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 200.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 200000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Ben Lamm과 Palmer Luckey가 설립한 Warhound는 군사 및 법집행 용도로 사용될 개를 유전자 조작하기 위해 2억 달러를 조달했습니다. 이 회사는 Anduril의 장비로 무장한 전쟁견을 엔지니어링하는 사업을 추진합니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-21",
    "company": "YITA",
    "sector": "로보틱스",
@@ -5171,8 +5450,12 @@
    "date": "2026-10-05",
    "company": "TravClan",
    "sector": "커머스",
-   "amount_original": null,
-   "amount_usd": null,
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
    "stage": "비공개",
    "investors": [
     "Flipkart"
@@ -5180,7 +5463,7 @@
    "lead_investor": "Flipkart",
    "country": "인도",
    "region": "남아시아",
-   "ai_summary_ko": "여행사의 디지털화를 지원하는 인도 여행 플랫폼 TravClan이 Flipkart의 투자를 유치했다. 이전에 TravClan은 미화 470만 달러를 모금한 바 있다.",
+   "ai_summary_ko": "TravClan이 Flipkart 등으로부터 500만 달러를 조성했다. 자금은 글로벌 공급망 확장, 기술 및 AI 역량 강화, 주요 국제 시장의 운영지 강화에 활용될 예정이다.",
    "sources": [
     {
      "name": "Tech in Asia",
@@ -5189,6 +5472,14 @@
     {
      "name": "YourStory",
      "url": "https://yourstory.com/2026/10/flipkart-acquires-minority-stake-travclan"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/flipkart-takes-stake-indian-travel-platform-travclan"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others"
     }
    ]
   },
