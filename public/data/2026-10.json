@@ -2,6 +2,44 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-24",
+   "company": "Kaminashi",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/the-futures-here-delivering-parcels"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "company": "Salmon",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/the-futures-here-delivering-parcels"
+    }
+   ]
+  },
+  {
    "date": "2026-10-23",
    "company": "CubiFab",
    "sector": "기타",
@@ -928,6 +966,10 @@
     {
      "name": "TechNode",
      "url": "https://technode.com/2026/10/20/autonomous-delivery-vehicle-maker-neolix-raises-nearly-400-million-in-series-e-funding/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/the-futures-here-delivering-parcels"
     }
    ]
   },
