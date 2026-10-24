@@ -2,6 +2,234 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-23",
+   "company": "CubiFab",
+   "sector": "기타",
+   "amount_original": {
+    "value": 10000000.0,
+    "currency": "CNY",
+    "unit": "unit"
+   },
+   "amount_usd": 1499200,
+   "stage": "비공개",
+   "investors": [
+    "Nanshan Strategic Emerging Industries Investment",
+    "Longhua Capital"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "심천 기반 데스크톱 CNC 스타트업 CubiFab이 Nanshan Strategic Emerging Industries Investment와 Longhua Capital로부터 수천만 위안대의 신규 펀딩을 조달했습니다. 이 자금은 첫 번째 제품인 CubiFab C1의 생산 확대 및 납품, 공급망 강화, 시장 확대에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/23/desktop-cnc-startup-cubifab-raises-tens-of-millions-of-rmb-to-scale-production/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "company": "Huixi Technology",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 B",
+   "investors": [
+    "Beijing Artificial Intelligence Industry Investment Fund",
+    "Beijing Robotics Industry Development Investment Fund",
+    "Hidden Hill Capital",
+    "Shunwei Capital",
+    "Cathay"
+   ],
+   "lead_investor": "Beijing Artificial Intelligence Industry Investment Fund",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 로봇칩 회사 Huixi Technology가 베이징 인공지능산업투자펀드 주도로 프리시리즈B플러스 및 시리즈 B 펀딩을 완료했습니다. 베이징 로봇산업개발투자펀드, Hidden Hill Capital 등이 참여했으며, 기존 주주 Shunwei Capital과 Cathay도 함께 투자했습니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/23/robot-chipmaker-huixi-completes-series-b-financing-led-by-beijing-ai-fund/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "company": "Tractian",
+   "sector": "AI",
+   "amount_original": {
+    "value": 130.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 130000000,
+   "stage": "시리즈 D",
+   "investors": [],
+   "lead_investor": null,
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "브라질의 AI 스타트업 Tractian이 시리즈 D 라운드에서 1억 3천만 달러를 유치했으며, 이 라운드를 통해 기업 가치는 14억 달러로 평가받았다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/tractian-raises-130m-series-d-at-1-4b-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "company": "Bold",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 11.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 11300000,
+   "stage": "비공개",
+   "investors": [
+    "BBVA Spark"
+   ],
+   "lead_investor": "BBVA Spark",
+   "country": "콜롬비아",
+   "region": "중남미",
+   "ai_summary_ko": "콜롬비아의 핀테크 스타트업 Bold가 BBVA Spark로부터 1,130만 달러 규모의 신용 한도(credit facility)를 확보했다. Bold는 2020년 설립되어 금융 서비스를 제공하고 있다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/colombian-fintech-bold-secures-11-3m-credit-facility-from-bbva-spark/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "company": "Intuitivo",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 1.35,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1511055,
+   "stage": "시드",
+   "investors": [
+    "Caixa Capital",
+    "Impact Innovation Fund"
+   ],
+   "lead_investor": "Caixa Capital",
+   "country": "포르투갈",
+   "region": "유럽",
+   "ai_summary_ko": "포르투갈의 에듀테크 스타트업 Intuitivo가 교사의 행정 부담을 경감하기 위해 €1.35백만의 시드 펀딩을 확보했습니다. 이 라운드는 Caixa Capital과 Impact Innovation Fund가 주도했으며, 포르투갈의 개발 은행인 Banco Português de Fomento에서 운영하는 자본화 및 복원력 기금에 의해 지원됩니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/portuguese-edtech-intuitivo-raises-e1-35-million-to-ease-teachers-workload-and-expand-into-brazil/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "company": "Cygrid",
+   "sector": "보안",
+   "amount_original": {
+    "value": 2.66,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2977338,
+   "stage": "프리시드",
+   "investors": [
+    "Atlantic",
+    "D11Z. Ventures"
+   ],
+   "lead_investor": "Atlantic",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "베를린 기반의 사이버보안 스타트업 Cygrid가 기밀 정보 접근 제어 플랫폼을 위해 €2.66백만의 프리시드 펀딩을 확보했습니다. 이 펀딩은 팬유럽 프리시드 펀드인 Atlantic이 주도했으며, D11Z. Ventures와 여러 엔젤 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/berlins-cygrid-exits-stealth-with-e2-66-million-to-stop-ai-agents-from-accessing-confidential-company-data/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "company": "Cognitive Credit",
+   "sector": "AI",
+   "amount_original": {
+    "value": 35.73,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 39992589,
+   "stage": "비공개",
+   "investors": [
+    "Summit Partners",
+    "ETFS Capital"
+   ],
+   "lead_investor": "Summit Partners",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반의 기업 신용 데이터 및 분석 AI 기술 제공 업체인 Cognitive Credit이 전략적 성장 투자로 €35.73백만을 확보했습니다. 이 투자는 글로벌 성장 자본 회사인 Summit Partners가 주도했으며, 기존 투자자 ETFS Capital이 계속 참여했습니다. 이 투자는 신용 시장을 위한 AI 및 데이터 플랫폼 확장을 지원합니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/londons-cognitive-credit-lands-e35-73-million-to-scale-its-ai-and-data-platform-for-credit-markets/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "company": "Phononic Vibes",
+   "sector": "기타",
+   "amount_original": {
+    "value": 25.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 27982500,
+   "stage": "비공개",
+   "investors": [
+    "Jolt Capital"
+   ],
+   "lead_investor": "Jolt Capital",
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "밀라노 기반의 소음 관리 회사 Phononic Vibes가 Paris 기반 개인사모펀드 Jolt Capital이 주도하는 라운드에서 2,500만 유로를 유치했으며, 철도, 에너지, 산업, 건설, 모빌리티 부문에서 소음 및 진동 제품을 설계, 제조한다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/milans-phononic-vibes-secures-e25-million-to-expand-noise-control-tech-already-in-service-with-deutsche-bahn-and-in-mercedes-benz/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "company": "Mave",
+   "sector": "보안",
+   "amount_original": {
+    "value": 28.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 28000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Red Dot Capital Partners",
+    "Lumir Growth Partners"
+   ],
+   "lead_investor": "Red Dot Capital Partners",
+   "country": "이스라엘",
+   "region": "유럽",
+   "ai_summary_ko": "Dell이 지원하는 이스라엘 AI 보안 스타트업 Mave가 Red Dot Capital Partners가 주도하는 시리즈 A에서 2,800만 달러를 유치했으며, Lumir Growth Partners도 참여했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/pentagon-tests-openai-google-models-after-anthropic-ban"
+    }
+   ]
+  },
+  {
    "date": "2026-10-22",
    "company": "CureBay",
    "sector": "헬스케어",
@@ -717,16 +945,23 @@
    "investors": [
     "International Finance Corporation",
     "DEG",
-    "Finnfund"
+    "Finnfund",
+    "Canary",
+    "Next Billion Ventures",
+    "Thorntree Capital"
    ],
    "lead_investor": "International Finance Corporation",
    "country": "브라질",
    "region": "중남미",
-   "ai_summary_ko": "브라질 헬스테크 Alice가 국제금융공사(IFC) 주도로 4천만 달러의 시리즈 D 라운드를 조성했으며, DEG, Finnfund 등이 참여했습니다.",
+   "ai_summary_ko": "브라질의 헬스테크 회사 Alice가 국제금융공사(IFC, 세계은행 산하) 주도로 4천만 달러 규모의 시리즈 D 펀딩을 완료했습니다. 독일 투자사 DEG와 핀란드의 Finnfund 등이 참여했으며, 기존 주주인 Canary, Next Billion Ventures, Thorntree Capital도 함께 투자했습니다.",
    "sources": [
     {
      "name": "LatamList",
      "url": "https://latamlist.com/alice-raises-40m-series-d-led-by-ifc/"
+    },
+    {
+     "name": "Contxto",
+     "url": "https://www.contxto.com/en/brazil/from-softbank-exit-to-world-bank-backing-brazils-alice-secures-40m-series-d/"
     }
    ]
   },
@@ -1034,15 +1269,21 @@
    },
    "amount_usd": 60000000,
    "stage": "시리즈 B",
-   "investors": [],
-   "lead_investor": null,
+   "investors": [
+    "FirstMark"
+   ],
+   "lead_investor": "FirstMark",
    "country": null,
    "region": "유럽",
-   "ai_summary_ko": "Daytona는 AI 에이전트를 위한 클라우드 인프라를 개발하는 회사로, 시리즈 B 펀딩 라운드에서 $60 million을 유치했다. 이 라운드는 회사의 밸류에이션을 $1 billion으로 올렸으며, 총 누적 펀딩액은 $91 million이 되었다.",
+   "ai_summary_ko": "Daytona는 에이전트를 위한 클라우드 플랫폼으로, 각 에이전트에게 자체 컴퓨터를 제공하는 개념으로 개발 중입니다. Stripe, Perplexity, Datadog, Mercor 등의 창업자들이 엔젤 투자자로 참여했으며, $1B 밸류에이션을 달성했습니다.",
    "sources": [
     {
      "name": "Tech.eu",
      "url": "https://tech.eu/2026/10/20/daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-cloud/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
     }
    ]
   },
