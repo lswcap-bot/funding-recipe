@@ -2,6 +2,301 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-27",
+   "company": "Forward Deployed",
+   "sector": "보안",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/other/chemical-threat-detection-startup-forward-deployed-sniffs-out-1-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "company": "Hypersphere Technology",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14997000,
+   "stage": "천사",
+   "investors": [
+    "Legend Capital",
+    "CAS Star",
+    "SenseTime Guoxiang Capital",
+    "WestSummit Capital"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "심천의 AI 스타트업 하이퍼스피어 테크놀로지가 수억 위안의 천사펀딩을 유치했다. 투자자들은 Legend Capital, CAS Star, SenseTime Guoxiang Capital, WestSummit Capital을 포함하고 있으며, 회사는 홍콩 중국대학의 류웨이양 교수가 창립했다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/26/ai-model-startup-hypersphere-raises-hundreds-of-millions-of-rmb-in-angel-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "company": "MP Space",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 23.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 23000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/satellite-batteries-startup-mp-space-takes-off-with-23-million-seed-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "company": "BioStack",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 9.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 9500000,
+   "stage": "시드",
+   "investors": [
+    "Peak XV"
+   ],
+   "lead_investor": "Peak XV",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "BioStack은 분산된 보건 시스템 전역에서 임상 정보를 통합하는 워크플로우를 개발하는 헬스테크 스타트업입니다. Peak XV 등에서 950만 달러의 시드 펀딩을 유치했으며, 현재 미국, 브라질, 인도, 아르헨티나의 병원들과 협력하고 있습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/healthtech-startup-biostack-raises-seed-funding-led-by-peak-xv"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "company": "QuoIntelligence",
+   "sector": "보안",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "브릿지",
+   "investors": [
+    "Christian Lindner Beteiligungsgesellschaft"
+   ],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "프랑크푸르트 기반의 사이버보안 스타트업 QuoIntelligence가 독일 전 재무부 장관 Christian Lindner의 투자 회사인 Christian Lindner Beteiligungsgesellschaft로부터 투자를 받았다. 이 투자는 2026년 4월에 종료된 €7.3 million 규모의 시리즈 A 펀딩 이후 이루어졌으며, 거래 규모는 공개되지 않았다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/frankfurts-quointelligence-secures-backing-from-ex-german-finance-minister-christian-lindner-months-after-e7-3-million-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "company": "Sonexos",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 5.4,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6041520,
+   "stage": "비공개",
+   "investors": [
+    "Valquest Partners",
+    "Robert Bosch Venture Capital GmbH"
+   ],
+   "lead_investor": "Valquest Partners",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "스위스 로잔의 디ープ테크 회사 Sonexos는 선풍기, 압축기, 데이터센터 등에서 발생하는 저주파 소음을 제어하는 고체상태 기술을 개발하고 있다. Valquest Partners가 주도한 라운드에서 약 540만 유로를 유치했으며, Bosch Ventures와 산업 천사투자자들이 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/lausannes-sonexos-raises-e5-4-million-to-tackle-low-frequency-noise-from-fans-compressors-and-even-data-centres/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "company": "Volare",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 7.1,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 7943480,
+   "stage": "비공개",
+   "investors": [
+    "Springvest",
+    "Maki.vc"
+   ],
+   "lead_investor": "Springvest",
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "핀란드의 디ープ테크 기업 Volare는 음식산업 부산물을 고품질 곤충 단백질로 변환하는 회사이다. 5,000톤 규모의 첫 산업용 시설 Volare 01을 핀란드 포리에 개설했으며, Springvest가 주도한 라운드에서 710만 유로를 유치했다. 기존 투자자와 신규 투자자를 포함한 여러 벤처캐피탈이 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/finlands-volare-raises-e7-1-million-and-opens-5000-tonne-insect-protein-factory/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "company": "Nevis",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 62.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 69365600,
+   "stage": "시리즈 B",
+   "investors": [
+    "EQT Ventures"
+   ],
+   "lead_investor": "EQT Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "AI 기반 자산관리 OS인 Nevis가 EQT Ventures 주도로 6,200만 유로(7,000만 달러)의 시리즈 B 투자를 유치했다. 이번 라운드를 통해 에이전트 기능 확장과 자산관리 생태계 통합을 계획하고 있으며, 누적 펀딩액은 9,800만 유로(1억 1,000만 달러)에 도달했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/wealthtech-startup-nevis-secures-e62-million-to-automate-financial-advisory-workflows-with-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "company": "Ailytics",
+   "sector": "AI",
+   "amount_original": {
+    "value": 7.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7400000,
+   "stage": "비공개",
+   "investors": [
+    "Tin Men Capital"
+   ],
+   "lead_investor": "Tin Men Capital",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "비전 AI 스타트업 Ailytics가 Tin Men Capital 주도로 740만 달러 규모의 투자 라운드를 유치했다. 회사는 15개 국가에서 400개 이상의 배포 사례를 보유하고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/aipowered-tools-clearing-constructions-data-debris"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "company": "Glance",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "L Catterton"
+   ],
+   "lead_investor": "L Catterton",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 락스크린 플랫폼 스타트업 Glance가 미국 진출을 위해 L Catterton의 투자를 받았다. Glance는 인도에서 약 2억 명의 활성 락스크린 사용자를 보유하고 있으며, 이번 투자를 통해 미국 시장 진출을 추진하고 있다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/inmobi-raises-350m-2026-ipo"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "company": "Matiks",
+   "sector": "게임",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "프리시리즈A",
+   "investors": [
+    "General Catalyst"
+   ],
+   "lead_investor": "General Catalyst",
+   "country": "인도",
+   "region": "북미",
+   "ai_summary_ko": "Matiks가 General Catalyst가 주도하는 프리시리즈A 라운드에서 1000만 달러를 유치했다. 이 자금은 국제 확장, 새로운 게임 및 소셜 경험 개발, 사용자가 코드 작성 없이 게임을 만들고 출판할 수 있는 AI 기반 게임 제작 플랫폼 출시에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/matiks-raises-10-million-pre-series-a-round-general-catalyst"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "company": "Bedrock Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 600.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 600000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "자율주행 굴삭기 개발 스타트업인 Bedrock Robotics가 6억 달러 규모의 신규 펀딩을 유치했다. 현재 회사 가치평가는 41억 달러에 달한다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-24",
    "company": "Kaminashi",
    "sector": "기타",
