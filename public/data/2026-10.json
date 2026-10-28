@@ -3,6 +3,409 @@
  "deals": [
   {
    "date": "2026-10-27",
+   "company": "CyboPal",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "TCL Industries",
+    "Shenzhen Capital Group"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 데스크톱 로봇 스타트업 CyboPal이 TCL Industries의 투자 부문과 Shenzhen Capital Group으로부터 전략적 펀딩을 확보했다. 회사는 사용자, 개인 AI 에이전트, 기존 컴퓨터 워크플로우를 연결하는 하드웨어를 개발하며, 첫 제품인 CyboPal ONE은 움직임, 비전, 음성 기능을 결합한 데스크톱 로봇 터미널이다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/27/desktop-robot-startup-cybopal-secures-investment-from-tcl-and-shenzhen-capital-group/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "MoSense",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14998000,
+   "stage": "엔젤플러스",
+   "investors": [
+    "CDH Investments",
+    "Oasis Capital",
+    "LimX Dynamics",
+    "Loongson Venture Capital",
+    "CAS Star",
+    "Hua Capital",
+    "Pudong Venture Capital Group"
+   ],
+   "lead_investor": "CDH Investments",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "상하이 기반 로봇 촉각 센싱 시스템 개발업체 MoSense가 CDH Investments와 Oasis Capital이 주도한 엔젤플러스 라운드에서 약 1억 위안을 유치했습니다. 2026년 5월 창립한 이 회사는 로봇용 전신 촉각 센싱 시스템을 개발하고 있으며, 이번 투자금은 기술 개발 및 시장 진출에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/27/robot-electronic-skin-startup-mosense-raises-around-rmb-100-million-in-angel-plus-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Metacognition",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "프리시드",
+   "investors": [
+    "Airtree"
+   ],
+   "lead_investor": "Airtree",
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Airtree가 AI 로봇 스타트업 Metacognition에 500만 달러를 추가 투자했습니다. 이는 호주가 모델 호스팅 분야에서 뒤처지지 않기 위한 움직임으로 평가됩니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/airtree-tops-up-ai-robotics-startups-pre-seed-with-another-5-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Live2.ai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 130.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 13666900,
+   "stage": "프리시리즈A",
+   "investors": [
+    "IvyCap Ventures"
+   ],
+   "lead_investor": "IvyCap Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Live2.ai가 AI 기반 소셜 커머스 플랫폼 확장을 위해 IvyCap Ventures가 주도한 프리시리즈A 라운드에서 130억 루피를 조달했다. 이 자금은 사업 확장과 초기 주주들의 부분 유동성 공급을 위해 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/live2ai-raises-rs-130-cr-to-expand-its-ai-led-social-commerce-platform"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Rotoris",
+   "sector": "기타",
+   "amount_original": {
+    "value": 70.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 7359100,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "럭셔리 시계 브랜드 로토리스가 70크로어 루피를 조성했다. 회사는 이 자금을 연구개발, 생산 확대, 그리고 인도 및 해외에서의 고객 맞춤 공간인 로토리스 하우스의 확장에 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/rotoris-bags-rs-70-cr-to-expand-its-luxury-watch-business"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Troovy",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 10513000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Fireside Ventures"
+   ],
+   "lead_investor": "Fireside Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "구루그람 기반의 건강 스낵 브랜드 트루비가 Fireside Ventures가 주도한 시리즈 B 라운드에서 100크로어 루피를 모금했다. 회사는 이 자금을 R&D, 제조 역량 확대, 그리고 퀵커머스 및 오프라인 채널을 통한 유통 확대에 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/healthy-snack-brand-troovy-raises-rs-100-cr-series-b-fireside-ventures"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Cent",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "헬스케어 스타트업 Cent가 시리즈 A 펀딩 라운드에서 1,500만 달러를 조달했다. 회사는 이 자금을 R&D 및 AI, 엔지니어링, 임상 팀 구축에 사용할 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/healthtech-startup-cent-raises-15-million-in-series-a"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Cortas",
+   "sector": "부동산",
+   "amount_original": {
+    "value": 1.47,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1639050,
+   "stage": "프리시드",
+   "investors": [
+    "PSV Tech"
+   ],
+   "lead_investor": "PSV Tech",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "코펜하겐 기반 부동산관리 스타트업 Cortas가 PSV Tech가 주도한 프리시드 라운드에서 147만 유로를 조성했다. PSV Tech는 2십여 년간 북유럽 스타트업에 투자해온 벤처캐피탈로, 이번 라운드에는 여러 투자자들이 참여했다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/exclusive-copenhagen-based-proptech-cortas-lands-e1-47-million-in-a-pre-seed-round-led-by-psv-tech/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Arctic RAVN",
+   "sector": "기타",
+   "amount_original": {
+    "value": 2.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2787500,
+   "stage": "브릿지",
+   "investors": [],
+   "lead_investor": null,
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "Arctic RAVN은 핀란드 에스포의 방위 기술 스타트업으로, 전환사채 형태의 250만 유로 대출 약정을 확보했습니다. 이는 최초 목표인 200만 유로를 초과했으며, 첫 제품 출시 이전에 1주일 내에 모금이 완료될 만큼 유럽산 드론 부품에 대한 수요가 높은 상황을 반영합니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/finnish-defencetech-arctic-ravn-secures-e2-5-million-in-loan-commitments-before-its-first-product-launch/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Lovey",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 298.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 332270000,
+   "stage": "비공개",
+   "investors": [
+    "Pollen Street Capital"
+   ],
+   "lead_investor": "Pollen Street Capital",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Lovey는 중소기업 대출과 중개 서비스를 제공하는 영국의 핀테크 회사로, Pollen Street Capital로부터 최대 2억 9,800만 유로의 선순위 보증 신용 시설을 확보했습니다. 이는 5,900만 유로의 약정된 자본금과 2억 3,800만 유로의 추가 한도로 구성되어 있습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/british-sme-lender-lovey-secures-up-to-e298-million-to-support-uk-companies/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Impress",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 40.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 44600000,
+   "stage": "비공개",
+   "investors": [
+    "European Investment Bank"
+   ],
+   "lead_investor": "European Investment Bank",
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "Impress는 스페인의 디지털 교정치과 네트워크로, 유럽투자은행(EIB)으로부터 4,000만 유로의 벤처채무 대출을 받았습니다. 이 자금은 110개 이상의 치과 클리닉으로 이루어진 네트워크 전체에 걸쳐 AI 플랫폼에 대한 투자 확대와 유럽 내 사업 확장 가속화에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/impress-bags-e40-million-eib-financing-to-expand-its-digital-orthodontics-network-across-europe/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Querio",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.48,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4995200,
+   "stage": "시드",
+   "investors": [
+    "BMW i Ventures",
+    "LAUNCH",
+    "Haatch Ventures",
+    "Araya",
+    "Forum Ventures",
+    "Secways"
+   ],
+   "lead_investor": "BMW i Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던의 분석 플랫폼 Querio가 시드 펀딩으로 €448만 달러를 조성했습니다. BMW i Ventures가 주도했으며, 데이터 팀과 AI 에이전트를 위한 분석 플랫폼으로 기업들이 AI 도구 간의 상충하는 답변 문제를 해결하도록 돕습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/londons-querio-launches-with-e4-48-million-to-help-companies-and-their-data-teams-tackle-conflicting-answers-across-ai-tools/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Bedrock",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 600.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 600000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "미국의 로보틱스 스타트업 Bedrock이 $6억 규모로 펀딩을 유치하여 회사의 가치를 $41억으로 평가받았습니다. 회사의 자율주행 굴삭기는 8월부터 상업용 현장에서 실제 작업을 수행하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/alphabets-capitalg-leads-270m-round-in-us-construction-tech-firm"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Atoms",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 1.7,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1700000000,
+   "stage": "비공개",
+   "investors": [
+    "Andreessen Horowitz"
+   ],
+   "lead_investor": "Andreessen Horowitz",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Travis Kalanick의 로봇팀 기업 Atoms가 로봇팀 사업 확대를 위해 17억 달러 규모의 펀딩을 조성했습니다. Andreessen Horowitz의 공동 창립자 Ben Horowitz가 Atoms의 이사회에 추가됩니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/uk-quantum-startup-raises-100m-expands-singapore"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Simplismart",
+   "sector": "AI",
+   "amount_original": {
+    "value": 14.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 14000000,
+   "stage": "비공개",
+   "investors": [
+    "Nvidia",
+    "Dallas Venture Capital"
+   ],
+   "lead_investor": "Nvidia",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "AI 스타트업 심리스마트가 Dallas Venture Capital과 Nvidia를 포함한 투자자들로부터 1,400만 달러를 모금했다. 회사는 이 자금을 기술 플랫폼 개발, 시장 확대, 파트너십 구축에 활용할 계획이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/nvidia-eyes-lead-ai-startup-simplismarts-20m"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/ai-startup-simplismart-14-million-dallas-venture-capital-nvidia-others"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Re:Build",
+   "sector": "기타",
+   "amount_original": {
+    "value": 2.1,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 2100000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Re:Build는 Slate Auto를 창출한 제조업 액셀러레이터로, 2.1B 달러를 조성했습니다. 동사는 자신을 '미국의 선전'이라고 표현하며 제조업 분야에서 활동하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
    "company": "Forward Deployed",
    "sector": "보안",
    "amount_original": {
@@ -16,11 +419,15 @@
    "lead_investor": null,
    "country": "호주",
    "region": "오세아니아",
-   "ai_summary_ko": null,
+   "ai_summary_ko": "Forward Deployed가 화학 위협 탐지 기술 DINGO를 실전 배치 가능하도록 개선하기 위해 100만 달러를 유치했습니다.",
    "sources": [
     {
      "name": "Startup Daily",
      "url": "https://www.startupdaily.net/other/chemical-threat-detection-startup-forward-deployed-sniffs-out-1-million/"
+    },
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/other-tech/chemical-threat-detection-startup-forward-deployed-sniffs-out-1-million/"
     }
    ]
   },
