@@ -2,6 +2,272 @@
  "month": "2026-10",
  "deals": [
   {
+   "date": "2026-10-28",
+   "company": "NeuroXess",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 700.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 105007000,
+   "stage": "시리즈 B",
+   "investors": [
+    "SDIC Juli",
+    "Shenzhen Capital Group",
+    "Qinzhi Capital"
+   ],
+   "lead_investor": "SDIC Juli",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 뇌-컴퓨터 인터페이스 스타트업 NeuroXess가 시리즈 B 펀딩으로 7억 위안을 유치했습니다. SDIC Juli, Shenzhen Capital Group, Qinzhi Capital이 주도했으며, 유연한 전극과 무선 전력·데이터 전송 기술을 결합한 이식형 시스템 개발에 자금을 사용할 예정입니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/28/brain-computer-interface-startup-neuroxess-raises-rmb-700-million-in-series-b-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "company": "Zero Zero Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1000000000,
+   "stage": "시리즈 D+",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "HOVERAir 자체 비행 카메라의 제조사인 중국 회사 제로 제로 로보틱스가 최신 펀딩 라운드에서 10억 달러 평가액을 달성하며 유니콘 기업이 되었다. 4분기 매출은 6억~7억 위안에 달할 것으로 예상된다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/28/hoverair-maker-zero-zero-robotics-reportedly-becomes-a-unicorn/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "company": "Baishida",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "Still Water Lake Venture Partners"
+   ],
+   "lead_investor": "Still Water Lake Venture Partners",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 데스크톱 3D프린터 스타트업 바이시다가 스틸 워터 레이크 벤처 파트너스의 단독 투자로 엔젤플러스 라운드 펀딩을 완료했다. 금액은 공개되지 않았으며, 조달 자금은 제조, 연구개발, 인력 채용 및 운영자금으로 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/10/28/desktop-3d-printer-startup-baishida-secures-angel-plus-funding/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "company": "Alchemy Charge",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "AUD",
+    "unit": "million"
+   },
+   "amount_usd": 1406560,
+   "stage": "비공개",
+   "investors": [
+    "ARENA"
+   ],
+   "lead_investor": "ARENA",
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Alchemy Charge는 아파트 전기차 충전 솔루션 개발을 위해 ARENA로부터 200만 호주달러를 투자받았습니다. Strata Assist 기술을 통해 공동주택 거주자들의 충전 인프라 문제 해결을 목표로 하고 있습니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/arena-powers-up-alchemy-charge-with-2-million-for-apartment-ev-chargers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "company": "GomatiRoots",
+   "sector": "푸드테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Bihar의 Shetal Kumari가 홈메이드 바디 제품을 바탕으로 설립한 GomatiRoots가 YourStory의 Shuru Kar 이니셔티브를 통해 펀딩을 확보했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/10/homemade-badi-gomatiroots"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "company": "Samplix",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 25.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 27832500,
+   "stage": "비공개",
+   "investors": [
+    "WLanholding GmbH"
+   ],
+   "lead_investor": "WLanholding GmbH",
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "덴마크의 바이오텍 기업 Samplix가 항체 발견 기술 개발을 위해 2,500만 유로 투자 유치를 발표했습니다. 이는 신규 자본금 300만 유로와 주주 전환사채 2,200만 유로로 구성되며, WLanholding GmbH가 주도했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/danish-biotech-samplix-secures-e25-million-in-first-close-of-financing-round-to-scale-antibody-discovery/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "company": "Artiso",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3339900,
+   "stage": "프리시드",
+   "investors": [
+    "Criteria Venture Tech",
+    "Swanlaab Venture Factory",
+    "Bynd Venture Capital"
+   ],
+   "lead_investor": "Criteria Venture Tech",
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "바르셀로나의 AI 패션 운영 시스템 개발 스타트업 Artiso가 Criteria Venture Tech가 주도한 프리시드 라운드에서 300만 유로 이상을 투자 유치했습니다. 여러 벤처캐피탈과 엔젤 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/barcelonas-artiso-raises-over-e3-million-to-scale-its-ai-operating-system-for-fashion-teams/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "company": "Autofixer",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3339900,
+   "stage": "그로스",
+   "investors": [
+    "Orbit Capital"
+   ],
+   "lead_investor": "Orbit Capital",
+   "country": "폴란드",
+   "region": "유럽",
+   "ai_summary_ko": "폴란드의 온라인 자동차 부품 판매 플랫폼 Autofixer가 Orbit Capital로부터 300만 유로의 벤처 채무 투자를 유치했습니다. 이 자금은 유럽 전역으로의 확장, 플랫폼 개발, 팀 성장에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/polands-autofixer-raises-e3-million-in-venture-debt-to-scale-its-online-car-parts-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "company": "Magic Vision",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 600.0,
+    "currency": "EUR",
+    "unit": "thousand"
+   },
+   "amount_usd": 667980,
+   "stage": "비공개",
+   "investors": [
+    "SixS",
+    "Italian business angels"
+   ],
+   "lead_investor": "SixS",
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "Magic Vision은 노인과 취약계층을 모니터링하고 지원하는 AI 및 컴퓨터 비전 기술을 개발하는 이탈리아 딥테크 스타트업입니다. SixS와 이탈리아 비즈니스 엔젤들로부터 60만 유로의 펀딩을 유치했습니다. 이 자금은 노인 낙상 감지 등 취약계층 모니터링 기술 개발에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/10/my-grandfather-fell-and-remained-on-the-floor-for-an-entire-day-magic-vision-raises-e600k-for-monitoring-tech/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "company": "Hex",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "비공개",
+   "investors": [
+    "Peak XV"
+   ],
+   "lead_investor": "Peak XV",
+   "country": null,
+   "region": "동남아",
+   "ai_summary_ko": "Hex는 AI 분석 스타트업으로 Peak XV로부터 1억 달러 규모의 투자를 유치했습니다. 회사는 제품을 처음부터 다시 개발했으며, 이전 버전은 2,500명 이상의 고객을 보유하고 있었습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/indian-enterprise-ai-startup-navikenz-raises-75m-seed"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "company": "Upwind",
+   "sector": "보안",
+   "amount_original": {
+    "value": 400.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 400000000,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "클라우드 보안 스타트업 Upwind가 시리즈 C 라운드에서 4억 달러를 유치하며 38억 달러의 기업가치를 달성했다. 이는 동일한 가격으로 제시된 Datadog의 인수 제안을 거절한 후의 투자이다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-27",
    "company": "CyboPal",
    "sector": "로보틱스",
