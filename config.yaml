@@ -34,11 +34,14 @@ sources:
     region_hint: 아시아
     enabled: true
     browser_ua: true
+  # 2026-11 중단: Cloudflare 관리형 챌린지가 걸려 자동 요청이 전부 403 이다.
+  # robots.txt 조차 챌린지 페이지가 돌아온다. 사람인 척 우회하지 않는다.
+  # 다시 켜려면 EU-Startups 쪽에 수집 허용이나 API 를 요청해야 한다.
   - name: EU-Startups
     module: eu_startups
     rss: https://www.eu-startups.com/feed/
     region_hint: 유럽
-    enabled: true
+    enabled: false
   - name: YourStory
     module: yourstory
     rss: https://yourstory.com/feed

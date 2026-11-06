@@ -34,12 +34,18 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # 추출이 일부라도 막히면 pipeline.py 가 1로 끝난다(= 이 잡이 빨간불).
+      # 그래야 딜이 안 들어오는 것을 그날 알 수 있다.
       - name: Run pipeline (collect → extract → store → export)
+        id: pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python pipeline.py
 
+      # 위가 실패해도 거기까지 얻은 결과는 남긴다. 안 그러면 성공한 딜까지 버려지고,
+      # 다음 실행이 같은 기사를 또 긁는다.
       - name: Commit updated data
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

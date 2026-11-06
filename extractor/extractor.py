@@ -146,11 +146,20 @@ def extract_batch(client: anthropic.Anthropic, batch: list[dict], config: dict) 
     return deals, usage
 
 
-def extract_all(articles: list[dict], config: dict) -> list[dict]:
-    """전체 기사를 배치로 나눠 추출. 비용 로그 출력."""
+def extract_all(articles: list[dict], config: dict) -> tuple[list[dict], list[dict]]:
+    """전체 기사를 배치로 나눠 추출.
+
+    돌려주는 값: (딜 목록, 실제로 추출을 끝낸 기사 목록).
+
+    두 번째 값이 중요하다. 호출자는 이것만 '처리함' 으로 기록해야 한다.
+    예전에는 배치가 실패해도 기사 전체를 처리함으로 남겨서, API 가 막혀 있던
+    9일치가 통째로 버려지고 키를 고친 뒤에도 다시 시도하지 않았다.
+    """
     client = anthropic.Anthropic()
     batch_size = config.get("batch_size", 5)
-    all_deals = []
+    all_deals: list[dict] = []
+    done: list[dict] = []
+    failed_batches = 0
     total_in = total_out = 0
 
     for i in range(0, len(articles), batch_size):
@@ -158,10 +167,14 @@ def extract_all(articles: list[dict], config: dict) -> list[dict]:
         try:
             deals, usage = extract_batch(client, batch, config)
         except anthropic.APIStatusError as e:
-            log.error("API 오류 (배치 %d-%d): %s %s - 건너뜀", i, i + len(batch) - 1, e.status_code, e.message)
+            failed_batches += 1
+            log.error("API 오류 (배치 %d-%d): %s %s - 다음 실행에서 다시 시도한다",
+                      i, i + len(batch) - 1, e.status_code, e.message)
             continue
         except anthropic.APIConnectionError as e:
-            log.error("네트워크 오류 (배치 %d-%d): %s - 건너뜀", i, i + len(batch) - 1, e)
+            failed_batches += 1
+            log.error("네트워크 오류 (배치 %d-%d): %s - 다음 실행에서 다시 시도한다",
+                      i, i + len(batch) - 1, e)
             continue
         total_in += usage["input_tokens"]
         total_out += usage["output_tokens"]
@@ -169,9 +182,13 @@ def extract_all(articles: list[dict], config: dict) -> list[dict]:
                  i, i + len(batch) - 1, len(batch), len(deals),
                  usage["input_tokens"], usage["output_tokens"])
         all_deals.extend(deals)
+        done.extend(batch)
 
     price_in, price_out = _price_for(config["model"])
     cost = total_in / 1e6 * price_in + total_out / 1e6 * price_out
-    log.info("API 비용 요약: 기사 %d건 처리, input=%d / output=%d tokens, 약 $%.4f",
-             len(articles), total_in, total_out, cost)
-    return all_deals
+    log.info("API 비용 요약: 기사 %d건 중 %d건 처리, input=%d / output=%d tokens, 약 $%.4f",
+             len(articles), len(done), total_in, total_out, cost)
+    if failed_batches:
+        log.error("배치 %d개가 실패해 기사 %d건을 처리하지 못했다.",
+                  failed_batches, len(articles) - len(done))
+    return all_deals, done
