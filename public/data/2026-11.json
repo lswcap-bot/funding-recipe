@@ -3,6 +3,362 @@
  "deals": [
   {
    "date": "2026-11-06",
+   "company": "URobotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 33.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 33500000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Kiwoom Investment",
+    "K2 Investment Partners",
+    "Hyundai Motor Group's Zer01ne"
+   ],
+   "lead_investor": "Kiwoom Investment",
+   "country": "대한민국",
+   "region": "동아시아",
+   "ai_summary_ko": "남한의 물리적 AI 스타트업 URobotics는 Kiwoom Investment와 K2 Investment Partners가 공동 주도한 시리즈 A 라운드에서 3,350만 달러를 유치했으며, Hyundai Motor Group의 Zer01ne 등이 참여했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170189-robot-autonomy-startup-urobotics-raises-29-9m-series-a-at-a-tenfold-valu/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "Enapter AG",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 13.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 14514500,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "Enapter AG는 녹색 기술 기업으로 AEM 전해조 개발을 하고 있으며, 중국 시장 진출을 위해 1주에 €1.00의 가격으로 최대 1,301만 7,479주를 배정받는 방식의 자본 증대를 통해 최대 €1,300만을 조달할 계획이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170190-enapter-raises-up-to-13m-in-rights-issue-to-fund-china-pivot/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "LionGo New Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 27.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 27500000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Sinochem New Material Fund",
+    "Xinjian Future",
+    "Huacheng Venture Capital"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 배터리 소재 스타트업 LionGo New Energy가 고체 전해질 생산 확대를 위해 약 2,750만 달러의 시리즈 B 확장 라운드를 유치했습니다. 이 자금은 솔리드 스테이트 배터리 전해질 생산에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170193-liongo-raises-30m-series-b-extension-for-solid-state-electrolytes/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "GHGSat",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Mitsubishi Electric",
+    "MUFG Bank",
+    "Climate Investment"
+   ],
+   "lead_investor": null,
+   "country": "캐나다",
+   "region": "북미",
+   "ai_summary_ko": "GHGSat는 우주에서 온실가스 배출량을 모니터링하는 캐나다 기업으로, 2026년 10월 전환사채 발행을 통해 미쓰비시 일렉트릭, MUFG 은행, Climate Investment로부터 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170200-mitsubishi-electric-mufg-and-climate-investment-back-methane-satellite-f/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "Foshan Topu Technology",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 4.13,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4130000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Huaibei Jishan",
+    "Anhui Hengna",
+    "Chongqing Haite"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 Foshan Topu Technology는 고밀도 드론 배터리 사업 확대를 위해 Huaibei Jishan, Anhui Hengna, Chongqing Haite의 투자로 413만 달러 규모의 시리즈 A 투자를 완료했다. 투자금은 0.5GWh 규모의 생산 기지 건설에 투입될 예정이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170201-chinas-topu-technology-raises-4-49m-to-scale-high-density-drone-batterie/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "Public Connect",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "그로스",
+   "investors": [
+    "NANKAI NEXT Ventures"
+   ],
+   "lead_investor": "NANKAI NEXT Ventures",
+   "country": "일본",
+   "region": "동아시아",
+   "ai_summary_ko": "일본 Nankai 그룹의 기업벤처팀인 NANKAI NEXT Ventures가 정부 기관을 위한 채용 플랫폼을 운영하는 오사카 기반 스타트업 Public Connect에 성장 자본 투자를 실행했다. 투자 규모와 상세 조건은 미공개이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170203-nankais-cvc-backs-public-connect-months-after-osaka-fund-investment/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "Pepper Games",
+   "sector": "게임",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 A",
+   "investors": [
+    "Stonebridge Ventures",
+    "Horizon Investment"
+   ],
+   "lead_investor": "Stonebridge Ventures",
+   "country": "한국",
+   "region": "동아시아",
+   "ai_summary_ko": "한국 게임 스튜디오 Pepper Games(구 Agesoft)가 Stonebridge Ventures가 주도하고 Horizon Investment가 참여한 시리즈 A 투자 유치를 발표했다. 투자 규모는 비공개이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170208-korean-studio-pepper-games-lands-series-a-from-stonebridge-horizon/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "FaceHeart",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "TISI"
+   ],
+   "lead_investor": "TISI",
+   "country": "대만",
+   "region": "동아시아",
+   "ai_summary_ko": "FaceHeart는 카메라 영상으로 생체신호를 측정하는 AI 기반 디지털 헬스 스타트업으로, 일본 기업 TISI로부터 투자를 유치했다. FDA 승인을 받은 카메라 생체신호 기술을 보유하고 있다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170226-japans-tisi-backs-taiwans-faceheart-maker-of-fda-cleared-camera-vitals-t/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "Access Holdings",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "International Finance Corporation"
+   ],
+   "lead_investor": "International Finance Corporation",
+   "country": "앙골라",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "Access Holdings가 국제금융공사(IFC)로부터 투자를 받아 아프리카 전역의 무역금융 확대 및 국경간 사업 지원을 추진한다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170227-ifc-backs-access-holdings-to-widen-trade-finance-across-africa/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "Bluelinea",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 5.32,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5939780,
+   "stage": "비공개",
+   "investors": [
+    "APICIL Group"
+   ],
+   "lead_investor": "APICIL Group",
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "프랑스 원격돌봄 회사 블루리네아가 APICIL 그룹의 지원으로 532만 유로 규모의 자본 증자를 완료했습니다. APICIL 그룹이 대주주로서 전액 지원했으며, 주당 0.05유로에 106,432,512주를 발행했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170247-bluelinea-raises-5-32m-in-apicil-backed-lifeline-as-sales-slide/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "Water Ledger Global",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Launch Africa"
+   ],
+   "lead_investor": "Launch Africa",
+   "country": "남아프리카",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "남아프리카 물 데이터 스타트업 Water Ledger Global이 Launch Africa로부터 전략적 투자를 유치했다. 이 투자는 글로벌 물 관련 공유 신뢰 인프라 확장을 위해 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170263-launch-africa-backs-south-african-water-data-startup-water-ledger-global/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "ScaNxt",
+   "sector": "농업",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [
+    "Rainmatter",
+    "SIDBI",
+    "Small Industries Development Bank of India"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "IIT 칸푸르에서 육성한 딥테크 농업기술 스타트업 ScaNxt가 제로다의 투자 부문 Rainmatter, 인도 소액산업발전은행(SIDBI) 등으로부터 초기 단계 투자를 유치했습니다. 구체적인 금액은 공개되지 않았습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170270-zerodhas-rainmatter-backs-iit-kanpur-agritech-scanxt-alongside-two-state/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "Syn2core",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4500000,
+   "stage": "시드",
+   "investors": [
+    "Montis VC",
+    "Vanagon",
+    "Bayern Kapital"
+   ],
+   "lead_investor": "Montis VC",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반 신생 제조업체 AI 협력사인 Syn2core가 시드 라운드에서 450만 달러를 유치했습니다. Montis VC가 주도 투자자로 참여했으며, Vanagon과 Bayern Kapital이 신규 투자자로 합류했습니다. 이 자금은 제조업 현장에서 근로자를 지원할 AI 코파일럿 개발에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170292-syn2core-lands-4-5m-seed-to-put-an-ai-co-pilot-on-factory-floors/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "Saidot",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "BackingMinds",
+    "Crowberry Capital",
+    "Ventic"
+   ],
+   "lead_investor": null,
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "헬싱키 기반의 엔터프라이즈 AI 에이전트 거버넌스 플랫폼 Saidot이 신규 투자자 BackingMinds를 포함한 투자를 유치했으며, 미국 시장 진출을 계획하고 있습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170294-saidot-raises-fresh-funding-to-govern-enterprise-ai-agents-eyes-us-push/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "Bimapay",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 8.93,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 8930000,
+   "stage": "비공개",
+   "investors": [
+    "Mufin Green Finance"
+   ],
+   "lead_investor": "Mufin Green Finance",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 핀테크 회사 Bimapay Finsure는 인도 상장 금융회사 Mufin Green Finance로부터 지분 23%를 약 $8.93M에 인수당하는 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170296-mufin-green-finance-to-buy-23-of-bimapay-for-6-98m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
    "company": "Sand.ai",
    "sector": "AI",
    "amount_original": {
@@ -47,6 +403,191 @@
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "company": "Xanh Entertainment",
+   "sector": "게임",
+   "amount_original": {
+    "value": 2.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2500000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Xanh Entertainment은 가상 실내 사이클링과 스튜디오 클래스, 지역 이벤트, 여행지를 연결하는 EscapeSquid 플랫폼 개발을 위해 시드 펀딩 250만 달러를 유치했습니다. 이 자금은 플랫폼 기능 확대와 사용자 경험 개선에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170142-xanh-raises-2-5m-seed-to-link-virtual-cycling-with-travel/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "company": "WellBe",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "일본",
+   "region": "동아시아",
+   "ai_summary_ko": "WellBe는 도쿄 기반의 미용 및 웰니스 예약 플랫폼으로, 일본을 방문하는 외국인 관광객을 대상으로 서비스합니다. 2026년 9월에 발표한 시드 라운드에서 423.1만 달러의 자금을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170143-japans-wellbe-raises-360k-seed-to-book-beauty-visits-for-tourists/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "company": "Damgara",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "CNT Tech"
+   ],
+   "lead_investor": "CNT Tech",
+   "country": "한국",
+   "region": "동아시아",
+   "ai_summary_ko": "Damgara는 비디오 사전제작을 자동화하는 AI 플랫폼을 개발하는 한국 스타트업입니다. 가속기인 CNT Tech로부터 초기 단계 투자를 받았으며, 금액은 상호 합의에 따라 비공개입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170144-cnt-tech-backs-ai-video-startup-damgara-in-early-stage-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "company": "Duome",
+   "sector": "부동산",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "그로스",
+   "investors": [
+    "Great Lakes Credit Union"
+   ],
+   "lead_investor": "Great Lakes Credit Union",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Duome는 신용조합 서비스 기구(CUSO)로서 주택 구매자와 함께 공투자하는 사업을 영위하고 있습니다. Great Lakes Credit Union이 성장 단계 지분 투자를 진행했으며, 이는 시카고의 주택 가격 문제 해결을 목표로 합니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170148-great-lakes-credit-union-backs-duome-to-tackle-chicagos-housing-affordab/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "company": "Manaksia Coated Metals & Industries (MCMIL)",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 20.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20400000,
+   "stage": "그로스",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Manaksia Coated Metals & Industries가 11월 5일 완전 청약된 적격기관투자자배치(QIP)를 통해 2,040만 달러를 조성했습니다. IPO 이후의 지분 라운드로 철강 사업 확장을 위한 단계적 증설에 자금을 사용할 계획입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170154-manaksias-quick-re-raise-15-9m-qip-to-fund-steel-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "company": "Strive Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3000000,
+   "stage": "프리시드",
+   "investors": [
+    "Hi Ventures",
+    "Grid Capital",
+    "Tenon Ventures",
+    "Thin Capital"
+   ],
+   "lead_investor": "Hi Ventures",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Strive Robotics가 고혼합 제조 로봇 개발을 위해 프리시드 펀딩으로 300만 달러 이상을 유치했습니다. Hi Ventures가 라운드를 주도했으며 Grid Capital, Tenon Ventures, Thin Capital이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170164-strive-robotics-raises-3m-pre-seed-to-automate-high-mix-factories/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "company": "Skydio",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 1.2,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 1200000000,
+   "stage": "비공개",
+   "investors": [
+    "Axon"
+   ],
+   "lead_investor": "Axon",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "드론 제조사 Skydio가 Axon으로부터 12억 달러의 투자를 유치했다. 이번 투자로 Skydio의 기업가치는 52억 달러로 평가되었으며, Axon의 지분은 약 20% 증가하게 된다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170172-axon-invests-1-2b-in-skydio-taking-drone-maker-to-a-5-2b-valuation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "company": "CesiumAstro",
+   "sector": "기타",
+   "amount_original": {
+    "value": 730.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 730000000,
+   "stage": "시리즈 D",
+   "investors": [
+    "Janus"
+   ],
+   "lead_investor": "Janus",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "CesiumAstro는 우주 및 국방 통신 기업으로, 737개 위성으로 구성된 상업 위성 네트워크를 구축하기 위해 시리즈 D 라운드에서 7억 3천만 달러를 조달했다. 이번 투자로 회사의 가치는 45억 달러 이상으로 평가되며, 글로벌 위성 통신 인프라 구축에 투자 자금이 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170175-cesiumastro-raises-730m-series-d-at-more-than-4-5b-to-build-a-737-satell/"
     }
    ]
   }
