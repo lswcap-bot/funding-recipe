@@ -17,11 +17,15 @@ sources:
     rss: https://techcrunch.com/feed/
     region_hint: 글로벌/미국
     enabled: true
+  # 2026-11 중단: GitHub Actions 의 IP 에서 403 이 온다(집 PC 에서는 같은 주소가 200).
+  # 경로나 UA 문제가 아니라 클라우드 IP 를 막는 것이라, 자동 실행으로는 받을 수 없다.
+  # 수집기는 robots.txt 가 허용하는 news 사이트맵을 쓰도록 고쳐 뒀으니(collector/tech_eu.py),
+  # 막히지 않은 곳에서 pipeline.py 를 돌리면 그대로 동작한다.
   - name: Tech.eu
     module: tech_eu
-    rss: https://tech.eu/feed/
+    rss: https://tech.eu/sitemap/news.xml
     region_hint: 유럽
-    enabled: true
+    enabled: false
   - name: Tech in Asia
     module: techinasia
     rss: https://www.techinasia.com/feed
