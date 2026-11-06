@@ -71,3 +71,12 @@ sources:
     rss: https://technode.com/feed/
     region_hint: 중국
     enabled: true
+  # 2026-11 추가. robots.txt 가 Allow: / 이고 뉴스 사이트맵을 스스로 알려 준다.
+  # 사이트맵에 요약이 없어 기사마다 og:description 을 한 번 더 받는다(collector/dealroom.py).
+  # 사이트맵이 사흘치(하루 150건 안팎)를 담으므로 max_items 로 상한을 둔다.
+  - name: Dealroom
+    module: dealroom
+    region_hint: 글로벌/유럽
+    enabled: true
+    max_items: 120
+    workers: 5
