@@ -1,0 +1,54 @@
+{
+ "month": "2026-11",
+ "deals": [
+  {
+   "date": "2026-11-06",
+   "company": "Sand.ai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 200.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 200000000,
+   "stage": "시리즈 A+",
+   "investors": [
+    "Cornerstone Capital",
+    "Wangsu Science & Technology"
+   ],
+   "lead_investor": "Cornerstone Capital, Wangsu Science & Technology",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 비디오 생성 AI 회사 Sand.ai가 2억 달러 규모의 시리즈 A+ 펀딩을 유치했다. 이번 투자로 유니콘 기업 지위를 획득했으며, 올해 총 3라운드를 통해 3억 달러를 모금했다. 조성된 자금은 비디오 모델 개발 연구에 투입될 예정이다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/11/06/sand-ai-raises-200-million-ahead-of-magi-2-video-model-release/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "Physicl",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Physicl이 로봇을 위한 디지털 세계의 현실성을 높이기 위해 $10M을 조성했습니다. 해당 기금은 원래 온라인 상품 마케팅을 위해 구축된 파이프라인을 활용하여 심-투-리얼 갭을 해결하는 데 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+    }
+   ]
+  }
+ ]
+}
