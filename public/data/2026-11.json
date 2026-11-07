@@ -2,6 +2,71 @@
  "month": "2026-11",
  "deals": [
   {
+   "date": "2026-11-07",
+   "company": "Fact Base",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/still-some-sparkle-in-store"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "company": "Giva",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/still-some-sparkle-in-store"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "company": "OpenAI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 11.0,
+    "currency": "USD",
+    "unit": "billion"
+   },
+   "amount_usd": 11000000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "OpenAI가 11억 달러 규모의 펀딩 라운드를 진행하며 1.25조 달러의 기업가치로 평가받았습니다. 회사는 초기에 1.4조 달러의 기업가치로 30억 달러 이상을 모금할 목표를 세웠던 것으로 알려졌습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/openai-cuts-fundraising-target-20b-valuation-falls"
+    }
+   ]
+  },
+  {
    "date": "2026-11-06",
    "company": "URobotics",
    "sector": "로보틱스",
@@ -380,6 +445,10 @@
     {
      "name": "TechNode",
      "url": "https://technode.com/2026/11/06/sand-ai-raises-200-million-ahead-of-magi-2-video-model-release/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/still-some-sparkle-in-store"
     }
    ]
   },
