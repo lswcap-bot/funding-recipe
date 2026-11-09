@@ -2,6 +2,439 @@
  "month": "2026-11",
  "deals": [
   {
+   "date": "2026-11-09",
+   "company": "Vudoo",
+   "sector": "마케팅/광고",
+   "amount_original": {
+    "value": 22.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 22000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "멜버른의 애드테크 스타트업 Vudoo가 시리즈 B 펀딩 라운드에서 2,200만 달러를 유치했습니다. 이 자금은 광고 내 체크아웃 기능을 강화하고 미국 시장 진출을 위해 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/melbourne-adtech-vudoo-raises-22-million-series-b-as-in-ad-checkout-takes-on-the-us/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "company": "KyDo Therapeutics",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 4.45,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 4968425,
+   "stage": "프리시드",
+   "investors": [
+    "i&i Biotech Fund",
+    "KHAN"
+   ],
+   "lead_investor": null,
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "독일 도르트문트의 전임상 단계 바이오테크 스타트업 KyDo Therapeutics가 기존 투자자들로부터 €4.45M의 시드 확대 펀딩을 유치했다. 이는 공유 결합-알로스테릭 종양학 플랫폼을 개발하기 위한 자금이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170515-kydo-therapeutics-extends-4-45m-seed-as-insiders-back-cancer-drug-platfo/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "company": "Monkfield Reptile",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "그로스",
+   "investors": [
+    "BGF"
+   ],
+   "lead_investor": "BGF",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국의 파충류용품 전문업체 Monkfield Reptile이 성장 투자사 BGF로부터 수백만 파운드의 소수지분 투자를 유치했다. 이 자금은 미국 성장을 추진하고 제품 개발에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170520-monkfield-reptile-lands-bgf-backing-to-push-us-growth/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "company": "Banaraswala",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2000000,
+   "stage": "시드",
+   "investors": [
+    "Prax Impex Private Limited"
+   ],
+   "lead_investor": "Prax Impex Private Limited",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "바나라시 요리 전문 식품 브랜드인 바나라스왈라가 Prax Impex Private Limited로부터 200만 달러의 시드 펀딩을 유치했다. 2025년 설립된 이 델리 기반 회사는 조성된 자금으로 새로운 지점 확장을 추진할 계획이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170531-banaraswala-raises-2m-seed-to-take-banarasi-cuisine-beyond-delhi/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "company": "Arka Fincap Limited",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 71.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 71300000,
+   "stage": "그로스",
+   "investors": [
+    "TPG Rise Funds"
+   ],
+   "lead_investor": "TPG Rise Funds",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 비은행금융회사(NBFC) 아르카 핀캡이 TPG의 임팩트 투자 펀드인 라이즈 펀드로부터 $71.3M의 그로스 펀딩을 유치했다. 담보부 소매 대출 사업에 자금을 투입할 계획이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170535-tpgs-rise-funds-backs-indias-arka-fincap-with-55-8m-for-secured-retail-l/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "company": "SKINGARDEN",
+   "sector": "커머스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Korea Koryo Insam Company"
+   ],
+   "lead_investor": "Korea Koryo Insam Company",
+   "country": "일본",
+   "region": "동아시아",
+   "ai_summary_ko": "도쿄 기반의 K뷰티 셀렉트숍 운영사인 SKINGARDEN이 한국 기업 Korea Koryo Insam Company로부터 전략적 투자를 유치했으며, 거래는 2026년 10월 30일에 종료되었습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170538-korea-koryo-insam-company-backs-k-beauty-retailer-skingarden-in-japan-pu/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "company": "BCC Media Network",
+   "sector": "기타",
+   "amount_original": {
+    "value": 271.6,
+    "currency": "USD",
+    "unit": "thousand"
+   },
+   "amount_usd": 271600,
+   "stage": "시드",
+   "investors": [
+    "BeyondSeed",
+    "Rajkot Venture",
+    "Mrunal Jhaveri"
+   ],
+   "lead_investor": "BeyondSeed",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "뭄바이 기반의 새로운 미디어 회사인 BCC Media Network가 BeyondSeed가 주도하고 Rajkot Venture, Mrunal Jhaveri가 참여한 시드 라운드에서 271.6천 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170542-bcc-media-network-raises-213-000-seed-round-to-build-owned-media-ips/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "company": "AltUrban",
+   "sector": "부동산",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "AGP Sky7 Ventures"
+   ],
+   "lead_investor": "AGP Sky7 Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 주택 공유 및 법인 주택을 위한 기술 플랫폼을 구축하는 AltUrban이 미국 기반 투자 회사인 AGP Sky7 Ventures로부터 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170543-sky7-ventures-backs-indias-alturban-to-scale-co-living-and-corporate-hou/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "company": "Radiacode",
+   "sector": "보안",
+   "amount_original": {
+    "value": 2.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2791250,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "키프로스",
+   "region": "유럽",
+   "ai_summary_ko": "키프로스 기반의 소형 방사선 감지기 제조업체 Radiacode가 새로운 제품 개발 및 국제 전개를 위해 초기 단계 라운드에서 250만 유로를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170564-cypruss-radiacode-raises-2-5m-to-push-pocket-radiation-detectors-into-pr/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "company": "HeadOffice.ai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.56,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2560000,
+   "stage": "프리시드",
+   "investors": [
+    "Eduardo Ourivio",
+    "Mario Chady"
+   ],
+   "lead_investor": null,
+   "country": "브라질",
+   "region": "남미",
+   "ai_summary_ko": "브라질의 AI 스타트업 HeadOffice.ai가 초기 단계 라운드에서 256만 달러를 유치했습니다. 기업가 에두아르도 우리비오와 마리오 차디 등이 투자자로 참여했으며, 회사의 밸류에이션은 1920만 달러로 평가되었습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170569-headoffice-ai-raises-1-82m-as-customers-turn-investors/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "company": "Darwin",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 3.6,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3600000,
+   "stage": "프리시드",
+   "investors": [
+    "Link Ventures",
+    "Y Combinator",
+    "Rebel Fund"
+   ],
+   "lead_investor": "Link Ventures",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Y Combinator 2025 스타트업인 Darwin은 AI 데이터센터 건설 및 유지보수 로봇 개발을 위해 Link Ventures가 주도한 360만 달러 프리시드 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170585-darwin-raises-3-6m-pre-seed-to-put-robots-inside-ai-data-centers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "company": "Shenzhen Boyin Biotechnology (PAM2L)",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 27.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 27500000,
+   "stage": "시리즈 A",
+   "investors": [
+    "L'Oréal",
+    "Walgreens Boots Alliance",
+    "Guangzhou Pharmaceutical Group",
+    "Guangxin"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "L'Oréal과 Walgreens Boots Alliance 등이 참여한 AI 기반 바이오소재 스타트업 PAM2L이 시리즈 A 및 A+ 펀딩 라운드에서 2,750만 달러를 유치했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170586-lor-al-walgreens-back-china-biomaterials-startup-pam2l-in-30m-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "company": "Clean Energy Technologies",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2000000,
+   "stage": "비공개",
+   "investors": [
+    "FuFront AI"
+   ],
+   "lead_investor": "FuFront AI",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "캘리포니아 주 어바인에 위치한 Clean Energy Technologies는 싱가포르의 FuFront AI로부터 200만 달러 규모의 전환사채를 발행했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170462-clean-energy-technologies-raises-2m-convertible-note-from-fufront-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "company": "Shikho",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 87500000.0,
+    "currency": "BDT",
+    "unit": "unit"
+   },
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "STS Group",
+    "Wavemaker Partners"
+   ],
+   "lead_investor": null,
+   "country": "방글라데시",
+   "region": "남아시아",
+   "ai_summary_ko": "방글라데시의 에듀테크 스타트업 Shikho는 기업 교육 사업 확장을 위해 STS Group과 기존 투자자 Wavemaker Partners로부터 BDT 87,500,000을 조달했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170465-bangladeshs-shikho-raises-702k-to-push-into-enterprise-education/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "company": "EndureAir Systems",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "Singularity"
+   ],
+   "lead_investor": "Singularity",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "IIT Kanpur의 항공우주 스핀아웃인 EndureAir Systems는 인도 군대를 위한 무인시스템을 개발하는 회사입니다. Singularity가 주도한 초기 단계 투자 라운드를 진행했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170470-singularity-backs-iit-kanpur-drone-spin-out-endureair-in-early-stage-rou/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "company": "MGL New Materials",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 119.1,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 119100000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "MGL New Materials가 중국 증권감시위원회의 등록 승인을 획득한 후 특정 투자자들을 대상으로 주식 사모 발행을 통해 약 1억 3천만 달러를 조달했다. 이 자금은 음극재 사업 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170471-mgl-raises-130m-placement-to-fund-cathode-material-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "company": "Geokon (基康技术)",
+   "sector": "AI",
+   "amount_original": {
+    "value": 14.7,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 14700000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "베이징증권거래소 상장사인 스마트 모니터링 터미널 제조업체 기강기술(基康技术)이 스마트센싱 R&D 펀딩을 위해 1,470만 달러 규모의 사모를 통해 자금을 조달했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170503-raises-14-7m-placement-to-fund-smart-sensing-r-d/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "company": "NextDC",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Digital Realty",
+    "Goodman Group"
+   ],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "호주 데이터센터 운영사 NextDC가 Digital Realty와 Goodman Group으로부터 지분 투자를 유치했다. Digital Realty는 동시에 라틴아메리카 첫 혁신랩을 브라질 상파울루에 개설하며 글로벌 확장을 추진하고 있다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/170505-digital-realty-backs-nextdc-opens-latin-american-ai-lab-in-global-push/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-07",
    "company": "Fact Base",
    "sector": "기타",
