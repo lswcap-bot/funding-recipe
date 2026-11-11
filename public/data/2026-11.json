@@ -3,6 +3,1248 @@
  "deals": [
   {
    "date": "2026-11-10",
+   "company": "Finaya",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "그로스",
+   "investors": [
+    "Crescera Capital",
+    "GS1 Brasil Ventures"
+   ],
+   "lead_investor": null,
+   "country": "브라질",
+   "region": "중남미",
+   "ai_summary_ko": "Finaya는 브라질의 임베디드 파이낸스 플랫폼으로, Crescera Capital과 GS1 Brasil Ventures로부터 성장 투자 라운드 자금을 유치했습니다. 소매업체와 대형 기업들이 자신의 브랜드 하에 금융 서비스를 제공할 수 있게 합니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171263-brazils-finaya-lands-growth-round-from-crescera-and-gs1-for-embedded-fin/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "3Chat.ai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.38,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1380000,
+   "stage": "프리시리즈A",
+   "investors": [
+    "MiraclePlus",
+    "Blue Lion Capital"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 3Chat.ai는 상하이 Nuku Sanyan Technology의 제품으로, 세드 플러스 라운드에서 138만 달러를 유치했습니다. MiraclePlus와 전략적 투자자들이 라운드에 참여했으며, Blue Lion Capital이 재정 자문을 담당했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171270-chinas-3chat-ai-raises-1-5m-to-open-its-sales-ai-model-to-rivals/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Mercor",
+   "sector": "AI",
+   "amount_original": {
+    "value": 750.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 750000000,
+   "stage": "시리즈 D",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Mercor는 엔터프라이즈 AI 시장 진출을 위해 시리즈 D에서 7억 5,000만 달러를 조달했습니다. 이 라운드로 기업 가치는 100억 달러에서 200억 달러로 2배 상승했으며, 2025년 10월 시리즈 C 이후의 성장입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171271-mercor-raises-750m-series-d-at-20b-valuation-to-push-into-enterprise-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Operand",
+   "sector": "AI",
+   "amount_original": {
+    "value": 31.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 31000000,
+   "stage": "시드/시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Operand는 사모펀드(PE) 기업의 실사(due diligence)를 처리하는 AI를 개발하는 회사입니다. 시드 및 시리즈 A 펀딩으로 총 3,100만 달러를 유치했습니다. AI를 활용하여 대규모 문서 검토와 분석 업무를 자동화합니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171272-operand-raises-31m-to-bring-ai-to-private-equity-due-diligence/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "SandBaseAI",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "SandBaseAI는 개발자를 위한 에이전트 인프라 구축을 위해 수백만 달러 규모의 시드 라운드를 종료했으며, 대형 언어모델 회사와 AI 스타트업 커뮤니티에 뿌리를 둔 투자자들이 참여했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171273-sandbaseai-raises-multi-million-dollar-seed-for-personal-agent-infrastru/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Charta Health",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 55.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 55000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Charta Health는 의료 보험사를 위한 AI 의료차트 검토 플랫폼을 확장하기 위해 5천5백만 달러의 시리즈 B 자금을 조성했다. 2023년에 설립된 샌프란시스코 소재 스타트업이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171274-charta-health-raises-55m-to-scale-ai-chart-review-for-insurers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "PuppyGraph",
+   "sector": "AI",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Particle Future",
+    "Defy.vc"
+   ],
+   "lead_investor": "Particle Future",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "PuppyGraph는 엔터프라이즈 AI 에이전트를 위한 그래프 쿼리 엔진으로, Particle Future와 Defy.vc가 주도한 시리즈 A 라운드에서 1천만 달러를 유치했다. 이 투자로 총 펀딩액은 1천5백만 달러에 이르렀다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171275-puppygraph-lands-10m-to-let-ai-agents-query-data-without-moving-it/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "vinny",
+   "sector": "기타",
+   "amount_original": {
+    "value": 2.1,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2100000,
+   "stage": "시드",
+   "investors": [
+    "York IE"
+   ],
+   "lead_investor": "York IE",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "오스틴 기반 RV 업계 워크플로우 플랫폼 vinny는 York IE가 주도한 시드 라운드에서 210만 달러를 유치했으며, 여러 전략적 투자자와 엔젤 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171278-vinny-lands-2-1m-seed-to-build-a-shared-record-for-every-rv/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Synergy Pet Group",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Liberty Mutual Investments",
+    "LoneTree Capital"
+   ],
+   "lead_investor": "Liberty Mutual Investments",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Synergy Pet Group은 Liberty Mutual Investments로부터 부채 형태의 성장 자본을 조달하여 반려동물 서비스 및 수의료 기술 분야에서의 사업 확장을 추진하고 있습니다. LoneTree Capital도 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171286-liberty-mutual-backs-synergy-pet-group-with-debt-to-fund-pet-care-expans/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Alterra Labs",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 12.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 12500000,
+   "stage": "시드",
+   "investors": [
+    "Oak HC/FT",
+    "Flare Capital Partners",
+    "Company Ventures"
+   ],
+   "lead_investor": "Oak HC/FT",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "뉴욕 기반 스타트업 Alterra Labs는 의료 AI 모델을 테스트하고 훈련하기 위한 시뮬레이션된 의료 환경을 구축하고 있습니다. Oak HC/FT가 주도한 시드 라운드에서 1,250만 달러를 유치했으며, Flare Capital Partners와 Company Ventures가 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171287-alterra-labs-raises-12-5m-seed-to-stress-test-medical-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Lumbra",
+   "sector": "AI",
+   "amount_original": {
+    "value": 25.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 25000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Point72 Ventures",
+    "Ansa Capital"
+   ],
+   "lead_investor": "Point72 Ventures",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "AI 에이전트용 운영 체제를 개발하는 Lumbra가 시리즈 A 펀딩라운드에서 2,500만 달러를 유치했습니다. Point72 Ventures와 Ansa Capital이 주도했으며, 시드 단계 투자자들의 지속적인 참여가 있었습니다. 국방부와 월스트리트까지 범위를 확대하고 있습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171289-lumbra-lands-25m-series-a-to-take-its-ai-agents-from-the-pentagon-to-wal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Lichen China",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 3.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3500000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171290-lichen-china-raises-3-5m-as-shares-plunge-70/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "American Equipment Holdings",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "DFW Capital Partners"
+   ],
+   "lead_investor": "DFW Capital Partners",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171293-dfw-capital-backs-american-equipment-to-consolidate-overhead-crane-marke/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Sparetech",
+   "sector": "AI",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Blume Equity",
+    "Insight Partners",
+    "Headline"
+   ],
+   "lead_investor": "Blume Equity",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨 기반의 Sparetech는 예비부품 관리를 위한 엔터프라이즈 AI 솔루션을 제공하며, Blume Equity와 Insight Partners의 공동 주도로 2,000만 달러의 시리즈 B 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171300-sparetech-raises-20m-series-b-to-cut-factory-spare-part-stockpiles/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Francis Medical",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 D+",
+   "investors": [
+    "Johnson & Johnson Innovation"
+   ],
+   "lead_investor": "Johnson & Johnson Innovation",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Francis Medical은 전립선암 치료 의료기기 회사로, Johnson & Johnson의 기업벤처캐피탈인 JJDC로부터 후기 단계 투자를 유치했습니다. 구체적인 투자 금액은 기사에 명시되지 않았습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171301-johnson-johnsons-venture-arm-backs-francis-medical-for-prostate-cancer-p/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Beijing Wanxiang Zhiwei Technology",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "APS Asset Management's Xinsheng Capital",
+    "Tianji"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "베이징 완샹즈웨이 테크놀로지는 온디바이스 AI 인프라 및 소프트웨어 개발 회사로, 싱가포르 기반 APS Asset Management의 신성 캐피탈과 티안지의 지원으로 수천만 위안대의 신규 펀딩을 조달했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171304-chinas-wanxiang-zhiwei-raises-tens-of-millions-of-yuan-for-on-device-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Guangyin Technology Development",
+   "sector": "기타",
+   "amount_original": {
+    "value": 13.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13800000,
+   "stage": "비공개",
+   "investors": [
+    "Fortune Capital",
+    "Huarui Investment",
+    "Oriza Holdings"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 포토닉스 스타트업 광인 테크놀로지가 Fortune Capital, Huarui Investment, Oriza Holdings의 지원으로 1,380만 달러를 조달했습니다. 이 회사는 포토닉 칩을 소비자 제품에 적용하기 위해 자금을 활용할 계획입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171309-guangyin-raises-15m-to-push-photonic-chips-into-consumer-products/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "YouFit Gyms",
+   "sector": "기타",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "그로스",
+   "investors": [
+    "Skyline Investors"
+   ],
+   "lead_investor": "Skyline Investors",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "고가치 저가격(HVLP) 피트니스 체인인 YouFit Gyms가 클럽 시설 현대화를 위해 로스앤젤레스 기반 사모펀드 Skyline Investors로부터 1,000만 달러 이상의 성장 지분 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171310-youfit-lands-10m-from-skyline-investors-to-upgrade-clubs/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Nanopath",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 25.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 25000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Norwest Venture Partners",
+    "SV Health Investors' MedTech Convergence Fund"
+   ],
+   "lead_investor": "Norwest Venture Partners",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "여성 건강 진단 회사 Nanopath가 질 검사 플랫폼 확대를 위해 시리즈 B 라운드에서 2,500만 달러를 조달했습니다. Norwest Venture Partners와 SV Health Investors의 MedTech Convergence Fund가 투자를 주도했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171315-nanopath-raises-25m-series-b-for-15-minute-vaginal-diagnostics/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Planky",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 6.9,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 7737660,
+   "stage": "프리시리즈A",
+   "investors": [
+    "Innovation Global",
+    "Azimut"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 금융 데이터 플랫폼 Planky가 Innovation Global과 Azimut이 공동 주도하는 초기 단계 라운드에서 690만 유로를 유치했다. 이 자금은 오픈뱅킹 분석에서 실시간 AI 신용 의사결정 플랫폼으로의 전환을 지원한다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171317-planky-raises-6-9m-to-turn-open-banking-data-into-real-time-ai-credit-de/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Garage",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 41.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 41000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Invus Opportunities",
+    "Infinity Ventures",
+    "Initialized Capital",
+    "Y Combinator"
+   ],
+   "lead_investor": "Invus Opportunities",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "AI 기반 중고 소방차 및 필수 중장비 마켓플레이스인 Garage가 Invus Opportunities 주도의 시리즈 B 라운드에서 4,100만 달러를 조달했다. 이 자금으로 중장비 거래 플랫폼을 확대할 계획이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171319-garage-raises-41m-series-b-for-its-used-heavy-equipment-marketplace/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Path Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 300.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 300000000,
+   "stage": "시리즈 E",
+   "investors": [
+    "Georgian"
+   ],
+   "lead_investor": "Georgian",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "제조 로봇용 물리 AI 소프트웨어를 개발하는 Path Robotics가 성장 자본 회사 Georgian이 주도하는 시리즈 E 펀딩라운드에서 3억 달러를 조달했다. 이번 투자로 기업 가치는 24.5억 달러로 4배 증가했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171321-path-robotics-raises-300m-series-e-quadrupling-valuation-to-2-45b/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Structo",
+   "sector": "AI",
+   "amount_original": {
+    "value": 150000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 150000,
+   "stage": "프리시드",
+   "investors": [
+    "MFG Invest"
+   ],
+   "lead_investor": "MFG Invest",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "캘리포니아 기반 건설 결제 심사용 에이전틱 AI 플랫폼 개발 스타트업 Structo가 불가리아 투자사 MFG Invest로부터 15만 달러를 투자 유치했다. SAFE 방식의 투자로 진행되었다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171325-bulgarias-mfg-invest-backs-us-construction-ai-startup-structo-with-150k/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Zus Health",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 33.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 33000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Drive Capital"
+   ],
+   "lead_investor": "Drive Capital",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Zus Health가 환자 기록 연결 플랫폼으로서 Drive Capital이 주도하는 3,300만 달러 규모의 시리즈 B 펀딩을 완료했다. 이번 라운드로 회사의 총 누적 펀딩은 1억 달러를 초과했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171335-zus-health-lands-33m-series-b-to-connect-fragmented-patient-records/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Bud Financial",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "BankTech Ventures"
+   ],
+   "lead_investor": "BankTech Ventures",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Bud Financial이 미국 핀테크 전문 VC인 BankTech Ventures로부터 전략 투자를 유치했다. 이 투자는 미국 은행 및 신용조합과의 협력을 확대하기 위한 AI 뱅킹 도구 성장 가속화를 목표로 한다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171338-bud-lands-us-backing-from-banktech-ventures-to-scale-ai-banking-tools/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Triplemoon",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "프리시드",
+   "investors": [
+    "LiveOak Venture Partners",
+    "Activate Venture Partners"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Triplemoon은 소아과 클리닉 내에서 정신 건강 관리를 제공하는 서비스로 $400만을 투자유치했습니다. LiveOak Venture Partners와 Activate Venture Partners가 공동으로 주도한 본 라운드는 회사의 시드 펀딩을 총 $750만으로 증가시켰습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171340-triplemoon-raises-4m-to-put-mental-health-care-inside-pediatric-clinics/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Autonomy",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 7888000000.0,
+    "currency": "ARS",
+    "unit": "unit"
+   },
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "아르헨티나",
+   "region": "중남미",
+   "ai_summary_ko": "아르헨티나의 핀테크 기업 Autonomy는 자회사 AFS Group을 통해 78억 8,800만 페소(약 510만 달러)의 채권을 발행했다. 이 자금은 앱 운전자용 자동차 함대 확대에 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171346-argentinas-autonomy-raises-5-1m-in-debt-to-grow-car-fleet-for-app-driver/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Nidus Technologies",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 30000000,
+   "stage": "시드",
+   "investors": [
+    "Kleiner Perkins",
+    "Costanoa Ventures"
+   ],
+   "lead_investor": "Kleiner Perkins",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Nidus Technologies는 로봇을 위한 AI 모델 개발에 3,000만 달러의 시드 펀딩을 유치했다. 이 자금은 국방 및 산업 제조 분야의 로봇 효율화에 사용될 예정이다. Kleiner Perkins가 주도 투자자로 참여했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171352-nidus-raises-30m-seed-to-build-defense-robotics-ai-in-new-york/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Graphon AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 35.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 35000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "RRE Ventures",
+    "Energy Impact Partners",
+    "Hitachi Ventures",
+    "Gaia VC",
+    "HP"
+   ],
+   "lead_investor": "RRE Ventures",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "San Francisco 기반의 AI 에이전트용 메모리 소프트웨어를 개발하는 Graphon AI가 3,500만 달러의 시리즈 A 펀딩을 유치했다. RRE Ventures가 주도 투자사로 참여했으며, Energy Impact Partners, Hitachi Ventures, Gaia VC, HP 등이 함께 투자했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171354-ai-amnesia-startup-graphon-raises-35m-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Mosaic Intelligence Labs",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 47.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 47000000,
+   "stage": "시드",
+   "investors": [
+    "8VC",
+    "Fundomo",
+    "Lingotto Innovation"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "로봇공학 스타트업 Mosaic Intelligence Labs가 스텔스 모드를 벗고 4,700만 달러의 시드 펀딩을 조달했다. 8VC, Fundomo, Lingotto Innovation 등이 투자했으며, 혈관 항법을 돕는 수술 로봇 시스템 개발을 추진한다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171380-surgical-robotics-startup-mosaic-exits-stealth-with-47m-seed/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Raise3D",
+   "sector": "기타",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14992000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Wuhan Venture Capital",
+    "Dongke Chuangxing"
+   ],
+   "lead_investor": "Wuhan Venture Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 3D 프린팅 기업 Raise3D가 시리즈 C 라운드에서 1억 위안(약 1,500만 달러)을 조달했다. Wuhan Venture Capital이 주도 투자하고 Dongke Chuangxing이 참여했으며, 프로토타입에서 생산 단계로의 전환을 추진한다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171383-raise3d-raises-15m-series-c-to-push-3d-printing-from-prototypes-to-produ/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Pine Island Redfish",
+   "sector": "농업",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Bridge Angel Investors"
+   ],
+   "lead_investor": "Bridge Angel Investors",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Pine Island Redfish는 플로리다 Pine Island에 상업용 레드피쉬 양식장을 건설하기 위해 Bridge Angel Investors가 주도한 600만 달러의 시리즈 A 라운드 투자를 유치했다. 이 회사는 육상 양식을 통해 레드드럼을 사육한다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171388-pine-island-redfish-breaks-ground-on-florida-farm-after-6m-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Scout Space",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 60.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 60000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Scout Space는 미국 우주군의 혁신 부서인 SpaceWERX로부터 6천만 달러의 전략적 자금 증액(STRATFI) 상을 수상했다. 이 회사는 궤도 센서와 자율성 소프트웨어를 개발하고 있다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171399-scout-space-lands-60m-space-force-stratfi-award-to-scale-orbital-sensors/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Botswana Tech Fund 포트폴리오 스타트업 (7개)",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "Botswana Tech Fund"
+   ],
+   "lead_investor": "Botswana Tech Fund",
+   "country": "보츠와나",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "보츠와나 테크펀드가 보츠와나, 나미비아, 잠비아, 남아공, 짐바브웨의 7개 스타트업을 선발해 프리시드 엑셀러레이터 첫 기수에 참여시키고 각 기업당 최대 10만 파운드씩 지원한다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171403-botswana-tech-fund-backs-seven-southern-african-startups-with-up-to-100/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Equity Bank Kenya",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 150.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 150000000,
+   "stage": "비공개",
+   "investors": [
+    "African Development Bank Group"
+   ],
+   "lead_investor": "African Development Bank Group",
+   "country": "케냐",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "아프리카개발은행이 케냐의 이퀴티 뱅크에 1억 5천만 달러의 종속대출을 승인했다. 자본기반을 강화하고 중소기업 금융을 확대하기 위한 투자다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171405-afdb-commits-150m-to-equity-bank-to-expand-kenyan-sme-lending/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Inkbox",
+   "sector": "AI",
+   "amount_original": {
+    "value": 5.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5300000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "샌프란시스코 소재 AI 에이전트 스타트업 Inkbox가 530만 달러 규모의 시드 라운드 투자를 유치했습니다. Y Combinator에 참여한 회사로, 각 AI 에이전트가 전용 퍼시스턴트 컴퓨터와 실제 통신 채널을 갖춘 클라우드 호스팅 AI 에이전트를 출시했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171407-inkbox-lands-5-3m-seed-for-ai-agents-with-their-own-persistent-computers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "FUWEI",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 A",
+   "investors": [
+    "Youshan Capital",
+    "Chengkai Fund",
+    "Qizhang Investment"
+   ],
+   "lead_investor": "Youshan Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "광저우 소재 로봇 스타트업 FUWEI가 2022년 창립 이후 유산캐피탈이 주도한 시리즈 A 라운드에서 수천만 위안을 투자받았습니다. 청카이펀드, 치장인베스트먼트 등 산업펀드도 참여했으며, 전략적 주주인 헤스타도 함께했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171408-industrial-robotics-startup-fuwei-raises-tens-of-millions-in-yuan-series/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "iCareManager",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "그로스",
+   "investors": [
+    "Five Elms"
+   ],
+   "lead_investor": "Five Elms",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "지적·발달 장애(IDD) 대상 서비스를 제공하는 기관용 전자건강기록 및 돌봄 관리 플랫폼인 iCareManager가 Five Elms가 주도한 성장 단계 투자 라운드를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171412-five-elms-backs-icaremanager-to-build-ai-native-idd-care-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Nagaris",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 815300.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 815300,
+   "stage": "시드",
+   "investors": [
+    "BPAG Accountants의 파트너들"
+   ],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "호주 회계법인들의 회계 실습 플랫폼인 Nagaris가 시드 라운드에서 미화 815,300달러를 유치했습니다. 투자자는 다섯 개의 회계법인이 통합하여 형성한 BPAG Accountants의 파트너들과 기타 회계 전문가들로 구성됩니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171413-nagaris-raises-872k-seed-as-ai-native-firm-bpags-partners-back-it/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Yifang Intelligent Control",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 0.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": null,
+   "stage": "프리시리즈A",
+   "investors": [
+    "Guoxin Zhongshu Tongling Sci-Tech Innovation Fund",
+    "Jinshajiang United Capital"
+   ],
+   "lead_investor": "Guoxin Zhongshu Tongling Sci-Tech Innovation Fund",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171415-yifang-intelligent-control-raises-tens-of-millions-for-five-axis-cnc-pus/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Yueqing Regenerative Medicine",
+   "sector": "바이오",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 A",
+   "investors": [
+    "Optics Valley Industrial Investment",
+    "Optics Valley Science and Technology Innovation"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "안구 의료기기 개발사인 Yueqing Regenerative Medicine이 시리즈 A 라운드에서 수천만 위안을 조성했습니다. 주요 투자자는 Optics Valley Industrial Investment와 Optics Valley Science and Technology Innovation입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171416-ophthalmic-device-maker-yueqing-raises-tens-of-millions-of-yuan-in-serie/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Stereotaxis",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 24.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 24000000,
+   "stage": "브릿지",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "세인트루이스의 로봇 수술 회사 Stereotaxis가 수익성 달성을 목표로 최대 2,400만 달러 규모의 전환사채 파이낸싱에 합의했습니다. 거래에는 초기 1,200만 달러가 포함되었습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171420-stereotaxis-secures-up-to-24m-in-convertible-notes-to-bridge-toward-prof/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Gossamer Bio",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 25.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 25000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "샌디에이고의 임상단계 바이오제약회사 Gossamer Bio가 구조화된 사모 방식의 첫 번째 종료로 약 2,500만 달러의 총 수익을 확보했습니다. 이는 FDA의 주요 신약 검토와 관련된 투자 거래입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171422-gossamer-bio-takes-25m-upfront-in-deal-tied-to-fda-review-of-lead-drug/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "123 content startups",
+   "sector": "기타",
+   "amount_original": {
+    "value": 108.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 108000000,
+   "stage": "비공개",
+   "investors": [
+    "Gyeonggi Content Agency"
+   ],
+   "lead_investor": "Gyeonggi Content Agency",
+   "country": "한국",
+   "region": "동아시아",
+   "ai_summary_ko": "Gyeonggi Content Agency의 Level-up Program이 2024년 이후 123개의 콘텐츠 스타트업에 1억 800만 달러를 지원했습니다. 2026년 1월부터 9월까지만 해도 상당한 규모의 자금이 확인된 펀딩으로 전환되었습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171423-gyeonggi-program-steers-33m-to-123-content-startups-since-2024/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "BuildDirect",
+   "sector": "기타",
+   "amount_original": {
+    "value": 3.67,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3670000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "캐나다",
+   "region": "북미",
+   "ai_summary_ko": "BuildDirect가 미국 중서부 지역 부동산 인수를 위해 367만 달러 규모의 비공개 사모 배치를 통해 자금을 조달했습니다. 주당 1.76 달러에 최대 208만 3,333주를 발행할 계획입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171424-builddirect-raises-3-54m-to-fund-us-midwest-flooring-deal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Senti Biosciences",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 4.55,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4550000,
+   "stage": "비공개",
+   "investors": [
+    "CPIF II-9 Limited"
+   ],
+   "lead_investor": "CPIF II-9 Limited",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Senti Biosciences가 Celadon Partners의 계열사인 CPIF II-9 Limited로부터 455만 달러의 지분 투자를 유치했습니다. 이 자금은 2027년 말까지의 운영 자금으로 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171427-senti-biosciences-lines-up-4-55m-equity-lifeline-from-celadon-affiliate/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Hyper Bit Technologies",
+   "sector": "기타",
+   "amount_original": {
+    "value": 118.9,
+    "currency": "USD",
+    "unit": "thousand"
+   },
+   "amount_usd": 118900,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Hyper Bit Technologies는 비중개 방식의 개인 배치(private placement)를 통해 US$118.9K를 조달했으며, US$404.5K의 부채를 주식으로 전환했다. 이는 암호화폐 채굴 및 블록체인 기업의 자금 조달 발표이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171437-hyper-bit-raises-c-162k-cash-swaps-c-552k-of-debt-for-shares/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Lucidome Bio",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 9.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 9000000,
+   "stage": "그로스",
+   "investors": [
+    "Bezos Earth Fund",
+    "Meat & Livestock Australia",
+    "AgriZeroNZ"
+   ],
+   "lead_investor": null,
+   "country": "뉴질랜드",
+   "region": "오세아니아",
+   "ai_summary_ko": "뉴질랜드의 Lucidome Bio가 가축 메탄 감축 백신 개발을 위해 900만 달러의 그로스 펀딩을 유치했습니다. 이번 라운드에는 Bezos Earth Fund, Meat & Livestock Australia, AgriZeroNZ 등이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171442-lucidome-bio-raises-9m-to-test-livestock-methane-vaccine-in-cattle/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Clara",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 65.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 65000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Citius",
+    "Kaszek",
+    "DEG"
+   ],
+   "lead_investor": "Citius",
+   "country": "멕시코",
+   "region": "중남미",
+   "ai_summary_ko": "라틴아메리카 기업 지출 관리 플랫폼 Clara가 Citius, Kaszek, DEG가 주도하는 시리즈 C 라운드에서 6,500만 달러를 유치했다. 이번 자금은 기업 결제 시장에서 AI 기술을 확대하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "LatamList",
+     "url": "https://latamlist.com/clara-raises-105m-series-c-round/"
+    },
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/171320-clara-raises-65m-series-c-to-push-ai-into-corporate-payments/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Arka Fincap",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 525.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 55896750,
+   "stage": "비공개",
+   "investors": [
+    "The Rise Funds of TPG"
+   ],
+   "lead_investor": "The Rise Funds of TPG",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Arka Fincap은 2018년에 설립된 Kirloskar Group 산하의 비은행금융회사로, TPG의 The Rise Funds로부터 5억 2,500만 루피를 투자받았다. 이 자금은 사업 확장, 기술 투자, 리스크 관리 능력 강화에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "company": "Scouter",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Dart",
+    "Aleph"
+   ],
+   "lead_investor": null,
+   "country": "싱가포르",
+   "region": "동남아",
+   "ai_summary_ko": "Scouter는 싱가포르 기업들의 AI 보안 도구 도입을 지원하는 스타트업이며, 지역 투자사 Dart와 Aleph의 투자를 받았다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/startup-helps-enterprises-adopt-ai-safely"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
    "company": "Kairos",
    "sector": "AI",
    "amount_original": {
