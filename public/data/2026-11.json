@@ -2,6 +2,96 @@
  "month": "2026-11",
  "deals": [
   {
+   "date": "2026-11-13",
+   "company": "Refilled",
+   "sector": "기타",
+   "amount_original": {
+    "value": 5.6,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5600000,
+   "stage": "시리즈 A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Refilled는 플라스틱 병을 없애기 위한 스마트 오피스 음료 디스펜서를 제공하는 회사로, Google과 Meta 등의 고객을 보유하고 있습니다. 이번 시리즈 A 라운드에서 560만 달러를 유치하여 사업 확장을 추진하고 있습니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/thirst-quenched-office-drinks-dispenser-refilled-taps-5-6-million-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "company": "Q-CTRL",
+   "sector": "기타",
+   "amount_original": {
+    "value": 425.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 425000000,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Q-CTRL은 양자 컴퓨팅 분야 스타트업으로, 4억 2500만 달러의 시리즈 C 투자를 통해 14억 달러의 기업가치에 도달하며 호주 최초의 양자 유니콘 기업이 되었습니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/quantum-of-unicorn-q-ctrl-hits-1-4-billion-valuation-from-425m-series-c/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "company": "Kutlerri.ai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Kutlerri.ai는 AI 에이전트를 활용해 미국 레스토랑의 수익 증대와 비용 절감을 돕는 서비스를 제공한다. 회사는 시리즈 펀딩에서 400만 달러를 유치했다. 고객으로부터 AI 에이전트가 생성한 수익의 일정 비율 또는 절감한 비용의 일정 비율을 수수료로 징수하는 모델을 운영한다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "company": "Rational Engineers",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "ValueQuest"
+   ],
+   "lead_investor": "ValueQuest",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "ValueQuest가 전력 인프라 부문의 Rational Engineers에 투자를 진행했습니다. 이는 인도의 방위, 제조, 전력 인프라 분야 발전을 위한 전략적 투자의 일환입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/valuequest-commits-rs-775-cr-to-advance-indias-defence-manufacturing-push"
+    }
+   ]
+  },
+  {
    "date": "2026-11-12",
    "company": "Econili",
    "sector": "기타",
@@ -4112,7 +4202,8 @@
    "amount_usd": 31900000,
    "stage": "그로스",
    "investors": [
-    "ValueQuest's Tristar Fund"
+    "ValueQuest's Tristar Fund",
+    "ValueQuest"
    ],
    "lead_investor": "ValueQuest's Tristar Fund",
    "country": "인도",
@@ -4122,6 +4213,10 @@
     {
      "name": "Dealroom",
      "url": "https://dealroom.co/news/170327-indias-tase-global-raises-31-9m-growth-round-from-valuequests-tristar-fu/"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/valuequest-commits-rs-775-cr-to-advance-indias-defence-manufacturing-push"
     }
    ]
   },
@@ -4287,9 +4382,10 @@
    "amount_usd": 40700000,
    "stage": "비공개",
    "investors": [
-    "국내기관투자자"
+    "국내기관투자자",
+    "ValueQuest"
    ],
-   "lead_investor": null,
+   "lead_investor": "ValueQuest",
    "country": "인도",
    "region": "남아시아",
    "ai_summary_ko": "인도의 무인 및 자율 방위 시스템 개발사인 Sagar Defence Engineering이 국내 기관투자자로부터 4,070만 달러 규모의 상장 전 라운드 펀딩을 유치했다. 투자는 2억 루피 밸류에이션으로 진행되었다.",
@@ -4297,6 +4393,10 @@
     {
      "name": "Dealroom",
      "url": "https://dealroom.co/news/170355-sagar-defence-raises-31-9m-pre-ipo-at-a-200b-rupee-valuation/"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/valuequest-commits-rs-775-cr-to-advance-indias-defence-manufacturing-push"
     }
    ]
   },
