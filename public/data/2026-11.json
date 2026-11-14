@@ -2,6 +2,1147 @@
  "month": "2026-11",
  "deals": [
   {
+   "date": "2026-11-14",
+   "company": "Greenjoules",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/no-one-stays-at-the-top-forever"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "company": "Newmo",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/no-one-stays-at-the-top-forever"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "company": "LangChain",
+   "sector": "AI",
+   "amount_original": {
+    "value": 300.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 300000000,
+   "stage": "비공개",
+   "investors": [
+    "CapitalG"
+   ],
+   "lead_investor": "CapitalG",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "LangChain이 CapitalG 주도로 3억 달러 규모의 투자 유치를 발표했습니다. LangSmith 제품은 Nvidia, Toyota, Salesforce 등 7,000명의 고객을 보유하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/musks-openai-lawsuit-heads-to-jury-trial-in-march-us-judge-says"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "RECON Intelligence",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "캐나다",
+   "region": "북미",
+   "ai_summary_ko": "RECON Intelligence는 석유 및 가스 회사를 위해 시추공 데이터를 수집하고 해석하는 에드먼턴 기반 스타트업입니다. Startup TNT 가을 투자 컨퍼런스에서 우승하여 최소 128,300 달러 규모의 시드 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172560-edmontons-recon-intelligence-wins-startup-tnt-lands-123k-seed/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Votum Labs",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 1.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1326240,
+   "stage": "시드",
+   "investors": [
+    "Región de Murcia family offices"
+   ],
+   "lead_investor": null,
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "스페인 바이오테크 Votum Labs가 €1.2M의 초기 단계 펀딩 라운드를 종료했습니다. 무르시아 지역의 패밀리 오피스들이 투자했으며, 자금은 유럽과 멕시코로의 국제 확장에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172564-votum-labs-raises-1-2m-to-push-its-labs-into-europe-and-mexico/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Bucked Games",
+   "sector": "에듀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Startupfon Tohum GSYF",
+    "Startupfon Co-Invest"
+   ],
+   "lead_investor": null,
+   "country": "터키",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "이스탄불 기반 에듀테크 스타트업 Bucked Games가 Startupfon Tohum GSYF와 Startupfon Co-Invest로부터 자금을 유치했습니다. 회사는 어린이를 위한 안전하고 교육적인 디지털 게임을 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172567-t-rkiyes-bucked-games-lands-fresh-backing-for-kids-learning-games/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Databento",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "시리즈 C",
+   "investors": [
+    "Fifth Down Capital",
+    "Fitch Ventures"
+   ],
+   "lead_investor": "Fifth Down Capital",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "솔트레이크시티 소재 마켓 데이터 플랫폼 Databento가 시리즈 C 라운드에서 1억 달러를 유치했으며, 기업가치는 11억 달러로 평가됐습니다. 이는 시리즈 B 이후 4개월 만의 투자로, Fifth Down Capital이 주도하고 Fitch Ventures가 전략적 투자자로 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172571-databento-lands-100m-series-c-at-1-1b-four-months-after-series-b/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "ICEYE",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Hellenic Innovation and Infrastructure Fund (HIIF)"
+   ],
+   "lead_investor": "Hellenic Innovation and Infrastructure Fund (HIIF)",
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "핀란드 소형 합성개구레이더 위성 제조업체 ICEYE가 그리스 Hellenic Innovation and Infrastructure Fund로부터 3,500만 유로를 투자받아 그리스에 가장 큰 위성 공장을 건설할 예정이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172577-greece-bets-35m-on-iceye-to-build-its-biggest-satellite-factory/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Wealth One Bank",
+   "sector": "기타",
+   "amount_original": {
+    "value": 36.7,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 36700000,
+   "stage": "비공개",
+   "investors": [
+    "Globalive Corp"
+   ],
+   "lead_investor": "Globalive Corp",
+   "country": "캐나다",
+   "region": "북미",
+   "ai_summary_ko": "캐나다 은행인 Wealth One Bank가 토론토 투자사 Globalive Corp의 주도로 3,670만 달러를 유치했다. 자금은 캐나다 라이선스 파트너로서의 성장을 위해 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172582-globalive-led-group-backs-wealth-one-bank-with-35-1m-raise/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Pro Climbing League",
+   "sector": "기타",
+   "amount_original": {
+    "value": 3.2,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 4232640,
+   "stage": "시드",
+   "investors": [
+    "Redrice Ventures",
+    "Active Partners",
+    "Accelerate"
+   ],
+   "lead_investor": "Redrice Ventures",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Pro Climbing League가 Redrice Ventures가 주도하는 £3.2M 규모의 시드 라운드 투자를 유치했다. 투자금은 체육관 외부 환경에서 스포츠의 첫 전문 서킷을 구축하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172589-pro-climbing-league-lands-3-2m-seed-to-build-standalone-circuit/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Vera Praxis",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "Boyu Capital"
+   ],
+   "lead_investor": "Boyu Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 스타트업 Vera Praxis가 Boyu Capital로부터 엔젤 라운드 투자를 유치했다. CEO 웽 헤밍이 이끌고 있으며 AI4S 데이터 분야에서 활동하고 있다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172590-vera-praxis-raises-angel-round-from-boyu-capital-for-ai4s-data/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Hefei Yasheng Semiconductor Equipment Technology",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 B",
+   "investors": [
+    "Weixi Venture Capital",
+    "Boyuan Capital",
+    "Shixi Capital"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Hefei Yasheng Semiconductor Equipment Technology가 시리즈 B 연장 라운드에서 수천만 위안을 조달했습니다. Weixi Venture Capital, Boyuan Capital, Shixi Capital 등의 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172595-yasheng-raises-tens-of-millions-of-yuan-in-series-b-extension/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "NeuroBrain Dynamics",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "SBC Medical Group Holdings"
+   ],
+   "lead_investor": "SBC Medical Group Holdings",
+   "country": "대만",
+   "region": "동아시아",
+   "ai_summary_ko": "Taipei 기반 엔터프라이즈 AI 회사 NeuroBrain Dynamics가 SBC Medical Group Holdings로부터 소수 지분 투자를 받았습니다. 이는 2026년 11월 13일 자본 및 사업 연합 계약에 따른 것입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172597-sbc-medical-takes-stake-in-taipei-ai-firm-neurobrain-dynamics/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Tvardi Therapeutics",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 13.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13300000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "임상 단계 바이오제약 회사 Tvardi Therapeutics가 3분기에 주식 공모(ATM 오퍼링)를 통해 1,330만 달러의 총수익을 조달했다. 약 396만 주를 판매했으며, 현금 런웨이는 2027년까지로 축소되었다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172601-tvardi-raises-13-3m-in-stock-sale-as-cash-runway-shrinks-to-2027/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Feld Energy",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6631200,
+   "stage": "비공개",
+   "investors": [
+    "Rabo Investments",
+    "HV Capital",
+    "Future Energy Ventures",
+    "AENU"
+   ],
+   "lead_investor": "Rabo Investments",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "뮌헨에 본사를 둔 Feld Energy가 농업형 태양광(Agri-PV) 사업 확장을 위해 초기 단계에서 600만 유로 이상을 조달했다. Rabobank의 투자 자회사인 Rabo Investments이 주도 투자자로 참여했으며, 기존 투자자들도 함께했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172604-feld-energy-adds-6m-to-scale-agri-pv-and-opens-an-investor-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "ValkaAI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 13.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 14367600,
+   "stage": "프리시드",
+   "investors": [
+    "Look AI Ventures",
+    "ff Venture Capital"
+   ],
+   "lead_investor": null,
+   "country": "체코",
+   "region": "유럽",
+   "ai_summary_ko": "체코의 딥테크 스타트업 ValkaAI가 프리시드 라운드를 13백만 유로로 확대했다. Look AI Ventures와 ff Venture Capital이 신규 투자자로 참여했으며, 회사는 디지털 페르소나가 실시간으로 반응하는 생성형 AI를 개발하고 있다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172605-valkaai-extends-pre-seed-to-13m-for-live-event-ai-personas/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Patil Automation",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 13.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 용접, 조립, 자동화 솔루션 제조업체 Patil Automation이 우선배치 방식의 주식과 전환사채 발행을 통해 약 1,320만 달러를 유치했습니다. 회사는 10월 23일 배정을 완료했으며, 자동화 사업 확장에 자금을 활용할 계획입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172608-patil-automation-raises-10-2m-to-fuel-automation-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Betterness",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "마이애미 기반 웰니스 스타트업 Betterness가 시드 라운드에 추가로 100만 달러를 유치하여 시드 라운드 총 규모를 350만 달러로 확대했습니다. 제약 전문 지식을 보유한 개인 투자 그룹이 이번 확대 라운드를 주도했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172621-betterness-adds-1m-to-seed-round-to-build-miami-wellness-networks/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Klight Laser",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "SMIC Capital",
+    "October Capital",
+    "Haihui Capital",
+    "Jiangxia Technology Investment",
+    "Shangyu Zhitou"
+   ],
+   "lead_investor": "SMIC Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 초고속 자외선 및 심자외선 레이저 제조업체인 Klight Laser가 SMIC Capital이 주도하는 신규 펀딩 라운드를 유치했습니다. October Capital, Haihui Capital 등 여러 투자자가 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172624-smic-capital-leads-new-round-in-deep-uv-laser-maker-klight-laser/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Xingchuan New Energy Battery Technology",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 A",
+   "investors": [
+    "Conch Capital"
+   ],
+   "lead_investor": "Conch Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Xingchuan New Energy Battery Technology가 시멘트 그룹 Conch의 투자 부문인 Conch Capital으로부터 시리즈 A 투자를 유치했습니다. 전략적 투자자로 참여한 Conch Capital의 자금은 생산 능력 확대에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172628-xingchuan-raises-series-a-for-high-power-hybrid-batteries/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "OSMUNDA",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 13.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13800000,
+   "stage": "시리즈 D",
+   "investors": [
+    "Zhejiang International Collaborative Innovation"
+   ],
+   "lead_investor": "Zhejiang International Collaborative Innovation",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 의료기기 CRO 기업 OSMUNDA가 장비 공장 및 AI 플랫폼 구축을 위해 시리즈 D 라운드에서 $13.8M을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172633-osmunda-raises-15m-series-d-to-build-device-factory-and-ai-platform/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Sagittarius Logistics",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 1.2,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1200000,
+   "stage": "프리시드",
+   "investors": [
+    "Nova"
+   ],
+   "lead_investor": "Nova",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "콜로라도 기반 우주발사체 스타트업 Sagittarius Logistics가 전 Masten Space Systems 직원들로 구성된 팀이 재사용 가능한 발사체 개발을 위해 $1.2M의 프리시드 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172635-ex-masten-team-raises-1-2m-for-inland-rocket-launches/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Klaria Pharma Holding",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 13.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13400000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴 신약개발사 Klaria Pharma Holding이 약 1,340만 달러 규모의 유상증자를 진행했으며, 이 중 약 451만 달러는 채무 상계 방식으로 결제되었습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172645-klaria-raises-11m-in-rights-issue-a-third-settled-against-debt/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "CREAM",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [
+    "CANEX Creations Incorporated",
+    "CANEX Creations"
+   ],
+   "lead_investor": "CANEX Creations Incorporated",
+   "country": "나이지리아",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "CREAM은 아프로비트 스타 D'banj(Dapo Oyebanjo)가 설립한 AI 기반 엔터테인먼트 플랫폼입니다. 아프리카 수출입은행의 자회사인 CANEX Creations Incorporated로부터 초기 단계 지분 투자를 확보했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172646-dbanjs-cream-lands-afreximbank-equity-backing-for-african-creatives/"
+    },
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172639-afreximbank-arm-buys-into-dbanjs-cream-to-monetise-african-creative-ip/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "MakeUGC",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Jordan Welch"
+   ],
+   "lead_investor": "Jordan Welch",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "MakeUGC는 AI 아바타를 사용하여 UGC 스타일의 비디오 광고를 생성하는 런던 기반 플랫폼입니다. 크리에이터이자 기업가인 Jordan Welch가 지분을 인수했으며, 구체적인 금액은 공개되지 않았습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172650-creator-jordan-welch-takes-equity-stake-in-ai-ad-startup-makeugc/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Lōti",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 3.35,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3350000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "캘리포니아 기반 보험청구 관리 스타트업 Lōti가 17개 투자자로부터 335만 달러를 조성했다. 공공 감정사 서비스와 기술을 결합하여 주택소유자의 부동산 보험청구 관리를 돕는 기업이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172655-insurance-claims-startup-loti-raises-3-35m-in-first-offering/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "EOSOL Group",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Instituto Navarro de Inversiones"
+   ],
+   "lead_investor": "Instituto Navarro de Inversiones",
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "EOSOL Group은 Navarra 지역의 엔지니어링, 컨설팅 및 기술 서비스 회사입니다. Navarre 지역 정부의 공공 투자 기관인 Instituto Navarro de Inversiones로부터 €6.2 million의 투자를 확보했으며, 이는 매수 및 통합 전략을 추진하기 위한 자금입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172659-navarras-public-investor-backs-eosol-with-6-2m-buy-and-build-push/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Guangzhou Jinci Haina New Material Technology",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 4.13,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4130000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Chengkai Fund"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "광저우 진시 하이나 신소재 기술은 비정질 및 나노결정 연자성 소재와 부품을 제조하는 회사로, 시리즈 A 확장 라운드에서 413만 달러의 투자를 유치했습니다. 성개 펀드를 포함한 투자자들이 이 라운드에 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172661-jinci-haina-raises-4-5m-extension-round-for-magnetic-core-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Jingshuo Technology",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시리즈A",
+   "investors": [
+    "嘉御资本"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "자율주행 기업 웨라이드의 자회사인 징슈오 테크놀로지가 물리적 AI 데이터 사업을 위해 프리시리즈 A 라운드에서 수천만 달러 규모의 투자를 유치했습니다. 이는 징슈오의 첫 외부 자금 조달로, 가오유 캐피탈 등의 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172662-weride-spins-out-jingshuo-raising-tens-of-millions-for-physical-ai-data/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Shenzhen Wance Technology",
+   "sector": "보안",
+   "amount_original": {
+    "value": 6.88,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6880000,
+   "stage": "비공개",
+   "investors": [
+    "Xiaomi Industrial Investment"
+   ],
+   "lead_investor": "Xiaomi Industrial Investment",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "선전 완스 테크놀로지는 AI 기반 3D 산업용 안전 센서를 개발하는 회사로, 자오미 산업 투자 주도로 688만 달러 규모의 전략적 라운드 투자를 유치했습니다. 이 자금은 안전 센서 사업 확대를 위해 사용될 것으로 예상됩니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172663-xiaomi-backs-shenzhen-safety-sensor-maker-wance-in-7-5m-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Luthmore",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 4.5,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 5952150,
+   "stage": "시드",
+   "investors": [
+    "The FSE Group",
+    "South West Investment"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Luthmore는 배터리 기반 무배출 보일러 개발을 위해 기존 투자자들로부터 450만 파운드의 시드 라운드 펀딩을 유치했습니다. Chippenham에 본사를 둔 엔지니어링 회사입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172669-luthmore-raises-4-5m-seed-to-roll-out-zero-emission-boiler/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Macci",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 1.38,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1380000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Macci는 고성능 생체자성 비드(biomagnetic beads) 개발 및 제조 진전을 위해 138만 달러의 엔젤 라운드 펀딩을 유치했습니다. MyTron™ 비드 플랫폼을 중심으로 정밀한 바이오 응용 솔루션을 제공합니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172670-macci-raises-1-5m-angel-round-for-biomagnetic-beads/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Guance Cloud",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 13.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13800000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Fangguang Capital",
+    "Qianhe Capital",
+    "Changzhou Science and Education Town"
+   ],
+   "lead_investor": "Fangguang Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 옵저버빌리티 플랫폼인 귀안스 클라우드는 팡광 캐피털이 주도하는 시리즈 A 및 A+ 라운드를 통해 1,380만 달러를 모금했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172671-guance-cloud-raises-15m-series-a-to-build-a-chinese-datadog/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Engitist",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14988000,
+   "stage": "시리즈 C",
+   "investors": [
+    "SMIC"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국 반도체 검사 기업인 엔기티스트는 산업 투자자들로부터 수억 위안 규모의 시리즈 C 펀딩을 완료했으며, 기존 투자자인 SMIC가 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172672-engitist-raises-100m-series-c-for-homegrown-chip-inspection-gear/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Hanxu Technology",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14988000,
+   "stage": "프리시리즈A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "베이징 소재 칩 스타트업인 한쉬 테크놀로지는 '자기 연산' 모델 기반 프로세서를 개발하고 있으며, 중국 주요 GPU 회사와 로보틱스 업체들의 지원을 받아 수억 위안 규모의 프리A+ 라운드를 완료했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172673-top-gpu-robotics-firms-back-mram-chip-startup-hanxu-in-100m-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Tianlian Measurement and Control",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 B",
+   "investors": [
+    "Marssenger",
+    "Caitong Innovation",
+    "Guangke Venture Capital"
+   ],
+   "lead_investor": "Marssenger",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172674-kitchen-appliance-maker-marssenger-leads-satellite-firms-series-b-extens/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Stoa",
+   "sector": "AI",
+   "amount_original": {
+    "value": 0.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [
+    "212"
+   ],
+   "lead_investor": "212",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172675-stoa-raises-seed-from-212-to-build-a-gpu-exchange/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Marketnode",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "Stellar Development Foundation"
+   ],
+   "lead_investor": "Stellar Development Foundation",
+   "country": "미상",
+   "region": "동남아",
+   "ai_summary_ko": "Marketnode는 아시아태평양 지역의 디지털 시장 인프라 운영업체로, Stellar Development Foundation으로부터 전략적 초기 단계 투자를 유치했습니다. Euroclear, HSBC, SGX Group, Temasek 등이 지원하는 회사입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172679-stellar-backs-marketnode-to-expand-tokenized-assets-across-asia-pacific/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Huayi Yingfei Optoelectronic Technology",
+   "sector": "기타",
+   "amount_original": {
+    "value": 41.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 41300000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Guoxin Fund",
+    "Huakong Fund",
+    "Shenzhen Capital Group"
+   ],
+   "lead_investor": "Guoxin Fund, Huakong Fund",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "베이징 소재 고급 광전자 칩 제조 업체 화이이잉페이가 시리즈 A 라운드에서 4,130만 달러를 조달했습니다. 국신펀드와 화콩펀드가 공동으로 주도했으며, 선전캐피탈그룹 등이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172681-optics-chipmaker-huayi-yingfei-raises-45m-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Ka-Yo",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 967000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 967000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Stefan Palm"
+   ],
+   "lead_investor": "Stefan Palm",
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "스웨덴 이커머스 및 아웃도어 브랜드 카요가 투자자 스테판 팜의 지원으로 시리즈 A 라운드에서 약 79만 4천 달러를 조달했습니다. 이번 펀딩 라운드는 기업 가치 평가가 하락한 상황에서 진행되었습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172682-ka-yo-raises-794k-series-a-as-valuation-drops/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Beijing Linyi Yunchuan Energy Technology",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14988000,
+   "stage": "천사",
+   "investors": [
+    "Shangrong Capital",
+    "CSC Financial",
+    "Xiangjiang State"
+   ],
+   "lead_investor": "Shangrong Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "고고도 풍력 발전 시스템을 개발하는 베이징 린이윤추안 에너지는 상롱캐피탈이 주도한 천사라운드에서 다액의 위안화 투자를 유치했다. 이번 라운드에는 CSC Financial과 Xiangjiang State 등의 투자자들이 참여했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172690-chinese-high-altitude-wind-startup-linyi-yunchuan-raises-angel-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Wuhan Langlai Technology Development",
+   "sector": "바이오",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시리즈 B",
+   "investors": [
+    "PICC Capital",
+    "China Merchants Capital",
+    "GF Qianhe",
+    "Qianhai Ark",
+    "Changjiang"
+   ],
+   "lead_investor": "PICC Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Wuhan Langlai Technology Development는 임상 단계의 신약 개발사로, 첫 신약이 중국 승인을 획득한 후 시리즈 B 라운드를 완료했습니다. PICC Capital과 China Merchants Capital이 주도 투자했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172692-langlai-raises-series-b-after-first-drug-wins-china-approval/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Kerbway",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 500000.0,
+    "currency": "GBP",
+    "unit": "unit"
+   },
+   "amount_usd": 661350,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "Kerbway는 영국의 B2B 차량 공유 스타트업으로, NHS 신탁, 지역 당국 및 부동산 개발자들이 기업 차량을 더 효율적으로 활용하도록 지원하기 위해 설립되었으며 50만 파운드를 천사 투자자로부터 조달했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172693-kerbway-launches-with-500-000-to-share-corporate-fleets/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Dwll.AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 10000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 10000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172696-umass-boston-launches-student-startup-fund-backs-two-ventures-at-10k-eac/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Clubstack",
+   "sector": "기타",
+   "amount_original": {
+    "value": 10000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 10000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172696-umass-boston-launches-student-startup-fund-backs-two-ventures-at-10k-eac/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "CryoBio",
+   "sector": "농업",
+   "amount_original": {
+    "value": 500000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 500000,
+   "stage": "비공개",
+   "investors": [
+    "Grow-NY"
+   ],
+   "lead_investor": "Grow-NY",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "아이타카 소재의 CryoBio는 농작물 서리 피해 방지 기술을 개발하는 스타트업으로, Grow-NY 농식품 대회의 8회차에서 50만 달러의 그랜트를 획득했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172699-ithacas-cryobio-lands-500k-in-grow-nys-3m-agtech-contest/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Xilect",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 500.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 74940000,
+   "stage": "프리시드",
+   "investors": [
+    "MetaX",
+    "UBTech Robotics"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "로봇 칩 스타트업 Xilect가 MetaX와 UBTech Robotics의 공동 설립으로 5억 위안의 엔젤 라운드 펀딩을 유치했습니다. 자금은 첫 칩 개발, 소프트웨어 확장, 엔지니어링 팀 확대, 로봇 제조사와의 플랫폼 테스트에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "TechNode",
+     "url": "https://technode.com/2026/11/13/metax-and-ubtech-backed-robotics-chip-startup-xilect-raises-rmb-500-million/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "Drogue",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "Drogue는 해양 열을 이용한 데이터센터 개념 개발을 위해 2000만 달러를 조달했습니다. 2025년 설립된 이 스타트업은 서버 냉각과 전력 생성을 동시에 수행하는 해양 데이터센터 구축을 계획하고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/"
+    },
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172694-drogue-raises-20m-to-build-a-data-center-that-runs-on-the-ocean/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-13",
    "company": "Refilled",
    "sector": "기타",
@@ -21,6 +1162,33 @@
     {
      "name": "Startup Daily",
      "url": "https://www.startupdaily.net/topic/funding/thirst-quenched-office-drinks-dispenser-refilled-taps-5-6-million-series-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "company": "AutoSwift",
+   "sector": "AI",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "AutoSwift는 자동차 딜러십을 위한 AI 영업 보조 도구인 AI Wingman을 세계 시장에 확대하기 위해 약 1천만 달러의 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/no-one-stays-at-the-top-forever"
+    },
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/software-startup-autoswift-raises-nearly-10-million-for-its-car-dealership-ai-sales-assistant/"
     }
    ]
   },
