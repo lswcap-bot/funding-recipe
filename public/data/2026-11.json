@@ -3,6 +3,191 @@
  "deals": [
   {
    "date": "2026-11-14",
+   "company": "Wepinion",
+   "sector": "기타",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "thousand"
+   },
+   "amount_usd": 100000,
+   "stage": "시드",
+   "investors": [
+    "Green Mountain Accelerator Fund"
+   ],
+   "lead_investor": "Green Mountain Accelerator Fund",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "버몬트 기반의 사회적 크라우드소싱 플랫폼 Wepinion이 Green Mountain Accelerator Fund로부터 10만 달러 규모의 시드 투자를 유치했다. 솔로 창업자 Vaughn Micciche가 개발한 의사결정 플랫폼이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172718-wepinion-lands-100k-seed-from-green-mountain-accelerator-fund/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "company": "Watersprint",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 4.23,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4230000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스웨덴",
+   "region": "유럽",
+   "ai_summary_ko": "Watersprint는 물 소독 시스템을 제조하는 룬드 기반 회사로, 2026년 내 두 번째 VC 라운드에서 423만 달러를 조성했다. 11월 10일에 진행된 이 라운드는 회사 가치를 약 2,000만 유로로 평가했으며, 기술 혁신을 통해 물 처리 산업에 기여하고 있다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172735-watersprint-raises-3-47m-in-its-second-round-this-year/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "company": "Drillbit",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4400000,
+   "stage": "시드",
+   "investors": [
+    "Y Combinator",
+    "Soma Capital",
+    "Unpopular Ventures",
+    "Contrarian Thinking Capital"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Drillbit는 주거 계약자를 위한 AI 직원을 개발하는 오스틴 기반 스타트업으로, 시드 펀딩 라운드에서 440만 달러를 조성했다. Y Combinator를 포함한 여러 투자자들이 참여했으며, 이 자금은 AI 오피스 워커 기술을 홈 서비스 기업에 배포하는 데 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172736-drillbit-raises-4-4m-to-put-ai-office-workers-inside-home-services-firms/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "company": "Hydros Power",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 250000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 276300,
+   "stage": "브릿지",
+   "investors": [],
+   "lead_investor": null,
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "알리칸테 기반 수소 냉동 기술 스타트업 Hydros Power가 냉동 운송용 수소 동력 시스템 STELION Powertrain의 규제 승인을 위해 €250,000 규모의 브릿지 라운드를 개시했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172738-hydros-power-raises-250-000-to-push-hydrogen-refrigeration-toward-approv/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "company": "Little Apple Pediatrics",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "CEC Health Fund"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 소아과 클리닉 체인 Little Apple Pediatrics가 미명의 AI 회사와 CEC Health Fund로부터 후기 단계 자금을 조달했다. 금액과 밸류에이션은 공개되지 않았다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172739-ai-chain-little-apple-pediatrics-raises-undisclosed-late-stage-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "company": "Zuddl",
+   "sector": "SaaS",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Y Combinator S20 출신 하이데라바드 기반 이벤트 관리 소프트웨어 스타트업 Zuddl이 자율 AI 에이전트로 사업을 전환하며 미국 판매팀을 확대했다. 회사는 과거에 $13.35M을 조달한 바 있다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172744-zuddl-rolls-out-event-ai-agents-hires-us-enterprise-sellers/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "company": "vMobility",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Rockpool Investments"
+   ],
+   "lead_investor": "Rockpool Investments",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국의 자동차 보험청구 서비스 제공업체 vMobility가 Rockpool Investments로부터 소수지분 투자를 유치했습니다. 구체적인 금액은 공개되지 않았습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172756-rockpool-backs-motor-claims-startup-vmobility-in-minority-deal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "company": "Sunrisal",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 25000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 25000,
+   "stage": "비공개",
+   "investors": [
+    "ECOWAS"
+   ],
+   "lead_investor": null,
+   "country": "나이지리아",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "나이지리아의 재생에너지 스타트업 Sunrisal이 ECOWAS로부터 $25,000 그랜트를 확보했습니다. 이 자금은 농촌 가정과 소규모 사업체를 위한 저렴한 태양광 전기 확대에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172763-sunrisal-wins-25-000-ecowas-grant-for-ai-based-rural-solar-in-nigeria/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
    "company": "Greenjoules",
    "sector": "기타",
    "amount_original": null,
@@ -61,6 +246,32 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/musks-openai-lawsuit-heads-to-jury-trial-in-march-us-judge-says"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "company": "GrabrFi",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6000000,
+   "stage": "프리시드",
+   "investors": [
+    "Bling Capital",
+    "BDev Ventures"
+   ],
+   "lead_investor": "Bling Capital",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "GrabrFi는 미국 외 사용자들이 미국 달러를 받고, 보유하고, 사용할 수 있게 해주는 서비스로, 달러 송금액 10억 달러를 돌파한 이후 블링 캐피탈과 BDev Ventures의 참여로 600만 달러의 초기 단계 투자 라운드를 성공적으로 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172700-grabrfi-raises-6m-after-crossing-1b-in-dollar-payments-abroad/"
     }
    ]
   },
@@ -559,6 +770,14 @@
     {
      "name": "Dealroom",
      "url": "https://dealroom.co/news/172639-afreximbank-arm-buys-into-dbanjs-cream-to-monetise-african-creative-ip/"
+    },
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172646-d-banj-s-cream-lands-afreximbank-equity-backing-for-african-creatives/"
+    },
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172639-afreximbank-arm-buys-into-d-banj-s-cream-to-monetise-african-creative-ip/"
     }
    ]
   },
@@ -610,11 +829,16 @@
    "date": "2026-11-13",
    "company": "EOSOL Group",
    "sector": "기타",
-   "amount_original": null,
-   "amount_usd": null,
+   "amount_original": {
+    "value": 6.2,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 6852240,
    "stage": "비공개",
    "investors": [
-    "Instituto Navarro de Inversiones"
+    "Instituto Navarro de Inversiones",
+    "Instituto Navarro de Inversiones (INI)"
    ],
    "lead_investor": "Instituto Navarro de Inversiones",
    "country": "스페인",
@@ -624,6 +848,10 @@
     {
      "name": "Dealroom",
      "url": "https://dealroom.co/news/172659-navarras-public-investor-backs-eosol-with-6-2m-buy-and-build-push/"
+    },
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172659-navarra-s-public-investor-backs-eosol-with-6-2m-buy-and-build-push/"
     }
    ]
   },
@@ -825,7 +1053,7 @@
   {
    "date": "2026-11-13",
    "company": "Tianlian Measurement and Control",
-   "sector": "기타",
+   "sector": "로보틱스",
    "amount_original": null,
    "amount_usd": null,
    "stage": "시리즈 B",
@@ -837,11 +1065,15 @@
    "lead_investor": "Marssenger",
    "country": "중국",
    "region": "동아시아",
-   "ai_summary_ko": null,
+   "ai_summary_ko": "중국 상용 위성 서비스 제공업체인 Tianlian Measurement and Control이 주방 전기 제품 제조사 Marssenger가 주도하고 Caitong Innovation과 Guangke Venture Capital이 참여한 시리즈 B 연장 펀딩을 완료했습니다.",
    "sources": [
     {
      "name": "Dealroom",
      "url": "https://dealroom.co/news/172674-kitchen-appliance-maker-marssenger-leads-satellite-firms-series-b-extens/"
+    },
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172674-kitchen-appliance-maker-marssenger-leads-satellite-firm-s-series-b-exten/"
     }
    ]
   },
