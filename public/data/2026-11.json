@@ -2,6 +2,304 @@
  "month": "2026-11",
  "deals": [
   {
+   "date": "2026-11-15",
+   "company": "Latchkey",
+   "sector": "SaaS",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "LAUNCH"
+   ],
+   "lead_investor": "LAUNCH",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172769-latchkey-lands-launch-backing-to-build-ci-that-fixes-its-own-failures/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "company": "WEIBUILD",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 13.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13800000,
+   "stage": "비공개",
+   "investors": [
+    "Caitong Capital"
+   ],
+   "lead_investor": "Caitong Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "상하이 기반 건설 로봇 회사 WEIBUILD가 Caitong Capital이 주도한 후기 라운드에서 1,380만 달러를 유치했습니다. 2020년 6월 설립된 이 회사는 도장, 분무, 모델링 등을 위한 로봇을 개발 중입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172773-weibuild-raises-15m-to-scale-embodied-ai-construction-robots/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "company": "Builderhead",
+   "sector": "부동산",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Gorilla Capital",
+    "SL Yhtiöt",
+    "LONT",
+    "Spartan Angel Fund",
+    "Beech Ventures",
+    "Dimerent",
+    "Eero"
+   ],
+   "lead_investor": "Gorilla Capital",
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "핀란드 프로펠시 소프트웨어 회사 Builderhead가 Gorilla Capital과 SL Yhtiöt가 주도하고 LONT, Spartan Angel Fund, Beech Ventures 등이 참여한 펀딩 라운드에서 투자를 확보했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172778-finnish-proptech-builderhead-lands-gorilla-capital-in-new-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "company": "Profesiolan",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 690.0,
+    "currency": "EUR",
+    "unit": "thousand"
+   },
+   "amount_usd": 762588,
+   "stage": "시드",
+   "investors": [
+    "Seed Capital Bizkaia",
+    "Easo Ventures",
+    "Onpage"
+   ],
+   "lead_investor": null,
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "빌바오 기반 M&A 회사 Profesiolan이 스페인 중소기업의 인수합병 및 경영권 이전 과정을 디지털화하기 위해 시드 라운드로 최대 69만 유로를 조성했으며, Seed Capital Bizkaia의 Fund I가 주도했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172783-profesiolan-raises-up-to-690k-to-digitise-sme-succession/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "company": "ThermAI",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "Airsys",
+    "Augur VC"
+   ],
+   "lead_investor": "Airsys",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국 스타트업 ThermAI가 데이터센터 냉각 기업 Airsys가 주도하고 Augur VC와 엔젤 투자자들이 참여한 프리시드 펀딩을 성공적으로 완료했습니다. Airsys는 리드 투자자이자 기술 파트너로 참여했으며, 구체적인 투자 규모는 공개되지 않았습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172789-airsys-leads-thermai-pre-seed-to-heat-uk-homes-with-gpus/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "company": "Esh",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 38.4,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 38400000,
+   "stage": "비공개",
+   "investors": [
+    "Nir Zuk"
+   ],
+   "lead_investor": "Nir Zuk",
+   "country": "이스라엘",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "이스라엘 디지털뱅크 Esh가 미화 3,840만 달러의 자본 조달을 계획하고 있으며, Palo Alto Networks 창업자이자 주요 주주인 Nir Zuk가 대부분의 자금을 제공할 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172791-palo-alto-s-nir-zuk-to-fund-most-of-esh-s-47m-digital-bank-raise/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "company": "GoDutch",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5526000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Bas Witvoet",
+    "Pieter Schoen"
+   ],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "네덜란드 핀테크 기업 GoDutch가 시리즈 A 펀딩의 일부로 크라우드펀딩 캠페인을 통해 500만 유로를 모금했습니다. 더치 드래곤스의 Bas Witvoet과 Pieter Schoen이 50만 유로를 투자했으며, 팟캐스트 청취자들도 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172793-godutch-raises-5m-from-its-own-podcast-listeners/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "company": "i23",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 4.9,
+    "currency": "GBP",
+    "unit": "million"
+   },
+   "amount_usd": 6481230,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 보험테크 스타트업 i23가 전직 재무부 장관 빔 아폴라미와 프라이머리비드 공동창립자 아난드 삼바시반이 주도하여 영국 보험 브로커를 인수하고 AI로 운영하기 위해 £4.9백만 규모의 시드 라운드 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172807-ex-minister-s-i23-raises-4-9m-to-buy-a-broker-and-run-it-with-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "company": "Applied Electrodynamics",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Tekedia Capital"
+   ],
+   "lead_investor": "Tekedia Capital",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Applied Electrodynamics는 벽을 통과하는 라디오파 카메라 WaveSight를 개발하는 샌프란시스코 스타트업으로, Tekedia Capital로부터 투자를 유치했다. 금액은 공개되지 않았다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172814-tekedia-capital-backs-yc-startup-building-a-camera-that-sees-through-wal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "company": "Provectus Algae",
+   "sector": "농업",
+   "amount_original": {
+    "value": 6.3,
+    "currency": "AUD",
+    "unit": "million"
+   },
+   "amount_usd": 4274802,
+   "stage": "시리즈 A",
+   "investors": [
+    "Queensland government"
+   ],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Provectus Algae는 메탄 감축 소 사료 기술을 실험실에서 실제 목축 현장으로 확대하기 위해 퀸즐랜드 주정부로부터 630만 호주달러의 시리즈 A 확장 자금을 유치했다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/queensland-government-backs-livestock-methane-agtech-in-6-3-million-series-a-extension/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "company": "Bharat Semi",
+   "sector": "AI",
+   "amount_original": {
+    "value": 24.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 24000000,
+   "stage": "시드",
+   "investors": [
+    "Info Edge"
+   ],
+   "lead_investor": "Info Edge",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Bharat Semi는 AI 센서 기술 개발 중인 인도 스타트업으로, 최근 2400만 달러의 시드 라운드 펀딩을 유치했습니다. General Atomics를 포함한 기업들로부터 설계 승인을 확보하며 글로벌 AI 센서 시장 진출을 노리고 있습니다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+    },
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/india-vietnam-expand-tech-startup-cooperation"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "company": "Verdict Machine",
+   "sector": "보안",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "Y Combinator",
+    "Draper Dragon",
+    "First Peak Ventures",
+    "Gaingels",
+    "Latitude Fund",
+    "Tekedia Capital",
+    "Transpose Platform"
+   ],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/172767-deel-and-check-point-alumni-back-verdict-machine-s-crypto-security-pre-s/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-14",
    "company": "Wepinion",
    "sector": "기타",
