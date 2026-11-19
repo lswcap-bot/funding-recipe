@@ -2,6 +2,1118 @@
  "month": "2026-11",
  "deals": [
   {
+   "date": "2026-11-19",
+   "company": "SunnyData",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 4995000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 4995000,
+   "stage": "비공개",
+   "investors": [
+    "Databricks Ventures"
+   ],
+   "lead_investor": "Databricks Ventures",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "미니애폴리스 기반 데이터·AI 컨설팅 회사 SunnyData가 Databricks의 투자사인 Databricks Ventures로부터 약 500만 달러의 전략적 투자를 유치했다. SEC Form D 신고서에 따르면 12명의 투자자로부터 자금을 조달했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174145-databricks-ventures-backs-data-consultancy-sunnydata-in-5m-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "company": "Boba Bhai",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 18.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 18000000,
+   "stage": "시리즈 B",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "버블티 및 한국식 길거리 음식을 판매하는 Boba Bhai가 시리즈 B 라운드에서 1,800만 달러를 유치했다. 이 자금은 매장 확장과 신규 브랜드 런칭에 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/boba-bhai-raises-18-million-in-series-b-round"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Speakeasy",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 18.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 18800000,
+   "stage": "시리즈 A",
+   "investors": [
+    "VMG Technology"
+   ],
+   "lead_investor": "VMG Technology",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "뉴욕 기반 스타트업 Speakeasy가 라이브 이벤트 및 호텔리티 운영을 단일 플랫폼으로 통합하는 소프트웨어를 개발하고 있으며, 초과 구독으로 1,880만 달러 규모의 시리즈 A 펀딩을 조성했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174002-speakeasy-lands-18-8m-to-unify-ticketing-and-payments-for-live-events/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Sequel",
+   "sector": "AI",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "프리시드",
+   "investors": [
+    "Sorenson Capital"
+   ],
+   "lead_investor": "Sorenson Capital",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Sequel은 웹사이트에서 직접 웨비나와 비디오를 호스팅하는 샌프란시스코 기반 회사로, Sorenson Capital이 주도한 초기 단계 라운드에서 1,500만 달러를 조성했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174004-sequel-raises-15m-to-turn-webinar-data-into-fuel-for-marketing-ai-agents/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Global Work AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 50.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 50000000,
+   "stage": "그로스",
+   "investors": [
+    "CHT"
+   ],
+   "lead_investor": "CHT",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Global Work AI가 CHT로부터 5천만 달러 규모의 그로스 파이낸싱을 확보했다. 이 자금은 마케팅, 고객 확보, 글로벌 확장에 사용될 예정이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174012-global-work-ai-lands-50m-cohort-financing-deal-from-cht/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "OmenX",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2000000,
+   "stage": "비공개",
+   "investors": [
+    "Informed Ventures"
+   ],
+   "lead_investor": "Informed Ventures",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Base 네트워크 기반 레버리지 예측 시장 플랫폼인 OmenX가 Informed Ventures로부터 200만 달러를 투자받았습니다. 회사는 비트코인 가격 예측 상품을 출시했으며, 사용자들이 30초 단위로 가격 움직임에 베팅할 수 있습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174014-omenx-raises-2-million-launches-30-second-bitcoin-prediction-market/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Variational",
+   "sector": "AI",
+   "amount_original": {
+    "value": 110.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 110000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Bain Capital Crypto",
+    "Dragonfly Capital",
+    "HSG",
+    "Peak XV"
+   ],
+   "lead_investor": "Bain Capital Crypto",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "온체인 파생상품 거래 프로토콜인 Variational이 15억 달러 밸류에이션으로 시리즈 B 펀딩에서 1억 1천만 달러를 유치했습니다. Bain Capital Crypto가 주도 투자자로 참여했으며, Dragonfly Capital, HSG, Peak XV도 함께 투자했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174018-variational-nabs-110m-to-take-on-hyperliquid-in-on-chain-derivatives/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Smeetz",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 5.04,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5040000,
+   "stage": "시리즈 A2",
+   "investors": [
+    "QBIT Capital",
+    "Zürcher Kantonalbank",
+    "DAA Capital",
+    "NewOak"
+   ],
+   "lead_investor": "QBIT Capital",
+   "country": "스위스",
+   "region": "유럽",
+   "ai_summary_ko": "스위스 티켓팅 및 동적 가격책정 플랫폼 Smeetz가 QBIT Capital이 주도하는 시리즈 A2 라운드에서 504만 달러를 유치했습니다. 기존 투자자들인 Zürcher Kantonalbank, DAA Capital, NewOak이 참여했으며, 회사는 흑자 전환에 성공했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174020-smeetz-raises-6-53m-series-a2-as-swiss-ticketing-platform-turns-profitab/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Connect Money",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 3.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3500000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Mohamed Farouk",
+    "Algebra Ventures",
+    "Disruptech Ventures"
+   ],
+   "lead_investor": null,
+   "country": "이집트",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "이집트의 임베디드 파이낸스 플랫폼 커넥트 머니가 시리즈 A 펀딩에서 350만 달러를 조성했으며, 사우디아라비아와 모로코 시장 진출을 계획하고 있다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174024-egypt-s-connect-money-raises-3-5m-to-enter-saudi-arabia-and-morocco/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Odin Dynamics",
+   "sector": "보안",
+   "amount_original": {
+    "value": 13.75,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13750000,
+   "stage": "시드",
+   "investors": [
+    "Freestyle VC",
+    "BlueYard Capital",
+    "Sierra Ventures"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "해양 방위 솔루션 스타트업 오딘 다이나믹스가 스텔스 모드를 빠져나와 프리스타일 VC, 블루야드 캐피탈, 시에라 벤처스가 주도한 1,375만 달러 규모의 시드 펀딩을 조성했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174027-undersea-defense-startup-odin-dynamics-exits-stealth-with-13-8m-seed/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "StepSecurity",
+   "sector": "보안",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Elephant"
+   ],
+   "lead_investor": "Elephant",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "사이버보안 스타트업 StepSecurity가 Elephant가 주도한 2천만 달러 규모의 시리즈 A 펀딩을 완료했다. 기존 투자자들도 참여했으며, 코드 파이프라인을 공급망 공격으로부터 보호하는 솔루션을 제공한다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174042-stepsecurity-raises-20m-to-defend-code-pipelines-from-supply-chain-attac/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Athletes Unlimited Softball League (AUSL)",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Soichiro Minami"
+   ],
+   "lead_investor": "Soichiro Minami",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "일본 기업가 Soichiro Minami가 미국 소프트볼 리그인 AUSL에 투자했다. Minami는 Visional의 창업자이자 뉴욕 양키스의 제한 파트너이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174044-yankees-backer-minami-joins-ausl-investor-roster-as-league-eyes-season-t/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "alfavet",
+   "sector": "바이오",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "NORD Holding"
+   ],
+   "lead_investor": "NORD Holding",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "NORD Holding이 수의약품 및 영양제 제조업체인 alfavet에 지분을 인수했다. 이는 독일 회사의 유럽 시장 진출을 위한 성장 파트너십이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174045-nord-holding-backs-german-animal-health-firm-alfavet-for-european-push/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "IGEL",
+   "sector": "SaaS",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Vitruvian Partners",
+    "TA Associates"
+   ],
+   "lead_investor": "Vitruvian Partners",
+   "country": "독일",
+   "region": "유럽",
+   "ai_summary_ko": "엔드포인트 소프트웨어 업체 IGEL이 Vitruvian Partners가 주도하는 사모펀드 투자를 유치했으며, 기존 투자자 TA Associates도 참여했다. 이번 투자로 IGEL의 기업 가치는 10억 달러를 넘어 유니콘 반열에 올랐다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174058-igel-hits-1b-valuation-on-vitruvian-investment/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Shenzhen Lineng Times Technology",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "gl ventures",
+    "高瓴创投"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "심천 리넹타임스테크놀로지가 여러 억 위안의 투자를 유치했습니다. gl ventures와 하일하우스의 벤처팀인 高瓴创投가 투자했으며, 회사는 엑스레이 소스와 고전압 전원 공급장치 등 핵심 부품을 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174062-china-s-lineng-times-raises-hundreds-of-millions-of-yuan-for-x-ray-parts/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Henfruit",
+   "sector": "푸드테크",
+   "amount_original": {
+    "value": 15.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 15000000,
+   "stage": "시드",
+   "investors": [
+    "Lok Capital",
+    "DSG Consumer Partners",
+    "RPSG Capital Ventures"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 계란 브랜드 Henfruit이 Lok Capital, DSG Consumer Partners, RPSG Capital Ventures로부터 1500만 달러를 투자받았다. 2014년 이후 첫 외부 투자 유치이며, 그 동안 자체 자금으로 성장해온 회사이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174068-egg-brand-henfruit-raises-15m-in-first-outside-funding-since-2014/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Guangdong Zhiye Technology",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.13,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4130000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Gaoke Jintou",
+    "Taiya Investment"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 산업용 인터넷 플랫폼 제공업체인 광둥 지예 테크놀로지가 시리즈 A 라운드에서 413만 달러를 조달했습니다. 고크 진토우와 타이야 인베스트먼트가 이 라운드에 투자했으며, 2026년 11월에 발표되었습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174072-china-s-zhiye-technology-raises-4-5m-series-a-for-industrial-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "PulmoGate",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 2.54,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2540000,
+   "stage": "시드",
+   "investors": [
+    "Beyond Next Ventures",
+    "Teijin Pharma",
+    "MUFG Capital",
+    "STATION Ai / Deepcore"
+   ],
+   "lead_investor": "Beyond Next Ventures",
+   "country": "일본",
+   "region": "동아시아",
+   "ai_summary_ko": "명古屋大学 의료 AI 스핀아웃 PulmoGate가 Beyond Next Ventures가 주도한 시드 라운드에서 약 254만 달러를 조달했다. Teijin Pharma, MUFG Capital, STATION Ai / Deepcore 운영 펀드 등이 함께 참여했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174078-nagoya-university-ai-spinout-pulmogate-raises-3-3m-seed-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Serri AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 200000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 200000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Serri AI는 3개월 만에 연간 반복 수익(ARR)을 100만 달러에서 200만 달러로 2배 증가시켰다. 약 20만 달러의 외부 펀딩으로 수익성을 유지하면서 성장을 달성했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174080-serri-doubles-to-2m-arr-in-three-months-on-200k-raised/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Regiment Security Partners (RSP)",
+   "sector": "보안",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Tecum Capital Partners",
+    "Capital"
+   ],
+   "lead_investor": "Tecum Capital Partners",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Tecum Capital Partners가 Yonkers 기반의 보안서비스 제공업체 Regiment Security Partners에 플랫폼 투자를 진행했습니다. 기존 경영진과 Capital 등 공동 투자자들과 함께 투자가 이루어졌습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174084-tecum-backs-yonkers-security-firm-rsp-in-new-platform-deal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Wuhan Qina New Energy Technology",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 13.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13800000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Fuhui Venture Capital"
+   ],
+   "lead_investor": "Fuhui Venture Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "우한 소재 Qina New Energy는 나트륨 이온 배터리 양극재 제조 회사로, Fuhui Venture Capital로부터 1,380만 달러 규모의 시리즈 A 라운드 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174091-qina-new-energy-raises-15m-series-a-for-sodium-battery-expansion/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Qingshi Yongjun",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 14999000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Shenzhen Capital Group"
+   ],
+   "lead_investor": "Shenzhen Capital Group",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "선전 소재 Qingshi Yongjun은 2026년 11월 고급 신경조절 의료기기를 개발하는 회사로, Shenzhen Capital Group 주도로 수억 위안 규모의 시리즈 A 라운드 투자를 완료했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174094-qingshi-yongjun-raises-hundreds-of-millions-of-yuan-for-brain-chip-thera/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Jiuzhou Star Core",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "Tianying Capital"
+   ],
+   "lead_investor": "Tianying Capital",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "베이징 소재 Jiuzhou Star Core는 초임계 CO₂ 직순환 미소 핵분열 기술을 개발하는 스타트업으로, Tianying Capital로부터 엔젤 라운드 투자를 유치했습니다. 투자액은 명시되지 않았습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174095-tianying-backs-nuclear-startup-jiuzhou-star-core-in-angel-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Transparency Analytics",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 3.42,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3420000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "뉴욕 기반의 신용평가 및 분석 회사 Transparency Analytics가 SEC 신고에 따르면 5명의 투자자로부터 342만 달러의 주식 투자를 받았습니다. 이는 민간 신용 평가 솔루션 개발 및 확장에 사용될 것으로 예상됩니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174096-transparency-analytics-raises-3-42m-for-private-credit-ratings/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Kara",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [
+    "Tekedia Capital",
+    "Rebel Fund",
+    "Y Combinator"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "San Francisco 기반의 반도체 다이아몬드 웨이퍼 제조 스타트업 Kara가 Tekedia Capital, Rebel Fund, Y Combinator로부터 시드 라운드 펀딩을 조달했습니다. 구체적인 펀딩 규모는 공개되지 않았습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174099-kara-raises-seed-round-from-tekedia-rebel-fund-yc-for-diamond-chips/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Xlue",
+   "sector": "AI",
+   "amount_original": {
+    "value": 35.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 35000000,
+   "stage": "시드",
+   "investors": [
+    "Conviction"
+   ],
+   "lead_investor": "Conviction",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Carnegie Mellon의 스핀아웃 기업 Xlue가 AI 기반 임상지능 솔루션을 개발하고 있으며, Sarah Guo의 AI 중심 벤처펌 Conviction이 주도한 시드 라운드에서 3,500만 달러를 유치했습니다. 이 자금은 환자의 질병 위험을 식별하는 AI 기술 개발에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174100-carnegie-mellon-spinout-xlue-raises-35m-seed-for-cancer-risk-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "HUMAIN",
+   "sector": "AI",
+   "amount_original": {
+    "value": 2.5,
+    "currency": "SAR",
+    "unit": "billion"
+   },
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "National Infrastructure Fund"
+   ],
+   "lead_investor": "National Infrastructure Fund",
+   "country": "사우디아라비아",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "사우디아라비아의 풀스택 AI 회사 HUMAIN이 AI 컴퓨팅 및 전력 인프라 구축을 위해 국가인프라펀드와 최대 25억 사우디 리알(약 6억 6700만 달러 상당)의 두 가지 융자 계약을 체결했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174101-humain-secures-667m-debt-deal-a-first-for-saudi-ai-infrastructure/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Global MPC",
+   "sector": "기타",
+   "amount_original": {
+    "value": 7.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7500000,
+   "stage": "비공개",
+   "investors": [
+    "MH Ventures",
+    "Mapleblock Capital",
+    "Paul Taylor"
+   ],
+   "lead_investor": null,
+   "country": "파나마",
+   "region": "중남미",
+   "ai_summary_ko": "파나마 소재 Global MPC가 채광 자산을 블록체인에 올리기 위해 7개 투자자로부터 750만 달러의 전략적 투자를 유치했다. MH Ventures, Mapleblock Capital, Paul Taylor 등이 참여했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174102-global-mpc-raises-7-5m-to-tokenize-mining-assets-on-bnb-chain/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Cephable",
+   "sector": "AI",
+   "amount_original": {
+    "value": 7.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7000000,
+   "stage": "시드",
+   "investors": [
+    "MassMutual Ventures"
+   ],
+   "lead_investor": "MassMutual Ventures",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "보스턴 소재 AI 스타트업 Cephable이 직원의 노트북에서 실행되는 AI 어시스턴트 개발을 위해 MassMutual Ventures의 기후기술펀드로부터 700만 달러의 시드 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174103-massmutual-ventures-backs-cephable-s-7m-seed-for-on-device-ai-agents/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Quanlan Technology",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 1499900,
+   "stage": "시리즈 A",
+   "investors": [
+    "Green Pine Capital Partners",
+    "Green River Investment",
+    "Lingyi"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "상하이 소재 Quanlan Technology가 뇌 질환 치료용 비침습 신경 조절 장치 개발을 위해 시리즈 A 라운드에서 수천만 위안을 조달했다. Green Pine Capital Partners, Green River Investment, Lingyi 등이 투자에 참여했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174104-china-s-quanlan-raises-tens-of-millions-in-series-a-for-brain-therapy-de/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Open Road Resorts",
+   "sector": "부동산",
+   "amount_original": {
+    "value": 110.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 110000000,
+   "stage": "비공개",
+   "investors": [
+    "Brookfield Asset Management"
+   ],
+   "lead_investor": "Brookfield Asset Management",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "미국 캠핑장 통합 회사 Open Road Resorts가 Brookfield Asset Management로부터 1억 1천만 달러의 소수지분 투자를 유치했다. 이 자금은 미국 내 독립 캠핑장 인수 확대에 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174108-brookfield-bets-110m-on-campground-roll-up-open-road-resorts/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Linq",
+   "sector": "AI",
+   "amount_original": {
+    "value": 90.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 90000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Andreessen Horowitz",
+    "TQ Ventures",
+    "Mucker Capital",
+    "Abstract"
+   ],
+   "lead_investor": "Andreessen Horowitz",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Linq가 AI 에이전트를 위한 메시징 인프라 구축을 위해 Andreessen Horowitz가 주도한 시리즈 B 라운드에서 9,000만 달러를 조성했습니다. 기존 투자자 TQ Ventures, Mucker Capital, Abstract와 새로운 투자자들이 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174117-linq-raises-90m-to-put-ai-agents-inside-your-text-threads/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Time Therapeutics",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 61.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 61000000,
+   "stage": "비공개",
+   "investors": [
+    "MarcyPen Capital Partners"
+   ],
+   "lead_investor": "MarcyPen Capital Partners",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Time Therapeutics가 6,100만 달러의 펀딩을 완료했으며, 최종 2,800만 달러는 MarcyPen Capital Partners가 주도했습니다. Jonas brothers를 포함한 암호화폐 투자자들이 참여한 광범위한 투자자 그룹의 지원을 받았습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174118-time-therapeutics-lands-61m-with-jonas-brothers-crypto-investors-backing/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Soldera",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 1.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1645200,
+   "stage": "비공개",
+   "investors": [
+    "Estonian Innovation Foundation"
+   ],
+   "lead_investor": "Estonian Innovation Foundation",
+   "country": "에스토니아",
+   "region": "유럽",
+   "ai_summary_ko": "에스토니아의 스타트업 솔데라가 에스토니아혁신재단으로부터 150만 유로의 혁신 대출을 확보했습니다. 이 자금은 여러 국가에서 기업의 청정에너지 사용을 증명할 수 있는 플랫폼 구축에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174125-estonia-s-soldera-lands-1-5m-loan-to-untangle-renewable-energy-rules/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Compute Desk",
+   "sector": "AI",
+   "amount_original": {
+    "value": 45.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 45000000,
+   "stage": "시드",
+   "investors": [
+    "Lightspeed Venture Partners",
+    "Menlo Ventures",
+    "Hedosophia"
+   ],
+   "lead_investor": "Lightspeed Venture Partners",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "Compute Desk는 AI 컴퓨팅 자본을 가격 책정, 거래, 헤징 및 결제하는 자본시장 인프라를 구축하기 위해 Lightspeed Venture Partners가 주도한 시드 라운드에서 4,500만 달러를 유치했다. Menlo Ventures와 Hedosophia 등이 투자에 참여했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174135-compute-desk-raises-45m-to-build-a-trading-market-for-ai-compute/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Open Source China",
+   "sector": "에듀테크",
+   "amount_original": {
+    "value": 6.88,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6880000,
+   "stage": "비공개",
+   "investors": [
+    "Xueda (Xiamen) Education Technology Group"
+   ],
+   "lead_investor": "Xueda (Xiamen) Education Technology Group",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "Open Source China가 상장 과외 회사 Xueda (Xiamen) Education Technology Group으로부터 688만 달러의 후기 단계 벤처 펀딩을 조달했습니다. Xueda는 자체 자금에서 전액을 투자하고 있습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174138-open-source-china-raises-7-5m-as-xueda-deepens-ai-education-bet/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "IntelliProve",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 2.7,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 2961360,
+   "stage": "시드",
+   "investors": [
+    "Miles Ahead"
+   ],
+   "lead_investor": "Miles Ahead",
+   "country": "벨기에",
+   "region": "유럽",
+   "ai_summary_ko": "벨기에 헬스테크 스타트업 IntelliProve가 카메라 기반 건강 검진 기술을 가상 진료 앱에서 휴머노이드 로봇으로 확대하기 위해 Miles Ahead가 주도한 시드 펀딩 라운드에서 270만 유로를 조달했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174140-intelliprove-raises-2-7m-to-put-its-face-scan-health-check-on-robots/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Celosia Therapeutics",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 2.0,
+    "currency": "AUD",
+    "unit": "million"
+   },
+   "amount_usd": 1346260,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Celosia Therapeutics가 NSW 정부의 신규 기술 상용화 기금에서 200만 호주달러의 투자금을 확보했습니다. 이는 NSW의 여섯 개 스타트업이 정부 상용화 보조금 700만 호주달러를 나누어 받은 것의 일부입니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/mnd-biotech-celosia-therapeutics-bags-2-million-as-six-startups-score-nsw-govt-commercialisation-grants/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Botsync",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 11.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 11000000,
+   "stage": "비공개",
+   "investors": [
+    "IvyCap Ventures"
+   ],
+   "lead_investor": "IvyCap Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Botsync가 IvyCap Ventures의 주도로 $11 million을 유치했습니다. 이 자금은 AI 기반 산업 자동화 플랫폼 개선, 로보틱스 역량 강화, 인도 및 글로벌 시장 확장에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/botsync-raises-11m-to-expand-industrial-automation"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Fatehpuria Hygiene",
+   "sector": "기타",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 10702000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Fatehpuria Hygiene이 첫 번째 주식 펀딩으로 Rs 100 Cr을 유치했습니다. 이 자금은 향후 24개월 내 50개 이상의 도시로 사업 확장 및 창고, 유통, AI 기반 공급망 인프라 강화에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/fatehpuria-hygiene-secures-rs-100-cr-first-equity-fundraise"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Recove Ventures",
+   "sector": "기타",
+   "amount_original": {
+    "value": 56.25,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 6019875,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": null,
+   "ai_summary_ko": "순환경제 인프라 구축 회사인 Recove Ventures가 56.25크로르 루피를 조성했다. 이 자금은 마하라슈트라에서 순환경제 인프라를 구축하고 카르나타카에서 사업을 확장하는 데 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/circular-economy-company-recove-ventures-raises-rs-56-crore"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Groww",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 1905.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 203873100,
+   "stage": "비공개",
+   "investors": [
+    "Kotak MF",
+    "BlackRock"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Groww의 모회사인 Billionbrains Garage Ventures에 Kotak MF와 BlackRock을 포함한 투자자들이 집단 투자를 단행했습니다. 투자자들은 주당 평균 219루피의 가격으로 869만 주식을 취득해 총 1,905억 루피 규모의 1.38% 지분을 확보했습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/kotak-mf-blackrock-among-investors-buying-rs-1905-cr-stake-in-groww"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Upstage",
+   "sector": "AI",
+   "amount_original": {
+    "value": 45.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 45000000,
+   "stage": "브릿지",
+   "investors": [],
+   "lead_investor": null,
+   "country": "한국",
+   "region": "동아시아",
+   "ai_summary_ko": "Upstage는 한국 스타트업으로 미화 4천5백만 달러의 시리즈 B 브릿지 라운드를 포함해 총 미화 1억2천만 달러를 조달했습니다. Cohere와 AI 플랫폼 파트너십을 체결했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/s-korea-removes-naver-ncsoft-teams-from-sovereign-ai-model-race"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Neysa",
+   "sector": "AI",
+   "amount_original": {
+    "value": 20.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 20000000,
+   "stage": "시드",
+   "investors": [
+    "Blackstone"
+   ],
+   "lead_investor": "Blackstone",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Neysa는 2023년 설립된 인도의 AI 기업으로, Blackstone의 지원을 받으며 엔터프라이즈 생성형 AI를 위해 미화 2천만 달러의 시드 펀딩을 조달했습니다. 최근 클라우드 플랫폼에 AMD 칩을 추가했습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/major-tech-firms-pledge-billions-for-indian-ai-initiatives"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "company": "Payhawk",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 280.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 280000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "불가리아",
+   "region": "유럽",
+   "ai_summary_ko": "Payhawk는 2018년 설립된 엔터프라이즈 금융관리 플랫폼으로, AI 에이전트를 활용하여 기업의 지출과 조달을 추적하고 관리하는 서비스를 제공한다. 이번 라운드에서 $280M을 조달하며 기업 가치는 $2B에 평가되었다.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-18",
    "company": "Pool Brain",
    "sector": "SaaS",
