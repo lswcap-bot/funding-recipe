@@ -3,6 +3,187 @@
  "deals": [
   {
    "date": "2026-11-21",
+   "company": "Invasive Species Corporation",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Davis 지역의 스타트업 Invasive Species Corporation이 NorCal AngelCon 피치 대회에서 천사투자자들로부터 투자를 유치했다. 다른 Davis 스타트업과 함께 총 19만 5천 달러를 획득했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174742-davis-startups-win-195-000-at-norcal-angelcon-pitch-event/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "company": "Matrubials",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Davis 지역의 스타트업 Matrubials이 NorCal AngelCon 피치 대회에서 천사투자자들로부터 투자를 유치했다. 다른 Davis 스타트업과 함께 총 19만 5천 달러를 획득했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174742-davis-startups-win-195-000-at-norcal-angelcon-pitch-event/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "company": "Bloom",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 75.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 75000000,
+   "stage": "비공개",
+   "investors": [
+    "Kedaara Capital"
+   ],
+   "lead_investor": "Kedaara Capital",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "기술 기반 여행 브랜드 Bloom이 Kedaara Capital로부터 7,500만 달러의 주요 투자를 유치했다. 회사는 이 자금으로 다음 성장 단계와 기술 개발을 진행할 계획이며, 보유 호텔 객실을 3배로 늘릴 예정이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174747-bloom-raises-75m-from-kedaara-to-triple-its-hotel-rooms/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "company": "Mission Mobile",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 500.0,
+    "currency": "ZAR",
+    "unit": "million"
+   },
+   "amount_usd": 28621500,
+   "stage": "프리시드",
+   "investors": [
+    "DN Invest"
+   ],
+   "lead_investor": "DN Invest",
+   "country": "남아프리카",
+   "region": "오세아니아",
+   "ai_summary_ko": "남아프리카 모바일 기술 스타트업 Mission Mobile이 투자회사 DN Invest의 주도로 약 500만 랜드(약 2,840만 달러)의 초기 투자를 유치했다. 2023년 설립된 회사로, 남아프리카에서 스마트폰 접근성을 확대하는 데 집중하고 있다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174750-mission-mobile-raises-28-4m-to-widen-smartphone-access-in-south-africa/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "company": "KIKA AI",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "13세 학생 창업자 키얀이 학교 학생과 젊은 창작자를 위한 AI 플랫폼 KIKA AI에 대해 비공개 규모의 시드 펀딩을 유치했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174762-13-year-old-founder-raises-seed-round-for-kika-ai/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "company": "Touchmark",
+   "sector": "AI",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3000000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "AI 추론 용량 마켓플레이스를 구축하는 샌프란시스코 스타트업 Touchmark가 300만 달러의 시드 라운드 펀딩을 조성했다. 이 플랫폼은 상업적 구매자가 향후 모델 용량을 예약할 수 있게 해준다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174765-touchmark-lands-3m-seed-for-ai-inference-marketplace/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "company": "Gauge",
+   "sector": "AI",
+   "amount_original": {
+    "value": 500000.0,
+    "currency": "USD",
+    "unit": "unit"
+   },
+   "amount_usd": 500000,
+   "stage": "시드",
+   "investors": [
+    "Y Combinator",
+    "Pioneer Fund"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "샌프란시스코의 마케팅 및 분석 스타트업 Gauge가 AI 생성 콘텐츠에서 브랜드가 어떻게 표현되는지 모니터링하고 개선하기 위해 Y Combinator와 Pioneer Fund로부터 50만 달러의 시드 펀딩을 조성했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174775-gauge-raises-500k-seed-to-track-how-ai-agents-pick-software/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "company": "CoFlo Medical",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6000000,
+   "stage": "시드",
+   "investors": [
+    "J2 Ventures"
+   ],
+   "lead_investor": "J2 Ventures",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "샌프란시스코의 약물 전달 스타트업 CoFlo Medical이 MIT 스핀아웃으로서 주입 바늘을 재설계하기 위해 J2 Ventures가 주도한 600만 달러의 시드 라운드 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174777-coflo-medical-raises-6m-seed-to-rethink-the-injection-needle/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
    "company": "Agile Robots",
    "sector": "기타",
    "amount_original": null,
@@ -17,6 +198,29 @@
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/its-a-post-anthropic-ipo-world"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "company": "Databricks",
+   "sector": "AI",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "데이터 및 AI 소프트웨어 기업 Databricks가 약 2,250억 달러 밸류에이션으로 여러 억 달러 규모의 신규 라운드 펀딩을 초기 단계로 논의 중이다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/databricks-annualized-revenue-rises-80-69b"
+    },
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174744-databricks-in-early-talks-to-raise-several-billion-dollars-at-a-225b-val/"
     }
    ]
   },
@@ -822,11 +1026,15 @@
    "lead_investor": "Daniel Ek",
    "country": "미국",
    "region": "북미",
-   "ai_summary_ko": "Spotify 창립자 Daniel Ek이 AI 연구자가 설립한 융합 발전 스타트업 Europa Fusion에 투자했다. 이 회사는 차세대 에너지 솔루션 개발을 목표로 하고 있다.",
+   "ai_summary_ko": "Spotify 창립자 Daniel Ek이 전 DeepMind 및 Pacific Fusion AI 연구원 Nantas Nardelli가 설립한 영국 핵융합 스타트업 Europa Fusion을 지원하고 있다.",
    "sources": [
     {
      "name": "TechCrunch",
      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    },
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174769-spotify-founder-daniel-ek-backs-europa-fusion-a-uk-fusion-startup-from-f/"
     }
    ]
   },
