@@ -2,6 +2,226 @@
  "month": "2026-11",
  "deals": [
   {
+   "date": "2026-11-23",
+   "company": "Laronix",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "프리시리즈A",
+   "investors": [],
+   "lead_investor": null,
+   "country": "호주",
+   "region": "오세아니아",
+   "ai_summary_ko": "Laronix는 10초의 음성으로부터 잃어버린 목소리를 복제하는 의료 기술을 개발하는 호주의 의료 기술 회사입니다. 환자들이 그들의 목소리를 되찾을 수 있도록 돕고 글로벌 확장을 추진하기 위해 500만 달러의 프리시리즈A 펀딩을 유치했습니다.",
+   "sources": [
+    {
+     "name": "Startup Daily",
+     "url": "https://www.startupdaily.net/topic/funding/brisbane-medtech-lands-5-million-pre-series-a-to-give-patients-back-their-lost-voices/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "company": "Naru Intelligence",
+   "sector": "AI",
+   "amount_original": {
+    "value": 360000.0,
+    "currency": "EUR",
+    "unit": "unit"
+   },
+   "amount_usd": 395640,
+   "stage": "시리즈 A",
+   "investors": [
+    "CDTI",
+    "Orza"
+   ],
+   "lead_investor": null,
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "San Sebastián 소재 임상 연구에 AI를 적용하는 스타트업 Naru Intelligence가 스페인의 CDTI, Orza 등이 참여한 초기 단계 라운드에서 36만 유로를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174786-spain-s-cdti-backs-clinical-ai-startup-naru-with-360-000/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "company": "Osborn Associates",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Coniston Capital"
+   ],
+   "lead_investor": "Coniston Capital",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174788-coniston-backs-uk-fire-safety-consultancy-osborn-associates-in-buyout/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "company": "Fuan Intelligent Technology",
+   "sector": "기타",
+   "amount_original": {
+    "value": 4.13,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4130000,
+   "stage": "시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "상하이에 본사를 둔 Fuan Intelligent Technology는 재료과학 연구를 위한 클라우드 플랫폼 LASPAI를 출시하며 시드 라운드에서 413만 달러를 조달했습니다. 이 자금은 재료 R&D 개발 가속화에 사용됩니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174791-fuan-intelligent-raises-4-49m-seed-to-speed-up-materials-r-d/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "company": "GPU Audio",
+   "sector": "기타",
+   "amount_original": {
+    "value": 1.1,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 1100000,
+   "stage": "시드+",
+   "investors": [
+    "AngelsDeck Global Ventures"
+   ],
+   "lead_investor": "AngelsDeck Global Ventures",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "GPU Audio는 실시간 오디오 기술을 자동차에 적용하기 위해 AngelsDeck Global Ventures로부터 110만 달러를 투자받았습니다. 이 자금은 제품 개발과 상용화 가속화에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174793-gpu-audio-raises-1-1m-to-bring-sound-zones-to-cars/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "company": "Magnetic",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 5.2,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5200000,
+   "stage": "시드",
+   "investors": [
+    "Goodwater Capital",
+    "Griffin Gaming Partners"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "샌프란시스코 기반 Magnetic은 CPA 회계사들을 위해 세금 준비 과정을 자동화하는 스타트업이다. 굿워터 캐피탈과 그리핀 게이밍 파트너스로부터 520만 달러의 시드 펀딩을 조달했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174795-magnetic-raises-5-2m-to-automate-the-grind-of-tax-season/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "company": "Bayesline",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "비공개",
+   "investors": [
+    "Y Combinator"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "뉴욕 기반 핀테크 스타트업 Bayesline이 포트폴리오 분석 소프트웨어를 개발하기 위해 $4백만의 투자를 유치했습니다. Y Combinator로부터 사전 지원을 받은 이 스타트업은 투자 관리자들이 위험을 평가하고 성과를 측정하는 데 도움을 주는 소프트웨어를 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174806-bayesline-raises-4m-to-build-ai-era-portfolio-analytics/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "company": "Khaya Biosciences",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "thousand"
+   },
+   "amount_usd": 100000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Khaya Biosciences는 식품 폐기물에서 상처 드레싱을 성장시키는 생명과학 스타트업으로, Alabama Launchpad의 Cycle 2 경쟁 생명과학 부문에서 우승하여 $100,000의 비희석 펀딩을 받았습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174815-khaya-biosciences-wins-100k-grant-to-grow-wound-dressings-from-food-wast/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "company": "InvoiceQ",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Manara Ventures",
+    "Next Ventures",
+    "Orange Ventures",
+    "Jordan SME Fund"
+   ],
+   "lead_investor": "Manara Ventures, Next Ventures",
+   "country": "요르단",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "요르단의 전자청구 및 세무 준수 회사 InvoiceQ가 시리즈 A 라운드에서 500만 달러를 유치했습니다. Manara Ventures와 Next Ventures가 주도했으며, Orange Ventures와 Jordan SME Fund가 참여했습니다. 이 자금은 8개 아랍 시장에서 전자청구 사업을 확대하는 데 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174821-jordan-s-invoiceq-raises-5m-to-grow-e-invoicing-across-8-arab-markets/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-21",
    "company": "Invasive Species Corporation",
    "sector": "기타",
