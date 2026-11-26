@@ -3,6 +3,1100 @@
  "deals": [
   {
    "date": "2026-11-26",
+   "company": "Coils",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Samchully"
+   ],
+   "lead_investor": null,
+   "country": "한국",
+   "region": "동아시아",
+   "ai_summary_ko": "한국 에너지 그룹 Samchully가 S-Together 액셀러레이터 프로그램을 통해 로보틱스 스타트업 Coils에 투자 계약을 체결했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176062-samchully-backs-robotics-startups-nuvinda-and-coils-in-s-together-deal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Nuvinda",
+   "sector": "로보틱스",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Samchully"
+   ],
+   "lead_investor": null,
+   "country": "한국",
+   "region": "동아시아",
+   "ai_summary_ko": "한국 에너지 그룹 Samchully가 S-Together 액셀러레이터 프로그램을 통해 로보틱스 스타트업 Nuvinda에 투자 계약을 체결했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176062-samchully-backs-robotics-startups-nuvinda-and-coils-in-s-together-deal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Pulley",
+   "sector": "부동산",
+   "amount_original": {
+    "value": 41.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 41000000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Jump Capital",
+    "Catalyst Investors"
+   ],
+   "lead_investor": "Jump Capital",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "샌프란시스코 소재 건설 허가 관리 스타트업 Pulley가 Jump Capital 주도로 Catalyst Investors가 참여한 시리즈 B 라운드에서 4,100만 달러를 조달했다. 이는 총 6,400만 달러 조달의 일부다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176064-pulley-raises-41m-series-b-to-speed-up-construction-permitting/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Nihin Media",
+   "sector": "AI",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "비공개",
+   "investors": [
+    "Delight Ventures",
+    "SMBC Edge"
+   ],
+   "lead_investor": null,
+   "country": "일본",
+   "region": "동아시아",
+   "ai_summary_ko": "도쿄 기반 의료 AI 스타트업 Nihin Media가 임상 AI 보조 도구 MedGen Japan 개발을 위해 Delight Ventures와 SMBC Edge의 투자를 통해 400만 달러를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176073-nihin-media-raises-3-3m-for-doctor-focused-clinical-ai-in-japan/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Exel by Merak 졸업 게임 스타트업 21개",
+   "sector": "게임",
+   "amount_original": {
+    "value": 23.6,
+    "currency": "SAR",
+    "unit": "million"
+   },
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Exel by Merak"
+   ],
+   "lead_investor": "Exel by Merak",
+   "country": "사우디아라비아",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "리야드 기반의 게임 가속기 Exel by Merak이 제3기수 졸업 스타트업 21개에 총 2,360만 사우디 리얄(약 628만 달러)을 투자했습니다. 이들 스타트업은 24개 지원사 중 선발되어 Exel의 프로그램을 통해 자금 지원을 받습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176076-saudi-s-exel-deploys-6-3m-into-21-gaming-startups-from-80m-fund/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Datagrid Holding Group NZ",
+   "sector": "AI",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 30000000,
+   "stage": "비공개",
+   "investors": [
+    "Meridian Energy"
+   ],
+   "lead_investor": "Meridian Energy",
+   "country": "뉴질랜드",
+   "region": "오세아니아",
+   "ai_summary_ko": "뉴질랜드 발전 회사 Meridian Energy가 AI 데이터센터 운영 회사 Datagrid Holding Group NZ에 3천만 달러를 투자하여 11.27% 지분을 취득했습니다. 이 투자는 Datagrid의 300MW 규모 AI 데이터센터 구축을 지원합니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176079-meridian-backs-nz-ai-data-centre-with-30m-for-11-27-of-datagrid/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Medical AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 24.3,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 24300000,
+   "stage": "비공개",
+   "investors": [
+    "IMM Investment"
+   ],
+   "lead_investor": "IMM Investment",
+   "country": "한국",
+   "region": "동아시아",
+   "ai_summary_ko": "Medical AI는 AI 기반 심전도 분석 기술을 보유한 한국 회사로, IMM Investment로부터 2,430만 달러를 투자받았습니다. IMM Investment는 신주 1,510만 달러와 기존주 922만 달러를 매입하여 최대 주주가 됩니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176081-imm-investment-to-take-control-of-medical-ai-in-21-6m-deal/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "ROTOBOOST",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Aramco Ventures"
+   ],
+   "lead_investor": "Aramco Ventures",
+   "country": "핀란드",
+   "region": "유럽",
+   "ai_summary_ko": "핀란드 에너지 전환 기업 ROTOBOOST가 아람코의 벤처캐피탈 부서인 Aramco Ventures로부터 전략적 투자를 유치했습니다. 투자금은 메탄 열분해 기술 확대에 사용되어 보다 친환경적인 에너지 생산을 추진합니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176088-aramco-ventures-backs-finland-s-rotoboost-in-methane-pyrolysis-push/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Nurovo",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Genesis"
+   ],
+   "lead_investor": "Genesis",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "신경기술 스타트업 Nurovo가 Genesis로부터 투자를 유치했습니다. 2026년 11월에 발표된 본 라운드를 통해 머신러닝 기반의 비침습적 EEG 웨어러블을 이용해 실시간으로 통증을 측정하는 기술을 개발하고 있습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176095-genesis-backs-nurovo-s-eeg-wearable-to-measure-pain/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Ruijing Semiconductor",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Zhejiang Industrial Investment"
+   ],
+   "lead_investor": "Zhejiang Industrial Investment",
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "닝보 소재 포토마스크 제조사인 Ruijing Semiconductor가 중국 저장성의 국영 투자 플랫폼인 Zhejiang Industrial Investment로부터 전략적 자금을 조달했습니다. 구체적인 투자 규모는 공개되지 않았습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176096-ruijing-lands-fresh-state-backing-for-photomask-push/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Unvelar",
+   "sector": "보안",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "The LegalTech Fund",
+    "Vento"
+   ],
+   "lead_investor": "The LegalTech Fund",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "브랜드 보호 및 위조품 탐지를 위한 AI 도구를 개발하는 스타트업 Unvelar가 마이애미 기반 The LegalTech Fund가 주도하고 Vento가 참여한 투자 라운드를 종료했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176097-unvelar-lands-backing-from-the-legaltech-fund-for-ai-anti-counterfeiting/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Napo",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Mercia Ventures",
+    "IW Capital",
+    "Advantage Insurance Company Limited"
+   ],
+   "lead_investor": "Mercia Ventures",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 반려동물 보험 MGA 기업 Napo가 기존 투자자 Mercia Ventures가 주도하고 IW Capital, Advantage Insurance Company Limited 등 신규 및 기존 투자자들이 참여한 초과 구독 투자 라운드를 종료했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176098-napo-closes-oversubscribed-round-led-by-mercia-ventures/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "EQL Games",
+   "sector": "게임",
+   "amount_original": {
+    "value": 9.6,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 9600000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Bullpen Capital",
+    "EKG Ventures",
+    "Keyhorse Capital",
+    "Parlay Capital"
+   ],
+   "lead_investor": "Bullpen Capital",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176103-eql-games-raises-9-6m-to-scale-its-ilottery-marketplace/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Adaptive",
+   "sector": "SaaS",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "그로스",
+   "investors": [
+    "Hypha Partners",
+    "Nasdaq Ventures",
+    "CTC Ventures"
+   ],
+   "lead_investor": null,
+   "country": null,
+   "region": null,
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176111-adaptive-lands-backing-from-nasdaq-ventures-ctc-and-hypha/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Altair",
+   "sector": "AI",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 100000000,
+   "stage": "시리즈 D+",
+   "investors": [
+    "Maverick Silicon",
+    "Pitango"
+   ],
+   "lead_investor": "Maverick Silicon",
+   "country": "이스라엘",
+   "region": "중동/아프리카",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176113-sony-spin-off-altair-raises-100m-for-edge-ai-push/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "PixoAnalytics",
+   "sector": "AI",
+   "amount_original": {
+    "value": 1.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 1097500,
+   "stage": "비공개",
+   "investors": [
+    "ACT Venture Partners"
+   ],
+   "lead_investor": "ACT Venture Partners",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176115-pixoanalytics-raises-1-million-for-label-free-object-tracking/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Boden AI",
+   "sector": "AI",
+   "amount_original": {
+    "value": 13.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13800000,
+   "stage": "시리즈 B",
+   "investors": [
+    "Ningbo National High-Tech Zone Sci-Tech Innovation Fund",
+    "China Merchants Securities Investment"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176134-boden-ai-raises-15m-series-b-for-ai-data-infrastructure/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Peptilogics",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 120.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 120000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "피츠버그 대학 출신 스핀아웃 바이오테크 기업 Peptilogics가 1억 2천만 달러를 조성했습니다. 이 회사는 창립자 Jonathan Steckbeck의 박사 연구를 기반으로 설립되었으며, 현재 2/3상 임상시험을 진행 중입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176136-pitt-names-peptilogics-2026-startup-of-the-year-after-120m-raised/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Panatè",
+   "sector": "기타",
+   "amount_original": {
+    "value": 670.0,
+    "currency": "EUR",
+    "unit": "thousand"
+   },
+   "amount_usd": 735325,
+   "stage": "프리시드",
+   "investors": [
+    "Club Investitori"
+   ],
+   "lead_investor": null,
+   "country": "이탈리아",
+   "region": "유럽",
+   "ai_summary_ko": "이탈리아의 사회적 기업 Panatè가 67만 유로 규모의 초기 단계 펀딩을 조성했습니다. 이 자금은 감옥 기반 베이커리 워크숍 네트워크를 이탈리아 전역으로 확대하는 데 사용될 예정이며, 수감자 및 출소자들에게 교육과 고용 기회를 제공합니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176147-panat-raises-670k-to-scale-its-prison-bakery-network-across-italy/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "MUTO Longevity",
+   "sector": "헬스케어",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "시드",
+   "investors": [
+    "Ben Davies",
+    "Shaun Gregory"
+   ],
+   "lead_investor": null,
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "영국의 과학 기반 장수 보충제 브랜드 MUTO Longevity가 토트넘 핫스퍼 선수 Ben Davies와 미디어 임원 Shaun Gregory로부터 엔젤 투자를 유치했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176155-spurs-captain-ben-davies-backs-uk-longevity-brand-muto/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Juicy Global",
+   "sector": "핀테크",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Tekedia Capital"
+   ],
+   "lead_investor": "Tekedia Capital",
+   "country": null,
+   "region": null,
+   "ai_summary_ko": "Tekedia Capital이 핀테크, 디지털 캐피탈, 송금, 스테이블코인, 웹3 등을 사업하는 Juicy Global에 투자했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176156-tekedia-capital-backs-fintech-startup-juicy-global/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "SPCTR",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 2.8,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 3073000,
+   "stage": "프리시드",
+   "investors": [],
+   "lead_investor": null,
+   "country": "네덜란드",
+   "region": "유럽",
+   "ai_summary_ko": "네덜란드 의료기술 스타트업 SPCTR은 광학 이미징과 AI를 결합하여 수술 중 종양 세포를 감지하는 SPCTRone 장비 개발을 위해 초기 단계 펀딩으로 280만 유로를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176174-spctr-raises-2-8m-to-spot-cancer-cells-mid-surgery/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Dodai",
+   "sector": "모빌리티",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Tokyo Gas (Acario)",
+    "Kaneto Capital Management"
+   ],
+   "lead_investor": null,
+   "country": "에티오피아",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "에티오피아의 전기이동성 스타트업 Dodai는 시리즈 A 펀딩에 300만 달러를 추가로 유치하여 라운드 총액을 1,600만 달러로 마감했습니다. Tokyo Gas의 기업벤처 부서 Acario와 Kaneto Capital Management가 투자했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176175-tokyo-gas-joins-3m-extension-as-ethiopia-s-dodai-closes-series-a-at-16m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "AirEdge",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 13.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 13800000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Shengshi Investment"
+   ],
+   "lead_investor": "Shengshi Investment",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "AirEdge는 클라우드 기반 제품 생명주기 관리(PLM) 및 품질관리 시스템(QMS) 산업 소프트웨어 제공업체로서, 시리즈 A 라운드에서 1,380만 달러를 유치했습니다. Shengshi Investment가 주도 투자사로 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176176-airedge-raises-15m-series-a-for-cloud-native-industrial-software/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Beichen Aerospace",
+   "sector": "에너지",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "프리시드",
+   "investors": [
+    "West Coast Venture Capital",
+    "Tianying Capital",
+    "Gaoxin Capital",
+    "Qingdao Caitong"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "칭다오 소재 Beichen Aerospace가 2026년 11월 천만 위안대의 엔젤 라운드 투자를 유치했다. 투자자는 웨스트코스트 벤처캐피탈, 톈잉캐피탈, 가오신캐피탈, 칭다오 차이통 등이다. 우주 배선 솔루션 개발 사업을 추진 중이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176180-china-s-beichen-raises-tens-of-millions-in-angel-round-for-space-wiring/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Neumirna Therapeutics",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 12.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 13718750,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "덴마크",
+   "region": "유럽",
+   "ai_summary_ko": "코펜하겐 소재 Neumirna Therapeutics가 유럽혁신위원회(EIC) 가속화 프로그램으로부터 최대 1,250만 유로를 지원받기로 선정되었다. 250만 유로의 그랜트와 최대 1,000만 유로의 투자 패키지로 구성되며, 간질 치료약을 임상 단계로 진행할 계획이다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176240-neumirna-lands-12-5m-eic-grant-to-take-epilepsy-drug-to-clinic/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Numemory",
+   "sector": "기타",
+   "amount_original": {
+    "value": 56.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 56000000,
+   "stage": "비공개",
+   "investors": [
+    "Yitong Venture Capital",
+    "Dening Capital",
+    "Yongfuming Investment",
+    "Zhaoxin Xinyao"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "심천 기반 신세대 메모리칩 개발업체 Numemory가 Yitong Venture Capital, Dening Capital, Yongfuming Investment, Zhaoxin Xinyao 등 투자자 그룹으로부터 $5,600만의 전략적 투자를 유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176241-china-s-numemory-lands-strategic-funding-including-56m-from-dmegc/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Univity",
+   "sector": "기타",
+   "amount_original": {
+    "value": 12.5,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 13718750,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "프랑스",
+   "region": "유럽",
+   "ai_summary_ko": "파리 기반 스타트업 Univity가 유럽혁신위원회(EIC)로부터 직접 대 디바이스 기술 개발을 위해 최대 €1,250만(약 $1,390만)의 자금을 선정받았습니다. 이 기술은 일반 스마트폰을 위성에 직접 연결합니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176245-eu-backs-french-satellite-to-phone-startup-univity-with-up-to-13-9m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Devengo",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 5487500,
+   "stage": "비공개",
+   "investors": [
+    "Banco Sabadell",
+    "Bankinter",
+    "Mutua Ventures"
+   ],
+   "lead_investor": null,
+   "country": "스페인",
+   "region": "유럽",
+   "ai_summary_ko": "스페인 핀테크 회사 Devengo가 부채와 지분을 결합한 €500만 규모의 자금조달을 완료했으며, 보험사 Mutua Madrileña가 Mutua Ventures를 통해 주주로 편입되었습니다. 기존 투자자인 Banco Sabadell과 Bankinter도 참여했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176244-spanish-fintech-devengo-raises-5m-adds-insurer-mutua-madrile-a/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "EcoBean",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 7.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 7682500,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "폴란드",
+   "region": "유럽",
+   "ai_summary_ko": "폴란드 딥테크 기업 EcoBean이 유럽혁신위원회(EIC) 액셀러레이터로부터 €250만 그랜트와 €450만 대출로 구성된 €700만 규모의 혼합재정을 받았습니다. 이 자금은 커피 폐기물 바이오정제소 확대에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176246-ecobean-wins-7m-eic-backing-to-scale-coffee-waste-biorefineries/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Sanctuary Wealth",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 250.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 250000000,
+   "stage": "비공개",
+   "investors": [
+    "Kennedy Lewis Investment Management"
+   ],
+   "lead_investor": "Kennedy Lewis Investment Management",
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": "마이애미 소재 하이브리드 RIA 플랫폼 샌크추어리 웰스는 기존 투자자 케네디 루이스 인베스트먼트 매니지먼트로부터 $250백만 약정을 확보했다. 구조는 $50백만의 의무전환채와 $200백만 대출을 포함한다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176248-kennedy-lewis-backs-sanctuary-wealth-with-50m-convertible-200m-loan/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Planckian",
+   "sector": "기타",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "EUR",
+    "unit": "million"
+   },
+   "amount_usd": 10975000,
+   "stage": "비공개",
+   "investors": [
+    "European Innovation Council (EIC) Accelerator"
+   ],
+   "lead_investor": "European Innovation Council (EIC) Accelerator",
+   "country": null,
+   "region": "유럽",
+   "ai_summary_ko": "이탈리아 양자 하드웨어 스타트업 플랑크안은 유럽혁신위원회(EIC) 액셀러레이터로부터 €10백만 규모의 혼합재원 패키지를 확보했다. 이는 €2.5백만 보조금과 계획된 투자로 구성되어 있다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176249-planckian-lands-10m-eic-package-for-shared-control-quantum-chips/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Infinity Bank",
+   "sector": "기타",
+   "amount_original": {
+    "value": 7.8,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7800000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": null,
+   "region": "북미",
+   "ai_summary_ko": null,
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176250-infinity-bank-closes-4-4m-nonconvertible-note-as-part-of-7-8m-raise/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Ethos Space Resources",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Tekedia Capital"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Tekedia Capital이 달 채굴을 목표로 하는 로스앤젤레스 스타트업 Ethos Space Resources에 투자했다. 구체적인 투자 규모와 기업 가치평가는 공개되지 않았다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176274-tekedia-capital-backs-lunar-mining-startup-ethos-space/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Zavya",
+   "sector": "커머스",
+   "amount_original": {
+    "value": 2.44,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 2440000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Daksham Growth Ventures",
+    "Orios Venture Partners"
+   ],
+   "lead_investor": "Daksham Growth Ventures",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Zavya는 925 스털링 실버 주얼리를 판매하는 온라인 브랜드로, Daksham Growth Ventures가 주도하고 기존 투자자 Orios Venture Partners가 참여한 초기 단계 라운드에서 $2.44M을 유치했습니다. 자금은 온라인 브랜드를 오프라인 매장으로 확장하는 데 사용될 계획입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176279-silver-jeweller-zavya-raises-2-44m-to-move-online-brand-into-stores/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "AgriPass Robotics",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 3.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 3000000,
+   "stage": "브릿지",
+   "investors": [
+    "Mazal International"
+   ],
+   "lead_investor": "Mazal International",
+   "country": "이스라엘",
+   "region": "중동/아프리카",
+   "ai_summary_ko": "AgriPass Robotics는 AI 기반 선택적 제초 로봇을 개발하는 이스라엘 스타트업으로, 밀라노 기반의 Mazal International로부터 컨버터블 SAFE를 통해 300만 달러를 조달했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176300-italy-s-mazal-backs-israeli-weeding-robot-startup-agripass-with-3m/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Kin Insurance",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 47.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 47000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "August Capital",
+    "Commerce Ventures",
+    "Flourish",
+    "Avanta",
+    "Hudson Structured"
+   ],
+   "lead_investor": "August Capital",
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Kin Insurance는 플로리다 홈 보험 캐리어인 Kin Interinsurance Network를 론칭하기 위해 얼리스테이지 라운드에서 4,700만 달러를 유치했다. August Capital이 주도했으며 여러 투자자가 참여했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176315-insurtech-kin-raises-47m-to-launch-its-own-florida-carrier/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Kin Insurance",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 4.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 4000000,
+   "stage": "시드",
+   "investors": [
+    "Commerce Ventures",
+    "Omidyar Network",
+    "500 Startups",
+    "Chicago Ventures"
+   ],
+   "lead_investor": null,
+   "country": "미국",
+   "region": "북미",
+   "ai_summary_ko": "Kin Insurance는 온라인 홈 보험 상품을 플로리다에서 론칭하기 위해 시드라운드에서 400만 달러를 유치했다. Commerce Ventures, Omidyar Network, 500 Startups, Chicago Ventures 등 여러 투자자가 참여했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176316-kin-insurance-launches-in-florida-with-4m-seed-round/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Avra",
+   "sector": "AI",
+   "amount_original": {
+    "value": 6.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 6000000,
+   "stage": "시드",
+   "investors": [
+    "NXTP",
+    "Clocktower Ventures",
+    "Credit Saison",
+    "Citrino",
+    "Vivo Ventures"
+   ],
+   "lead_investor": "NXTP",
+   "country": "브라질",
+   "region": "남미",
+   "ai_summary_ko": "브라질의 AI 스타트업 Avra가 신용, 사기 탐지, 고객 확보를 위한 관계형 AI 모델을 개발 중이며, NXTP 주도로 600만 달러 규모의 시드 라운드 펀딩을 조성했다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176326-avra-raises-6m-seed-to-scale-its-relational-ai-model-in-brazil/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Finnable",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 405.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 43808850,
+   "stage": "시리즈 C",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 기반 렌더인 Finnable이 멀티상품 대출 확대를 위해 시리즈 C에서 4억 5천만 루피를 유치했습니다. 회사는 관리 자산 규모 4,600억 루피를 넘었으며 FY27 상반기 순이익은 51억 루피입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/finnable-raises-rs-405-crore-in-series-c-to-expand-multi-product-lending"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Agnikul",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "우주기술 회사 Agnikul이 로켓 발사 야심을 위해 대규모 투자를 진행 중이며 신규 펀딩을 유치하고 있습니다. 다만 아직 운영 수익이 없어 상용화가 최대 과제로 남아있습니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/agnikuls-rocket-ambitions-gather-pace-but-commercial-revenue-is-yet-to-take-off"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Vegapay",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 10.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10000000,
+   "stage": "시리즈 A",
+   "investors": [
+    "Vertex Ventures",
+    "Prosus"
+   ],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Vegapay가 Vertex Ventures와 Prosus가 공동 주도한 시리즈 A 라운드에서 1,000만 달러를 유치했습니다. 이 자금은 UPI 기반 신용한도 확대, 담보부 신용상품 출시, 뱅킹 기술 플랫폼 강화에 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/vegapay-raises-10m-in-series-a-round-co-led-by-vertex-ventures-prosus"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "XEBO.ai",
+   "sector": "AI",
+   "amount_original": {
+    "value": 10.5,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 10500000,
+   "stage": "비공개",
+   "investors": [
+    "Emirates Growth Fund"
+   ],
+   "lead_investor": "Emirates Growth Fund",
+   "country": null,
+   "region": "중동/아프리카",
+   "ai_summary_ko": "XEBO.ai가 Emirates Growth Fund로부터 1,050만 달러의 펀딩을 유치했다. 이 자금은 주로 고객의 소리(Voice of Customer) 포트폴리오를 강화하고 콜 분석 및 디지털 경험 모니터링으로 역량을 확대하며, 에이전틱 AI 개발을 추진하는 데 사용될 계획이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/xeboai-bags-10-million-funding-from-emirates-growth-fund"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Capri Global",
+   "sector": "핀테크",
+   "amount_original": {
+    "value": 30.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 30000000,
+   "stage": "비공개",
+   "investors": [
+    "BlueOrchard Microfinance"
+   ],
+   "lead_investor": "BlueOrchard Microfinance",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Capri Global이 BlueOrchard Microfinance로부터 3,000만 달러를 채권 형태로 조달했다. 이 자금은 MSME 대출 사업을 지원하고 인도 전역의 중소기업들을 위한 신용 접근성을 확대하는 데 활용될 예정이다.",
+   "sources": [
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/capri-global-raises-30-million-in-bonds-from-blueorchard-microfinance"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "company": "Green Aero",
+   "sector": "에너지",
+   "amount_original": {
+    "value": 14.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 14000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "Green Aero가 1,400만 달러의 투자를 유치했습니다. 향후 12~18개월 동안 엔진 테스트 시설 확장, 엔지니어 채용, 초음속 드론의 비행 인증 진행을 계획하고 있습니다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/cursor-hire-200-apac-enterprise-push"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/green-aero-raises-usd-14m-as-india-pushes-for-indigenous-jet-propulsion"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
    "company": "NCredible",
    "sector": "AI",
    "amount_original": null,
@@ -14949,19 +16043,29 @@
   {
    "date": "2026-11-07",
    "company": "Giva",
-   "sector": "기타",
-   "amount_original": null,
-   "amount_usd": null,
+   "sector": "커머스",
+   "amount_original": {
+    "value": 90.0,
+    "currency": "INR",
+    "unit": "crore"
+   },
+   "amount_usd": 9735300,
    "stage": "비공개",
-   "investors": [],
-   "lead_investor": null,
-   "country": null,
-   "region": null,
-   "ai_summary_ko": null,
+   "investors": [
+    "BlackSoil"
+   ],
+   "lead_investor": "BlackSoil",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "GIVA가 대체신용 플랫폼 BlackSoil로부터 90억 루피를 조달했습니다. 이 자금은 매장 확장 및 운영자금으로 사용되며 인도 전역의 옴니채널 채널 강화에 투입될 예정입니다.",
    "sources": [
     {
      "name": "Tech in Asia",
      "url": "https://www.techinasia.com/still-some-sparkle-in-store"
+    },
+    {
+     "name": "YourStory",
+     "url": "https://yourstory.com/2026/11/giva-raises-rs-90-crore-from-alternative-credit-platform-blacksoil"
     }
    ]
   },
