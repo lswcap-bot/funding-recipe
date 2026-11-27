@@ -2,6 +2,77 @@
  "month": "2026-11",
  "deals": [
   {
+   "date": "2026-11-27",
+   "company": "Sankhya",
+   "sector": "SaaS",
+   "amount_original": {
+    "value": 23.9,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 23900000,
+   "stage": "비공개",
+   "investors": [
+    "BNDES"
+   ],
+   "lead_investor": "BNDES",
+   "country": "브라질",
+   "region": "남미",
+   "ai_summary_ko": "브라질 경영소프트웨어 업체 산키아가 개발은행 BNDES로부터 2,390만 달러의 10년 만기 부채 융자를 조달했습니다. 이 자금은 BNDES 모이스 이노바씨옹 프로그램을 통해 승인되었으며, 회사의 ERP 소프트웨어에 AI 기능을 통합하는 데 사용될 예정입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176330-sankhya-lands-16-6m-bndes-loan-to-build-ai-into-its-erp/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "company": "Ripik",
+   "sector": "AI",
+   "amount_original": {
+    "value": 14.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 14000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도의 AI 스타트업 Ripik이 미화 1,400만 달러를 조달했다. Ripik의 AI 제품은 시각 정보를 사용하여 공장 운영을 모니터링하고 문제를 실시간으로 파악한다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/ai-assembly-line-ripik-revs-14m-raise"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "company": "BorderPlus",
+   "sector": "헬스케어",
+   "amount_original": {
+    "value": 7.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 7000000,
+   "stage": "비공개",
+   "investors": [],
+   "lead_investor": null,
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "인도 간호사들의 해외 진출을 지원하는 AI 기반 플랫폼 BorderPlus가 미화 700만 달러의 투자를 유치했다. 전 upGrad 및 OYO 임원들이 설립한 이 회사는 의료 인재의 전국가적 재배치를 종단간으로 관리한다.",
+   "sources": [
+    {
+     "name": "Tech in Asia",
+     "url": "https://www.techinasia.com/aipowered-platform-moves-indian-nurses"
+    }
+   ]
+  },
+  {
    "date": "2026-11-26",
    "company": "Coils",
    "sector": "로보틱스",
