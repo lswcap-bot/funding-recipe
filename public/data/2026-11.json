@@ -3,6 +3,103 @@
  "deals": [
   {
    "date": "2026-11-27",
+   "company": "Zero Square Robotics (Zerith)",
+   "sector": "로보틱스",
+   "amount_original": {
+    "value": 100.0,
+    "currency": "CNY",
+    "unit": "million"
+   },
+   "amount_usd": 15015000,
+   "stage": "비공개",
+   "investors": [
+    "Castar (Qingke Chanye Investment)",
+    "Xizhou International",
+    "Zhuoyuan Asia",
+    "Wuxi Binhu",
+    "Hefei"
+   ],
+   "lead_investor": null,
+   "country": "중국",
+   "region": "동아시아",
+   "ai_summary_ko": "중국의 체화형 AI 회사인 Zerith(Zero Square Robotics)가 초기 단계 라운드에서 수억 위안대의 투자를 유치했습니다. Castar, Xizhou International, Zhuoyuan Asia 등 여러 투자사가 참여했으며, 피킹 로봇 확대를 위해 자금을 활용할 계획입니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176337-zerith-raises-hundreds-of-millions-of-yuan-to-scale-picking-robots/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "company": "Namma Yatri",
+   "sector": "모빌리티",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Michael & Susan Dell Foundation",
+    "Narayana Hrudayalaya Limited"
+   ],
+   "lead_investor": "Michael & Susan Dell Foundation",
+   "country": "인도",
+   "region": "남아시아",
+   "ai_summary_ko": "벵갈루루 기반의 라이드헤일링 플랫폼 Namma Yatri가 Michael & Susan Dell Foundation의 주도로 Narayana Hrudayalaya Limited와 함께 US$3.7M을 투자유치했습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176344-namma-yatri-raises-2-95m-led-by-dell-family-foundation/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "company": "Liver",
+   "sector": "기타",
+   "amount_original": null,
+   "amount_usd": null,
+   "stage": "비공개",
+   "investors": [
+    "Japan's Innovation"
+   ],
+   "lead_investor": "Japan's Innovation",
+   "country": "일본",
+   "region": "동아시아",
+   "ai_summary_ko": "Liver는 도쿄 기반의 크리에이터 경제 플랫폼으로, 일본의 상장사 Japan's Innovation이 자신의 기업 벤처캐피탈 펀드인 INNOVATION HAYATE V Capital을 통해 투자하였습니다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176349-japan-s-innovation-backs-creator-economy-firm-liver-via-cvc-fund/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "company": "Signatur Biosciences",
+   "sector": "바이오",
+   "amount_original": {
+    "value": 5.0,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "amount_usd": 5000000,
+   "stage": "비공개",
+   "investors": [
+    "Y Combinator"
+   ],
+   "lead_investor": "Y Combinator",
+   "country": "영국",
+   "region": "유럽",
+   "ai_summary_ko": "런던 기반 바이오테크 스타트업 Signatur Biosciences가 Y Combinator의 지원을 받아 500만 달러를 투자유치했다. 이 회사는 유방암 환자의 화학요법 반응성을 빠르게 판단할 수 있는 진단 검사를 개발하고 있다.",
+   "sources": [
+    {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/176355-signatur-biosciences-raises-5m-to-speed-up-breast-cancer-chemo-decisions/"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
    "company": "Sankhya",
    "sector": "SaaS",
    "amount_original": {
